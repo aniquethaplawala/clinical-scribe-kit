@@ -1,9 +1,13 @@
 # Clinical Scribe Kit
 
-Open resources for building an AI medical scribe with the [Sully API](https://docs.sully.ai/): real-sounding test conversations, clinical note templates, and schemas for getting notes into the top 10 US EHRs.
+Open resources for building an AI medical scribe with the [Sully API](https://docs.sully.ai/): a working scribe app, a one-prompt recipe to build your own, real-sounding test conversations, clinical note templates, and schemas for getting notes into the top 10 US EHRs.
+
+**Build your own in one prompt:** paste [BUILD_PROMPT.md](BUILD_PROMPT.md) into Claude Code, Cursor or any coding agent.
 
 | | What you get |
 |---|---|
+| [**App**](app/) | A working AI scribe: provider logins and admin backoffice, audio upload, pasted transcripts or live recording, 19 templates, note, suggested codes and EHR JSON. |
+| [**Build prompt**](BUILD_PROMPT.md) | One prompt that builds the same app with your own Sully keys, plus a checklist for taking it to production. |
 | [**Dataset**](dataset/) | 536 openly licensed doctor-patient encounters (329 with audio) and 1,701 short dialogue snippets, from ACI-Bench, PriMock57, MTS-Dialog and the Fareez OSCE set. No real patient data. |
 | [**Templates**](templates/) | 19 note templates ready for `POST /v3/notes`: SOAP, H&P, progress note and 16 specialties. |
 | [**EHR schemas**](ehr-schemas/) | Epic, Oracle Health, MEDITECH, athenahealth, eClinicalWorks, NextGen, Veradigm, Greenway, ModMed and TruBridge: which ones accept notes from outside apps, how, and a Text to JSON schema for each. |
@@ -61,6 +65,8 @@ structured fields ──► scripts/to_fhir.py ──► payload for the EHR's A
 ## Repo layout
 
 ```
+app/            the Clinical Scribe web app (Next.js)
+BUILD_PROMPT.md one-prompt recipe + production checklist
 dataset/        encounters, manifest, attribution, citations
 templates/      19 Note Generation v3 templates
 ehr-schemas/    one folder per EHR + a shared schema + research notes with sources

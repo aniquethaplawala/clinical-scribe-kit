@@ -1,0 +1,109 @@
+@import "tailwindcss";
+
+/* Design tokens from DESIGN.md: warm parchment, two accents used as punctuation. */
+@theme {
+  --color-ink: #28262a;
+  --color-graphite: #4a4a4c;
+  --color-paper: #ffffff;
+  --color-cream: #f3f1eb;
+  --color-fog: #dddcdd;
+  --color-silver: #cbcbcb;
+  --color-sky: #97cde5;
+  --color-sage: #c8dfaa;
+
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-serif: var(--font-source-serif), ui-serif, Georgia, serif;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+
+  --radius-card: 16px;
+  --radius-frame: 24px;
+  --radius-badge: 30px;
+  --radius-small: 4px;
+}
+
+html {
+  color: var(--color-ink);
+  background: var(--color-paper);
+}
+
+body {
+  font-family: var(--font-sans);
+  font-size: 16px;
+  letter-spacing: -0.02em;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* One keyboard focus style everywhere. */
+:focus-visible {
+  outline: 2px solid var(--color-ink);
+  outline-offset: 2px;
+}
+
+/* Rendered clinical note (Sully returns ###### section headings). */
+.note-prose {
+  font-size: 16px;
+  line-height: 1.65;
+  color: var(--color-ink);
+}
+.note-prose h1,
+.note-prose h2,
+.note-prose h3,
+.note-prose h4,
+.note-prose h5,
+.note-prose h6 {
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  margin: 32px 0 8px;
+  padding-top: 24px;
+  border-top: 1px solid var(--color-fog);
+}
+.note-prose > :first-child {
+  margin-top: 0;
+  padding-top: 0;
+  border-top: 0;
+}
+.note-prose p {
+  margin: 8px 0;
+}
+.note-prose ul,
+.note-prose ol {
+  margin: 8px 0;
+  padding-left: 24px;
+}
+.note-prose ul {
+  list-style: disc;
+}
+.note-prose ol {
+  list-style: decimal;
+}
+.note-prose li {
+  margin: 4px 0;
+}
+.note-prose li::marker {
+  color: var(--color-graphite);
+}
+.note-prose strong {
+  font-weight: 600;
+}
+.note-prose code,
+.note-prose pre {
+  font-family: var(--font-mono);
+  font-size: 14px;
+}
+.note-prose pre {
+  background: var(--color-cream);
+  border-radius: var(--radius-small);
+  padding: 16px;
+  white-space: pre-wrap;
+}
+.note-prose table {
+  border-collapse: collapse;
+  margin: 16px 0;
+}
+.note-prose th,
+.note-prose td {
+  border: 1px solid var(--color-fog);
+  padding: 8px 12px;
+  text-align: left;
+}
