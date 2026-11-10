@@ -19,6 +19,7 @@ def schema_for(key, title, note_obj, note_desc):
     for k, v in s["properties"].items():
         if k != "sections":
             props[k] = v
+    s.pop("$schema", None)
     s["properties"] = props
     s["required"] = list(props)
     return s

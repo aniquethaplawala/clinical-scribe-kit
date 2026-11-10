@@ -1,5 +1,4 @@
 {
-  "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "athenahealth (athenaOne): encounter note extraction (Sully Text to JSON)",
   "description": "Send a generated note as `text` with this schema to POST /v1/utils/text-to-json. `ehrNote` holds the note text shaped for athenahealth (athenaOne); the other fields are discrete data. Extract only facts written in the note; use null or [] when absent.",
   "type": "object",
