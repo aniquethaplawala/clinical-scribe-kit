@@ -1,0 +1,115 @@
+Clinician: What brings you in here today?
+Patient: Um, I'm just, I'm here because I've had this cough for the past two weeks and uh, it's just not going away.
+Clinician: Okay, and um, is it getting worse at all really?
+Patient: Not really, it's just been the same.
+Clinician: How would you describe the cough? Is it a wet cough or a dry cough?
+Patient: It's a dry cough.
+Clinician: Okay, are you bringing up any uh, sputum or blood at all?
+Patient: Uh no.
+Clinician: Um, would you describe it as like a, a barking cough, a harsh cough, or a muffled cough?
+Patient: Not really.
+Clinician: No, okay. Um, before you started uh, coughing, did you have any other symptoms, like runny nose, congestion, sore throat, anything like that?
+Patient: Uh, no.
+Clinician: Okay, so it's just the cough?
+Patient: Yeah.
+Clinician: Okay. Any fevers or chills?
+Patient: Nope.
+Clinician: Okay, and is the cough constant, or does it come and go?
+Patient: It, uh, I guess it's just, it's there throughout the day.
+Clinician: It's there throughout the day, okay. And is it brought on by any activities or, or does it just come on by itself?
+Patient: It comes on by itself.
+Clinician: Okay, and has it gotten any better at all or stayed around the same?
+Patient: It's stayed the same.
+Clinician: Okay. Has this happened to you before, where you had a cough for a long time?
+Patient: No.
+Clinician: No, okay. Um, do you have any other symptoms like chest pain, sore throat?
+Patient: No.
+Clinician: Okay. Um, any recent travel or contact with anyone that's been sick?
+Patient: I don't think so, no. I just went to my, I went to see my family doctor um, for some prescriptions.
+Clinician: Okay.
+Patient: Um, three weeks ago.
+Clinician: Three weeks ago, okay. Any headaches at all?
+Patient: No.
+Clinician: Okay, nausea or vomiting?
+Patient: No.
+Clinician: Any night sweats?
+Patient: Um, no, nothing like that.
+Clinician: Any fatigue at all?
+Patient: No.
+Clinician: No. Any shortness of breath?
+Patient: No.
+Clinician: And no chest pain?
+Patient: No.
+Clinician: Any diarrhea or constipation?
+Patient: No.
+Clinician: Okay. Um, any wheezing at all?
+Patient: No.
+Clinician: Okay, any changes in your weight recently?
+Patient: Um, no, no, I don't think so.
+Clinician: Any changes, sorry, any issues with your urination?
+Patient: No.
+Clinician: Are you sleeping well or does the cough keep you up at night?
+Patient: Um, it's, it's not so, it hasn't interrupted my sleep.
+Clinician: Okay, and how's your appetite been like?
+Patient: No, everything's okay.
+Clinician: Okay, and any uh, loss of your sense of taste or smell?
+Patient: No.
+Clinician: No, okay. Um, any exposure to any fumes or dust within your environment, or animals or pets?
+Patient: No.
+Clinician: Um, and otherwise, do you have any medical conditions like asthma, COPD, anything like that?
+Patient: Um, I went in for, I went in for a checkup three weeks ago, and uh, I found out I had high blood pressure. You know, who would have thought and then my doc started me on this pill called ramipril and uh, I've just been checking my blood pressure on a regular basis, and it's yeah, it's been good. But other than that, I'm very healthy.
+Clinician: Okay, and no asthma?
+Patient: No asthma.
+Clinician: Okay. And any allergies to any medications or any environmental allergies?
+Patient: Um, just penicillin.
+Clinician: Just penicillin. And have you taken any antibiotics or penicillin recently?
+Patient: No.
+Clinician: No, and um, what medications are you on?
+Patient: Just, just that one.
+Clinician: Just the ramipril?
+Patient: I also take, I also take a multivitamin.
+Clinician: Multivitamin, okay. Have you been hospitalized before or had any surgeries?
+Patient: No.
+Clinician: No, okay. Um, any family history of any lung or heart conditions?
+Patient: Um no, no, I don't think so.
+Clinician: Okay. Any cancers?
+Patient: Yeah, uh, pancreatic cancer and colon cancer runs in the family.
+Clinician: Okay, and is that uh, any direct relatives, like your mom or dad or kids?
+Patient: My, my grandparents on my mom's side.
+Clinician: Um, and currently, do you work um, or are you retired?
+Patient: I'm a lawyer.
+Clinician: Okay. And, uh, do you work from home right now? Or do you go in person?
+Patient: Yeah I've been working from home.
+Clinician: You've been working from home, okay. Um, and what's your home situation like right now? Do you live with anyone? Do you live in a house or an apartment?
+Patient: Um, I live, I live in an apartment. I, um, I live alone I just got, I had a divorce two years ago and since then I've been, I've been living alone.
+Clinician: Okay, I'm sorry. Um, and is, in your home environment, is there any kind of allergens like dust or any mold or anything like that?
+Patient: No, nothing like that.
+Clinician: Okay, and currently do you smoke at all?
+Patient: Um, sometimes.
+Clinician: Sometimes, how often would you say you smoke?
+Patient: Um, maybe uh, two or three cigarettes. Maybe three or four days a week.
+Clinician: Okay, and how long have you been smoking for?
+Patient: Um, so I, I used to smoke a lot when I was young and then I quit. And then I started again two years ago.
+Clinician: Okay. Um okay, and do you use any recreational drugs like marijuana?
+Patient: No, I don't.
+Clinician: Okay, um, and do you drink alcohol?
+Patient: Yeah.
+Clinician: How much would you say you drink on an average day?
+Patient: More than I would like to mention. I, yeah, I, maybe 5 or 6 beers a day.
+Clinician: Okay, and um, is this something that's new for you, or has been going on for years now?
+Patient: Again, that started about two years ago, so.
+Clinician: Um, and uh, do you use, so no other recreational drugs, right?
+Patient: No, nothing else.
+Clinician: Yeah, so we can definitely talk more about alcohol usage definitely, especially when there's uh, people going through stressful times. There can be increasing substance use, including alcohol, so we definitely have a lot of resources that we can um, discuss today if you would like.
+Patient: Yeah, I would really like that. Thank you.
+Clinician: You're welcome. Um yeah, but those are all the questions I had for today. We'll definitely do like a physical examination, but it seems you've just been having a cough for the last two weeks.
+Patient: Yeah.
+Clinician: Without any other symptoms. Um, okay, so do you have any questions at all for me?
+Patient: Um no.
+Clinician: So what we'll do is, since you've had this cough for the last two weeks, we definitely want to do a COVID swab, just in case. You've been uh, working from home, but if there was any potential contact, they usually, it comes back in 24 to 48 hours.
+Patient: Okay.
+Clinician: Other than that, sometimes uh, with a history of smoking, you can have something called uh, COPD. We can, like after the physical examinations and everything, we can potentially discuss doing pulmonary function tests as well. Um, and yeah, but other than that, it can also just be like a dry cough, can be just a viral upper respiratory tract infection that takes two or more weeks to resolve. In that case we wouldn't really.
+Patient: Sure.
+Clinician: Um, yeah, so we'll do the physical examination and then go from there.
+Patient: Sounds great.
+Clinician: Alright, take care.

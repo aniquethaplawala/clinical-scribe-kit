@@ -1,0 +1,79 @@
+Clinician: Hi, Albert. How are you?
+Patient: Hey, good to see you.
+Clinician: It's good to see you too. So, I know the nurse told you about Dax. I'd like to tell Dax a little bit about you.
+Patient: Sure.
+Clinician: So, Albert is a 62-year-old male, with a past medical history significant for depression, type 2 diabetes, and kidney transplant, who is here today for emergency room follow-up.
+Patient: Mm-hmm.
+Clinician: So, I got a notification that you were in the emergency room, but, but what were you there for?
+Patient: Well, I, uh, I wasn't really, uh, staying on top of my, uh, blood sugar readings, and I felt kinda woozy over the weekend. And I was little concerned, and my wife wanted to take me in and just have me checked out.
+Clinician: Okay. And, and was it, in fact, high?
+Patient: Yeah, it was.
+Clinician: Okay. Did you... Were you admitted to the hospital?
+Patient: Uh, no.
+Clinician: Okay. All right. And, uh, are you... Did they see a reason, as to why it was elevated?
+Patient: Uh, yeah. My mother was actually in the hospital the last week. She had a bit of a fall and had to do a hip replacement. She's feeling better now but we have been just grabbing meals at the cafeteria or picking up fast food on our way home and I just really wasn't monitoring what I was eating.
+Clinician: Okay. That's sorry to hear. And are you feeling better now?
+Patient: Uh, actually, when we got home from the, uh, f- from the visit, I felt a lot better.
+Clinician: Okay. And since then, have you been following your diet pretty closely?
+Patient: Yes.
+Clinician: Okay. 'cause we don't wan na end up in the hospitaltoo
+Patient: No.
+Clinician: All right. Um, okay. And, so, before that happened, how are you doing with your diet?
+Patient: Uh, during the week, I've been fine, 'cause I've been very busy. On the weekends, doing things. You're seeing people. You're having people over. It's, I- not, not as consistent on the weekend.
+Clinician: Okay. All right. Um, is there a way that you think that that can improve?
+Patient: Uh, s- stop eating.
+Clinician: Okay. All right. Well, let's talk about your, your kidney transplant. How are-
+Patient: Mm-hmm.
+Clinician: . You doing? You're taking immunotherapy meds?
+Patient: Yes.
+Clinician: Okay.
+Patient: Yeah. I've, I've been pretty diligent about it, following doctor's orders, so it's been, it's been pretty good so far.
+Clinician: Okay. And, and y- the last time I saw that you saw dr. Reyes, was about three weeks ago, and everything seemed to be fine.
+Patient: That's correct.
+Clinician: Your kidney function is good.
+Patient: Yes.
+Clinician: Okay. All right. And in terms of your depression, how are you, how are you doing?
+Patient: And it's been about a, a tough, ugh, year-and-a-half or so, but I've been pretty good with it. I, I have my moments, but I- as long as I find some time to relax, at least in the afternoon, then, then it seems to work out okay.
+Clinician: Okay. So, I know that we've kind of talked about holding off on medical therapy-
+Patient: Mm-hmm.
+Clinician: . 'cause you're on so many other meds.
+Patient: Mm-hmm.
+Clinician: Um, is that something that you wan na revisit, or do you wan na look into therapy, or do you think anything's needed right now?
+Patient: Uh, I think I probably wan na shy away from any therapy. My, my wife got me into meditation recently and, and, uh, I, I find that relaxing. So, I think I'd like to continue that, at least for a couple more months and see how it goes.
+Clinician: Okay. All right. That sounds good. All right. Well, I know the nurse did a quick review of systems with you, when you-
+Patient: Mm-hmm.
+Clinician: . Checked in. Do you have any symptoms, any chest pain or shortness of breath?
+Patient: None whatsoever.
+Clinician: Lightheadedness? Dizziness?
+Patient: No.
+Clinician: No? Okay. Um, and I just wan na go ahead and do a quick physical exam.
+Patient: Mm-hmm.
+Clinician: Hey, dragon. Show me the vital signs. So, looking here right now, your vital signs look great. You know, your pulse ox is great. Your h- your blood pressure and heart rate are right where they should be.
+Patient: Mm-hmm.
+Clinician: So, I'm gon na just check you out, and I'm gon na let you know what I find. Okay?
+Patient: Sure.
+Clinician: Okay. So, on your physical exam, everything looks really good. Um, you don't appear in any distress at this time. I don't appreciate any carotid bruits. Your heart, on your heart exam, I do hear that slight 2/6 systolic ejection murmur, but we heard that in the past.
+Patient: Mm-hmm.
+Clinician: Your lungs sound nice and clear, but I notice, you know, 1+, uh, edema in your lower extremities. Okay?
+Patient: Mm-hmm.
+Clinician: Um, so, let's go ahead. I wan na look at some of your results. Okay?
+Patient: Sure.
+Clinician: Hey, dragon. Show me the glucose. So, right now, your blood sugar is about 162. Have you eaten before you came in here?
+Patient: I did not.
+Clinician: Okay. All right. Um, hey, dragon. Show me the diabetes labs. Okay. I'm looking at your diabetes labs. You know, your hemoglobin a1c is about 8, and that's a, that's a little high.
+Patient: Mm-hmm.
+Clinician: So, not only, you know, have your blood sugars, were they high that one day, they were, they've been a little elevated.
+Patient: Mm-hmm.
+Clinician: So, we'll talk about, you know, how to go ahead and, and fix that. Okay? So, let me talk a little bit about my assessment and my plan for you.
+Patient: Mm-hmm.
+Clinician: So, for your first problem, this hyperglycemia, you know, I wan na go ahead and increase your lantus to 20 units at night. Okay? I want you to continue your monitor your blood sugar and let me know how they're running 'cause we might have to adjust that further.
+Patient: Mm-hmm.
+Clinician: Okay? Um, and I wan na order another hemoglobin a1c in a couple months. Hey, dragon. Order a hemoglobin a1c. For your next problem, your depression, I think you're doing a great job with your current strategies with the meditation. We will hold off on medication or therapy at this time, and you know to call me if you need anything, right?
+Patient: Mm-hmm.
+Clinician: Okay. And for your third problem, your kidney transplant, your kidney function looks stable. Uh, I'm gon na just have you go back to dr. Reyes, to manage all of your immunosuppression medications.
+Patient: Okay.
+Clinician: Um, and then, he knows to reach out to me if he needs anything. Okay?
+Patient: You got it.
+Clinician: All right. Well, the nurse will be in soon to check you out. Okay?
+Patient: Perfect.
+Clinician: Hey, dragon. Finalize the note.

@@ -1,0 +1,200 @@
+{
+  "encounterId": "aci-D2N011",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hi, Roger. How are you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hey. Good to see you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Good to see you. Are you ready to get started?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, I am."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Roger is a 62 year old male here for emergency room follow-up for some chest pain. So, Roger, I heard you went to the er for some chest discomfort."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah. We were doing a bunch of yard work and it was really hot over the weekend and I was short of breath and I felt a little chest pain for probably about an hour or so. So, I got a little nervous about that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And had you ever had that before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I never have, actually."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Whose mic is on? I'm in."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And, um, how are you feeling since then?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, after, uh, we were done, I felt fine ever since, but I thought it was worth looking into."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And no other symptoms since then?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And any family history of any heart disease?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no, actually. Not, not on my, uh, uh, on my immediate family, but I have on my cousin's side of the family."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. All right. And, um, you know, I know that you had had the, uh, knee surgery-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "A couple months ago. You've been feeling well since then?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah. No problem in, uh, rehab and recovery."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And no chest pain while you were, you know, doing exercises in pt for your knee?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No. That's why last week's episode was so surprising."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. And in terms of your high blood pressure, do you know when you had the chest pain if your blood pressure was very high? Did they say anything in the emergency room?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, they were a little concerned about it, but, uh, they kept me there for a few hours and it seemed to regulate after effect. So, it, it didn't seem to be a problem when I, when I went home."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And, and I see here that it was about 180 over 95 when you went into the emergency room. Has it been running that high?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, usually no. That's why it was so surprising."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. All right. Well, let's go ahead and we'll do a quick physical exam. So, looking at you, you know, I'm feeling your neck. I do feel a little enlarged thyroid here that's not tender. You have a carotid bruit on the right hand side and, uh, your lungs are clear. Your heart is in a regular rate and rhythm, but I do hear a three out of six systolic ejection murmur. Your abdomen is nice and soft. Uh, there is the healed scar on your right knee from your prior knee surgery, and there's no lower extremity edema. So, let's look at some of your results, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey, dragon, show me the blood pressure. Yeah. And here, your blood pressure's still high, so we'll have to talk about that. Um, hey, dragon, show me the ekg. So, here you- that's good, your, your ekg-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": ". Here is normal, so that's, that's very encouraging. Um, I know that they had the echocardiogram, so let's look at that. Hey, dragon, show me the echocardiogram. Okay. So, looking at this, you know, you do have a little bit of a, a low pumping function of your heart, which, you, you know, can happen and we'll have to look into that, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So, you know, my impression is is that you have this episode of chest pain, um, that could be related to severe hypertension or it could be related to some heart disease. So, what I'd like to go ahead and do is, number one, we'll put you on, um... We'll change your blood pressure regimen. We'll put you on carvedilol, 25 milligrams twice a day. That helps with coronary disease as well as your pumping function of your heart. Um, I wan na go ahead and order a cardiac catheterization on you and make sure that we don't have any blockages in your heart arteries responsible for the chest pain. For the high blood pressure, we're gon na add the carvedilol and I want you to continue your lisinopril 10 milligrams a day and I wan na see, uh, how your blood pressure does on that regimen, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay. Sounds good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. So, the nurse will be in soon and I'll... We'll schedule that cath for you, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You got it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey, dragon, finalize the note."
+    }
+  ]
+}

@@ -1,0 +1,390 @@
+{
+  "encounterId": "aci-D2N076",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "family",
+      "label": "Family member"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hello."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Hi."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I'm dr. Evelyn, one of the kidney doctors. It's good to meet you guys."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "It's nice to meet you also."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah. So I was reading about this syndrome that I actually have never heard of."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Yeah, me too."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I don't think it's very common."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Definitely not. It's c- pretty rare."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So- Can you start at the beginning? I know she's a twin, so are these your first two babies?"
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "No, I have a son also who is nine. He also has autism."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "And when the twins were born, Katherine, she was about 4 pounds, 8 ounces. And her twin was a bit smaller, at 3 pounds, 13 ounces. Katherine, she was doing fine. She just had problems with eating, where she would stop breathing when she was eating."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Like preemie type stuff?"
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Uh-. Yeah. She just had a hard time regulating her temperature, but she did fine. She does have a gi doctor, because she has reflex really bad. She also had a dietician, who told us to take her off cow's milk. Which we did. And then she has seen an allergist, and also a neurologist... Who diagnosed her with this syndrome, because she still doesn't walk and she wasn't sitting by herself a year old."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "But so now she is crawling and she is trying to take steps, so think she's doing pretty good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Good. Is she in therapy?"
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "She is in therapy. She's in feeding therapy, occupational therapy, and also physical therapy."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Awesome. Okay."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "And we also have speech therapy, who is going to be starting within the next couple of weeks."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "That's great."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "So, she has a lot of therapies. We have also seen an orthopedic and an ophthalmologist. I can never say that. We have seen everything, really."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And audiology too, right?"
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, wow.."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Yeah, it has definitely been a whirlwind of stuff. When we saw the geneticist, she told us that sometimes people with this syndrome, they have trouble with their kidneys. That they might actually fuse into one. She also said sometimes they have problems with their legs, so that was why we saw ortho."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Okay."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "So we have seen everybody, really. We are just here to make sure that her kidneys are looking good right now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, okay. So, um, tell me about how many wet diapers she has in a 24 hour period?"
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "She has a lot."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So like normal 8 to 10, or like 20?"
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Yeah, it's around 8 to 10."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Great."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Yeah, she seems to pee a lot, and it feels like she drinks a lot too."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "That's perfect."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "And she used to only drink milk, and then I took her off dairy milk. So when I say milk, I actually mean, you know, ripple pea protein milk."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Sure, yeah."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "So I give her that milk, water now that she's used to it, and sometimes water with just a little bit of juice. So I do feel like she's drinking a lot better now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "That's great. And she's how old now?"
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "She'll be two mo- two next month."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Is her twin a boy or a girl?"
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "She's a girl."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and how's she doing?"
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "She's doing really good. She's running around, and she doesn't have any problems."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. Is she bigger than her or the same size?"
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "They're about the same size. They're able to wear the same clothes, so..."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "I don't even think she's a pound hav- heavier, actually."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah. Yeah."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "But she is a little bit taller than her... Um, Katherine. She's just sh- a little shorter and chunkier, but I think that's a part of her syndrome."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah. Yeah, I was reading all the things associated with the syndrome. It sounds like we're looking for continual- congenital anomalies wi- of the kidney and urinary tract. Which is basically something is wrong with the plumbing."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So the only way to know that, is to do a kidney ultrasound."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Okay, that sounds okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Let me put that into the system, and then downstairs they can do the ultrasound."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "All right, thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, yeah. Where do you all live?"
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Uh, we live in dallas."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Anybody in the family with kidney failure, dialysis or transplant?"
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. So let's get your ultrasound done, and we'll see how it goes."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "All right, that sounds good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. Let me take a quick look at her."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. Please use my physical exam template. Um, I wan na take a quick listen to her heart and lungs. I'll look in her ears too. And she can sit, she can just sit on your lap."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. That's it."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "All right, that wasn't too bad."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hmm. So, let's complete the ultrasound today. I'll call you with the results. If it's normal, you won't need to see me again, but if it's abnormal, you can see me in kennesaw."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Okay, that sounds good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. We'll determine what the next steps are if there are any, after we see her results."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "All right, sounds good. Thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You're welcome. The nurse will be in to have you complete some paperwork, and give you instructions for the ultrasound. We'll talk soon."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "All right. Thank you, and have a good day."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You too. All right. Physical exams show the well-nourished female, who is slightly fussy when examined. Eyes are small appearing. She has mild hypotonia of the lower extremities in her arms. Normal external female genitalia. Assessment and plan. Katherine is a 22-month-old former 34 and 3-week-old, twin with smith magenis syndrome. Several organ systems can be affected by this chromosomal deletion syndrome. Congenital anomalies of the kidney and urinary tract have been reported in the literature. We will obtain the screening of the kidneys by ultrasound today. If there are abnormalities on the kidney ultrasound, we will determine next steps and future follow-up. The family lives in dallas, georgia, so her follow-up should be at the town center location. End of recording."
+    }
+  ]
+}

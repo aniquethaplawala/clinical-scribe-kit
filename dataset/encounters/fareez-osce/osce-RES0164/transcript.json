@@ -1,0 +1,460 @@
+{
+  "encounterId": "osce-RES0164",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "What brings you in here today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hey, I'm I'm the mom of, of the patient. He's he's a kid, he has had, he just had a cough and stuffy nose for the past three days."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and so did they both start around the same time or one started before the other?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "They started the same time. He's also had like these, these, his eyes have been like kind of red and watery as well."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and is he, what kind of cough is he having a dry cough or wet cough?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's a dry cough."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Dry cough, OK and and so with the congestion is he also having any kind of nasal drainage?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, it's it's like watery."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Watery OK so now are you noticing any kind of yellow or greenish material?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and he hasn't, is he coughing up any blood at all at any point?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No no no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And so this started just recently three days ago. Was he in contact with anyone that's been sick recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't think so, but he has been like playing outside quite a bit. And sometimes he's just playing with the neighbours kids."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Has this happened before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah it has, but I guess what I'm concerned about is the rash that he has now that he's never had before."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and where is the rash, exactly?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's on his face. It started this morning."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and can you describe the rash for me like it's color, shapes, and what kind of looks like?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Small really small dots like kind of, uhm, like I'd say like brown in color. Like brownish dark reddish."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, let's just are they just located on his face?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, like it was on his face and it's kind of a little bit on his neck."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, uh and is he scratching at them at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, Um, OK and so they just started today. Have you had these rashes before at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no he hasn't."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, anything new at all that he has either eaten or any new clothing or new laundry detergent or soap, so anything at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. OK, And has he had any fevers or chills anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, he has been feeling a little bit warm. I didn't really check his temperature."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And. And busy so, it started three days ago. Anything happened before 3 days at all that might have caused the symptoms?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't think so. As I said, he has been playing around with others so could have caught something?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, And OK, any kind of ah, have you tried anything that has helped him at all? Any medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm? I haven't tried anything yet, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and how often is he coughing? Is he coughing throughout the day or is it more so with exerting himself?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, it's just kind of all through the day. It's actually gotten a little bit better. Uhm, the cough has gotten better. But what I'm concerned about is the, the rash?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK cough's gotten better yeah. Does he have visit rush it so is it mainly just on his forehead or also on his cheeks?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's on his cheeks on his chin. It's kind of on his neck. It's kind of like this blotchy reddish, brownish like little dots. Kind of, it's not like, it's not raised, it's like flat."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and uh. Is it kind of just a bit like a bright red rash that's kind of covering the cheeks or little little dots everywhere?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Kind of little dots."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any anything on his nose?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, yeah, it's on his nose as well."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, um, OK, but no fevers, right?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "He, I guess he might have had a fever. He was feeling warm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And any other symptoms like shortness of breath, sore throat, anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And otherwise, any other symptoms like just not like behavioural changes, not being himself, being more irritable at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So yeah, he's just been tired. He hasn't been doing anything, he's just been lying in bed. Hasn't eaten."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Any at all, is he having any nausea or vomiting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any diarrhea or constipation?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any changes in his urination?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any changes in his sleep or appetite?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No. Well, he has been eating little less, but nothing like nothing else."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And has he been complaining at all of any abdominal pain or anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Otherwise that has he been healthy or if he had any medical conditions diagnosed?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "He's been healthy."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And and any previous surgeries or hospitalizations?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any medications that he takes regularly?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And any family history of any lung or heart conditions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Concurrently, or like during your pregnancy with him, any complications at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And did, was he meeting his milestones that developmentally in terms of, also with growth and height and everything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, he seems to be doing OK come when he's doing as well as his other brother, his two brothers."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and does he go to school at all? What grade is he in?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "He's going to school. Um, online."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Online right now? OK, yeah. And any issues at school at all. Any complaints that we've been told?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Great, so, uh and how is the houses or your living situation like?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's, uh, things are good, so it's him, his two older brothers, my husband and me."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and has anyone been sick recently or had similar symptoms?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Alright. Has anyone in the family ever had any diagnosis of asthma, eczema, allergic rhinitis?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, nothing like that, OK. Alright, so yeah those are all the questions I had for you today. Do you have any questions or concerns?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. So yeah, so, we'll, we'll be doing a couple we'll do a physical examination, I want to see examined with the rash looks like and there's many things that can cause a rash. There's uh viral infections that can cause some of the symptoms. The symptoms he's having mainly seen viral with a dry cough and runny nose. And then you can we have a rash as well. One thing I forgot to ask actually is is he fully immunized?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, he I guess he didn't get all his immunizations done earlier. He did get them a little bit later so we came from Syria as refugees. But I I'm thinking he got all his immunizations when he, uh, came to, when we moved to Canada."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and is he complaining of joint or muscle aches at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, nothing like that, OK. Alright, so yeah, we'll do it like a full physical examination, and if it's more just a viral, it'll be something that we'll just have to monitor and do supportive care for. But if it's anything else we might need to do further investigations. OK, and we'll just do a COVID swab for him today as well as some of the symptoms overlap with COVID symptoms and you will get the results back in 24 hours to 48 hours and then further instruction from public health."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sounds great."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, well, take care, talk to you soon."
+    }
+  ]
+}

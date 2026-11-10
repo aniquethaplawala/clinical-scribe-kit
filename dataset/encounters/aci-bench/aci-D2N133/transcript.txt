@@ -1,0 +1,57 @@
+Clinician: Good morning Rebecca, nice to see you.
+Patient: Nice to see you too.
+Clinician: So, my nurse told you a little bit about Dax, now I'm wondering if I can tell Dax a little bit about you.
+Patient: Go for it.
+Clinician: Okay, so Rebecca is a 27-year-old female patient. Um, you have a history of carpal tunnel, um, uh, release done couple of years ago, you have some chronic back pain, some depression. Why am I seeing you today?
+Patient: So last week, um, and over the course of the month, I have taken up swimming more regularly.
+Clinician: Okay.
+Patient: I've been trying to get up and get active. And I've-... All of a sudden I've been feeling some really bad, um, knee pain-
+Clinician: Okay.
+Patient: . In my right knee.
+Clinician: Just in your right knee?
+Patient: Yeah.
+Clinician: Okay. Just when swimming? Are you swimming freestyle with your legs kicking straight or more like breaststroke where your legs kick out?
+Patient: Yeah, it's only while swimming. I use the breaststroke so I guess where the legs are kicking out like a frog... It kinda starts hurting a little bit after I swim a couple laps, which a month ago when I started I was able to do ten.
+Clinician: Okay.
+Patient: But after a couple of laps it starts to hurt.
+Clinician: And no injury? Like you didn't fall or twist it or anything like that that you remember?
+Patient: No, not that I can remember.
+Clinician: Okay. So just swimming a lot and you feeling more and more discomfort?
+Patient: Yeah.
+Clinician: Okay, good. So, um... I know my nurse did a review of systems before you came in. There were really no significant issues. You have a history of chronic back pain, that's been doing well?
+Patient: Yeah, it comes and goes, but right now it's been doing really well.
+Clinician: Okay, no pain going down your legs or anything like that?
+Patient: No.
+Clinician: Okay. And I know you have some depression, you've been on medication. How's that been going?
+Patient: That's been going really well.
+Clinician: Okay.
+Patient: With the medication and therapy and then trying to get outside more it's been really helping me.
+Clinician: Sleeping well?
+Patient: Yeah.
+Clinician: Eating well? Okay. Don't feel any concerns about hurting yourself or others or anything like that?
+Patient: No.
+Clinician: Okay, good. Um, and the, you had ca- carpal tunnel done a few years ago. How's that doing?
+Patient: That's doing-
+Clinician: Any flare up with that?
+Patient: . That's doing really well. I've been getting full range of motion and it's felt a lot better.
+Clinician: Okay, great. Do you mind if I do a quick exam?
+Patient: Yeah, go for it.
+Clinician: Squeeze my fingers for me. Good. Okay. Is it painful if I move your patella like that?
+Patient: Yeah, that hurts.
+Clinician: Okay. And I'm gon na hold your leg out, I'm gon na hold, I want you to stiffen your upper... Does that hurt when I do that?
+Patient: Yeah, that hurts too.
+Clinician: Okay, good, all right. Um, let's take a quick look at your x-ray, okay?
+Patient: Okay.
+Clinician: Hey dragon, show me the right knee x-ray. Okay, so here's a picture of your right knee. Actually normal x-ray, everything looks good, okay? On my exam, um, you don't really have any swelling in- in your joints, um, uh, of your knee. You have a little pain with, um, uh, range of motion of the knee. You have real pain when we do what we call patella in-... Patellar inhibition, okay? So that's what caused most of that pain. So, um, your heart is regular, your lungs are clear, I don't feel any adenopathy, your thyroid's, um, normal, your grips are equal, the rest of your exam is essentially normal, okay? So my assessment is, you have what we call chondromalacia of the patella, okay? It's just from the overuse and all- all the swimming you've been doing, okay? So, um, to treat that we'll just use some anti-inflammatories, um, go ahead and take some ibuprofen, 600 milligrams four times a day with food. I do want you to do some straight leg raising exercises, that'll strengthen your quadriceps and that'll help with that pain, okay?
+Patient: Okay.
+Clinician: Um, basically you want to avoid anything that puts extra pressure on your knees for a little while and it should be fine. If it's not getting any better in a couple weeks I wan na see you again, okay? So no lunges, avoid the breaststroke. If you're comfortable, you can also do other swimming strokes where your knees are straight instead. Or you can take the opportunity to have a little break.
+Patient: All right.
+Clinician: Your second problem is your chronic back pain, that's been doing really well. Um, keep swimming, that's okay after this gets better.
+Patient: Yeah.
+Clinician: Um, but I think, um, I think that's been under control. But if it flares up go ahead and, uh, give me a call, okay?
+Patient: Mm-hmm.
+Clinician: Um, your third problem is your depression. That's been stable. We're gon na keep you on your current medication, not gon na change anything at this point, okay? And as far as your carpal tunnel goes, that's relatively stable, so, um, uh, no changes there as well. Okay? So anything else I can do for you?
+Patient: No, that's it.
+Clinician: Okay, well we'll get you checked out.
+Patient: All right.
+Clinician: Hey dragon, finalize the report.

@@ -1,0 +1,175 @@
+{
+  "encounterId": "aci-D2N204",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay well hi Joe I understand you've hurt your knee how how are you doing"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm doing okay this feels you know definitely feels like it's swollen and kinda hurts me a little bit"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So what did you do what happened"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I was I was skiing with some with some friends and I was going down it was snowing pretty hard and I couldn't really see as as the two paths kind of come came together and I the front end of the skis I kind of dug into the snow and I ended up basically doing a cart wheel but kinda like stopped halfway through and could feel a pop in my my right knee and then you know just pain right after that came about through the knee so"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah that sounds painful and so when did this occur"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It it occurred over the weekend on saturday"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And have you been able to to walk at all at all or no"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "A a little bit but it's definitely swollen and it's definitely painful"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay so what all have you been doing for the pain"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Just like taking some you know advil and then just icing you know icing on and off you know a little heat here and there just you know trying to comfort but that's about it"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you ever had any type of injury to your knee before and it is this the left or right knee"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's the right knee no it's the first time I've had any knee injuries"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright let's see take anything for it okay well let's see let's just do a quick physical exam here so so your now your vitals those look alright your no fever you're at ninety seven. Nine your heart rate is sixty four sounds healthy respirations are sixteen blood pressure is one ten over seventy four your o2 sat looks good at you know ninety eight percent so look real healthy there and so I'm just gon na do a quick physical exam so I do appreciate some edema and some ecchymosis around surrounding your knee your right you said right knee right"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay positive pain to palpation and let's bring your leg out are you having pain when with flexion or extension"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "A little bit no not not crazy real pain but there is definitely some pain there"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay pain with flexion and extension and how about the range of motion having full range of motion here"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah pretty much I can get the full range just feels a little tight and will hurt"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright and for diagnostics so your x-ray so there's no fracture appreciated no bony abnormalities so that looks alright so let me tell you a little bit about my impression and plan with this so you have a knee contusion so for treatment we'll we need to rest that apply ice you know two three times a day for twenty minutes at a time take some nsaids or you know nonsteroidal anti- inflamma medication such as ibuprofen every six to eight hours as needed so I just wan na really get some rest with that if that doesn't improve then we can go ahead and maybe come back in and we might do some physical therapy as well I don't know I'm not sure I like this one all that well any do you have any questions on that"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No sounds very good"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay let's venture a little bit more because I need five minutes so where so where were you skiing at"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So I was actually up we actually took a trip up up north and I was in the I'm in mount saint helen and washington so I was just walking in myself going out and stuff but yeah it was it was a good trip but cut a little short because of that yeah it was fun though I like going I like going to skiing so hopefully I can do some more"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Well washington sounds nice I haven't been there but it sounds like it's pretty nice area to be in and they have a lot of maple syrup there don't they produce a lot of maple syrup"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "They do they do have a lot of maple syrup and it's it's it's interesting that the the winter actually isn't their busiest time for vacation or vacations or it's more into your spring into your fall with hikers and all the outdoor activities there's actually a very impulsive torist during the summertime which I never knew but one of the locals have told me that they do actually better business during the summer so the hikers kayakers and the maple syrup in the fall and everything so"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "That sounds good now I also meant to ask you so when you did this cartwheel through the air did you have any other injuries to any other parts of your body anything else that you're having any issues with"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "My shoulder feels a little bruised"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Little bit but that's about it yeah just because I kinda landed on that lead shoulder when I fell"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay let's take a quick look yeah I do appreciate a little bit of bruising here are you having any problem raising it up or or with movement with your range of motion"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Once I raise it up though it's a it is a little little tender I can feel it being tender when I raise it up"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay we'll just go ahead and get an x-ray of that right shoulder too just to be sure if you because who knows maybe you might have done something with that as well so we'll go ahead and have my nurse take you to do that and then we'll talk again alright"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sounds great"
+    }
+  ]
+}

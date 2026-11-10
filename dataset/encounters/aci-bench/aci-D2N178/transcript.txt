@@ -1,0 +1,117 @@
+Clinician: Okay. Maria Martin, date of birth 03/05/1946, has been informed and consents to have this visit recorded. The patient is here for follow-up. Hi, Maria. How have you been doing?
+Patient: Same I guess. Pretty good.
+Clinician: Okay, so you got my letter last time on the results. Your sugars are not very well controlled.
+Patient: Yeah, I got them.
+Clinician: Okay. So did you increase your glimepiride?
+Patient: Did I increase it?
+Clinician: Yeah.
+Patient: I'm still taking the two milligrams.
+Clinician: Yeah. So we want you to, as the letter said, from the last time, when your a1c was 9.9, we wanted you to increase it to four milligrams twice a day, so let's start that.
+Patient: Okay, sure. So you want me to take two of the pills, now twice a day?
+Clinician: Yes. Uh, how much of it do you have?
+Patient: Well, I just filled it.
+Clinician: Okay, good. So yeah, you can take two of them twice a day, of what you have. The new prescription will be for four milligrams twice a day.
+Patient: Okay.
+Clinician: Great. And are you trying to eat healthier: less sugars, less carbohydrates?
+Patient: Uh, well...
+Clinician: Not really?
+Patient: . Well, I haven't had any pasta; I just don't really like it, so we don't have any in the house. We don't often have bread, and if we do, we buy wheat bread.
+Clinician: Okay. But even the wheat bread, try to cut down on the number of slices you eat per day.
+Patient: I just usually have two in the morning. I don't care for sandwiches much; maybe peanut butter sandwiches once in a while.
+Clinician: Yeah.
+Patient: I hardly drink, drink any sodas.
+Clinician: Well, that's great.
+Patient: I drink club soda.
+Clinician: Okay.
+Patient: Seltzer water, that's what I prefer, so that's my water. I don't drink regular water.
+Clinician: Okay, that's fine. How about your eye exams? Are they up-to-date?
+Patient: Yep. I just got new glasses.
+Clinician: Okay. Who do you go see?
+Patient: I go to liberty road, the group up there.
+Clinician: Okay. The, um, the optimum optometrists, right?
+Patient: They keep changing doctors each time I go.
+Clinician: A new doc each time?
+Patient: Yeah. I got a really nice one I used to see a year ago.
+Clinician: Was that dr. Sanchez?
+Patient: Yeah.
+Clinician: Okay. And you saw him not too long ago?
+Patient: Yeah. I just got my prescription from him. Well, see, I had the iodine for my eyes.
+Clinician: Cataracts, yep, okay.
+Patient: So he did that and then I had to wait for a month to get healed up and then he wrote my prescription.
+Clinician: Perfect. And then you've got the high blood pressure.
+Patient: Yeah. A couple of weeks ago, it was 116 on the dot.
+Clinician: Okay. Well, we will recheck it. You're on a combination of medications. You are on the met- met- uh, metoprolol, 50 milligrams once a day, you're on the lisinopril with hydrochlorothiazide, at 20, with 25 milligrams once a day, and you're on the amlodipine, 10 milligram once a day. Are you taking all of those?
+Patient: Well, yeah.
+Clinician: Perfect. And then you've got the high cholesterol and the vascular disease in your legs. You're on atorvastatin. Are you tolerating it okay?
+Patient: Yeah, but honestly, my feet feel like hell.
+Clinician: Yeah.
+Patient: All the time, my legs are bugging me; I can't do much walking.
+Clinician: Okay. Yeah, the feet I think is what we call peripheral neuropathy.
+Patient: Also, I have the pain up to my hip.
+Clinician: Okay. You have pain in the hips and upper legs?
+Patient: Yeah, all of it.
+Clinician: Okay. So those do seem relatively stable, right? And are you trying to get the walking in?
+Patient: Yeah.
+Clinician: Okay. And you are smoking still?
+Patient: Yeah, still smoking.
+Clinician: Not ready to quit?
+Patient: No, not really.
+Clinician: It's a bad combination.
+Patient: I know. I'll think about it.
+Clinician: Okay. Now, let's do my review of systems. You're not having any headaches or dizziness?
+Patient: Headaches or dizziness, no.
+Clinician: Okay.
+Patient: Nothing, feeling totally normal.
+Clinician: Good, good. And the vision is better with the cataract surgery? That's been good?
+Patient: Yeah. Not happy with this lens; it's kinda funny. The other one is good.
+Clinician: Hmm, sometimes they can go in and clean up the eye with laser, but we'll see what they say.
+Patient: Okay.
+Clinician: Okay. No shortness of breath or coughing?
+Patient: I've been coughing here lately because I've been congested.
+Clinician: What does it look like when it comes up?
+Patient: It's relatively clear.
+Clinician: No fever, chills, no shortness of breath?
+Patient: No.
+Clinician: Okay. No chest pains or pressure or tightness?
+Patient: No.
+Clinician: Nausea, vomiting, gi symptoms?
+Patient: No.
+Clinician: Okay. Peeing okay?
+Patient: Not good. It's, you know, I'm old; it takes me a little more time.
+Clinician: Slower stream but stable?
+Patient: Yes, but I do pee...
+Clinician: Okay.
+Patient: . Several times per day.
+Clinician: Mm-hmm. How many times do you have to get up at night?
+Patient: Not too bad, just once in a while.
+Clinician: Okay.
+Patient: Then I have to pee by morning. I do tend to drink my drinks in the evening.
+Clinician: Okay. All right, let's have a look at you.
+Patient: Okay.
+Clinician: Physical exam: carotids are normal, pulse is no buits. Heart exam: rhythm is regular, normal rate, s1 and s2 are crisp. I do not hear any murmurs today, okay. Have you lean forward for me. Take some deep breaths, in and out. Okay, lungs are clear. I don't hear any rasps or wheezing today.
+Patient: My coughing got better this morning.
+Clinician: You cleared out the lungs? All right, let me take a look at your feet.
+Patient: Okay.
+Clinician: Okay. Extremities are without edema. Pulses are palpable on the dorsalis pedis posterial tibial. She has thickened nails.
+Patient: Yeah.
+Clinician: Yeah. Mildly dry skin, no skin breakdown. L- let me know if you can feel this.
+Patient: Okay. I closed my eyes. Yeah, yeah, okay.
+Clinician: Mildly decreased sensation in the tips of the first and second toes. Okay, we're done with your exam.
+Patient: Okay.
+Clinician: Okay. So again, try to keep the feet moisturized.
+Patient: Yeah.
+Clinician: You do have a little bit of periphe- peripheral neuropathy. Um, there is a medication we can use if they get really bad, but you're already on so many medications.
+Patient: My girl that I talk to and stuff, she uses on her feet; she really likes it. It's, like, a foot scrub or some type of cream. I put it on when I think of it after the shower. So I could get my own instead.
+Clinician: That sounds good. So for now, your sugars, we're gon na check your... We're going to recheck your blood work today, but the sugars last time we checked, the a1c, your blood sugar average was above nine. I really want you to increase the glimepiride. So the ones you have at home, the two milligram, take two of them twice a day.
+Patient: Okay.
+Clinician: Okay. Watch for low sugars, weak, shaky, sweaty. If that happens, let us know, and I don't expect it to.
+Patient: Okay.
+Clinician: Okay. The new prescription that I'm going to write is gon na be for the, uh, four milligram pill. So when you get the new one, just one pill twice a day. Also, continue the metformin, okay? Blood pressure, when I rechecked it, I got 140 over 60 s- so the numbers at home are better, so we're gon na continue the combination of medications. We'll check kidney function today. For your cholesterol though, you're on the high dose of atorvastatin or lipitor to protect the arteries, so we really wan na keep you on that.
+Patient: Yeah, no problem.
+Clinician: I want you to quit smoking, but we've had this battle before.
+Patient: Yeah.
+Clinician: Hmm. And then, we will leave everything else the same. We'll get the labs today and we'll see you back here in four months. Sound good?
+Patient: Okay.
+Clinician: Great. Have a good day, ma'am. Take care of yourself.
+Patient: Thank you. You too.
+Clinician: Bye.

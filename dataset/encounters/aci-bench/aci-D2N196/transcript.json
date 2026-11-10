@@ -1,0 +1,210 @@
+{
+  "encounterId": "aci-D2N196",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mister Thompson is a 67 -year-old male with a history of essential hypertension hyperlipidemia and osteoarthritis who is here today with elevated and fluctuating blood pressures so hi there mister Thompson it's nice to see you again listen I understand you're having some trouble with your blood pressure control I would like to discuss that with you but first I want to ask you I'd like to use this app this new fancy app that's gon na help me focus on you a bit more in our conversation would that be okay with you"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes that's fine"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay great it's gon na record our conversation okay perfect so Jerry tell me mister Thompson tell me about your blood pressure readings recently I understand you're concerned about them they have been up they have been down what's going on and any other symptoms"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Normally my blood pressure has been very well controlled over about the last three to four weeks there have been periods where I felt a little lightheaded slight headache and when I checked my blood pressure the upper number has been occasionally over one eighty which is way past you know what any of the numbers have been in the past"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay okay and okay and yeah that does sound unusual for you and so it's been high but you've also felt lightheaded at times have you checked your blood pressure when you were feeling lightheaded was it was it low at those times or have you done that"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I've done it both when I felt fine and then when I had the lightheaded episodes actually it's been on the high side"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright understood and you haven't passed out or anything have you"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not recently"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and have you had any chest pain or trouble breathing along with you know your elevated blood pressure"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sometimes a little heaviness in my chest but no no nothing sustained and I don't have any respiratory or breathing difficulty"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay excellent and how about any headaches or other neurologic symptoms like numbness or weakness or you know balance instability or anything like that"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Little unsteady when I get the dizziness and a slight headache when the blood pressure numbers have been a little higher"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and when you say dizzy are you feeling lightheaded like you might pass out or you feeling that the world spinning around you or what"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Just a little fuzzy where you just feel more lightheaded"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright understood and you've not had any any fever or nausea vomiting anything like that have you or diarrhea"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and are you feeling any palpitations or your heart racing anything unusual there"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not usually no"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and are you still taking the lisinopril twenty milligrams once per day no actually I see we last visit we increased that to twice per day you're still taking that lisinopril twenty milligrams twice per day"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes I am"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay you are not missing doses or anything are you by chance"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Very rarely"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay great great you're still using that pill box that we suggested I think you had a pretty good system going there maybe maybe you're using that app now to take to keep track of one when to take your medicine are you doing that"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes yeah I've I've used the pillbox and then tried the app it was a little confusing but I'm I'm pretty much on on track with staying on my medication schedule pretty accurately"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "That's great I think I think I remember you saying it was tricky to get that app set up but then your grandson helped you with it and those kids amazing what they can do these days right anything like that I always trust them my kids before me so hey by the way how did he do in his softball or in his in his little league tournament last month I think you said he had a big tournament coming up how did that go"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "They they did great they they got all the way to the finals and then the team that the team that beat them was probably a little older a little bit more season but they had a great time"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Wow wow how fun that's fantastic well congrats good stuff alright well listen so so you're still taking your your lisinopril how about for your hyperlipidemia your your high cholesterol there are you still taking that atorvastatin"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay excellent and your osteoarthritis I know you've been you know a golfer in the past and you know you wan na get out on the course and things is that still under control are you able to get out and and and walk the full course and things still"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Most of the time you know there are times when the weather changes that I have to maybe play less play less or or skip a day"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah yeah but you're still okay well you're still able to get out and then you're kinda taking I think you're taking some tylenol for for you know mild mild pain and changing your activity as needed is that right"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Correct"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright good good okay well listen let's go ahead and examine you here Jerry so on your physical exam for the most part it's pretty normal and unremarkable on your heart exam you still have that grade three out of six systolic ejection murmur that's unchanged from your prior and just means yeah I'm hearing some heart sounds from the valves that's that's not surprising and I'm not concerned about it we're just watching that one otherwise on your your lung exam you have some mild bibasilar rales but no wheezes or rhonchi and excellent air movement and you have trace lower extremity edema on your extremity exam there bilaterally and otherwise really pretty normal exam so let's let's talk about my assessment and your plan alright so first of all for your first problem of your elevated blood pressure I do think your blood pressure is a little bit out of control meaning we need to make some adjustments I'm going to actually increase your your lisinopril to sixty milligrams twice per day and I'm also going to add twenty five milligrams per day of hydrochlorothiazide and that should help even things out I want you to check your blood pressure measurements twice a day for me for the next two weeks then let's see you back in two weeks and we'll we'll check on how you're doing and also for your second problem of hyperlipidemia I I wan na keep you on the atorvastatin I'm also going to send couple of blood tests I'm gon na send a cholesterol panel also a cbc with differential and a comprehensive metabolic panel and we'll check a urinalysis as well look and see how your kidneys are doing there as well and so we'll continue the current management with your atorvastatin there for your hyperlipidemia now for your third problem osteoarthritis I want you to continue to stay active as best you can don't over do it but walking and you know getting out golfing when you can that's great you can take tylenol for the pain if you have some mild some mild pain there and yeah otherwise I think that cover it I think the adjustments in your blood pressure medicine should help and I wan na see you back in four weeks no let's make two weeks in follow-up and otherwise any questions for me how does that sound"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't think so anything that I need to do when the weather warms up as far as you know my fluids drinking liquids and things"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah you know be sure you're staying well hydrated you know six to eight glasses of water per day is a good good idea and you you know when when it warms up you're certainly gon na prespire more and lose lose more fluid so so I would I would recommend that you continue to have you know a a standard six to eight glasses of of fluid intake per day but yeah that you know that should do it and if you're feeling particularly dehydrated you might wan na increase that if you have an increased activity level so alright any other questions for me"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "How much beer should I drink"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Probably not the best thing with you know with with with your high blood pressure fluctuating the way it is so not more than a couple drinks a week hate to tell you"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright okay great seeing you we'll see you back see you in a couple of weeks you take care"
+    }
+  ]
+}

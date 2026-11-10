@@ -1,0 +1,575 @@
+{
+  "encounterId": "pm57-d4c05",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Hello."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 1.55,
+      "end": 2.51,
+      "text": "Hello?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 2.53,
+      "end": 3.86,
+      "text": "Hi, hi."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 3.73,
+      "end": 4.92,
+      "text": "Hi, can you hear me?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 5.05,
+      "end": 6.45,
+      "text": "[inaudible] , I can hear you well."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 6.43,
+      "end": 15.63,
+      "text": "Hi, my name is Doctor Gohil. I'm one of the doctors that works at Babylon. Can I, [inaudible] can I check your name and date of birth, please?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 11.84,
+      "end": 26.55,
+      "text": "Uh, hi doctor. My name is. Yes my, my name is uh, Roberto Mendoza. And, uh, I'm, I was born on the first of January, of um, uh, nineteen ninety two."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 18.74,
+      "end": 31.27,
+      "text": "OK. OK, and are you in a space that's quiet and you're able to talk?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 31.23,
+      "end": 37.94,
+      "text": "Ohh sorry, I um, of nineteen ninety, sorry I'm forty eight. Sorry, I forgot that [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 37.64,
+      "end": 40.17,
+      "text": "So, you're forty eight, and are you able to talk at the moment?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 40.28,
+      "end": 41.37,
+      "text": "Yeah, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 41.59,
+      "end": 49.69,
+      "text": "OK. Tell me, uh, it says here you have a [inaudible] , uh, you're having problems going to the toilet?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 50.12,
+      "end": 70.85,
+      "text": "Yes, so I have uh, I have um. I don't know how do you say it properly, in English. Uh, I mean without sounding good, like diarrhoea, for, for, yeah. So, it's lasting for like three days. And, uh, yeah, I, I don't know, uh, I don't know, what could cause it. I, uh, um."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 58.63,
+      "end": 59.63,
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 71.83,
+      "end": 88.64,
+      "text": "Uh, I have a bit of uh, pain, abdominal pain. And I, had a bit of vomiting. And uh, uh, yeah. So this uh, kind of like uh, what is happening to me."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 88.67,
+      "end": 94.93,
+      "text": "OK. Tell me how you were three days ago, before this started. Did you have any medical problems?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 95.49,
+      "end": 105.79,
+      "text": "Uh, so I have, I have, I have a, asthma, and I take some uh, some uh, [inaudible] um, inhaler."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 105.76,
+      "end": 106.8,
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 105.79,
+      "end": 122.49,
+      "text": "I don't know, [inaudible] uh, I take an inhaler, um. [inaudible] and um. [inaudible] uh, I have an allergy. I have N, N, NK, NKDA allergy. So, I don't know if it's because, uh, I don't know. Could be the inhaler, or, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 116.55,
+      "end": 125.54,
+      "text": "OK. That's [inaudible] . And apart from asthma, do you have anything else?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 126.74,
+      "end": 139.12,
+      "text": "Uh, I don't maybe it's work, because you know it's, this thing here in the stomach stuff. I, I always have in the back of my head and my father. Because he died about um, ten years ago of bowel cancer."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 133.97,
+      "end": 140.03,
+      "text": "Yep. OK?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 140.61,
+      "end": 147.21,
+      "text": "So, yeah, this is kind of uh. Uh, my, my worries. I, I don't know [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 147.53,
+      "end": 155.44,
+      "text": "OK. So, you've, you've had the diarrhoea for [inaudible] three days, and now you're having [inaudible] pain and vomiting."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 153.3,
+      "end": 158.62,
+      "text": "Yeah. Yes, yes, [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 157.97,
+      "end": 161.78,
+      "text": "Was the diarrhoea been getting better or worse?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 161.98,
+      "end": 177.51,
+      "text": "Uh, uh, I [inaudible] , I think it, it's not getting better or worse. It's kind of like uh, uh, like, middle, like normal, like uh, it, it, it hasn't gone away, it hasn't worsened."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 173.5,
+      "end": 180.15,
+      "text": "OK. OK. And how often do you go to the toilet?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 181.1,
+      "end": 193.67,
+      "text": "I go, I need to go, I, I can't go to work because I need to go like every. I don't is this feeling like I go to the toilet, and then when I finish, I need to, I feel I need to go again."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 192.66,
+      "end": 193.81,
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 193.67,
+      "end": 199.79,
+      "text": "And, and uh, and, yeah. So, I need to be like close to the toilet uh, all the time."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 198.7,
+      "end": 200.74,
+      "text": "That must be, that must be hard."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 201.26,
+      "end": 203.29,
+      "text": "Yeah, yeah, it's."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 202.48,
+      "end": 205.11,
+      "text": "Have you had to drink more water than normal?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 205.61,
+      "end": 214.98,
+      "text": "I don't know, maybe I'm not drinking enough water, [inaudible] yeah. I drink uh, I think I, yeah I don't know. I, I think I don't drink enough water."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 215.22,
+      "end": 218.2,
+      "text": "An important question, have you noticed any blood?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 218.99,
+      "end": 222.34,
+      "text": "Uh, no, I haven't noticed any, any blood."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 222.33,
+      "end": 229.08,
+      "text": "And you mentioned tummy pain, can you tell me more about your tummy pain, like where it is, and if it goes anywhere?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 228.08,
+      "end": 247.17,
+      "text": "So, [inaudible] , the pain is mainly uh, focus in, in the centre area of the abdomen, like under the belly, under the belly button. And, uh, yeah, and sometimes I can hear my stomach, uh, like, it comes, uh, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 239.62,
+      "end": 248.39,
+      "text": "Yep. OK. You've been able to eat and drink?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 248.47,
+      "end": 261.56,
+      "text": "Uh, yes, but, yes but I, I go to the toilet also often. So I, I, I, yeah I try not to eat a lot because I, yeah I just, going to the toilet every, ten minute."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 261.27,
+      "end": 266.39,
+      "text": "Hmm. And you said the tummy pain's in the middle of your tummy. Does it go anywhere else?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 266.39,
+      "end": 275.05,
+      "text": "No, no, just there, and it, it seems to be alleviate a bit, toilet, and maybe it's like trapped gas. So, I don't know what it is, but."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 276.33,
+      "end": 279.67,
+      "text": "OK. And when was the last time you vomited?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 281.19,
+      "end": 290.69,
+      "text": "I think it was this morning. This morning, I, but the, the thing is like, because I'm not eating anything now. So, I, I haven't vomited again."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 290.79,
+      "end": 292.56,
+      "text": "Did you have any breakfast?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 291.69,
+      "end": 300.1,
+      "text": "Right, I don't know. I didn't. Uh, no sorry, yes I did actually, I did. Pardon, I had some fruit, I had some fruit."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 299.92,
+      "end": 302.97,
+      "text": "OK. And [inaudible] , and you vomited that up, afterwards?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 303.51,
+      "end": 318.09,
+      "text": "And afterwards, I didn't have anything, then I got a bit of nausea, and I vomited, and then, [inaudible] uh, yeah and that was it, and that was it. And I have any [inaudible] today, and so now I'm, uh, I think I'm OK, but uh, yeah, and I don't, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 318.07,
+      "end": 320.43,
+      "text": "Did you notice any blood when you vomit?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 321.73,
+      "end": 338.21,
+      "text": "Hmm. I think I do, I think I do, but is uh, uh, no, no actually I can't say sorry, I'm sorry. I, I, I don't think there is blood because uh, yeah it was, it was the strawberries that I was having for breakfast. So, so, yeah, it wasn't blood."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 337.97,
+      "end": 347.06,
+      "text": "OK. And, um, [inaudible] did you eat anything that you think might of been bad, or anything that could have caused the tummy pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 339.7,
+      "end": 364.76,
+      "text": "Yeah, [inaudible] . Uh, I, I don't know. To be honest, sometimes I have, when I get a bit of anxiety, I, I use my inhaler. And, but my inhaler kind of um, run out the one. Because you know, I'm a foreigner, so I have uh, this brand, but I bought a new one here."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 355.45,
+      "end": 365.26,
+      "text": "Yeah. [inaudible] . OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 364.76,
+      "end": 370.91,
+      "text": "And, uh, I don't know maybe this new one has cause it, this, this problem. I don't know."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 368.74,
+      "end": 390.15,
+      "text": "OK. OK. It's very unlikely for an inhaler to cause tummy pain, like this. Normally, it's when you eat, um, bad food or food that has gone off, and you normally get symptoms like you have suggested. But just to double-check, have you noticed any problems with your breathing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 376.26,
+      "end": 405.48,
+      "text": "Mmm. Uh-huh. Um, uh, [inaudible] I, I always have problems with my breathing, because of the asthma like, [inaudible] . When I, [inaudible] , I need to use my inhaler a little bit, but apart of the normal, I haven't, I haven't."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 396.87,
+      "end": 409.96,
+      "text": "OK. OK. And how about chest, have you noticed any chest pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 408.7,
+      "end": 413.01,
+      "text": "[inaudible] , no, I haven't [inaudible] , I haven't noticed any chest pain."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 412.89,
+      "end": 418.22,
+      "text": "OK. And how about, um, walking and talking, are those all both OK?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 418.56,
+      "end": 433.26,
+      "text": "Uh, walking and talking, uh, yes, yes. Uh, I, I, but uh, but yeah I don't walk very far because uh, I, yeah I need to, I need to go to the toilet now and then. So, I'm spending some time at home."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 431.96,
+      "end": 436.41,
+      "text": "Yep. And when you press on your tummy, does it cause any pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 436.92,
+      "end": 438.74,
+      "text": "Ohh, it does a little bit."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 438.7,
+      "end": 447.01,
+      "text": "OK. Sorry, I was just writing some things down."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 447.81,
+      "end": 448.81,
+      "text": "Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 449.59,
+      "end": 461.34,
+      "text": "So, what it sounds like to me is that you might have eaten something bad, and it's causing your tummy pain. And it's [inaudible] , this is normally called gastroenteritis, so, an infection of the tummy."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 456.06,
+      "end": 463.07,
+      "text": "OK. Ohh, OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 462.67,
+      "end": 482.43,
+      "text": "Normally, when patients have this [inaudible] do some things. Number one is to drink lots of water and fluids, because you're losing lots at the moment. Number two is to make sure and look out for any fevers, so, if you start getting a temperature then you need [inaudible] ."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 480.57,
+      "end": 484.93,
+      "text": "Mmm, OK. Uh-huh."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 483.97,
+      "end": 489.13,
+      "text": "And please stay home for the time being until you get slightly better."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 490.45,
+      "end": 494.01,
+      "text": "OK. OK, I, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 491.56,
+      "end": 499.01,
+      "text": "And normally, Normally, things like antibiotics don't help, they make the situation worse."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 500.1,
+      "end": 518.9,
+      "text": "OK. I didn't, yeah, sorry I didn't. No, I was saying I didn't have any, fever recently. I, I was sweating a little bit the last four days, but I, I. Not sure if, if I had bit of fever, but very, little or, or, I'm, I'm but I don't think so, I don't think. I don't know maybe."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 500.85,
+      "end": 532.06,
+      "text": "So, that's. Go ahead. So, I think that's what we should do for the time being, if you feel you're getting much worse, than I would suggest you go and see your GP in real, in real life, in person, so they can loot at your belly."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 530.07,
+      "end": 541.37,
+      "text": "OK. OK, I will, yeah I will book then, [inaudible] book [inaudible] , I will wait a couple of days to see, or one more day, and then I will book, and then, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 539.42,
+      "end": 543.83,
+      "text": "Great! Cool! Do you have any more questions for me?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 543.72,
+      "end": 556.27,
+      "text": "Uh, [inaudible] , no, that's uh, that's it. I was maybe just concerned about my father's [inaudible] uh, [inaudible] medical history, that would uh, I could be at some kind of risk."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 553.84,
+      "end": 571.33,
+      "text": "Yes. So, the, the things that you've told me are most suggestive of an infection of your tummy and less likely to be something your father had, but if your things don't get worse, then that's something that we can look up from the GP."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 566.18,
+      "end": 581.41,
+      "text": "OK. OK, OK. Yeah, that sounds good, that sounds good. OK. Thank you very much doctor, for your time. Bye bye."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 572.9,
+      "end": 581.07,
+      "text": "Does that sound OK? Thank you [inaudible] . Bye bye."
+    }
+  ]
+}

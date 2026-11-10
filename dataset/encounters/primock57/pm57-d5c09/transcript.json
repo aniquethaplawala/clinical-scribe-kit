@@ -1,0 +1,680 @@
+{
+  "encounterId": "pm57-d5c09",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 0.0,
+      "end": 4.64,
+      "text": "[inaudible] Hi there, it's Doctor Smith from Babylon."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 1.44,
+      "end": 6.16,
+      "text": "Hello. Hi there."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 5.86,
+      "end": 10.31,
+      "text": "Hi, can you confirm your name, date of birth and your home address, please?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 10.72,
+      "end": 20.58,
+      "text": "Yeah, it's Matt Carter, and it's fourteenth of August, nineteen eighty nine, and [inaudible] what was the last bit?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 20.44,
+      "end": 21.66,
+      "text": "Your address."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 21.97,
+      "end": 25.52,
+      "text": "And it's one Babylon Avenue."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 25.35,
+      "end": 30.14,
+      "text": "And are you in a private place where you can have a consultation today? What can I do for you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 28.3,
+      "end": 47.1,
+      "text": "Yes. Um, [inaudible] coming, I, I don't really know what's been going on, but it's just aching all over, but, [inaudible] definitely the last six weeks, it might have been slightly longer than that, but it's just sort of that, feeling really tired, run down."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 47.7,
+      "end": 52.05,
+      "text": "OK, um, so when do you think you were last well?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 52.8,
+      "end": 77.79,
+      "text": "Uh, where are we now, we've just started April. I, definitely Christmas, New Year, I felt relatively well, I think. Um, so, since then. Actually, yeah, I, I was on holiday in, um, in the States. And yeah, it probably coincided with some time around then. End of January, start of Feb."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 77.9,
+      "end": 82.05,
+      "text": "So do you think it started when you were on holiday or after you got back?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 82.26,
+      "end": 85.15,
+      "text": "Uh, probably a couple of weeks after I got back."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 85.22,
+      "end": 87.29,
+      "text": "Were you well when you were on holiday?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 87.72,
+      "end": 90.81,
+      "text": "Yeah, had a had a great time, very active, uh."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 91.59,
+      "end": 96.06,
+      "text": "Did you get any infections, chest infections, diarrhoea, vomiting, anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 96.72,
+      "end": 105.41,
+      "text": "Um, no, not that I recall. Um, yeah, not. No, the symptoms sort of all started afterwards."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 105.65,
+      "end": 121.62,
+      "text": "OK. So, just tell me what symptoms you've been having, in terms of just your general health. Any persistent cold symptoms or earaches, sore throat, chest [inaudible] cough, shortness of breath, phlegm, anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 121.92,
+      "end": 123.2,
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 124.29,
+      "end": 126.75,
+      "text": "Any change in your weight at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 127.23,
+      "end": 134.01,
+      "text": "Uh, I don't think so. Like, I'm probably less hungry, but no, no weight change, just a bit."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 133.07,
+      "end": 136.17,
+      "text": "OK, and are you eating different amounts?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 136.6,
+      "end": 145.8,
+      "text": "Uh, yeah, probably slightly smaller portions, or it, yeah, more of an effort to, to actually eat everything that's in front of me."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 145.64,
+      "end": 151.26,
+      "text": "Any difficulty swallowing or acid in your throat, or abdominal pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 151.84,
+      "end": 152.69,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 152.97,
+      "end": 157.53,
+      "text": "Any change in your bowel habit, diarrhoea, vomiting or blood in the stool?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 158.02,
+      "end": 159.44,
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 159.84,
+      "end": 163.7,
+      "text": "Any difficulty passing urine or blood in the urine?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 163.78,
+      "end": 165.15,
+      "text": "No, that's all fine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 165.8,
+      "end": 171.37,
+      "text": "OK, and any other general symptoms like rashes? Or."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 170.63,
+      "end": 185.59,
+      "text": "Um, I don't have any rashes now, but there was, uh, in fact I've got a photo, um, on my phone if if that's helpful. I can try and show you, hang on. Um, because this, yeah, this was weird, this sort of came up, and then, uh."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 172.95,
+      "end": 179.26,
+      "text": "OK. OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 186.5,
+      "end": 193.09,
+      "text": "Disappeared after a couple of weeks, [inaudible] where's the light, [inaudible] that, you see that?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 192.13,
+      "end": 194.71,
+      "text": "OK, right, yeah, whereabouts was it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 195.14,
+      "end": 201.21,
+      "text": "Uh, I think sort of calf, back of my calf, because I didn't notice it, my wife noticed it actually."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 201.05,
+      "end": 202.94,
+      "text": "When did you first notice it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 204.03,
+      "end": 222.63,
+      "text": "Um, probably, uh, around the end of February, the middle to end of Feb. And then it, like, it didn't actually cause too much itching, or anything, at the time. And, I, it faded over a couple of weeks, I guess."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 222.94,
+      "end": 225.51,
+      "text": "Did you have any fevers at that time?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 225.69,
+      "end": 237.2,
+      "text": "Um, I, to be honest that actually turns out it was a bit of a sore throat I had, um, so possibly a little bit feverish, but I, I sort of put it down to that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 237.85,
+      "end": 244.35,
+      "text": "Do you know where you got that, when it started? Had you been walking, did you get any bites that you noticed?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 244.74,
+      "end": 264.7,
+      "text": "Uh, I [inaudible] like, I do quite a lot of walking, and we did, um, quite a lot while we were out in the, on holiday as well, but definitely, um. Yeah, I mean, I don't, I don't recall any bugs, I don't remember seeing anything bitten but you often, like, yeah, as you're walking through, I was in shorts and, and boots but [inaudible] /"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 262.77,
+      "end": 267.53,
+      "text": "OK. Whereabouts were you in the States?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 267.93,
+      "end": 272.42,
+      "text": "Um, just sort of, um, he examined me, so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 272.33,
+      "end": 277.86,
+      "text": "OK, and any headaches, blurred vision, tingling, numbness?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 278.36,
+      "end": 285.51,
+      "text": "Um, no. But it's the sort of headache maybe in just generally feeling a bit crappy."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 289.2,
+      "end": 292.26,
+      "text": "And have you been able to go to work as usual?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 292.57,
+      "end": 299.32,
+      "text": "Um, I've been going to work. I don't know how effective it's been. But, yeah, been, been."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 298.14,
+      "end": 300.25,
+      "text": "And what's your job?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 299.98,
+      "end": 302.98,
+      "text": "Um, I work for a health technology company actually."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 303.01,
+      "end": 309.3,
+      "text": "OK, and has your concentration been affected, or your tiredness levels in the daytime at work?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 309.54,
+      "end": 319.39,
+      "text": "Yeah, definitely sort of tired and, um, yeah, less energy, sort of probably [inaudible] than I, I would normally be."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 319.32,
+      "end": 321.55,
+      "text": "Have you been able to exercise OK?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 322.29,
+      "end": 334.08,
+      "text": "Um. Not as much. I, I don't know if it's, I haven't been able to or I've just been a bit lazy with it. I [inaudible] I'm not exercising as I would normally."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 333.72,
+      "end": 342.08,
+      "text": "OK, fine, and, um, how's your mental health, your stress levels, all that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 340.86,
+      "end": 356.34,
+      "text": "Hey. [inaudible] Pretty good at the moment, actually. Like, it previously that has been an issue, but, um. Other than, sort of, physically feeling a bit. Uh, crappy, I've. Yeah, in a pretty good place."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 356.3,
+      "end": 362.77,
+      "text": "OK. Apart from that rash, any other rashes on your skin, or swelling of your joints, or pain in your joints?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 363.08,
+      "end": 371.77,
+      "text": "Uh, yeah, sort of aching shoulders, back, the hips, knees, but sort of, yeah. Not [inaudible] ,"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 370.35,
+      "end": 373.33,
+      "text": "Any [inaudible] swelling that you've noticed?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 373.7,
+      "end": 374.97,
+      "text": "No, [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 374.09,
+      "end": 376.94,
+      "text": "Your hands, wrists, ankles, toes."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 377.23,
+      "end": 378.48,
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 378.56,
+      "end": 385.26,
+      "text": "OK, um, and any other significant medical problems in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 385.54,
+      "end": 386.95,
+      "text": "Uh, I mean."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 389.9,
+      "end": 390.9,
+      "text": "Pardon?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 390.94,
+      "end": 393.54,
+      "text": "[inaudible] Asthma and hay fever if they can help."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 393.77,
+      "end": 396.38,
+      "text": "OK. Any flare-ups of your asthma recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 396.94,
+      "end": 400.11,
+      "text": "Uh, no, [inaudible] pretty well [inaudible] , I think."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 399.2,
+      "end": 402.29,
+      "text": "Do you take your regular inhalers or other medication?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 402.58,
+      "end": 410.22,
+      "text": "Uh, yeah. I've got one of those, um, preventative, I think. Yeah [inaudible] , but I've not used one."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 410.8,
+      "end": 412.65,
+      "text": "You haven't been using it, you said?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 412.29,
+      "end": 418.29,
+      "text": "I, I have it. I've been using the [inaudible] everyday for the morning and night but not the, uh, [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 418.85,
+      "end": 424.17,
+      "text": "OK. And any, erm, do you take any other medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 425.03,
+      "end": 438.75,
+      "text": "Um, [inaudible] I take, um, one of the antihistamines [inaudible] it might be [inaudible] can I get that from, just from the pharmacy."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 438.48,
+      "end": 441.92,
+      "text": "Yeah, that's fine. Um, and do you smoke?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 442.21,
+      "end": 446.65,
+      "text": "[inaudible] uh, [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 443.21,
+      "end": 449.07,
+      "text": "Drink any alcohol? No."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 449.47,
+      "end": 451.22,
+      "text": "Sorry, occasionally, that was."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 451.23,
+      "end": 453.58,
+      "text": "OK, and who do you live with at home?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 453.78,
+      "end": 454.95,
+      "text": "Uh, just my wife."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 456.23,
+      "end": 500.94,
+      "text": "Um. Sorry, um, so with this rash, we would need to investigate whether this has been a contributing factor to your symptoms. And just because of your symptoms, which have been ongoing for six weeks, that's obviously quite a long time to notice a change in your energy levels. Um, I think it's important to get some blood tests, checking all the normal things, like liver, kidneys, blood count, etc. But also, some more specific things like, um, a bacterial infection you can sometimes get, uh, including one which you can get which can produce a rash like that. So, that would involve blood tests. Are you happy to do that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 501.68,
+      "end": 506.6,
+      "text": "Uh, yeah, I [inaudible] but, uh, what, what's the infection?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 506.83,
+      "end": 529.95,
+      "text": "Well, you can get, uh, you can get a bacterial infection caused which is called, um, it's called lyme disease that you can get a rash like that from a tick bite. So that's something we would do a test for, as well. Um, and if that comes back positive, then there are specific antibiotics that we would give you to treat it."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 518.89,
+      "end": 524.41,
+      "text": "OK. OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 530.71,
+      "end": 540.17,
+      "text": "So it's definitely worth checking for, but we would also check just for [inaudible] which can cause reduced energy, tiredness and aching for, persistent over six weeks."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 540.68,
+      "end": 541.51,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 542.02,
+      "end": 551.57,
+      "text": "So if you're happy to do that, if you book that through the support line, and then when you've had the test arrange a follow up about a week after, after you've had the test done."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 552.28,
+      "end": 559.64,
+      "text": "OK, so, do the test first and then, [inaudible] and that follow up we can just do over the phone again? Or, [inaudible] yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 558.3,
+      "end": 561.79,
+      "text": "Um, yeah, we can do that over the phone to start with."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 561.53,
+      "end": 563.12,
+      "text": "All right. Excellent."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 563.17,
+      "end": 564.29,
+      "text": "OK?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 564.8,
+      "end": 570.54,
+      "text": "That, that's really helpful, thank you very much. Oops, sorry, you broke up a bit there."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 569.65,
+      "end": 571.15,
+      "text": "Any other questions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 571.23,
+      "end": 572.84,
+      "text": "Ohh, no, not [inaudible] , no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 573.02,
+      "end": 575.32,
+      "text": "OK, that's great. Take care."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 574.75,
+      "end": 577.31,
+      "text": "OK, take care, thank you, bye."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 577.61,
+      "end": 579.0,
+      "text": "Sorry [inaudible]"
+    }
+  ]
+}

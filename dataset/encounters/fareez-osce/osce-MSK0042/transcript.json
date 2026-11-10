@@ -1,0 +1,515 @@
+{
+  "encounterId": "osce-MSK0042",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How may I help you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, I, I'm uh, just coming into the clinic uh, today uh, my parents told me to come today. I don't know what this thing is, just mass right below, or kind of like a lump or mass below my right knee and it's not painful or anything, it's a little bit uncomfortable but I just want to check out and see what it might be."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, certainly. Okay, when, when did you first um, notice this mass?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So I think I noticed it um, for the first time um probably a couple weeks ago. I would say like, two weeks ago I, I noticed it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and uh, where specifically is it, is it located?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So it's, it's uh, below my knee uh, right on like uh, I feel it on the big big bone right below the knee. It's um, yeah, I just feel like uh, like a hard lump."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and uh, okay Um, and uh, is it, is it associated with any pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, it's not really, uh, that painful. It's uh, it's, if I press on it, it's a little bit uncomfortable, but it's not like, I wouldn't call it pain."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And have you had any trauma to the, to the knee, or area, or any injuries there?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no, not that I can remember. I don't think I've had any injuries there, and this lump is like, probably like 2 to 3 centimetres, it's, I don't even know like, when it appeared or why it appeared. I haven't really injured myself or anything."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, um, and have you had any, uh, any fevers or chills?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, have you had any unexpected weight loss?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no, not that I can remember."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, uh, and how about, um, any neurological symptoms like numbness, tingling, sensory loss?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I haven't felt any of those."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and how about uh, any muscle weakness in the lower extremity or upper extremity?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no weakness."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Um, have you had any, uh, like fevers or chills?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Uh, how about night sweats?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no night sweats."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and have you had any infectious symptoms, like uh, like a runny nose or a sore throat?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Have you had uh, had a cough or shortness of breath?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I've been pretty well recently."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, that's good. And how about any memory loss or confusion?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and any sensory changes like changes to your vision, hearing, smell or taste?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, have you had any chest pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How about any heart palpitations or feeling like your heart's racing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, have you had any lightheadedness or dizziness?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Um, and have you had any nausea or vomiting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, no, no nausea or vomiting."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, uh, have you had any changes or loss to appetite?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nope."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How about any abdominal pain? P; No, no abdominal pain. Alright. Have you had any changes to your bowel habits, like diarrhea, constipation or uh, blood in the stool?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and how about any changes to your urinary patterns like pain or, or frequency?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no changes at all."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and have you had any changes to your skin, like such as rashes, or, or any changes to your hair or nails?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, not anything that I've noticed."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, so then, how about your energy? Have you had any fatigue?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, no. My energy's been fine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and have you had any muscle aches, or body pains or uh, any joint pains?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I mean like all the other joints and other like, bones and muscles have been fine, it's just, even I wouldn't describe this as pain, it's just uh, I think my parents got a bit concerned um, since there was like a lump. They were scared and I was a little bit scared too, so I just came in to check it out."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, certainly. Okay, um, and uh, have you had, have you been diagnosed with any medical conditions in the past? Or see a doctor for any reason?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, no, I've been pretty healthy up until now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, uh, and do you take any medications regularly, over the counter or prescribed?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no, no medications."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, uh, and do you have any allergies?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, and are your immunizations up to date?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, all my immunizations are up to date."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, uh, and have you had any hospitalizations or surgeries?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I haven't had uh, any hospitalizations or surgeries."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Um, and uh, could you tell me a little bit about your living situation currently? Like who you're living with and uh, where."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, so I'm living um, with my parents and older brother, um, and we live in a, just a house um, right outside of the city."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and are you currently in school and working, or, or working?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No I, I don't work. I'm currently in school right now. So yeah, too busy with school and then just extracurricular activities."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, absolutely. Okay, um, and uh, have you been around anybody who's been sick?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and have you traveled anywhere recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, we've all just been at home."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Um, and uh, and do you smoke cigarettes or uh, or use any cannabis products?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I haven't tried um, any drugs or anything like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, well that's good. And um, are you currently sexually active?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, okay. Have you been sexually active in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No I haven't."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Um, and uh, any concerns for safety at home with either physical violence or um, verbal abuse, either to yourself or anybody in the home?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no, we, like um, me and my brother, feel safe at home. School is going well too. Um, I'm pretty, pretty athletic at school like uh, I have good friends, so no bullying or anything like that. Feels pretty safe overall."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, now that's good. I'm happy to hear that. And uh, is there any um, conditions in the, in the family? Uh, either like musculoskeletal or neurological things that you can think of."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, I don't think anything related to this, but um, I know my, my dad has diabetes. Um, and my mom has uh, some anxiety."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and anybody in the family ever um, have any cancers or, or any bone tumours or soft tissue um, tumours or growths?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, I don't think anyone's had like a bone tumour or anything like that. I, I know my uncle, um he, he does have a, he had like melanoma, which he had to get surgically removed."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Um, and any genetic diseases in the family or, or congenital diseases?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, not that I've been told, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, um, so um, next I just wanted to move on to the physical exam component and um, firstly, are you having any issues with uh walking?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I've been like, uh, no, no pain, no. I can walk just fine, no issues there."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, excellent. So no antalgic gait. And when looking at um, the area, are you seeing any swelling or, or redness, or skin discolouration?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no, nothing like that. It's just, uh, I can tell there's like a lump there, and if I press it, I can feel like the hard lump, but um, no changes in the skin above it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and are you seeing any um, muscle atrophy around the area?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No um, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and are you seeing any, uh, like joint deformities or, or anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, no, not that I can tell."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, um and, uh you don't have any, any pain, so if you press on the area or on the the knee joint, you can just feel the mass and no pain there?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, it just feels weird. I don't, I'm not in any pain or anything, but it's like, it's weird to look at and then weird to feel uh, as well."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Um, and um, uh okay, then no limitations with uh, with like range of motion of any of your joints including like uh, knee and ankle?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah no, I can move everything just fine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, awesome and so that, that was everything that I wanted to ask today and uh, uh check on the physical as well. Um, so was there anything else that I maybe forgot to ask about or anything you wanted to add?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah no, I um, nothing else I wanted to add, but I, I think my parents and I were just scared about it being like uh, cancer, or like a tumour, um, so I just don't know what I should do, if I need to get any tests done, or x-rays, or anything like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, um, yeah, we, so um, the first thing we will want to get uh, an x-ray um, of the knee and also of the uh, long bones, so of your femur um, as well as your leg too. Uh, and because right now we, um, most likely think is called something, um, an osteochondroma, um, which is the most common uh, primary benign bone tumour. Um, however, there are other things that it, it could be, um, and so, such as like an osteoma, or um, an endochondroma, um, so we'll, we'll want to um, get that x-ray and um, kind of go, go from there."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, uh, yeah that, that sounds good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, so we'll get that, we'll get that ordered."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Alright perfect, thank you so much."
+    }
+  ]
+}

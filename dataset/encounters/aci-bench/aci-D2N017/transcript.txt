@@ -1,0 +1,35 @@
+Clinician: Hello, mrs. Peterson.
+Patient: Hi, doctor taylor. Good to see you.
+Clinician: You're here for your hip today, or your- your leg today?
+Patient: Yes. I hurt my- the- my- top part of my right leg here.
+Clinician: Hey, dragon. I'm seeing mrs. Peterson, here, she's a 43-year-old patient. She's here for left leg pain. Right leg pain, right leg pain?
+Patient: Yes.
+Clinician: Um so, what happened to you?
+Patient: I was bowling and as I was running up to the lane, I had my bowling ball all the way back, and when I slung it forward, I hit it right into my leg instead of the lane and so then I fell but- yeah-
+Clinician: Did you get a strike?
+Patient: No. In fact, I actually dropped the ball and it jumped two lanes over and landed in the other people's gutter.
+Clinician: Terrific, terrific. So, did it swell up on you?
+Patient: It- not- didn't seem like it swelled that much.
+Clinician: What about bruising?
+Patient: Um, a little bit on the back- back end, that side.
+Clinician: Have- have you been able to walk on it?
+Patient: Just a little bit. Very carefully.
+Clinician: Sore to walk on?
+Patient: Yes. It's very sore.
+Clinician: Um, and going upstairs or downstairs, does that bother you at all?
+Patient: Yeah, well, I don't have stairs, but um, I would avoid that at all costs.
+Clinician: Okay. Um, it looks like you had a history of atopic eczema in your past?
+Patient: Yes. Yes, I have eczema.
+Clinician: Okay. And you take uh- uh, fluocinonide for that?
+Patient: Yes, when it gets really itchy, I'll- I'll use that and it usually takes care of it.
+Clinician: Okay. And, it looks like you have a pre- previous surgical history of a colectomy? What happened there?
+Patient: Yes, I had a- um, some diverticulosis and then um, I actually went into diverticulitis and they ended up going in and having to remove a little bit of my colon.
+Clinician: Okay, let me examine you. Does it hurt when I push on your leg like that?
+Patient: Yes, it does.
+Clinician: Okay. If I lift your leg up like this, does that hurt?
+Patient: No.
+Clinician: So, on my exam, you have some significant tenderness to the lateral aspect of your um right upper leg. You don't seem to have any pain or tenderness with flexion or extension of your um your lower leg. Um, are you taking anything for it right now?
+Patient: I've been going back and forth between taking ibuprofen and tylenol.
+Clinician: Okay. Well, my impression is that you- you probably have a contusion, but let's take a look at your x-ray first. Hey, dragon. Show me the x-ray. Yeah, so if you look at this, this is a normal femur. Um, really don't see any evidence of a fracture or any swelling, so it's essentially, a normal x-ray. So, what we're going to do is, I'm going to start you on um an anti-inflammatory. It's going to be mobic 15 milligrams uh, once a day. I want you to use some ice for the pain, um, and it should, honestly, just being a contusion, get better in the next week or so. If it's not getting better, of course, come on back and- and see me.
+Patient: Okay, sounds good.
+Clinician: Hey, dragon. Go ahead and um, pres- do the orders and um, procedures uh, as described. Come with me, and uh, I'll get you checked out. Dragon, go ahead and finish off the note.

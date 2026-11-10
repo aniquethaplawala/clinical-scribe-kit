@@ -1,0 +1,175 @@
+{
+  "encounterId": "aci-D2N131",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Good. How are you?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Good. Are you ready to get started?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, I am."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So, Susan is a 26-year-old female here for a high blood pressure check. Susan, what's going on with your blood pressure?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So, I've always struggled with, um, high blood pressure, but it's seeming to get really out of control lately. So, I wanted to come in and see if there's any type of new medication I can be on to help it get steady or if there is diet restrictions I should take, um, things like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. So, I know that we've had you on the norvasc and we had to increase your dose, so you're on 10 milligrams a day now. And what are your blood pressures running at home? You c-... Like, have they been like over 150?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, they have been."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. And, have you had any headaches?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I have had some headaches. I don't know if that's just because of more stress at work or, um, because of the high blood pressure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. So, you've had some headaches. Have you had any chest pain, shortness of breath, anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Um, and, you know, I know that you've had a kidney transplant a few years ago."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Everything is okay with that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Everything's been good and solid there."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And you're taking all of your auto, um, I- um, your immunosuppression medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, I am."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. So, let's go ahead and we'll do a quick physical exam. So, looking at you, you don't appear any distress. Your neck is nice and supple. Your heart is irregular rate and rhythm. I do hear a slight, uh, two out of six systolic ejection murmur. Your lungs are clear. I do see the scar on the left, uh, left plank for your kidney transplant which is healed. And you have no lower extremity edema. So, let's go ahead and look at some of your results, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey, dragon, show me the creatinine. So, your kidney function looks really good. So, that's really promising after your transplant. Hey, dragon, show me the ekg. And your ekg looks great, uh, perfectly normal, so that's good. Um, so, my impression of you at this time..., let me see your blood pressure."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey, dragon, show me the blood pressure. Yeah, and you're right, it-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": ". It is high. So, there is something that we can do for that. So, let's go ahead and we'll put you on... So, my impression of you is that your, your blood pressure is high and the norvasc isn't controlling it. And, you know, we can definitely get it under better control. So, what I would like to do is prescribe you coreg 25 milligrams, twice a day. And that will help bring your blood pressure down, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey, dragon, order carvedilol 25 milligrams, twice a day. Uh, I'd also like to go ahead and, uh, get a lipid panel and some routine labs on you just to make sure that everything is okay."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey, dragon, order a lipid panel. Hey, dragon, order a complete metabolic panel. All right. And then, um, from a transplant standpoint, everything looks fine. Your kidney function looks great, so we're just gon na continue you on all of those medications. So, the nurse will come in soon and she'll help you schedule all of the al- schedule a follow-up appointment with me, and we'll see what your blood pressure looks like in a couple weeks after taking that medication. Okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. Thanks, Susan."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey, dragon, finalize the note."
+    }
+  ]
+}

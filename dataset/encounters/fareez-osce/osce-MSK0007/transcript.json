@@ -1,0 +1,755 @@
+{
+  "encounterId": "osce-MSK0007",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How may I help you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hi, yes I've had this pain in my left elbow for a couple of weeks now and it's not getting any better so. I'm just here to kind of figure out what it is."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK alright are you feeling this pain on the lateral side of the elbow, on the or on the medial side of the elbow?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's on the medial side."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK and sorry, when did this pain exactly start?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So it's been on going for like the past three months. But it's gotten worse over the last, I'd say three weeks."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and. Has the pain been getting worse, any better?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Oh the pains been getting worse."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, OK. Was there any triggers or precipitating events to the pain, such as like a fall or any types of trauma to the elbow?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no, not that I can think of."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you had any pain or injury to the elbow in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Could you describe the character of the pain. Is it sharp, achey or dull?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's usually achey, but it can be sharp."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Does the pain radiate anywhere?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, it's pretty. It's pretty much in that one area."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, just on the medial side of the left elbow?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and is there anything that you've done to help make the pain go away, or any alleviating factors?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I am taking some NSAIDs that helps with the pain temporarily."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And uh. Are there any factors that make the pain worse?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um when I. I. I guess when I like extend my elbow out it gets worse."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so it's a movement OK, and straightening the elbow?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, I mean, what is the severity of the pain on a scale of 1 to 10, with 10 being the worst pain you've ever felt."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'd say about 5."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And um. So did you have any other symptoms associated with the elbow pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um no, um not really I. I'm otherwise pretty healthy."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so have you had any fevers or chills?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you had any night sweats"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Or any any weight loss?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you had any any headaches?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any sensory changes like changes to your vision or or hearing or even your smell or taste?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you had any eye redness or eye discharge or your ear pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Have you had a runny nose or sore throat?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you had a cough or shortness of breath?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you had any wheezing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Have you had any chest pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any lightheadedness or dizziness?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you had any heart palpitations?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and have you had any nausea or vomiting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you had any abdominal pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any diarrhea or constipation."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you had any urinary problems?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Have you had any skin rashes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you had any numbness or tingling?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And how about any muscle weakness?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and any joint pains anywhere else?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and any changes to your memory or or any confusion?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and have you had any fatigue?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK and, have you had any changes to your appetite?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Are an have you been diagnosed with any medical conditions in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so do you take any medications, either prescribed or over the counter?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um no, I just take some multivitamins."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and do you have any allergies to medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and have you had any hospitalizations or prior surgeries?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I I had a fracture when I was younger. It was in my humerus bone on the right side."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so it's the to the fracture was on the other arm?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and did that heal OK?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright then. Can you tell me about your living situation? Currently, like whereabouts and who you're living with?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I live with my partner of five years. We live in an apartment together."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and are you working currently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I am."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And what do you do?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I work on the assembly line for Chrysler."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, uh, and uh. Do you do repetitive tasks at work?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I do."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, yeah, do you notice this, uh pain after, more so after a shift or after after a long day?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, definitely."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and what types of hobbies do you have, like do you play golf or tennis or or any kind of like, sports I guess?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I used to play golf before this pain in my arm and my elbow, so I haven't played it in the past like six months."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, um OK and um do you smoke cigarettes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And do you drink alcohol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um I'll have a glass of wine every other day."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and how about the use of any recreational drugs like cannabis or or anything else?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'll smoke a joint once a week."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, alright and. Is there any family history of any heart or lung problems?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any musculoskeletal or neurological diseases?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, I got any autoimmune diseases like thyroid disease or diabetes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, um and so next I wanted to walk through a physical exam, so when you look at the elbow yourself, do you see any swelling or redness?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, does it look like there is any muscle atrophy either in the forearm or the biceps or triceps?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and how about any misalignment or joint deformity?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I don't see any of that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and are there any scars?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and when you press on the medial part of the the elbow, do you feel pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I do."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How about over the olecranon or the, yea any pain over the olecranon?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um a little bit."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and is there any pain over the lateral part of the elbow?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, an any pain over the forearm, or biceps, or triceps muscles?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and does the joint feel like it's hot?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and any pain with shoulder or elbow movements?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Actually, sorry with the elbow when I straighten it out all the way it hurts a little bit."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, when are you straightening it out all the way OK, But no pain with shoulder movements and full range of motion?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no pain with shoulder."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And how about pain with pronation and supination?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "With pronation it hurts."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, at the medial side?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK and how about with wrist. So with resisted uh, yeah, wrist flexion?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Wrist flexion yeah. That hurts too."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and then how about if you passively extend your your wrist as far down as as you can go?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Down uh yes. That hurts too."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And is there any numbness or tingling anywhere?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no, no numbness or tingling."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. OK, so that was everything that I wanted to ask about today. Was there anything else that you wanted to mention?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, that was that. What do you think I have and how can I fix it?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, so it. It's certainly it it sounds like with the medial aspect of your elbow having pain there over the last several months and some of the physical exam maneuvers, such as like passive wrist extension, resisted wrist flexion as well as pronation and the point tenderness over the medial elbow this could be a medial epicondylitis or a tendinopathy in that area. And so this is typically treated with activity modification, so this could be trying to avoid repetitive movements that that cause pain. And using medications such as Advil and Tylenol and doing strengthening and stretching exercises, which you can learn from a physiotherapist or or on your own as well. And also other things that that the medial side of the elbow that it could be is an ulnar ligament injury. Um or yeah, or the other thing to be considering is and ulnar ligament injury and so if the pain isn't going away, then we might consider an ultrasound or something to look at the structures there."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "OK, that sounds great. Thank you."
+    }
+  ]
+}

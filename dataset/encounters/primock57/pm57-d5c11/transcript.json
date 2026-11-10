@@ -1,0 +1,652 @@
+{
+  "encounterId": "pm57-d5c11",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 0.95,
+      "end": 1.66,
+      "text": "Hi."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 1.52,
+      "end": 9.03,
+      "text": "Hi there. It's Doctor Smith from Babylon. Hi Doctor Smith. Hi, can you confirm your name, date of birth, and your home address please?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 4.24,
+      "end": 19.33,
+      "text": "Hi Doctor Smith. Yes. My name is Mary Jo. Date of birth is January first, nineteen eighty. And my address is uh, sixty Sloane Avenue, London."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 19.29,
+      "end": 23.12,
+      "text": "OK, I, are you in a private place where you can have a consultation today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 22.81,
+      "end": 23.96,
+      "text": "Absolutely."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 23.83,
+      "end": 25.2,
+      "text": "What can I do for you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 26.24,
+      "end": 55.06,
+      "text": "So, a couple of things. I, I, think I may have, overdone my workouts, and now my knees are hurting, and they're clicking a lot, and it's starting to worry me. Um, I can't run very far, um, any more without just feeling, pain in my knees. And then, sometimes I also get this weird tingling in my toes. Um. So yeah, that's, that's it. I'm just concerned and I figured you know I'd call and, see if you can, help me figure out what's going on."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 55.35,
+      "end": 57.85,
+      "text": "OK, that's fine. So when do you think it started?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 58.77,
+      "end": 61.35,
+      "text": "So probably, it's been about two weeks."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 61.47,
+      "end": 66.45,
+      "text": "OK. Um, and, any joint problems before that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 67.68,
+      "end": 83.81,
+      "text": "You know not, not really. I mean I play a lot of sports. Um, and I had a [inaudible] , like I play some ice hockey, and I had this injury a few months ago. You know I just like, fell on the ice and, and, you know had a, huge bruise but, I think that's about it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 84.13,
+      "end": 91.25,
+      "text": "OK, So, um, at the moment, just tell me about the exercise that you're doing, normally."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 91.5,
+      "end": 129.38,
+      "text": "So I'm training, well, I'm currently training for a marathon, um, that's gonna happen in, June. And so, I'm trying to run like. I mean right now, I'm actually not even doing such long runs, maybe like seven or eight miles. And so, I started about uh, maybe a month ago. Uh, I've done like, you know, four or five miles, and I've just done like a couple of seven, mile runs. And then uh, uh, and then you know I go to the gym like few times a week and, kinda do my, usual routine. Um, but, yeah, I think the only thing that's really different has, have been, the runs, the longer runs."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 129.52,
+      "end": 135.3,
+      "text": "And, have you had, any times when the knee feels like it's giving way underneath you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 137.37,
+      "end": 141.99,
+      "text": "Um, well, I, what do you mean by that? I'm not sure what, what that means."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 140.97,
+      "end": 148.81,
+      "text": "So, it means if you're, if you're there and uh, you just feel it sort of jolt, like give way, feel unstable underneath you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 149.58,
+      "end": 153.75,
+      "text": "Not, not bad, I mean it just kinda starts hurting, you know. Um."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 152.72,
+      "end": 157.97,
+      "text": "And does it hurt, uh, how far into the run does it generally hurt?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 159.36,
+      "end": 171.17,
+      "text": "You know I would say probably starts off like after, uh, maybe, twenty minutes or so. Which is, probably I don't know like somewhere around mile, three maybe, two and a half or three miles."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 171.15,
+      "end": 174.72,
+      "text": "OK. Ooh you're fast. Um."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 174.04,
+      "end": 178.32,
+      "text": "[inaudible] switching my kilometres and miles, I'm not sure, all right."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 176.07,
+      "end": 183.25,
+      "text": "[inaudible] Um. And, um, do you have to stop running, or can you run through the pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 184.75,
+      "end": 197.2,
+      "text": "Yeah, that is a good question. So, um, you know the last few times, the last time I actually stopped, I mean I ran a little bit longer, but then I stopped, because it was um, I, I feel like it's getting worse."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 197.01,
+      "end": 197.83,
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 197.2,
+      "end": 209.96,
+      "text": "Um, and, when I start doing my abs, that's, you know when I do my abs. It's kind of requiring me to move my you know, um, to kind of go from the flex position on my knees, and straighten my legs, then I feel all this clicking."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 209.84,
+      "end": 210.72,
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 209.96,
+      "end": 215.02,
+      "text": "And, I think that's also freaked me out, and uh, I just figured you know, something's wrong here."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 212.9,
+      "end": 217.05,
+      "text": "Right. And, you said before, it's both knees."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 217.9,
+      "end": 222.02,
+      "text": "So it's more, um, it's actually my right knee that hurts."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 223.48,
+      "end": 225.47,
+      "text": "And, any problems with your left one?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 226.75,
+      "end": 227.36,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 227.57,
+      "end": 233.8,
+      "text": "OK, and, can you just describe in the knee, or show me whereabouts the pain, is happening mainly?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 234.26,
+      "end": 244.41,
+      "text": "So, ah, you know I, I feel it, it's kind of weird, I feel it in the middle, but I almost feel like maybe it kind of uh, um, moves to the right, to the right of my knee a little bit."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 244.43,
+      "end": 249.36,
+      "text": "OK. Have you noticed any tenderness when you press over any areas in the knee?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 249.67,
+      "end": 258.97,
+      "text": "So, yes, well it's, I have, probably some fluid. I googled it, and you know it says that sometimes [inaudible] fluid accumulates uh, I."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 257.37,
+      "end": 260.09,
+      "text": "OK. [inaudible] , does it look swollen to you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 260.5,
+      "end": 261.05,
+      "text": "Sorry?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 260.88,
+      "end": 262.54,
+      "text": "Does the knee look swollen?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 262.55,
+      "end": 287.12,
+      "text": "Um, well it did, like, the first time I ran, it was a little bit swollen, but then I just put some like ice on it, and it went away. Um, but, right now, right now it's not swollen, and right now it doesn't hurt, you know. Um, but, it just kind of comes on when uh, um, or you know right now when I flex and extend my leg, it, there's no clicking but, I'll notice it in the gym and then, you know, when I run it'll start hurting."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 287.52,
+      "end": 295.4,
+      "text": "OK, and, if you're sitting, still for a while, do you have any problems when you stand up, any locking up of the knee?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 296.11,
+      "end": 296.56,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 296.54,
+      "end": 299.87,
+      "text": "Can't straighten it. Any problems going up and down stairs?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 300.69,
+      "end": 301.18,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 302.26,
+      "end": 304.54,
+      "text": "Any problems just walking normally?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 304.8,
+      "end": 306.63,
+      "text": "No, none, I don't."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 306.72,
+      "end": 311.44,
+      "text": "And intervals of range of movement. Are you able to fully straighten the leg?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 312.51,
+      "end": 313.21,
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 313.25,
+      "end": 315.39,
+      "text": "And what about fully flex it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 316.31,
+      "end": 316.94,
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 317.07,
+      "end": 320.84,
+      "text": "OK. Are you taking any medication for the knee?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 322.11,
+      "end": 352.67,
+      "text": "Well, um, since you're asking. Um, yes I [inaudible] , I take Ibuprofen, um, and I'll just kinda, use it sometime like uh, um, like sometimes I have some joint issues, but you know, that kind of, is not very frequent. So I'll take Ibuprofen for that. But you know it's nothing like major maybe, like, four hundred milligrams max, something like that. I also sometimes will um, you know, smoke a joint. Um, and, yeah, other than that, that's it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 352.71,
+      "end": 362.4,
+      "text": "OK, and any other joint problems, that you're getting? Any back pains? Small swelling of your, hands, feet, elbows, wrists? Any pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 356.69,
+      "end": 372.59,
+      "text": "No. Uh, well I have sometimes, you know how sometimes like if you stand for a long time, your feet will kinda, or your legs will swell up. Like I noticed it because of my socks, I'll just kind of, notice this indentation."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 370.77,
+      "end": 371.43,
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 372.59,
+      "end": 385.12,
+      "text": "And then, another weird thing. I've felt this just once, but there was this tingling in my toes, like uh, um, after the run. There was tingling in my toes like on my, you know my right toes, um, so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 385.05,
+      "end": 386.81,
+      "text": "On your right side."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 386.78,
+      "end": 387.37,
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 387.65,
+      "end": 391.96,
+      "text": "Any change in colour, or temperature of your lower legs?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 392.34,
+      "end": 392.79,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 392.92,
+      "end": 398.21,
+      "text": "Any swelling which stays if you push in, and then you release it, that it stays there?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 398.99,
+      "end": 416.4,
+      "text": "Well I don't know if I really try that, but I, I will tell you that, what I noticed is like if I, you know when my socks come off, I kind of notice that indentation a little bit, I mean it's not like major, right but, I. Uh, I mean do you mean I just need to like press and see what happens, if it like kind of stays or, [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 415.43,
+      "end": 419.43,
+      "text": "Yeah, any, or any pain in the back of the calf or anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 418.96,
+      "end": 420.97,
+      "text": "No, no, nothing like that, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 420.65,
+      "end": 429.26,
+      "text": "Um, and, with your foot, has that gone back to normal now? Do you feel any altered senstation, tingling numbness, anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 429.4,
+      "end": 435.44,
+      "text": "No it was just, it was that time, uh, but it was just really weird, because it kind of went on for a while."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 435.73,
+      "end": 444.73,
+      "text": "OK.And any pain in the joints of your foot or [inaudible] , on the underside in the arch? Any problems walking round on hard floors?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 441.82,
+      "end": 445.74,
+      "text": "No. No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 446.16,
+      "end": 449.39,
+      "text": "OK, have you had, any other medical problems before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 450.75,
+      "end": 484.35,
+      "text": "Uh, well, I had uh. You know what just, kind of your garden variety stuff, right, colds and, uh. I mean I, I do have, I'm far-sighted, and so I had uh, I had Lasik surgery. And then, once I had this really bad UTI, they thought it was kidney stones, and so they had me actually in ER. And if my GP didn't call them, tell them, that you know, they don't need to give me Morphine. Um, that was kind of an awful experience but, uh, other than that, you know, I'm, I'm, I'm pretty good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 484.54,
+      "end": 488.07,
+      "text": "OK, and, do you take any other medications, apart from the ones you told me about?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 488.56,
+      "end": 516.94,
+      "text": "Well, I'll take uh, I take vitamin D. Uh, I take melatonin. Sometimes, you know, just for cramps, I'll take, like, uh, um, ibuprofen, or actually [inaudible] , uh, I'll take, what am I taking? Aleve. Whatever Aleve is. Think that's maybe um, Acetaminophen, or, I can't remember what class of drugs. You know occasionally, if I'm really having hard times, like I'll, I'll sleeping, I'll take Xanax. Um, but, I prefer Melatonin, it's just sometimes Melatonin doesn't work."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 517.91,
+      "end": 523.8,
+      "text": "OK. And, any problems with your stomach, or asthma, indigestion, acid reflux?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 522.65,
+      "end": 524.78,
+      "text": "No, no, no problems."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 525.22,
+      "end": 542.55,
+      "text": "[inaudible] . And, what I would suggest is, definitely carrying on with the ice therapy that you've been using. So, as much as you can, 'cause that really does make a difference to injuries. Brings the healing blood into the area, and it gives it the best chance of, getting better. So, as much as you can, use the ice."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 535.85,
+      "end": 536.34,
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 542.55,
+      "end": 567.33,
+      "text": "Um, obviously you're trying to stick to a marathon programme, but. Um, I would, try and ease up on the running, if you can. And if it, if it's painful enough that you're, having to stop running, then it's not a good idea, to do that. Um. It's fine to take the Ibuprofen. Um, I can prescribe you a slightly stronger, anti-inflammatory that you can take regularly instead of the Ibuprofen, but not with the Ibuprofen."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 555.38,
+      "end": 555.87,
+      "text": "Hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 567.33,
+      "end": 573.06,
+      "text": "But make sure that with food. Ultimately we probably need to, examine the knee."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 567.87,
+      "end": 568.48,
+      "text": "I see."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 573.06,
+      "end": 593.94,
+      "text": "Um, so, the best thing I would, suggest, getting a appointment with the physiotherapist first, who can do like a long, assessment, and examination of the knee. And then we can make an assessment as to whether we need to do any, um, imagery to [inaudible] , have a look inside the knee, and see if there's any problem with the, cartilage."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 584.97,
+      "end": 610.14,
+      "text": "OK. Well, you know I read, I read some stuff online that, that maybe like my ligaments there's, I think it's like ACL or, or something like that right, and so if that. I mean I'm kind of like freaked out that that may break. So do you think it's that, or?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 610.05,
+      "end": 624.23,
+      "text": "Um, it's, it's not really possible to, diagnose that over the [inaudible] , over the video. So we definitely would need to, see you. And, the, a physio is the best point of call, because they'll probably be the most likely initial treatment."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 616.6,
+      "end": 616.95,
+      "text": "Right."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 624.23,
+      "end": 629.88,
+      "text": "But certainly if the appointment time's too long to wait, then we can see, we can see you in our clinic as well."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 624.58,
+      "end": 632.9,
+      "text": "OK. OK. Can you, so are you going to send referral for that?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 632.8,
+      "end": 646.62,
+      "text": "Yep, [inaudible] we can, we can do a referral before that. If in the meantime you develop like persistant swelling, heat, redness, um, of the knee, or high temperature, feel unwell, or it completely locks up and you can't bend and stretch it."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 634.05,
+      "end": 635.13,
+      "text": "OK. Great."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 646.62,
+      "end": 653.5,
+      "text": "Then, you'd need to see a doctor urgently, so call us back [inaudible] in that, case. [inaudible] ."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 646.69,
+      "end": 658.65,
+      "text": "Mm-hmm. That sounds good. Thank you yeah. [inaudible] , sure I mean, give me the, stronger medicine, I'll give that a try."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 658.48,
+      "end": 663.96,
+      "text": "OK. I'll send it through to your pharmacy for you. OK? Thank you, bye."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 660.95,
+      "end": 665.7,
+      "text": "OK. Sweet. Thanks so much. OK. Bye, bye."
+    }
+  ]
+}

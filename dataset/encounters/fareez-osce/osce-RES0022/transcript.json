@@ -1,0 +1,680 @@
+{
+  "encounterId": "osce-RES0022",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Would you mind by start starting to tell me about what brought you in today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I I. It's just over the last week I can't like do anything without just feeling really like short of breath. I'm having a really hard time breathing. Like kind of do anyways because I have COPD. So I feel like over a few years it's been getting worse, but this week it just got really bad in particular."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, I see so. How much activity were you doing that was bringing on, the shortness of breath?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Like I, I usually I will walk my dog around the block and I haven't been able to do that like my husband's been doing it. And then I was just going to try to get the mail just like. I don't know. It's probably like 200 feet down the road and I could, I was so tired when I got back and I felt like I could barely breathe."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and did you have any chest pain with this?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh. No, no, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and when did the shortness of breath symptoms start coming on?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mmm like it I've been. I feel like it's been sort of getting worse over the past few years. But just like a week ago, it just got really bad. Like very suddenly."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, um, and has it been getting worse over this past week or has it stayed the same?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Pfft maybe getting a bit worse, like it's been pretty bad the whole time."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, OK, I see, and have you had a cough?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, like I again like I do normally because of my COPD but. It's just been really. It's been even worse this week, and usually when I get sick it's more like I'm like bringing up a lot of like yellowish gunk, but this time it's not been quite as like gunkie. It's been pretty dry."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so you're not bringing up any sputum with your cough?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, maybe maybe a tiny bit, but I kinda do that like anyways."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Uh, and have you coughed up any blood?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and um, have you had any other symptoms that have went along with this difficulty breathing, um and cough?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um I mean I've been, I don't have a thermometer at home, but I have felt like really hot. And. Just this morning, like my husband, you know he was trying to make sure I was still eating and drinking a lot and I don't really feel like I am tasting my food all that well."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so would you say that you have a loss of taste right now?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um pretty yeah yeah, I'm pretty sure I couldn't really taste my breakfast."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And how about your sense of smell?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Actually, yeah come to think of it, I don't. I don't think I've really been smelling much."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so you're not able to smell either. Do you feel like your nose is congested or are really runny?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's not, it's not particularly congested or anything."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. But still have had these changes in taste and smell."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mmmm"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um OK and we will check your temperature as well to see if we can, if there is a documented fever. Have you had any night sweats?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Whats that?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So generally, patients would will say that their sheets are soaked and it will wake them up sometimes because it's uncomfortable."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Oh no, I haven't had that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, how about any chills? So it could be like when you kind of shaking in your in your bed."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, not really. Just just like there really. I think, like fever, I think fevers."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and have over the last several months. Have you had any weight loss?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I think I've been pretty well the same."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, an with um the change in taste, how has your appetite been?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well, I mean that was just this morning that I noticed that. Um, before that, I think I was eating like pretty OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and have you felt as though your heart was racing at any point?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Uh, any dizziness or feeling lightheaded?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Oh no, I don't think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And any abdominal pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How about any nausea or vomiting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you had any diarrhea or constipation?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Maybe maybe a little diarrhea. Oh but I didn't know if that was just something I ate or what."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so when did the diarrhea start"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Like yesterday. yesterday."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and and approximately how many times did you go to the bathroom, would you say?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So probably like twice where it was really loose."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and did you notice any blood?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK um, has that happened again today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Oh no, I didn't go today."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And have you had any urinary problems like painful urination or needing to go really often?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK and then uh, have you had any headaches?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Come to think of it a little bit, I just thought I was like it was maybe because I was tired. But yeah, I've had headaches."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you had headaches like this in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, I mean only when there is like reasons for it, like being really overtired or. Uh. Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, does this feel similar to any of those times?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Let me know it's hard to say like I am tired so. Yeah, I think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, would you say this was the worst headache of your life or a kind of like a Thunder clap sensation?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And have you got any photo sensitivity or kind of sensitivity of your light or sensitivity to sound?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And next question would be. Have you have any any joint aches or muscle aches or general body aches?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I mean, I'm a little I feel like I haven't been moving as much. Feel a little sore. I thought it was maybe just 'cause I, you know, wasn't going for my long walks and my body was like getting tired and stiff. But yeah, I feel a bit achey when I come to think of it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and have you noticed any rashes or changes in your skin?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, uh, and then I'm not sure if I asked, but did you have a sore throat?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Um and next just wanted to ask about your past health. Um is there anything you see a physician for regularly?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Just like the COPD."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "My family doctor."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and do you use inhalers for that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Oh geez, I haven't seen my family doctor in awhile because of, the covid stuff. But I have an inhaler. Ah. That was probably like before covid that it was prescribed and then I ran out at some point and I haven't got it renewed."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so. When was the last time you used an inhaler, a a week ago, a month ago?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I probably ran out like two months ago, but I wasn't using it every day. It was like one of those ones for like when you need it and, now, now this week I wish I would have had it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, I see. So before like two months ago, how often would you say you were using it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Oh, maybe once you're once a week."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK um. And when what types of situations where you finding yourself needing to use it more often? Or rather where there any kind of triggers to those events?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Like if I if I say I took my dog for a walk and they kind of got away and I had to run a little like run a little bit. Usually I walk like pretty fast but if I have to run that would that would make it, would make me have to use it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so a lot more exertion than what you're able to do now it sounds like."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, like heavier exercise."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I see, and any other medications like prescribed or over the counter that you take?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, that was it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, and have you had any surgeries before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I had my appendix out when I was in my 20s."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and any allergies?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and um. Have you been anybody sorry, have you been around anybody who's been sick recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well, we haven't really seen anyone because of the covid stuff so. It's just my my husband has someone, like has, a friend that comes over for them to the they watch like the sports games together like our friend lives alone. So that's really the only person that's been coming into our house and I don't. I don't know that I don't think he's been sick. But he he might have been around people that were sick."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, I see so he hasn't had any symptoms though?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not that I know of. We haven't heard from him in a few days though."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and how was your husband been?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Oh, he's been well. He said he like he had a bit of a scratchy throat, but I don't think he's he hasn't really felt sick. I don't think."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK yeah, and do you live with anybody else or is it just you and your husband?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Just the two of us and our dog."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and, uh, do you smoke cigarettes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I've tried to stop but I I smoke like a pack a day."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, we can talk maybe about quitting if you're interested later on in the appointment or at another time at a follow up."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure, sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and do you drink alcohol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Like maybe like a glass of wine on a Friday."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so very it sounds occasionally, maybe a drink a week?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, something like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, and um do you smoke marijuana?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK alright, how about that use like any like edibles or anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK and then how about any recreational drugs?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um like what?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Like things like cocaine, crystal meth, ecstasy."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I See, OK, and Is anybody in your family had any heart conditions before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "My dad had like high blood pressure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, anybody ever heard attack?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, not that I know of."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and anybody in the family have lung conditions in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, at any cancers that run in the family?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, so was there anything else that um you think I should know today that maybe I didn't ask about?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I just feel tired. I just feel like really tired."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, certainly that can be part of a kind of what how you're feeling and right now with the situation with the pandemic, COVID-19 is definitely pne thing that will be testing for today."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Do you think I have COVID?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "It's very possible because of how general the symptoms are for covid, and so it's something that we want to test for. That being said, you could have another viral illness, such as the common cold like adenovirus. Or you could have a bacterial infection that's not Covid really related at all Or this could be an exacerbation of your COPD and maybe We need we need to just titrate your inhaler so we'll need to. Just run some lab work and do the PCR nasal swab as part of the work up an we will see what some of those investigations show."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Oh geez, OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, it's all in the meantime. You'll need to quarantine for 14 days. And if the results are positive, well after note notified public health so that the appropriate contact tracing can be made. But we'll get the investigation started now."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "OK, thanks doc."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, you're welcome."
+    }
+  ]
+}

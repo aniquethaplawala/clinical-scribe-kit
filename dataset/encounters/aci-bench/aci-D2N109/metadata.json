@@ -1,0 +1,25 @@
+{
+  "encounterId": "aci-D2N109",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N109",
+  "split": "clinicalnlp_taskB_test1",
+  "collectionMode": "aci",
+  "chiefComplaint": "Left ankle pain",
+  "secondaryComplaints": [
+    "Diabetes Type 2",
+    "hypertension"
+  ],
+  "patient": {
+    "age": null,
+    "gender": "female"
+  },
+  "turns": 40,
+  "wordCount": 1020,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

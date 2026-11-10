@@ -1,0 +1,410 @@
+{
+  "encounterId": "osce-RES0188",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "What brings you in?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hi, I was just really worried. My son just yesterday night I noticed that he was making these grunting noises and I did notice that he was a bit warm yesterday as well, and today I, he just hasn't been himself, just very, very irritable, crying a lot. Yeah, I just got bit worried."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, for sure. What started first?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I would say the there was a little bit of coughing earlier, like yesterday. But then later on during the night, it kind of turned into this grunting noise, and he's kind of like his chest is moving a lot more when he's taking a breath in and all that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Uhm did you measure his temperature at home?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, so I think it was 38.5 degrees Celsius."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and did you do that orally or rectal or under armpit?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I did it under the armpit."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. OK, uhm so you mentioned that he's had a fever, he's been grunting and he just seems a little bit more fussy. Is that right?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK is he coughing at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "He was yesterday but not really now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK and was it a dry cough?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I think so. I mean, not-nothing really came out."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, that's good. So no blood, no sputum?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and did he seem wheezy?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, OK. So there's no wheezing with the grunting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Maybe a little bit like that, just a little bit of a noise, but it's mostly the grunting."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Has he had any weight loss?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, not that I really, we haven't really weighed him now since his last appointment."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Does he seem excessively tired or fatigued?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, moreso today I would say he's like earlier, he was very fussy, but now he seems a bit more tired."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Any rashes that you've noticed?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, OK. Uhm any changes in his vision or hearing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no, not that I can tell."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, OK. So he's responding to like sounds and he's still looking at you and things like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Have you noticed a runny nose or stuffy nose?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, no, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, OK. And he said he hasn't had any like fainting spells?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no, I don't think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, OK. And how many wet diapers is he producing in a day now?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Probably 5 or 6."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "5 or 6 OK. Has that changed from before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, it's pretty much the same."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and uhm any changes to his bowel movements?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No. How about his urine?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, OK. OK. And then you said he was fussy, is he still eating and drinking OK?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no, today he's not really taking anything in, like very fussy, very hard to feed him today."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, is he crying a lot?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Earlier today was crying a lot, but now has calm down and just I guess tired himself out."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, OK. Alright, and is he an otherwise healthy child?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah he was, he was premature by three weeks so, Other than that like I remember when he was born they did have earlier some issues with his oxygen not being high enough and they had to like keeping, keep us in the hospital for a bit longer."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "But yeah, after that, like there haven't really been too many concerns."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so he's hitting all the developmental milestones like in terms of motor movements, ah speech, behaviour, all of that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, no issues there so far."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and how about medications? Is he on any?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No medications, OK. And is up to date with all his immunizations?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, oh he had all his immunizations so far."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. How about allergies? Does he have any?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not that I know of."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, OK. Any family history of lung or heart conditions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and does anyone at home smoke?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no one smokes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Has he been in contact with anyone sick recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no, not that I know of. Uhm his older sister does go to school though, but I don't know if she might have carried something home."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, how old is she?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "She's six years old."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Six, OK. And is she healthy or is she having similar symptoms?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, she's healthy. No, no symptoms."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Any travel recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, OK. And who does he live with at home?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, so his older sister, me and his mother."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any reasons to believe like you have old carpets, dust, mold, asbestos, pets, anything like that that could worsen his symptoms?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so I think those are all the questions that I had for you. Did you have any questions or any concerns? Anything that I missed that you wanted to add?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I think that was all."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, uhm so for him we'll do a Covid swab just to rule that out because some of his symptoms do overlap with that. But it it's really sounding like a picture of like community acquired pneumonia, so we'll do a couple of things for him. Uhm, we can get his temperature, get his oxygen oxygen saturation right away we'll get a chest x-ray. We'll do some blood work as well and uhm, he might need to be admitted depending on uhm, the oxygen, oxygen saturation and the fact that he's grunting. So if he's admitted will give him some extra oxygen and keep monitoring him and keep him hydrated. Uhm we'll also give him some antibiotics if, if it turns out he has pneumonia. Yeah, does that sound OK?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That sounds good. Thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK yeah, no worries."
+    }
+  ]
+}

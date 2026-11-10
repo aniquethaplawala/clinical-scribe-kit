@@ -1,0 +1,22 @@
+{
+  "encounterId": "aci-D2N039",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N039",
+  "split": "train",
+  "collectionMode": "aci",
+  "chiefComplaint": "hypertension",
+  "secondaryComplaints": [],
+  "patient": {
+    "age": null,
+    "gender": "female"
+  },
+  "turns": 46,
+  "wordCount": 1611,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

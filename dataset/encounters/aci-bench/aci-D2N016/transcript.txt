@@ -1,0 +1,69 @@
+Clinician: Hi, Edward, how are you?
+Patient: I'm doing well, yourself?
+Clinician: I'm doing okay.
+Patient: Good.
+Clinician: So, I know the nurse told you about Dax. I'd like to tell Dax a little bit about you.
+Patient: Absolutely.
+Clinician: Edward is a 59 year old male with a past medical history significant for depression, hypertension and prior rotator cuff repair who presents for followup of his chronic problems. So, Edward, it's been a little while since I saw you.
+Patient: Mm-hmm.
+Clinician: How are you doing?
+Patient: I'm doing pretty well, actually. It's been a good, uh, good six months.
+Clinician: Good. Okay. So, you know, the last time we spoke, you know, you were trying to think of some new strategies to manage your depression. You didn't wan na go on medication because you're already on a bunch of meds.
+Patient: Absolutely.
+Clinician: So, how are you doing with that?
+Patient: I'm doing well. I see a counselor, uh, once a week. Uh, and I've been out swimming at the pool a lot this, this, uh, summer, and, uh, fall. So, things have been well, going well with my depression.
+Clinician: Okay, so, you don't wan na, you don't feel the need to start any medications at this time?
+Patient: No, no, no. But, I know I can call you if I do.
+Clinician: Yeah, absolutely.
+Patient: Okay.
+Clinician: Yeah. All right. And then, in terms of your high blood pressure, how are you doing with that? I know we, we were kind of struggling with it la- six months ago. How are you doing?
+Patient: I still have my good days and my bad days. I do take my medicine daily. Uh, but, you know that burger and wine, every once in a while, sneaks in there, and that salt be... We know what that does.
+Clinician: Yeah. So, I love burgers and wine too.
+Patient: Okay.
+Clinician: So, I get it. Um, okay, so, and you're taking the norvasc?
+Patient: Norvasc, yep.
+Clinician: Okay. Um, and, you're checking your blood pressures at home, it sounds like?
+Patient: I, I do. Well, I go to cvs pharmacy. They, they have a, uh, machine that I can sit down at quickly and get my, uh, blood pressure taken. And, I go there about once a week.
+Clinician: Okay. All right. And then, I know that you had that rotator cuff repaired about eight months ago. How are you doing?
+Patient: Um, it's doing well. I, I'm, I'm, been stretching with a yoga ball.
+Clinician: Uh-.
+Patient: And, uh, I'm getting stronger each time. And, I can continue that once a week also.
+Clinician: Okay. Are you still seeing the physical therapist in the center, or are you just doing exercises at home?
+Patient: I'm just, I progressed to exercises at home.
+Clinician: Okay. All right. Great. All right. Well, I know you did a review of systems sheet when you checked in.
+Patient: Mm-hmm.
+Clinician: And, you know, it seems like you're doing well. Any symptoms at all? Any nasal congestion or chest pain, shortness of breath, anything?
+Patient: No. None of those. I do, do notice that I get a little bit of a de-, uh, swelling in my ankles.
+Clinician: Okay.
+Patient: Uh, mainly near the end of the day.
+Clinician: Okay.
+Patient: Um, it seems to go away by the next morning.
+Clinician: Okay. All right. All right. Maybe that has to do with some of the salt intake you're, you're eating.
+Patient: Okay.
+Clinician: All right. Well, I wan na go ahead and do a quick physical exam, okay?
+Patient: Mm-hmm.
+Clinician: Hey, dragon? Show me the blood pressure. Yeah, so, your blood pressure's a little elevated today, 156 over 94.
+Patient: Okay.
+Clinician: You know, you could be a little happy to see me. I don't know. Um, but let's look at some of the readings. Hey, dragon? Show me the blood pressure readings. Yeah, so, they've been a, running a little high over the past couple months.
+Patient: Okay.
+Clinician: So, we'll have to just kinda talk about that, okay?
+Patient: Okay.
+Clinician: I'm gon na go ahead and listen to your heart and lungs, and I'll let you know what I find, okay?
+Patient: Okay.
+Clinician: Okay. All right. So, on physical exam, you know, everything looks good. On your heart exam, I do appreciate a slight three out of six systolic ejection murmur, but we've heard that in the past.
+Patient: Okay.
+Clinician: So, that seems stable to me. Um, on your lung exam, everything sounds nice and clear, and on your lower extremity exam, I do appreciate, you know, 1 to 2+ pitting edema in your legs, okay? So, we'll have to just talk a little bit about your diet and decreasing the salt intake, okay?
+Patient: Okay.
+Clinician: So, let me just look at some of your results, okay? Hey, dragon? Show me the labs. So, looking here at your lab results, everything looks really good. You know, your creatinine, that's your kidney function, that looks stable. Everything looks good from that standpoint. Hey, dragon? Show me the ekg. And, looking here at your ekg, everything, you know, looks fine. There's no evidence of any coronary artery disease. It's a nice, normal ekg, which is good.
+Patient: Okay.
+Clinician: Okay?
+Patient: Good.
+Clinician: So, let me just talk a little bit about my assessment and my plan for you. Okay? So, from a depression standpoint, it's, you know, your first problem, I think that that sounds like you're doing really well managing it. You know, you have good strategies. It sounds like you have a good support system, um, and I agree. I don't think you need to start on any medication at this time, but you said before, you know you can call me, okay?
+Patient: Yes.
+Clinician: For your second problem, your hypertension, I, I don't believe it's well controlled at this time. So, I wan na go ahead and, you know, increase the norvasc up to 10 mg a day, and I wan na go ahead and order an echocardiogram and a lipid panel, okay?
+Patient: Okay.
+Clinician: Hey, dragon? Order an echocardiogram. And, for your third problem, your rotator cuff repair, I, I think you're doing really well with that. I would just continue with the exercises and, uh, I don't think we need to intervene upon that anymore. It sounds like that's pretty much resolved, okay?
+Patient: Good. Good.
+Clinician: Do you have any questions about anything?
+Patient: No questions.
+Clinician: Okay, great. Hey, dragon? Finalize the note.

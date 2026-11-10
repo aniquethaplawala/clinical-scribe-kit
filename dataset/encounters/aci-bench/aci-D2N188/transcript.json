@@ -1,0 +1,305 @@
+{
+  "encounterId": "aci-D2N188",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hi jaqueline how are you I heard that you injured your ankle"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah it's not going so great"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "What what happened to your ankle"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well I was doing something I didn't really want to be doing and I fell and now my ankle hurts"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay well what were you doing were you hiking or biking or what were you doing"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I was in a mountain biking messenger"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You were in a mountain biking lesson and you fell off your bike and twisted your ankle"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And what ankle was bothering you"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "The right one"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Your right ankle okay and did it twist like did your ankle twist outward or did your ankle twist inward do you know"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "My ankle twisted outward"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Your ankle twisted outward and where are you having the most pain is it is it kind of like right on your outer ankle or is it more in your foot"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Outer ankle"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "It's in your outer ankle okay alright and do you have any numbing or tingling in your toes at all"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I have some tingling I have no tingling I have some numbing going on and some numbing going on in other places"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Really like where"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "My heart"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright well I'm an orthopedic person so I can't talk to you about your numbing hearts okay now are you able to move your ankle"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "A little bit"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Are you able to walk on your ankle"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not really"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not so great"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Are you limping"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You're limping okay have you taken anything for the pain"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I've taken tylenol"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You took tylenol"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay did that help at all"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No it didn't help alright did you hear anything pop or anything like that when"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I heard like an like a crack crackle so"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You heard a crack"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright how long have you been mountain biking"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "For like three years"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Three years wow"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Or so"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "What where is your favorite place to go mountain biking"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't remember"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Is it at north point"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No it's not at north point"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Maybe I don't know"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you or do you like going to colorado"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hmmm kind of a time"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright okay alright well let's go ahead and do a quick physical exam okay so I looked here at your vital signs and have you had any fever chills or anything like that since this happened"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I've had a fever it hits the pain hits"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You've had a fever how high was your fever"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Like two hundred"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "That's not a fever alright okay so lem me go ahead you looking at your vital signs you don't have a fever now your temperature is ninety eight. Six your blood pressure is fine at one eighteen over seventy seven and your heart rate looks good at seventy seven beats per minute on your right ankle exam there is some edema and erythema on the lateral malleolus on the right hand side there is associated ecchymosis and a few excoriations does it hurt when I press on it"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "There is pain to palpation of the right lateral malleolus there is decreased flexion and extension of the right ankle as well as internal and external rotation there is no apparent injury to the knee or the foot okay so what does that mean Jacqueline seem awfully giggling right now so what does that mean so I took a I had the nurse do an x-ray on you before I came in and reviewing the results of your right ankle x-ray shows that you have no acute fracture or bony abnormality which is good you just have a some soft tissue injury so let's talk a little bit about my assessment and plan so for"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Really"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah so for your assessment and plan I do believe you have a an acute right ankle sprain I wan na go ahead and put you in an air cast we can give you some crutches I wan na go ahead and prescribe some meloxicam fifteen milligrams once a day you should ice the area for about twenty minutes five times a day and weight-bear as tolerated I am anticipating you to start feeling better in the next couple of weeks if you're not come back here and see me and we will consider physical therapy or pursuing further imaging okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay bye"
+    }
+  ]
+}

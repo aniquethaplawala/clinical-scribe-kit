@@ -1,0 +1,680 @@
+{
+  "encounterId": "pm57-d1c14",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 1.39,
+      "end": 2.11,
+      "text": "Hello?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 1.58,
+      "end": 9.27,
+      "text": "Hello? Hello. Um, before I go any further, can I confirm your name and your date of birth?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 9.63,
+      "end": 13.23,
+      "text": "Uh, yeah. Uh my name is April, and I'm fifty."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 13.42,
+      "end": 16.96,
+      "text": "You're fifty, OK. April, how can I help you this afternoon?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 17.34,
+      "end": 26.01,
+      "text": "Well I've just been having this like, cough, for quite a few days. And my nose is running. Um and it's just been super annoying, and it's not going away."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 25.83,
+      "end": 28.29,
+      "text": "[inaudible] , OK. When did it all start?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 28.81,
+      "end": 34.76,
+      "text": "Uh I think it started like maybe, a bit less than a week ago. Like maybe, maybe five or six days ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 34.5,
+      "end": 45.19,
+      "text": "OK. And you mentioned a couple of things there. You mentioned a cough. You mentioned a bit of a runny nose. Is that right? OK. Let's focus on your cough first. Can you tell me a bit more about your cough?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 45.91,
+      "end": 53.99,
+      "text": "Uh, it's just so continuous. It's really, really frustrating. It's quite dry. And it's just all day, it like keeps me up at night as well, which is really annoying."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 53.89,
+      "end": 73.51,
+      "text": "OK. So it's a dry cough. So you're not bringing up any [inaudible] , you're not bringing up any mucky, ohh I can hear that, yeah. Um you're not bringing up any uh, mucky phlegm or anything like that. No, OK. So it keeps you up at night. Um you mentioned uh the cold symptoms as well, the runny nose. Do you have a [inaudible] do you have a sore throat at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 74.23,
+      "end": 86.35,
+      "text": "I mean, apart from, I mean the coughing is giving me a sore throat. But it's not like, you know not more than, than that. You know just, just my throat is irritated from coughing. But it's not like, it's not that bad when I swallow or anything."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 85.92,
+      "end": 91.83,
+      "text": "Right. Do you have any uh, [inaudible] how are your ears? Do you ears feel blocked or?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 91.86,
+      "end": 99.96,
+      "text": "No.They feel OK, actually. Yeah. [inaudible] . Nothing, nothing on the ears."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 94.23,
+      "end": 109.5,
+      "text": "[inaudible] No pain, no discharge coming from your ears. OK, alright. Um fine. In terms of your breathing, how is your [inaudible] , how's your chest? Is your breathing more labored?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 111.06,
+      "end": 120.18,
+      "text": "Um, I don't think so. Like, I guess I get laboured when I'm coughing and I can't breathe. But I, not, yeah, not, I, I don't think so. Not really."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 118.99,
+      "end": 122.96,
+      "text": "Day to day when you walk around, uh you don't feel breathless do you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 123.17,
+      "end": 128.13,
+      "text": "I don't feel restless. No, [inaudible] I feel you know, generally tired."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 128.28,
+      "end": 129.46,
+      "text": "OK. OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 129.07,
+      "end": 132.72,
+      "text": "So like, yeah, but [inaudible] not, not anything special with my chest."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 132.57,
+      "end": 134.11,
+      "text": "Any pain in your chest?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 134.98,
+      "end": 136.69,
+      "text": "No not, not that either."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 136.67,
+      "end": 142.44,
+      "text": "OK. You mentioned feeling tired. Um have you felt feverish at all? Have you had a temperature?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 143.33,
+      "end": 155.84,
+      "text": "Um I've been having like, like shivers, even when I'm in, when I'm in bed. You know like, when you, when you go to sleep and, and you feel like I I should be warm. But I'm still, still you know, shivering a little bit."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 155.79,
+      "end": 156.47,
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 155.84,
+      "end": 170.56,
+      "text": "But I haven't taken my temperature, so I'm not a hundred percent sure if I had a fever. But it feels like I probably did. 'Cause I was just, I was next to my boyfriend. And he was completely warm and totally fine. And I just like couldn't stop shivering. And kept adding more sweaters on, and I was still cold."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 170.37,
+      "end": 179.34,
+      "text": "OK. OK. OK. Alright. Um, fine. And in terms of any other symptoms, so have you had any nausea? Have you had any vomiting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 179.77,
+      "end": 185.6,
+      "text": "No. No, no nausea. No vomiting. Like, um yeah, [inaudible] nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 182.48,
+      "end": 186.71,
+      "text": "OK. How's your appetite?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 187.8,
+      "end": 207.04,
+      "text": "Um, I mean it's OK. I, at the beginning, like when I was starting to have the [inaudible] , the [inaudible] , the coughing and stuff. Um, I had a little bit of diarrhea. Um but, but it didn't, it didn't cut my appetite or anything. I just like, my stomach wasn't feeling great."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 207.49,
+      "end": 209.56,
+      "text": "OK. Has that got better now, the diarrhea?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 209.63,
+      "end": 219.1,
+      "text": "Yeah, yeah. It got better. It was only like the first, like it started at the same time as the cough started. And then it stopped. So I thought everything would be fine. But then the cough just kept going."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 219.03,
+      "end": 224.99,
+      "text": "OK fine. Um, any problems with your waterworks at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 225.57,
+      "end": 226.66,
+      "text": "With my what?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 226.52,
+      "end": 228.76,
+      "text": "Uh your [inaudible] your waterworks, your urine."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 229.03,
+      "end": 231.63,
+      "text": "Ohh. Uh, no. No no, it's fine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 230.91,
+      "end": 234.84,
+      "text": "[inaudible] you're passing urine OK. You're drinking plenty of fluids, and passing urine OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 235.01,
+      "end": 241.15,
+      "text": "No. I, I drank loads of water, when I started having the diarrhea. Now that it stopped, I just went back to normal."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 240.95,
+      "end": 251.53,
+      "text": "OK, alright. Um in terms of any other thing, do you notice any, any find any skin rashes, or um problems with your muscles or joints?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 251.77,
+      "end": 259.33,
+      "text": "Uh [inaudible] like my, you know when I had the, when I was telling you I had like the, I had chills, and I was really cold. My muscle was really hurting."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 257.29,
+      "end": 260.02,
+      "text": "Yeah. OK. [inaudible]"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 259.33,
+      "end": 268.21,
+      "text": "Sometimes I do pilates. But like, it's hurting me so much at the moment. Um so, to be honest, all I feel like doing is just lying in bed."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 263.78,
+      "end": 274.97,
+      "text": "Right. Right, OK. OK. I'm sorry. That must be very difficult for you. [inaudible]"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 272.25,
+      "end": 278.49,
+      "text": "Yeah, right. Especially like in my arms, my legs, like just everywhere basically."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 278.25,
+      "end": 287.06,
+      "text": "[inaudible] quite lethargic and weak, you mentioned. Um, OK. And um, April are you normally otherwise fit and well?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 280.7,
+      "end": 289.37,
+      "text": "Yeah, pretty much. Am I normally what?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 288.91,
+      "end": 291.84,
+      "text": "Uh fit and well. So do you have any other medical history?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 292.0,
+      "end": 297.49,
+      "text": "Uh, well I have type two diabetes. And I have quite high blood pressure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 294.48,
+      "end": 305.15,
+      "text": "OK. OK. And what do you take for your blood pressure? Any, or what what medications do you take on a regular basis, if you don't mind saying?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 304.67,
+      "end": 311.86,
+      "text": "Um I take [inaudible] Metformin for the diabetes. And I take Lisinopril for the high blood pressure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 308.34,
+      "end": 314.8,
+      "text": "Yep. Zinopril. OK, fine. Any allergies at all, to medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 314.47,
+      "end": 316.11,
+      "text": "No. No allergies."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 316.16,
+      "end": 320.34,
+      "text": "No, OK. Regarding any family history, is there anything I should be aware of?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 320.71,
+      "end": 324.98,
+      "text": "Uh my dad also has type two diabetes. But I think that's it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 324.59,
+      "end": 331.85,
+      "text": "OK, alright. Who's looking after your diabetes? Is there anyone, is there a doctor in a hospital, who looks after your diabetes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 331.16,
+      "end": 344.41,
+      "text": "[inaudible] I just regularly go see a doctor. Um, that just checks up on it. Same with the high blood pressure. Like I, I have it under control. And since I've started taking this medication, I've just been like regularly checking that it, it's under control."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 343.95,
+      "end": 349.28,
+      "text": "Right, excellent. And in terms of your social situation, who lives at home with you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 349.6,
+      "end": 351.65,
+      "text": "Uh just, it's just me and my partner."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 351.37,
+      "end": 355.79,
+      "text": "lives OK, um fine. Is your partner well at the moment?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 355.55,
+      "end": 366.53,
+      "text": "Yeah he has none of this. Like he's just going ahead like, like [inaudible] nothing. Like I was a bit worried that I would pass it to him but, [inaudible] not uh, diarrhea, nothing, fine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 362.33,
+      "end": 371.75,
+      "text": "Right, OK. So he Go away, he's got away with it, at the moment. OK. And uh, are you working at the moment, April?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 372.43,
+      "end": 386.89,
+      "text": "Uh, yeah I am working. But the, the first day I skipped. [inaudible] because I was feeling just too shit. Um, but then, I just felt like had to go back, 'cause I had so much to do. [inaudible] So I've been going in. But it's not been fun."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 378.36,
+      "end": 389.33,
+      "text": "Yeah. No, I can imagine. What is it that you do for work?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 390.32,
+      "end": 393.29,
+      "text": "Uh, I am a developer."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 393.47,
+      "end": 399.88,
+      "text": "Ohh, so you work in the IT field. OK. [inaudible] IT field. Right, OK. Uh"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 395.76,
+      "end": 403.59,
+      "text": "[inaudible] yeah. Work in IT. [inaudible] not too active a job. Uh, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 402.13,
+      "end": 405.01,
+      "text": "No. Has it been quite stressful recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 406.1,
+      "end": 414.28,
+      "text": "Not more than usual. I don't think it's related to stress. Like I, I don't feel like I've had a particularly hard time at work that way. Um"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 411.98,
+      "end": 415.6,
+      "text": "OK. The reason I ask is sometimes"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 414.28,
+      "end": 419.32,
+      "text": "[inaudible] I've been able to take a day off to try and recover. So yeah, I don't think it's related."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 417.9,
+      "end": 429.82,
+      "text": "Sure. [inaudible] reason I ask is because sometimes stress can really affect your immune system. Um but uh it's good to know you're you're you're not feeling stressed. Um, do you smoke at all, April?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 430.15,
+      "end": 433.93,
+      "text": "I used to, but I've stopped for about six months now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 434.42,
+      "end": 437.91,
+      "text": "OK. Um and what about alcohol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 438.98,
+      "end": 452.23,
+      "text": "I mean, yeah I, I don't think I drank that much. Like, I I don't really know how you count the units. So I guess like I don't drink more than like, like, let's say three evenings a week? And I rarely get like properly drunk, or anything."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 452.26,
+      "end": 453.99,
+      "text": "And what is it that you drink?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 454.69,
+      "end": 456.42,
+      "text": "Wine, mostly."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 456.11,
+      "end": 458.9,
+      "text": "The wine. How much do you drink on those nights?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 459.47,
+      "end": 462.4,
+      "text": "Uh, I'd say like maybe two or three glasses."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 462.86,
+      "end": 479.5,
+      "text": "OK. So um, yeah so you're probably just about under the limit of um, the recommended limit. Something [inaudible] think about, just in terms of your blood pressure and diabetes, maybe something that you can maybe cut down on if you can."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 479.41,
+      "end": 482.76,
+      "text": "Yeah? [inaudible] I should cut down on it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 481.52,
+      "end": 499.4,
+      "text": "[inaudible] really ideally, the the the right answer is to cut down completely. But so in practice I know that's not realistic. So maybe for the first few weeks, why don't you cut down to two glasses a week. And then, one week thereafter Um and if you are coping OK, then you can maybe try and cut down altogether."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 500.76,
+      "end": 501.48,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 501.35,
+      "end": 515.67,
+      "text": "OK? Just something for you to think about. Um, right so uh just [inaudible] as we wrap up really, um April I think based on your story, I think uh essentially I think you're, you're going through a bit of a bit of a viral illness. Um, I don't think there's anything to worry about."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 503.39,
+      "end": 503.86,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 515.67,
+      "end": 530.44,
+      "text": "You know you've had a bit of a cough, bit of a runny nose, feeling quite weak and lethargic. I'm hoping that, you know, you're probably over the worst of it now. It's been five days. I'm hoping you're maybe going to get better in the next couple of days. It normally lasts for about a week to ten days."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 530.57,
+      "end": 535.74,
+      "text": "What, what should I do if it just keeps going on and on? Like if it's still going on in, in say four days?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 535.23,
+      "end": 563.65,
+      "text": "Yeah, absolutely. So, you know things you can do to help yourself in the meantime is to, you know get some nice, good rest. Drink plenty of fluids. Keep yourself well-hydrated. You can take regular Paracetamol. If you feel like you're still not getting any better in two to three days, it's probably worth coming back to see me again. We can check you over. And if you are still feeling feverish, um and your cough isn't getting any better, then we may look to give you some antibiotics for your chest. [inaudible] some of the uh uh common source of infection. Um"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 563.04,
+      "end": 565.85,
+      "text": "Do you think I should keep going to work? Or do you think I should just"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 565.64,
+      "end": 585.19,
+      "text": "Yeah so I think you know [inaudible] , really I think it depends on you. [inaudible] it's um if you are coughing, then there is a theoretical, you know risk that you're maybe slightly infectious still. So I would say maybe take a day or two off work, if you can. Uh and get some good bed rest. Um and maybe think about work early next week."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 586.11,
+      "end": 588.64,
+      "text": "OK. OK. Thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 587.6,
+      "end": 593.76,
+      "text": "But um, if your cough isn't getting any better, or your breathing is getting worse, I want you to come back and see me sooner. OK?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 593.83,
+      "end": 595.97,
+      "text": "OK. But otherwise, I don't need to worry."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 595.79,
+      "end": 597.91,
+      "text": "No no no [inaudible] , nothing to worry about otherwise."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 598.25,
+      "end": 600.36,
+      "text": "OK. Alright. Thank you very much."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 598.88,
+      "end": 601.92,
+      "text": "OK. Well, have a good day. Appreciate it."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 601.8,
+      "end": 603.21,
+      "text": "Thank you. Bye!"
+    }
+  ]
+}

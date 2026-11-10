@@ -1,0 +1,25 @@
+{
+  "encounterId": "aci-D2N195",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N195",
+  "split": "clef_taskC_test3",
+  "collectionMode": "aci",
+  "chiefComplaint": "right knee pain",
+  "secondaryComplaints": [
+    "hypertension",
+    "diabetes"
+  ],
+  "patient": {
+    "age": null,
+    "gender": "male"
+  },
+  "turns": 55,
+  "wordCount": 1437,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

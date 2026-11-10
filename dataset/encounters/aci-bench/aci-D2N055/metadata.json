@@ -1,0 +1,22 @@
+{
+  "encounterId": "aci-D2N055",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N055",
+  "split": "train",
+  "collectionMode": "aci",
+  "chiefComplaint": "right eye twitch",
+  "secondaryComplaints": [],
+  "patient": {
+    "age": null,
+    "gender": "female"
+  },
+  "turns": 67,
+  "wordCount": 1315,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

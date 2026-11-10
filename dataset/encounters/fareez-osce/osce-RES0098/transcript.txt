@@ -1,0 +1,80 @@
+Clinician: How may I help you?
+Patient: So, I just came in here because for the last day I've been just getting shortness of breath. I recently, yesterday actually, was just busy at home, cleaning out my basement. And, like that was yesterday afternoon, I did that for a couple hours and then at night I just started to get the shortness of breath. It's continued until today. I'm also getting some wheezing and tightness in my chest as well as some cough. So yeah, that's all just been happening over the last day.
+Clinician: OK, and uh, is the shortness of breath here now? is it, is at rest? Or are you having that when you're exerting yourself?
+Patient: More so when I'm like exerting myself, if I'm sitting down it's better, but I still have, I would say, like my breathing is not normal right now, like it's, I still have to take deeper breaths. And I do have that chest tightness when I take those deep breaths.
+Clinician: OK, do you have any chest pain?
+Patient: No, it's more so just the tightness. I wouldn't call it pain, but I do still have a little bit of wheezing.
+Clinician: OK.
+Patient: So yeah, that's, that's that.
+Clinician: And you mentioned a cough as well. With the cough is it, has it been dry, or have you been bringing up sputum?
+Patient: Uhm, it was, it was mainly dry yesterday, like, like the cough has kind of gone away, but yesterday night I was coughing a lot and it was mostly dry.
+Clinician: OK, have you brought up any blood?
+Patient: No.
+Clinician: OK, and have you had any infectious symptoms like, eye tearing or red eyes, maybe a runny nose or sore throat?
+Patient: Uhm, not a sore throat, but it does feel like it, it's kind of like just constricted in there like, uhm, I don't know if it's relevant, but I, I do have asthma. Uh, like I was diagnosed ten years ago, but it's been pretty stable, like it's, like just right now. I haven't had shortness of breath for a pretty long time.
+Clinician: OK, uh, and, uh, we'll get back to the past medical history shortly, I just wanted to ask a few more symptoms, but certainly could be relevant today. Uhm, so uhm, so you mentioned that you have had some throat tightness. Have you had any loss of smell or, or loss of taste?
+Patient: No, nothing like that.
+Clinician: OK, and have you had any fevers or chills?
+Patient: No.
+Clinician: OK, have you had any nausea or vomiting?
+Patient: No, no nausea or vomitting.
+Clinician: How about, any diarrhea or Constipation?
+Patient: No.
+Clinician: And have you had any urinary problems like painful or frequency?
+Patient: No.
+Clinician: OK and have you had any night sweats over the last several weeks to months?
+Patient: No, nothing like that.
+Clinician: And, uhm, have you had any weight changes over the last little while?
+Patient: No.
+Clinician: OK. And have you noticed any skin changes or rashes?
+Patient: Uh, no, I, I do have just like the general, like, eczema, that I use a cream for, but that's just normal for me.
+Clinician: OK. And any muscle aches or, or joint pains?
+Patient: No.
+Clinician: Have you had any fatigue?
+Patient: No.
+Clinician: OK, alright you mentioned asthma as part of your past medical history. Have you been diagnosed with any other conditions?
+Patient: No, it's just asthma and it was diagnosed, I think when I was like, probably 11 or 12 years old.
+Clinician: OK, and do you use inhalers for that?
+Patient: Yeah, I have two inhalers, uh, like one, one is like a blue one, one is like an, like an orange one, uh, it's, so I think it's one of them is just like, I take whenever I really need to and the other one I take every day. Uhm, and I haven't been taking the one, uh, I think it's called Ventolin. But I took it like, uh, had to take it like three or four times last night and like, throughout the day yesterday. And it, it did help, but it didn't really relieve some of my symptoms.
+Clinician: OK, and prior to that, how often have you been using, uhm, the blue one.
+Patient: The blue one before yesterday, probably the last time I used it was probably like a month ago.
+Clinician: OK, so you don't need it that that often then?
+Patient: No.
+Clinician: Do you have any triggers for asthma that you're aware of, like exercising or going out into the cold or even like allergies like dust or, or, or pollen?
+Patient: Uhm, I do have allergies in the spring. I think it's to pollen and in the winter, it does, like my symptoms do get a bit worse and I have to use the ventil more. But recently for the last few months at least, it's been pretty stable. I haven't really had to use, use it too much.
+Clinician: OK, and, and do you use any other medications?
+Patient: Uh, just when I have allergies. I, I just use over the counter allergy meds.
+Clinician: OK, and you use a cream for, for your skin too like, yeah?
+Patient: Yeah, I use, like it's, it's, I think it's like a mixture of like a steroid cream.
+Clinician: OK, and do you have any allergies to medications?
+Patient: Not that I know of.
+Clinician: OK, and are your immunizations up to date?
+Patient: Yeah.
+Clinician: Alright, and right now, who are you living with, and whereabouts are you living?
+Patient: Yeah, so I'm just living with a couple roommates. I just go to college and I'm living with three other roommates.
+Clinician: OK, and has anybody been sick?
+Patient: No, everyone's been fine.
+Clinician: And have you traveled anywhere?
+Patient: Uhm, I decided, like, I, yesterday I went home like, to my parents house and helped my dad, that's where I was cleaning the basement. But besides that, that was, that was uh, that was it?
+Clinician: OK, and  sorry, just had to backtrack a little bit. Have you had any hospitalizations, either due to asthma or for any other reason?
+Patient: Uhm, I think when I was 15, I, I had to go to the emergency department, but I, I wasn't hospitalized.
+Clinician: OK, and was this, uh, did you have similar symptoms at that time?
+Patient: Yeah, it was, uh, it was for asthma and like, uh, that time it was definitely much much worse and I remember like I was breathing a lot, uh, the shortness of breath was really bad and the ventolin like puffers weren't even helping me at that time.
+Clinician: OK yeah, OK, and have you had any surgeries before?
+Patient: No.
+Clinician: Alright, so yeah, you mentioned that you're, you're cleaning up the basement yesterday? Was there a lot of dust down there or anything like that, that might have triggered it?
+Patient: Yeah, we were like just moving boxes. There were books here and there that definitely there would have been dust. I should have been more careful, like wore a mask, but I didn't think about it at that time.
+Clinician: OK yeah for sure, uh, and do you smoke cigarettes?
+Patient: No, like I can't even stand cigarette smoke.
+Clinician: OK, that's good. And do you smoke marijuana or use any cannabis products?
+Patient: Uh, no if I, if I really want marijuana, I would have to go with edibles, I, I can't take the smoke.
+Clinician: OK, I see and, do you drink alcohol?
+Patient: Uh just, I would say probably on the weekends I might have four or five beers.
+Clinician: OK, and, anybody else in the family have asthma or skin irritation like, like you have?
+Patient: Yeah so my, my older sister actually also was diagnosed with asthma. She also has the eczema that I have and my mom was also diagnosed with asthma when she was a child, but she's been completely fine since then.
+Clinician: OK, well that's good that, that she's been OK. Does anybody in the family have any heart or, or lung conditions or any cancers that run in the family?
+Patient: My grandfather died of lung cancer, but he was just, just smoked all throughout his life.
+Clinician: OK, uhm, alright, so that was all of the questions that I wanted to ask today. So the next part we'll go on to do a physical exam, but did you have any thing else that maybe I forgot to ask about today?
+Patient: Uh, no, I, I, I think I know what this was caused by, but yeah, let's, let's see. Thanks for your help.
+Clinician: Oh you're welcome, so yeah, we'll, we'll, uhm,trial some more puffers and see what we could do, cause certainly it's sounding like an asthma exacerbation, and so definitely let somebody know if your, your breathing is getting more difficult.
+Patient: Yep, sounds good.

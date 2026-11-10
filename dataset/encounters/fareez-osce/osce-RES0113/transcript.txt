@@ -1,0 +1,101 @@
+Clinician: What can I do for you today?
+Patient: Um yeah, so I'm here because I've had this fever, this cough, and now my head hurts. That's been going on for about the past four days and I just want to make sure um it's nothing too serious.
+Clinician: Yeah, yeah, that's great. So can you tell me, have you, did you measure your temperature?
+Patient: Uh no, I haven't actually measured it, I just feel hot and feel chills.
+Clinician: OK, but we can take your vitals here um and uh you you said that you've had a cough for the past four days, dry cough or wet cough?
+Patient: Um it's been pretty dry.
+Clinician: Um, any uh no blood or any um sputum um coming up right?
+Patient: No, no.
+Clinician: OK and has the the cough gotten worse or better or the same, has it been the same since the past four days?
+Patient: Um it's it's actually getting worse.
+Clinician: OK, is there anything that makes it better or worse?
+Patient: Uh no, I don't think so.
+Clinician: OK. Uh have you tried anything for your cough?
+Patient: I've tried like decongest like cough suppressants but it doesn't seem to have helped.
+Clinician: OK. OK, and then tell me about your headache. That started four days ago as well?
+Patient: Yeah.
+Clinician: And uh where exactly is it?
+Patient: So it's like just on the front part of my head.
+Clinician: And does it feel like uh, what does it feel like? Is it like a throbbing sensation? A band like sensation? Um is it sharp, is it dull?
+Patient: Uh it feels pretty throbbing right now.
+Clinician: Is it both sides or on the uh left or right?
+Patient: Uh it's it seems like it's both sides.
+Clinician: If you had to give it a number from 1 to 10 with 10 being the most severe pain ever, what number would you give it?
+Patient: Uh I would give it about like a seven.
+Clinician: Oh wow, OK. And how's it changed over the past four days?
+Patient: Uh, it's just gotten a little bit worse.
+Clinician: Um is it uh is it, what was I gonna say, is it constant or does it come and go?
+Patient: Um It seems pretty it seems pretty constant.
+Clinician: Have you taken anything for it?
+Patient: I tried like some Tylenol for it and it seems to help a little bit.
+Clinician: Does it, is there a certain time of the day when it's worse? Before going to bed, at the end of the day, waking up, anything like that?
+Patient: No, nothing like that.
+Clinician: Have you had a similar headache in the past?
+Patient: Uh yeah, I guess I have, a little bit in the past, but that was also when I was like sick.
+Clinician: Sure, um does it wake you up in the middle of the night?
+Patient: Uh no, it hasn't woken me up.
+Clinician: OK, um I guess other than the headache, I'll ask you about, and the cough and fever, I'll ask you if you've had any other symptoms. So have you had any confusion?
+Patient: Uh no, no confusion.
+Clinician: Any changes in your vision or your hearing?
+Patient: No.
+Clinician: Um any um redness in your eyes?
+Patient: No.
+Clinician: Any loss of taste or loss of smell?
+Patient: No
+Clinician: Um any runny nose or stuffy nose?
+Patient: Uh nope.
+Clinician: OK, any sore throat?
+Patient: No.
+Clinician: OK. Any chest pain or difficulties breathing?
+Patient: No.
+Clinician: Any palpitations? Do you feel like your heart's racing?
+Patient: No.
+Clinician: OK, any belly pain?
+Patient: No belly pain.
+Clinician: Diarrhea?
+Patient: No.
+Clinician: OK, any aches or pains in your body?
+Patient: No.
+Clinician: Uh any rashes that you've noticed?
+Patient: No, no rashes.
+Clinician: Any discolouration of your fingers or toes?
+Patient: Uh I don't think so.
+Clinician: OK, alright um and do you have any medical conditions?
+Patient: No, I think I'm healthy otherwise.
+Clinician: OK, alright and have you had any hospitalizations or surgeries?
+Patient: Uh, no.
+Clinician: OK, um what about medications? Are you taking any? Over the counter or otherwise?
+Patient: Uh I take some multivitamins, that's it though.
+Clinician: OK, any family history of lung or heart problems uh or anything else, or cancers?
+Patient: No.
+Clinician: And do you currently live alone or do you live with someone else or with other people?
+Patient: I live with um my husband and our our daughter.
+Clinician: OK, have you had any, have you traveled anywhere?
+Patient: No, not recently.
+Clinician: Have you uh, what do you mean by recently?
+Patient: Uh like I have traveled in the past two years.
+Clinician: OK, that's fine, that's fine. Have you had any contact with anyone who might be sick? Either you or your husband or your daughter?
+Patient: Uh no, I don't think so.
+Clinician: Have you gone out of the home at all?
+Patient: Uh just to do like essential things like groceries and the bank and things like that.
+Clinician: Do you wear a mask and maintain social distancing?
+Patient: Yes.
+Clinician: OK um alright, uh do you drink alcohol?
+Patient: I drink like once once in a while, have a glass of wine.
+Clinician: OK, how, I guess how often would you say?
+Patient: Uh once a week.
+Clinician: OK. And do you smoke?
+Patient: Um no, not anymore.
+Clinician: Uh how much did you smoke in the past?
+Patient: I I'd have like half a pack, um but I only smoked between like the age of 20 to like 25.
+Clinician: OK. Do you smoke marijuana or have any edibles with marijuana in it?
+Patient: No.
+Clinician: Any recreational drugs?
+Patient: No.
+Clinician: OK um alright well uh, and you said that you don't have a family history of any problem?
+Patient: No.
+Clinician: Yeah OK, alright, I think that's all the questions I had for you. So uh looks like you've had a fever, cough, and a um and a headache that's gotten worse in the past four days and your headache's pretty bad, a seven out of ten. Um and uh it could be that you have uh some sort of an infection, uh including um, with Covid being one of the possibilities, and so um continue to take Tylenol and and um monitor your uh fever. If it continues to get worse, or you um notice that your symptoms are just not getting better, um you should come back, you should uh, we'll also do a Covid, we'll also send in a request for a Covid swab. Um and uh we'll ask you to quarantine for the for the next 14 days and try to stay away from your husband and daughter as well, if you can at home. Um and uh I guess a couple of other questions that I wanted to ask and I should have asked earlier, do you have any um any stiffness in your neck or any difficulties moving your neck?
+Patient: Uh no, nothing like that.
+Clinician: OK alright, and um do you have any questions?
+Patient: Uh No, that's it. Thank you so much.
+Clinician: Great.

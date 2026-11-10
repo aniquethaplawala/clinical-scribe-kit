@@ -1,0 +1,25 @@
+{
+  "encounterId": "aci-D2N091",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N091",
+  "split": "clinicalnlp_taskB_test1",
+  "collectionMode": "virtassist",
+  "chiefComplaint": "annual exam",
+  "secondaryComplaints": [
+    "osteoporosis",
+    "multiple sclerosis"
+  ],
+  "patient": {
+    "age": 54,
+    "gender": "male"
+  },
+  "turns": 43,
+  "wordCount": 576,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

@@ -1,0 +1,14 @@
+{
+  "key": "veradigm",
+  "name": "Veradigm (Veradigm EHR, Practice Fusion)",
+  "writePath": "proprietary-unverified",
+  "writableResources": [],
+  "noteType": "progress-note",
+  "noteContentType": "text/plain",
+  "verifiedOn": "2026-11-10",
+  "sources": [
+    "https://developer.veradigm.com/content/fhir/ProcessOverview_index.html",
+    "https://developer.veradigm.com/Fhir/Introduction",
+    "https://veradigm.com/legal/onc-reg-compliance/"
+  ]
+}

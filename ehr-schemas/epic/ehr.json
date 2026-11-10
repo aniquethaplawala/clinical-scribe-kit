@@ -1,0 +1,23 @@
+{
+  "key": "epic",
+  "name": "Epic",
+  "writePath": "fhir",
+  "writableResources": [
+    "DocumentReference",
+    "Condition",
+    "AllergyIntolerance",
+    "Observation"
+  ],
+  "noteType": "progress-note",
+  "noteContentType": "text/plain",
+  "noteDocStatus": "preliminary",
+  "author": "Practitioner/REPLACE_WITH_AUTHOR",
+  "verifiedOn": "2026-11-10",
+  "sources": [
+    "https://fhir.epic.com/Specifications?api=1046",
+    "https://fhir.epic.com/Specifications?api=949",
+    "https://fhir.epic.com/Specifications?api=945",
+    "https://fhir.epic.com/Specifications?api=963",
+    "https://fhir.epic.com/interconnect-fhir-oauth/api/FHIR/R4/metadata"
+  ]
+}

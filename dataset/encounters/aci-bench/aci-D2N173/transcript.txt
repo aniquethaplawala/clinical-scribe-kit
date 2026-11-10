@@ -1,0 +1,49 @@
+Clinician: Hi Logan, how are you?
+Patient: Hi. Good to see you.
+Clinician: It's good to see you as well. So I know the nurse told you about Dax. I'd like to tell Dax a little bit about you. Okay?
+Patient: Sure.
+Clinician: So Logan is a 57-year-old male, with a past medical history significant for coronary artery bypass grafting, hyperlipidemia, and ocd, who presents with an upper respiratory infection. So, Logan, what's going on?
+Patient: So, uh, about a week ago I started to get a cold. And, in the last two or three days, it seemed to move into my chest.
+Clinician: Okay. Um, and, and are you having any pain in your sinuses? Or, any post nasal drip?
+Patient: Um, I had some post nasal drip for, again, for the beginning of the week. And then, uh, it, it left my, uh, my head. It went right down to my upper, uh, chest.
+Clinician: Okay. And have you gotten vaccinated against covid?
+Patient: I actually have. I've, uh, gotten both vaccines.
+Clinician: Okay. All right.
+Patient: On both, both stages.
+Clinician: Okay. And anyone else sick as far as you know?
+Patient: No, not in my house. No.
+Clinician: Okay. And have you had any fevers?
+Patient: Uh, I thought I had a slight fever, but no.
+Clinician: Okay. And, um, any shortness of breath?
+Patient: No.
+Clinician: Okay. All right. Um, so let's just talk a little bit about your high cholesterol. How are you doing with the diet?
+Patient: I've been pretty good for the most part. Uh, we did a little bit of travel over the last week or so, so the diet wasn't great. But, for the most part it's been good.
+Clinician: Okay, I, I know we have you on the, on the crestor 20 milligrams a day. You're doing okay with that, so tolerating it? No muscle aches, anything like that?
+Patient: No muscle aches.
+Clinician: Okay. And I know you had the, uh, bypass grafting last year. You're doing okay?
+Patient: It's been great.
+Clinician: No chest pain?
+Patient: Other than the congestion, no chest pain.
+Clinician: Okay. All right. And you're able to exercise?
+Patient: Yes.
+Clinician: Okay. Before you got sick.
+Patient: That's correct. That's correct.
+Clinician: Okay. All right. Well, let's go ahead, I want to do a quick physical exam. Okay?
+Patient: You got it.
+Clinician: Hey dragon, show me the vital signs. So, here it... Your vital signs look great. Your oxygenation is 96%. So that's very good. Okay? Uh, I'm just going to check out your heart and lungs, and I'll let you know what I find. Okay?
+Patient: Sure.
+Clinician: Okay. So on exam, you do have some cervical lymphadenopathy. And your lungs have bilateral ronchi in them, um, and some wheezing. So, what that means is, you know, you have a little infection. You probably have a little bit of a cold, and you have some lymph nodes that are swollen, and some congestion in your lungs, like you said. Let's go ahead and take a look at some of your results. Okay?
+Patient: Mm-hmm.
+Clinician: Hey dragon, show me the lipid panel. So your cholesterol, for the most part, is really good. I think you're doing a good job. Uh, I don't think you have to make any changes right now. Um, hey dragon, show me the covid test. Turns out you're positive for... For covid. So the results of your po- your covid test are positive.
+Patient: Okay.
+Clinician: So, I know you were vaccinated. You probably have a, a, a very, um, low-level positivity. So let's talk about that. So for your first problem, uh, is your covid infection. And I think the vaccine has helped you. It seems to be very mild at this time. Your oxygenation is really good. I want you to quarantine for t- for 10 days, so, uh, try to avoid your other household family members. Okay?
+Patient: Okay.
+Clinician: And you're going to have to take off work. Um, if your symptoms worsen, I want you to call me.
+Patient: Okay.
+Clinician: It's just supportive management. Uh, for your next problem, your high cholesterol, let's continue you on the crestor 20 milligrams a day, and continue to watch your ja- your, your diet and I- then I'll go ahead and order another lipid panel for six months. And, from a coronary artery bypass grafting standpoint, your coronary artery disease seems under control. You're exercising. You don't have any chest pain. We'll do a stress test in six months as well.
+Patient: Okay.
+Clinician: Okay? Any questions?
+Patient: No questions.
+Clinician: Okay. It was good to see you.
+Patient: Same here.
+Clinician: Hey dragon, finalize the note.

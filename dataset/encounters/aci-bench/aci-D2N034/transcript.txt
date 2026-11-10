@@ -1,0 +1,43 @@
+Clinician: Alright you can go ahead
+Patient: Hey Alan I good to see you today so I looked here my appointment notes and I see that you're coming in you had some shoulder pain left shoulder pain for the last three weeks so
+Clinician: How you doing is it is it gotten any better
+Patient: Yeah yeah I've been having a lot of pain of my shoulder for the last three weeks now and it's not getting better okay do you remember what you were doing when the pain first started
+Clinician: So I I was thinking that I I can't recall like falling on it injuring it getting hit
+Patient: Hmmm
+Clinician: I have been doing a lot of work in my basement and I even I put in a new ceiling so I don't know if it's from all that activity doing that but otherwise that's that's all I can think of
+Patient: Okay so do you remember hitting it or anything like that
+Clinician: No nothing at all
+Patient: Okay alright did you fall do you remember doing that
+Clinician: No
+Patient: Okay hmmm so like a little mystery so have you had pain in that shoulder before
+Clinician: I mean I'm very active so I can get pains in my shoulders but it's nothing that sometime some tylenol can help
+Patient: Okay and are you able to move the arm or is it kinda just stuck
+Clinician: I'm having a lot of pain like I can move it but you know when I try to reach for something lifting anything and even like I don't even try to put my hands over my head because it causes so much pain
+Patient: Alright so does that pain radiate anywhere or like where would you say it is in your shoulder
+Clinician: It actually it stays pretty much just right at the shoulder it doesn't go down anywhere
+Patient: Okay and the pain is it is it all the time or does it come and go
+Clinician: It's pretty much all the time anytime I put any pressure on it like when I'm trying to sleep it hurts even more so it's been affecting my sleep as well
+Patient: Okay so I know you mentioned tylenol so this time I haven't taken anything for it
+Clinician: Yeah I I do the tylenol which usually works for me and it does take the edge off but I still have pain okay did you try icing it at all
+Patient: I iced it initially but I haven't iced it at all recently
+Clinician: Alright
+Patient: And so with your shoulder have you experienced any numbness in your arm or in your fingers
+Clinician: No numbness or tingling
+Patient: Okay good so I'm gon na go ahead and do a quick physical exam and take a look at your your shoulder so I reviewed your your vitals everything looks good with that so touch here in your shoulder so your left shoulder exam you have limited active and passive range of motion so pressure here so that there is tenderness of the greater
+Clinician: Okay
+Patient: Tuberosity of the humerus let's see there is no tenderness at the sternoclavicular or acro
+Clinician: Yeah
+Patient: Acromioclavicular joints
+Clinician: Yeah yeah
+Patient: And looks like you have good hand grip let me see so on the neurovascular exam of your left arm your capillary refill is less than three seconds and your sensation is is intact to light touch
+Clinician: Yes thank you yep
+Patient: So you did get a we get we had to get a x-ray of your shoulder before you came in and so it's normal so that's really good so there is no fractures no bony abnormalities so let's talk a little bit about my assessment and plan for you so you you do have that left shoulder pain so your symptoms are
+Clinician: Most likely due to a rotator cuff tendinopathy so this means that you injured tendon you have injured tendons and muscles that make up your shoulder and make up your shoulder muscles so what I'm gon na do is I'm gon na order an mri of your left shoulder
+Patient: And so we're gon na begin with that just to make sure nothing else is going on have you done physical therapy before
+Clinician: I haven't
+Patient: Okay so what I'm gon na do I'm going to refer you to physical therapy for approximately six to eight weeks and so they can help you strengthen those muscles around your shoulder and that should definitely help with the pain during that time you can also continue to take tylenol I don't think I need to prescribe anything else for the pain you said as it's working pretty good for you so if your symptoms don't improve we can consider a steroid injection of your shoulder which should provide some relief but I think right now we can just go with the the pt and hopefully that works to alleviate your injury so do you have any questions about the plan
+Clinician: So like I said I'm really active do you think that this pain will ever go away
+Patient: Yeah so many patients are very successful with rehab and so we'll start with that and see how you do most most of the time once we build up those muscles around that shoulder you know things things the pain alleviates itself and and and you will be good to go back to working on your basement and running and jogging and lifting weights all all the active things people do these days
+Clinician: Okay alright thank you
+Patient: Bye
+Clinician: Okay bye

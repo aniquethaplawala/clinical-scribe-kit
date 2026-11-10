@@ -1,0 +1,40 @@
+Clinician: Hello, mrs. Martinez. Good to see you today.
+Patient: Hey, dr. Gomez.
+Clinician: Hey, dragon, I'm here seeing mrs. Martinez. She's a 43-year-old female. Why are we seeing you today?
+Patient: Um, my arm hurts right here. Kind of toward my wrist. This part of my arm.
+Clinician: So you have pain in your distal radius?
+Patient: Yes.
+Clinician: How did that happen?
+Patient: Um, I was playing tennis, and when I went to hit, um, I was given a, a backhand, and when I did, I m- totally missed the ball, hit the top of the net but the pole part. And, and it just jarred my arm.
+Clinician: Okay. And did it swell up at all? Or-
+Patient: It did. It got a... It had a little bit of swelling. Not a lot.
+Clinician: Okay. And, um, did, uh, do you have any numbness in your hand at all? Or any pain when you move your wrist?
+Patient: A little bit when I move my wrist. Um, no numbness in my hand.
+Clinician: Okay. Do you have any past medical history of anything?
+Patient: Um, yes. Allergic, um, l- I have allergies. And so I take flonase.
+Clinician: Okay. And any surgeries in the past?
+Patient: Yes. I actually had a trauma of, um, a stabbing of, um... I actually fell doing lawn work-
+Clinician: Okay.
+Patient: On my rake.
+Clinician: Okay.
+Patient: Yeah.
+Clinician: I was wondering where you were going to go with that.
+Patient: Yeah.
+Clinician: Okay. Great. So, let's take a look at, uh, the x-ray of your arm. Hey dragon, let's see the x-ray. Okay, looking at your x-ray, I don't see any fractures, uh, don't really see any abnormalities at all. It looks essentially normal. Great. Let me examine you.
+Patient: Okay.
+Clinician: Does it hurt when I press on your arm here?
+Patient: Yes.
+Clinician: Okay. How about when I bend your arm?
+Patient: Yes.
+Clinician: Okay. That's pretty tender,?
+Patient: Mm-hmm.
+Clinician: How about when I go backwards like that?
+Patient: Not as much.
+Clinician: And how about when I flex like this?
+Patient: A little.
+Clinician: But mostly when I do that type of motion?
+Patient: Yes.
+Clinician: Okay, great. So, um, you have pain following hitting your arm on the net. On your exam, you definitely have some tenderness over your distal radius, um, on your arm. You have pain when I stress especially your thumb, and, and flex your thumb. So, I think what you have is basically just a strain and maybe a contusion to that muscle, from hitting it. Um, you certainly don't have a fracture. I think at this point, we're really going to treat it actually conservatively. We'll have you use ice, um, uh, for the, the pain and swelling. And some anti inflammatory. Um, what we'll do is give you some motrin, 800 milligrams three times a day, with food. Um, if it doesn't get any better in the next week or so, let me know, and we'll take a look at you again.
+Patient: Okay.
+Clinician: Okay, great. Hey dragon, go ahead and order the procedures, and the medications as discussed. Why don't you come with me. Dragon you can finalize the note.
+Patient: Thank you.

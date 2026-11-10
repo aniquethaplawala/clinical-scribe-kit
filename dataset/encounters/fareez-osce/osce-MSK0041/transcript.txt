@@ -1,0 +1,115 @@
+Clinician: How may I help you?
+Patient: I'm I am here because I've had this intense pain in my right foot for the past six hours or so or so, and I thought it was important to come get it checked out by you guys.
+Clinician: OK, so you say it started six hours ago has the pain been getting better or getting worse?
+Patient: Uhm, it's been it's been the same since it started.
+Clinician: OK, and was there any trauma to the foot or anything happen within the last day, or in the last six hours?
+Patient: No, not no trauma.
+Clinician: OK and, where is the pain located if you had to try to pinpoint it with one finger?
+Patient: It's just below my big toe, kind of like on the medial side.
+Clinician: OK. Do you feel the pain radiating anywhere else, or you just feeling it at that one spot?
+Patient: I'm feeling it just in that one spot.
+Clinician: OK. And how would you describe the pain?
+Patient: It's intense, it's sharp.
+Clinician: OK, and and has there been anything that you've tried that's made the pain better?
+Patient: Um no I haven't really tried anything. I've I can't seem to move it so every time I move it, it hurts. I'm trying to keep it pretty still and stationary. I took an ibuprofen, that's not, that doesn't seem to help.
+Clinician: OK. And so like any movement makes it it worse, is there anything else that makes it worse, like putting socks on or even having I don't know clothing touch it or your shoes touch it?
+Patient: Yeah, I guess yeah, my shoes, my shoes touching it hurts.
+Clinician: OK, and are you able to walk?
+Patient: I'm able to walk on it, it's just very painful and I can't you know, I can't bend that toe. I can't flex it or extend it, but my other toes are OK.
+Clinician: Alright, and how would you describe the severity of this pain. One being the least pain and 10 being the worst pain you've ever felt.
+Patient: I say it's like an 8.
+Clinician: OK, and have you ever had a pain like this before and in your toes or or any of your other joints?
+Patient: No, never.
+Clinician: OK. And have you had any neurological symptoms such as like numbness or tingling or sensory loss?
+Patient: No.
+Clinician: OK, how about any muscle weakness?
+Patient: No, nothing like that.
+Clinician: Alright, and have you had any any headaches?
+Patient: No, no headaches.
+Clinician: Have you had any memory loss or or or confusion?
+Patient: No.
+Clinician: OK. Have you had any fevers or chills?
+Patient: No.
+Clinician: Have you had any unexpected weight loss?
+Patient: No.
+Clinician: And have you had any any night sweats?
+Patient: No.
+Clinician: OK, and how about any sensory changes like changes to your vision, hearing, sense of smell or sense of taste?
+Patient: No changes there.
+Clinician: Alright and have you had a sore throat or runny nose?
+Patient: No.
+Clinician: And how about having a cough or shortness of breath?
+Patient: No, nothing like that.
+Clinician: OK, and have you had any chest pain?
+Patient: No.
+Clinician: And how about any heart palpitations or feeling like your heart is racing.
+Patient: No.
+Clinician: OK. And have you had any lightheadedness or dizziness?
+Patient: No.
+Clinician: OK. And how about any nausea or vomiting?
+Patient: No.
+Clinician: Alright, have any abdominal pain?
+Patient: Nope.
+Clinician: Any changes to your bowel habits like diarrhea or constipation?
+Patient: No, I don't think so.
+Clinician: OK, and have you had any changes to urinary patterns like pain frequency or incontinence?
+Patient: No.
+Clinician: OK. And have you had any skin changes like rashes or any changes to your nails or hair?
+Patient: No.
+Clinician: OK, and how about your energy, have you had a fatigue or malaise recently?
+Patient: Uh no, nothing like that.
+Clinician: Alright, and any muscle aches or body pains or or any joint pains anywhere else?
+Patient: No.
+Clinician: OK, um and have you been diagnosed with any medical conditions in the past?
+Patient: Um no, I am. Actually sorry I have um high blood pressure as well as diabetes and I am a little overweight. But other than that, nothing else.
+Clinician: OK, do you take medications for any of those things?
+Patient: Um I take ramipril for high blood pressure and I'm on insulin for the diabetes.
+Clinician: OK, have you had any medication changes recently?
+Patient: Um no, no medication changes.
+Clinician: OK. And have you had any prior hospitalizations or surgeries?
+Patient: I was recently hospitalised for kidney stones. But that since has resolved.
+Clinician: OK.  Have you had any any surgeries?
+Patient: No surgeries, just the lithotripsy for the kidney stone.
+Clinician: OK, and are your immunizations up to date?
+Patient: Yep they are.
+Clinician: Excellent, um OK and do you smoke cigarettes?
+Patient: No, I don't.
+Clinician: How about marijuana or using other cannabis products?
+Patient: No.
+Clinician: OK and do you use any recreational drugs?
+Patient: Uh no.
+Clinician: OK, and how about alcohol, how many drinks per week would you have usually?
+Patient: Um alcohol have about. I usually have about 2 glasses of wine a day.
+Clinician: OK, and has that changed recently for you.
+Patient: No, not really. I've just been I've also been start drinking like a beer every day as well recently.
+Clinician: OK. Alright, and alright could you tell me a little bit about your living situation right now who you're living with and and where?
+Patient: I live with my son in a house.
+Clinician: OK, uh, and have you been around anybody who's been sick?
+Patient: No.
+Clinician: Alright, and have you traveled anywhere recently?
+Patient: Um no no travel recently.
+Clinician: OK, and and can you tell me a little bit about your diet an and like do you eat a lot of red meat and or a lot of seafood like like shell shellfish?
+Patient: I eat a lot of red meats. But not a lot of um seafood.
+Clinician: OK. And. OK, and anybody in the family have a history of musculoskeletal or or neurological conditions?
+Patient: Um so. Who OK, so my my father had like arthritis and I don't remember what kind of arthritis he had but he had severe arthritis. He also had high blood pressure and diabetes, and on my mother's side. Um there is some arthritis there as well and as well as gout and kidney stones.
+Clinician: OK.  So that that was everything I wanted to ask all the history. And so, uh, next to ask you to have a look at your feet. And are you seeing any swelling, redness, or discolouration?
+Patient: I see some redness and uh, some swelling in that area.
+Clinician: OK, and are you feeling any temperature changes?
+Patient: Yes, and the right one is definitely warmer than the left.
+Clinician: OK, then how about any muscle atrophy in the foot or or lower leg or any joint malalignment or deformities?
+Patient: Uh, so in terms of deformity is like it just looks swollen and so there's like a big bump on the right side of my foot, whereas it's completely straight on my left, but other than that, no deformities.
+Clinician: OK, and if you were to a palpate or press on areas of your foot or joints of your toes, are you feeling any any pains along the top of your foot or or in any of your other toes?
+Patient: None of my other toes.
+Clinician: OK, and how about any pains at the ankle?
+Patient: Um no pain at the ankle.
+Clinician: OK, so the metatarsals are not having any pain and then the joints of the 2nd 5th digits are pain free along with the ankle as well. Um and when it comes to range of motion, are you able to flex your toes downwards and extend them upwards towards your nose?
+Patient: Yes, I can do that.
+Clinician: OK, and how about your ankle, are you able to um move your ankle on a full range of motion.
+Patient: I can.
+Clinician: OK, and are you having a limping with, walking or otherwise called an antalgic gait?
+Patient: Somewhat because I'm trying not to put too much weight on my right big toe.
+Clinician: OK. Alright, and so I think that was everything that I wanted to ask and check today. So did you have any other questions or anything that I maybe forgot to ask about you wanted to mention today?
+Patient: Um no just what can I do for my foot how do I make the swelling go down?
+Clinician: Yeah, for sure it's so right now with having a like a red, warm and swollen joint that that's extremely tender and has limited range of motion. It's important to rule out a septic arthritis, however. Based on several of the risk factors such as diabetes, and obesity, as well as your family history of arthritis and gout. Taking the most likely thing is that this is a gout flare, and in particular in the toe like that it could be called podagra and so we will need to get a aspiration of the joint fluid just to send it off and make sure that it's not not an infection and that we're treating the right thing. If this is, gout and it comes back that this way it's treated with that high dose, high doses of anti inflammatories. I will start with medication called colchicine to help with this flare, and in the meantime, important things for preventing this in the future are diet and kind of lifestyle related with reducing things like red meats, alcohol, weight loss and um just trying to improve the diabetes management as well.
+Patient: OK, that sounds great. Thank you.
+Clinician: Alright, thank you, we will get that started.

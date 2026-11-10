@@ -1,0 +1,91 @@
+Clinician: Patient's name is Diana Scott. Date of birth, 12/8/1920. The date of service is 7/9/2021. This is a new patient note. Good afternoon. How are you today?
+Patient: I'm good, thank you.
+Clinician: Good. Well, what brings you in to see me today?
+Patient: Well, my doctor says that I have a heart murmur.
+Clinician: Okay.
+Patient: So I don't know how big a heart murmur I have, or really even what it is.
+Clinician: Okay. So how long have you had that for? Do you have any idea, or is that completely new as far as you know?
+Patient: Yeah, she said it's a new worrisome heart murmur. So of course, I'm worried as well.
+Clinician: Got it. Okay. And are you having any symptoms at all?
+Patient: I don't think so. I don't know what symptoms I should be having.
+Clinician: Okay. Well, so you are 100, so we can't really get around that one. So I expect that you probably don't move quite as fast as maybe you used to?
+Patient: No, I definitely don't.
+Clinician: Okay. And do you notice that you have any chest pain or f- feel shortness of breath?
+Patient: No, I don't have any chest pain. Um, my problem is I have severe pains in my legs, and so she had me going for a chest x-ray, and that was just last week.
+Clinician: Okay.
+Patient: And so I started taking pain pills for my legs.
+Clinician: Okay, got it, for the legs. And do you feel short of breath at all?
+Patient: If I walk too fast or too long, or if I tried to drink a whole glass of water without stopping, then yeah, I do get short of breath that way.
+Clinician: Okay. And how far can you walk before you feel short of breath or sort of overly fatigued?
+Patient: Well, I do have a walker now, so I don't know. Maybe when I walk to the end of the driveway or I walk around the culdesac.
+Clinician: Got it. All right.
+Patient: So it isn't that bothersome to me at all. Um, maybe more if I try to overdo it.
+Clinician: Okay.
+Patient: Then I, um, I get short of breath if I do overdo it though.
+Clinician: Okay, got it. And so how different would you say, um, that the symptoms are now compared to like six months ago or a year ago?
+Patient: I would say probably 70 to 80% from about six months ago. Before that I didn't notice anything at all.
+Clinician: Okay. So do you feel like it's mainly the leg pain that seems to limit you?
+Patient: My legs have been severe for about a month now.
+Clinician: Okay. And how about, do you feel lightheaded or dizzy at all?
+Patient: Yeah. So I do take a pill for that when it does get bad.
+Clinician: Okay.
+Patient: Yeah, and I don't take it every day, only when I do feel dizzy.
+Clinician: Okay. And so how about any passing out at all?
+Patient: No.
+Clinician: Okay, good. And how about irregular heartbeats? Do you ever feel like your heart is going too fast or like it skips a beat?
+Patient: I don't notice it at all.
+Clinician: Okay, great. And how about any swelling in the legs at all?
+Patient: Yeah, my ankles swell.
+Clinician: Okay. And how long has this been going on?
+Patient: Um, I would say for probably six months. But it goes up and down, and sometimes it's worse than other times.
+Clinician: Okay. And how about any recent weight gain or anything else like that?
+Patient: Um, I lost a little bit of weight, but I still weigh a 120 pounds, but I normally weigh about 130 pounds.
+Clinician: Mm-hmm. Okay.
+Patient: Um, but that's been going down gradually for about a year.
+Clinician: Okay. And then how about any fevers, chills or anything else that's, that's going on that you can think of?
+Patient: No.
+Clinician: Good. So mainly it sounds like you came in, um, mostly because of the murmur. Is that right? And sort of just kind of seeing what things look like?
+Patient: Yeah, that and I feel overly tired because I take all that medication.
+Clinician: Okay. And so fatigue as well. And have you ever had any testing of your heart done?
+Patient: I'm not really sure.
+Clinician: Okay. It does look like you've had a decent number of sh-, uh, surgeries here,?
+Patient: Yeah, you name it.
+Clinician: All right. Well, I won't make you repeat them since I do have a good record. Um, but just give me just a second and I'm going to enter the ones we need, okay? All right. Got them. And then, are you taking all the medicines that you went through with madison?
+Patient: Yes.
+Clinician: Okay, good. And looking at your family history, it looks like maybe your brother had a heart attack. Is that correct?
+Patient: It was actually my son, not my brother.
+Clinician: Okay, I'll make that adjustment.
+Patient: Um, but my brother did have a stroke. But that was because he had gotten sugar diabetes, and my eldest sister did have a heart problem as well.
+Clinician: Okay, I see.
+Patient: Yeah, so heart problems kinda run in the family.
+Clinician: Okay. All right. Well, it looks like also that you never smoked. That's excellent. And then no allergies to medicines that you know of, is that correct?
+Patient: Correct.
+Clinician: All right. Well, let's do a quick exam.
+Patient: All right. Sounds good.
+Clinician: All right. Well, for physical exam, please use the regular template. All right, please just breathe normally. Great. And now take a few deep breaths for me. All right. Do you feel okay? Are you feeling any dizziness or anything?
+Patient: No, I feel fine.
+Clinician: Okay, great. All right. Well, that is it for the exam.
+Patient: Okay.
+Clinician: All right. So what I'm thinking is, let's go ahead and schedule you for an echocardiogram. It's a very common test and it just takes a picture of your heart. And it'll let me see how well your heart is actually working.
+Patient: Okay.
+Clinician: And I can order that for today. Um, do you have time to complete that? It shouldn't take too long.
+Patient: Yes, that's fine. I have time.
+Clinician: Okay, great. So we will complete that today, um, to assess your overall cardiac structure and function, as well as, uh, the valve view of where diseased.
+Patient: Okay.
+Clinician: And some hospital outcomes and what we might suggest to fix that out, I'll go over that. So one possible suspicion I'm having is it's called, um, aortic stenosis, and that just means that one of your main valves of your heart has narrowed a bit and the valve doesn't really open, um, quite fully. And this could just reduce or block the blood flow from your heart into the main artery of your body, and that's called the aorta, into the rest of your body.
+Patient: Okay.
+Clinician: And if this is severe, then we might wan na perform a procedure called the transcatheter aortic valve replacement, or we just call it tavr. And it is a minimally invasive procedure to replace the valve.
+Patient: Well, I would have to think about that. I'm not too sure I'd wan na do that, given my age of all.
+Clinician: Yeah, sure, no problem. And we don't have to make any decisions today, just, you know, wanted to go over a couple of these things. Um, but sometimes we can also perform a surgical aortic valve replacement, or it's called an savr. But really, because of your age and medical history, um, unfortunately, that wouldn't be a good option for you.
+Patient: I see. Okay. Well, I guess we'll see, um, what you see from, from the, um, test.
+Clinician: Yeah, agreed. Okay. And, um, so couple other things real quick. So it looked like your blood pressure looked really good today. So we're not going to change your amlodipine or lisinopril. So just continue taking those as you are currently.
+Patient: Okay, good.
+Clinician: And then, it also looks like you're taking about 20 milligrams of simvastatin for your lipids. And I will pr-, um, defer to your pcp. However, given you are having leg pain in both your legs, and given your age and no history of coronary artery d-, artery disease, it is possible that you might be able to stop your statin.
+Patient: Really?
+Clinician: Yeah, um, possibly. He would have to evaluate you, but it is certainly something to discuss with him. So I will send over the results of the echocardiogram and also my recommendations and then you guys can talk about the statin.
+Patient: Okay, that sounds great. Thank you.
+Clinician: You're welcome. And then, um, lastly, your hyperthyroidism, uh, I see you're taking levothyroxine. And again, no change here and you can just keep taking that as you have them.
+Patient: Okay, I will.
+Clinician: All right. So we will see you back here in about three or four weeks to discuss the results and your next steps. Um, and we'll, uh, take care of your echocardiogram today. Um, any questions?
+Patient: Not that I can think of. Thank you so much. And I think it looks good.
+Clinician: Okay, awesome. All right. Well, have a good rest of your day, and we'll see you soon. For physical exam, constitutional elderly otherwise no acute distress. Cardiovascular normal s1 and s2 is preserved with a normal rate and regular rhythm. There is a 4/6 systolic murmur at the right upper sternal border with, uhm, mild radiation to the carotids. Neurologic gait is normal for age. For assessment and plan, probably one cardiac murmur. Diana has a 4/6 systolic murmur at the upper right sternal border with mild radiation to the carotids. This is most likely representative of aortic stenosis, for symptoms could be due to severe aortic, aortic stenosis. However, her s2 is relatively preserved, which would be more consistent with, consistent with moderate. Some of her outside records do note diastolic dysfunction, so it is possible she, she did have an echocardiogram at some point in the past. She does not appear significantly volume overloaded today. Her next problem is pvcs. Her referral mentioned tachycardia. Uh, her ekg today shows sinus rhythm with frequent pvcs, as well as an anterior septum infarct pattern. She does not have any significant palpitations and we will check an echocardiogram to assess overa- overall cardiac structure and function. Depending on results as well as the severity of her aortic stenosis, we will need to consider an ischemic evaluation, or further, possibly a heart mon- monitor to assess overall burden of the pvcs. At this point, she's asymptomatic, so we will start with the echocardiogram only. Her next problem, hypolipidemia, is managed by her pcp. Due to bilateral leg pain over the last month, considered tavr evaluation following echocardiogram. Statin could be indicated. And next problem, lightheadedness, dizziness. She is on meclizine for this. It is possible that some of her lightheadedness and dizziness is related to the aorta stenosis, and we will do an echocardiogram as noted above. Pvcs on her ekg could be contributing, but she does not feel palpitations. We will consider a monitor, but start with the echocardiogram first as noted above. Follow up three to four weeks after her echocardiogram is done to discuss results and next steps. End of dictation.

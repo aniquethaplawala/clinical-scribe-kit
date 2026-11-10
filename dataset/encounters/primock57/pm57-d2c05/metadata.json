@@ -1,0 +1,21 @@
+{
+  "encounterId": "pm57-d2c05",
+  "source": "PriMock57",
+  "sourceUrl": "https://github.com/babylonhealth/primock57",
+  "license": "CC-BY-4.0",
+  "citation": "korfiatis2022primock57",
+  "originalId": "day2_consultation05",
+  "setting": "primary care (UK, remote consultation)",
+  "chiefComplaint": "My asthma is not responding to my inhalers",
+  "durationSeconds": 634.5,
+  "audio": {
+    "doctor": "https://media.githubusercontent.com/media/babylonhealth/primock57/main/audio/day2_consultation05_doctor.wav",
+    "patient": "https://media.githubusercontent.com/media/babylonhealth/primock57/main/audio/day2_consultation05_patient.wav"
+  },
+  "turns": 101,
+  "wordCount": 1929,
+  "hasReferenceNote": true,
+  "audioInRepo": true,
+  "hasAudio": true,
+  "simulated": true
+}

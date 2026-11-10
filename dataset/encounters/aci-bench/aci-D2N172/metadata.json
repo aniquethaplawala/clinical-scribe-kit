@@ -1,0 +1,25 @@
+{
+  "encounterId": "aci-D2N172",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N172",
+  "split": "clef_taskC_test3",
+  "collectionMode": "virtassist",
+  "chiefComplaint": "abnormal labs",
+  "secondaryComplaints": [
+    "hypertension",
+    "depression "
+  ],
+  "patient": {
+    "age": 50,
+    "gender": "male"
+  },
+  "turns": 44,
+  "wordCount": 560,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

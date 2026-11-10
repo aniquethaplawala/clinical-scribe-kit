@@ -1,0 +1,722 @@
+{
+  "encounterId": "pm57-d2c05",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 1.0,
+      "end": 5.55,
+      "text": "Hi there. Good morning. I'm Doctor [inaudible] from GP at Hand. Nice to see you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 5.59,
+      "end": 7.08,
+      "text": "Hi."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 6.84,
+      "end": 11.57,
+      "text": "OK. So, um, before we start your appointment. Could I confirm your full name and date of birth please?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 11.43,
+      "end": 15.27,
+      "text": "Yeah, it's John Smith, and I am thirty two years old."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 15.95,
+      "end": 17.88,
+      "text": "Sorry, I didn't catch your date of birth."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 18.31,
+      "end": 19.58,
+      "text": "I'm thirty two years old."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 19.49,
+      "end": 24.95,
+      "text": "Thirty two years old, OK. Could you tell me the first line of your address, and your postcode please?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 25.11,
+      "end": 29.09,
+      "text": "It's four Park Avenue, and it's AB one CB two."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 29.16,
+      "end": 33.79,
+      "text": "That's great, thank you so much for that. Are you in a private place where you're OK to speak at the moment?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 33.89,
+      "end": 34.41,
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 34.52,
+      "end": 38.87,
+      "text": "OK. So how can I help you today? You've been having some problems with your asthma. Is that right?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 39.91,
+      "end": 41.42,
+      "text": "Sorry, say that [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 40.84,
+      "end": 42.82,
+      "text": "How can I help you today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 43.23,
+      "end": 56.01,
+      "text": "So, um, I've been experiencing very weird symptoms, over the past month or so. And I don't know what's causing them. I have googled it and, um, nothing's coming up, so I thought I'd come and speak to you about it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 49.12,
+      "end": 59.59,
+      "text": "OK. OK. So, tell me a bit more about these weird symptoms you've been having."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 61.26,
+      "end": 75.62,
+      "text": "So, it started with, feeling very tired, but for a couple of days, and then I get back to normal. And then I started losing feeling, in my hands and arms. I get a weird sensation like, uh, I guess, pins and needles."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 76.68,
+      "end": 83.97,
+      "text": "Right [inaudible] again, the connection's not so great. You've been getting pins and needles in the hand. Is that right?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 77.16,
+      "end": 85.19,
+      "text": "And. Yeah, that's correct."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 85.69,
+      "end": 87.46,
+      "text": "OK. Is that the right or left hand?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 87.41,
+      "end": 88.73,
+      "text": "My right hand."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 89.09,
+      "end": 90.46,
+      "text": "Is it always the right?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 89.87,
+      "end": 91.45,
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 92.45,
+      "end": 105.64,
+      "text": "OK. Um, we've lost video now, maybe is there a, a, a button you can press? OK. Are you happy for us to carry on without the video? I can't see you at the moment."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 105.46,
+      "end": 106.57,
+      "text": "Yes, that's fine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 106.96,
+      "end": 116.97,
+      "text": "All right. Um, so, you've been having these pins and needles, and episodes of numbness, in the right hand. Is it just the hand, or does it go up the arm as well?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 117.59,
+      "end": 126.9,
+      "text": "Uh, the pins and needles are in the hand, but I feel like my arm is getting weaker, but it only lasts few days and then goes back to normal. So, it's very weird."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 127.69,
+      "end": 131.23,
+      "text": "Right, OK. Um, is there any involvement of your leg at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 131.86,
+      "end": 139.86,
+      "text": "Uh, my, colleague said, I'm walking slightly differently to normal. And again, it's only for three days, or three or four days."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 140.97,
+      "end": 144.58,
+      "text": "OK. You, you said you've been having weird symptoms for about a month."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 145.29,
+      "end": 145.85,
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 146.08,
+      "end": 149.3,
+      "text": "[inaudible] , so, what has been happening from the beginning of the month? What else has been happening?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 150.51,
+      "end": 158.01,
+      "text": "Um, I generally feel tired, and weak. And, sometimes I feel nauseous, and I don't feel like I want to do anything."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 159.67,
+      "end": 169.42,
+      "text": "Right, OK. Um, and, um. You know, [inaudible] , your colleague said you've, you've not been walking normally."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 169.63,
+      "end": 170.25,
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 170.36,
+      "end": 175.69,
+      "text": "Do you feel anything different, on either side, in terms of your legs? Can [inaudible] , have you noticed anything different?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 176.47,
+      "end": 181.35,
+      "text": "Yeah, so, at the same time I get my arm symptoms, my leg feels weaker."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 182.7,
+      "end": 190.93,
+      "text": "Right, OK. And. You know you, the abnormal gait. Has that been present, outside of these episodes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 191.84,
+      "end": 195.67,
+      "text": "No, it has not. So normally, I'm, fit and well actually."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 193.49,
+      "end": 202.84,
+      "text": "Right, [inaudible] . All right, OK. Um, and, these, these episodes. How often have they been happening?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 204.18,
+      "end": 214.82,
+      "text": "They have been getting more regular. So at the start, it would be maybe once a week, uh, to every once [inaudible] , once a month, but now it's getting uh, uh, a couple of times a day."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 216.09,
+      "end": 222.22,
+      "text": "Right, OK. And, how long have these episodes been going on for? When, when did it all start? Was it a month ago?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 220.67,
+      "end": 223.7,
+      "text": "[inaudible] , probably a month and a half, maybe two months."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 223.98,
+      "end": 236.32,
+      "text": "Right, OK. OK. And, along with these symptoms, of the weakness and numbness. Do you have any other symptoms at the same time? Like swallowing, or difficulty speaking, or vision problems?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 236.73,
+      "end": 249.44,
+      "text": "So, recently I've noticed, I can't hold my cup of coffee. And when I, do drink coffee, it's slightly harder to drink. And that's only been in the last couple of days, I guess."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 250.85,
+      "end": 254.57,
+      "text": "Right. Is that during these episodes, or outside of these episodes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 254.6,
+      "end": 256.15,
+      "text": "Only during the episodes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 256.39,
+      "end": 260.02,
+      "text": "OK. Do you have any difficulty swallowing at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 260.08,
+      "end": 261.3,
+      "text": "Not currently, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 261.34,
+      "end": 263.78,
+      "text": "[inaudible] . During the episodes, do you have any difficulty swallowing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 264.1,
+      "end": 266.66,
+      "text": "I, I, I feel like there's something in my throat."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 267.52,
+      "end": 272.98,
+      "text": "OK. What about, [inaudible] um, difficulty speaking during these episodes? Any, any issues with that at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 273.3,
+      "end": 274.67,
+      "text": "No, I can speak fine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 275.3,
+      "end": 278.34,
+      "text": "OK. And any visual problems during these episodes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 278.64,
+      "end": 280.75,
+      "text": "I, I don't think so, but I wear glasses."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 281.08,
+      "end": 288.89,
+      "text": "OK, all right. Now um, can I just ask? [inaudible] , has, uh, is there any history of stroke, or mini-strokes in your family?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 289.96,
+      "end": 299.26,
+      "text": "Uh, yes. My, father has had a, operation to the side of his neck, to reduce the risk of stroke."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 299.79,
+      "end": 310.14,
+      "text": "Right, OK. Um, and, uh, how about yourself? Have you had any history of, mini-strokes or anything like that, along those lines? I know you're quite young."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 310.54,
+      "end": 317.62,
+      "text": "No, so after my, dad had his operation, I was required to be checked, and my cholesterol [inaudible] , was fine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 318.85,
+      "end": 324.64,
+      "text": "Good, excellent. So you had a, a blood test done. And did they check for diabetes as well?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 322.87,
+      "end": 332.05,
+      "text": "Yeah. They checked my diabetes, my blood pressure and my, cholesterol, and the doctor said it was all OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 331.9,
+      "end": 335.72,
+      "text": "Fantastic, OK. Now, do you have any other illnesses at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 335.83,
+      "end": 336.49,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 336.7,
+      "end": 338.36,
+      "text": "No. Are you on any medication?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 339.05,
+      "end": 344.43,
+      "text": "I take an aspirin, seventy five milligrams, once a day, but that's, because of something I read on the internet."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 345.82,
+      "end": 348.51,
+      "text": "OK. So, so, why is that? Why do you take that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 349.07,
+      "end": 352.85,
+      "text": "I think it's, meant to reduce your risk of stroke and heart attack."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 354.05,
+      "end": 357.95,
+      "text": "OK. Do, have you ever told a doctor before, your GP, that you're on Aspirin?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 358.3,
+      "end": 363.56,
+      "text": "Yes I took, I started to [inaudible] , taking it after my, father had his operation, but that wasn't the doctor telling me."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 364.24,
+      "end": 372.27,
+      "text": "OK. Uh, and, has any GP ever spoken to you about, the risks of Aspirin, and whether you should be on it? Or have you not [inaudible] , told the [inaudible] , the GP in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 372.27,
+      "end": 373.45,
+      "text": "No, I haven't."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 373.57,
+      "end": 385.1,
+      "text": "You haven't, OK. Um, all right. Um. Now, um, in terms of your uh, your kind of social situation. Um, are you working at the moment?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 385.38,
+      "end": 386.38,
+      "text": "Yes, I am."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 386.53,
+      "end": 387.69,
+      "text": "[inaudible] , what do you work as?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 388.18,
+      "end": 389.8,
+      "text": "Uh, I'm, uh, I'm actually a doctor."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 390.19,
+      "end": 392.02,
+      "text": "You're a [inaudible] , a, a medical doctor?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 391.86,
+      "end": 392.66,
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 392.93,
+      "end": 395.35,
+      "text": "OK. Uh, which, specialty are you in?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 396.36,
+      "end": 398.47,
+      "text": "I work in, uh, plastic surgery."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 398.72,
+      "end": 404.98,
+      "text": "Plastic surgery, OK, great. And, um, do you, have any, um, allergies to any medication at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 405.97,
+      "end": 408.13,
+      "text": "I'm allergic to penicillin only."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 408.37,
+      "end": 412.67,
+      "text": "OK. And, um, are you, um, living alone?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 413.1,
+      "end": 414.36,
+      "text": "No, I live with my wife."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 414.69,
+      "end": 419.8,
+      "text": "Right, OK. Um, fantastic. Uh [inaudible] , do you smoke at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 420.56,
+      "end": 421.42,
+      "text": "No, I don't."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 422.14,
+      "end": 430.55,
+      "text": "Right, OK. Um, that's fine. Now, obviously you're a, you're a medic yourself. Did you have any thoughts as to what might be going on?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 431.64,
+      "end": 434.22,
+      "text": "Uh, I've actually, got no idea."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 434.73,
+      "end": 446.77,
+      "text": "Right, OK. Um, well the, the way you're describing these episodes. They make me concerned about, mini-strokes or TIAs, [inaudible] , transient ischemic attacks. Um."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 446.33,
+      "end": 446.84,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 446.77,
+      "end": 468.23,
+      "text": "And so, that's something quite urgent. And given that you've got a family history of um, stroke. Um, even though you're quite young, I think um, it's something that we need to exclude. So, what I'm probably going to do, uh, in fact what I am going to do, is I'm going to, refer you to a stroke, a TIA clinic. Um, now just to double-check. Do you have the symptoms right now?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 468.61,
+      "end": 470.31,
+      "text": "No, I'm perfectly fine at the moment."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 470.28,
+      "end": 522.91,
+      "text": "OK. So, so, what I'm gonna do, is I'm uh, I'm gonna refer you to a, a mini-stroke clinic, or a TIA clinic. Um, I send that referral off now, and then you can attend them, they, they'll usually, call you in within the next one to two days, OK. Because it's something relatively urgent. Now, today it's Wednesday, so we've got a few days [inaudible] , before the weekend. So, um, uh, basically the deadline should be, Thursday, Friday. We're expecting you to be seen by the time, that's the kind of turnaround we're, we're looking at. And in that clinic, they'll be doing a number of things. Um, they'll be checking, they'll be doing a ultrasound of the, carotid arteries, like your, your father had. Um, and, they'll be doing a, maybe a, they might do a scan of your brain as well, to check if there's any signs of a bleed there. But, um, they'll be doing a range of tests in a short time frame, in order to exclude whether, you have um, any illness. OK, whether you have got any kind of stroke or, mini-stroke."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 519.55,
+      "end": 520.33,
+      "text": "Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 522.91,
+      "end": 551.19,
+      "text": "Now, if your symptoms return and they persist, they're prolonged. Then um, you may need to attend A and E. OK, because um, our presumptive, working diagnosis is, mini-stroke or TIA, OK. And if, a mini-stroke is prolonged then uh, then we end up thinking that this might be a stroke and in that case, that becomes even more of an emergency. So, we're not talking about waiting one or two days, we want you to go to hospital in that instance, as soon as possible, OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 550.95,
+      "end": 551.44,
+      "text": "Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 551.19,
+      "end": 584.87,
+      "text": "Now if [inaudible] , things happen again, feel free to contact us, we can assess you over the phone, we can give you direction and guidance over the phone. That's, that's, that's not a problem, you know, you, you've got easy access to us. OK. So, um, this is the plan going forward. Um, I'm going to, um, do that referral. You should hear back from the hospital, relatively soon. The hospital, you can actually ring them, on um, uh, the PALS number, and then there's also the TIA clinic number. I'm going to leave that number in the notes for this consultation, OK. So you'll have all the information you need, to chase this appointment."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 578.7,
+      "end": 579.27,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 584.87,
+      "end": 620.46,
+      "text": "And um, if you want, you can ring them, either today or tomorrow morning. [inaudible] , today in the afternoon, wait uh, one or two hours. Or tomorrow morning just to find out when they got time to slot you in. And, just to make sure they've got you in the system, that they've got in the books, and they're going to be calling you in, OK. [inaudible] , this isn't, a, an immediate emergency that you need to rush down to A and E. But it's something quite urgent we need to, deal with in a short space of time, OK. So if there's, if there's any delay that, transpires for example, you can't make the appointment or, you know, they, you don't get called. [inaudible] , you, you get, get in contact back, back with us, OK. All right. Did you have any questions at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 620.85,
+      "end": 622.7,
+      "text": "No, I think that covers, most of it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 623.06,
+      "end": 631.67,
+      "text": "OK, great. So just bear with me a few minutes, and then I'll send that uh, all through and then you should, um, you should be able to help, you should have the information at your hands to, in order to take things further, OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 631.83,
+      "end": 632.73,
+      "text": "[inaudible] , thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 632.76,
+      "end": 634.51,
+      "text": "All the best. Take care now. Bye bye."
+    }
+  ]
+}

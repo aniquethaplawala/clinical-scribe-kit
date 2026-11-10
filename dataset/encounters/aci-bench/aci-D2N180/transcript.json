@@ -1,0 +1,130 @@
+{
+  "encounterId": "aci-D2N180",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Patient Shirley Taylor. Date of birth 5/4/1961. Mrn 0000123. Patient is a 60 year old right-handed female new patient referred by dr. Jacob ward for evaluation of bilateral hand numbness and tingling. Please note that I personally reviewed the ct brain with and without contrasting did 2/5/21. Uh, no metastatic disease. No acute intercranial abnormalities. Hello ms. Taylor. How are you doing this morning?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hi dr. Lopez. This weekend was a bit rough. I've had this numbness and tingling for a few weeks now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So, in both of your hands?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah. Ever since my car wreck last december when I broke them. Well, once they heal, I mean, I noticed it more, the, the tingling and numbness."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Are you still wearing the splint only on your right wrist?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No. I wear the left one also sometimes. The right one's just worse. The splint seems to help. Both have gotten worse over the last month. When I broke them though, my wrist was definitely in worse shape than it is today. I've been having some mild stiffness in my neck too. I hit my head during the accident, and they told me it was a contusion."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And where exactly on the right side would you say the tingling and numbness is?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "On the right, I can really notice it from my middle and ring finger all the way up to my forearm, and on my left, a bit more the pinky and the ring and not the middle."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. And, um, is there is pain or, or just tingling and numbness?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, mainly just sore. Sometimes they throb, but overall, they feel weaker too, especially when I'm using them. The tingling happens some more, but when they hurt, you know, it goes away and then the tingling's just dull."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "What kind of activities?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well, really, I guess, just more so at night, and then it just kind of comes and goes throughout the day."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And do you experience any loss of sensation in your hands or fingers?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, like, like feeling something? No, not that I can think of really. In general, they might be less sensitive than they should be, but I can still feel. They gave me some nerve pain medicine, but I haven't been taking it like I should be."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Looks like your medical history is notable for chronic kidney disease, gout, hypertension, anxiety, gerd, and diabetes."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well, I had pre-diabetes, but I got in under control changing my diet."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Good. And are you still on the carvedilol 25 milligrams two times a day for hypertension and lexapro 10 milligrams a day for anxiety? Looks like your allergic to sulfa drugs as well. Is that correct?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I'm still taking those and sulfa just causes me to break out in a rash."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And no history of thyroid issues, right?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nope."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. Thank you ms. Taylor. I'll be right back for your exam. I want to look up that medication you mentioned for your nerve pain."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "All right. Thanks."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Review of systems, please make the following changes. Uh, constitutional, patient reports fatigue and weight gain. Gi, um, excessive appetite and bloating. Eyes, floaters. Uh, cardiovascular, shortness of breath and leg swelling. Endocrine, positive diabetes, always hungry. Skin, nail bed trenches, dryness, itching. Musculoskeletal, gout, muscle pain. Neurological, parasthesia, bilateral hands. Um, please use the default normal neuro-physical exam with the following changes. Sensations normal except pin prick sensation diminished in the third and forth fingers on the right. And the fourth and fifth fingers on the left. Reflexes are one plus and symmetric, two plus knees, toes are down going bilaterally, tinel's sign positive at both wrists and both elbows. Let's move onto assessment and plan, bilateral carpal tunnel syndrome, question of bilateral cubital tunnel syndrome. I discussed my impression with the patient, I will schedule her for emg, ncv. If her symptoms do not resolve, we can consider hand clinic referral for possible symptomatic injections or carpal tunnel release surgery although she can pursue these uh, through her current orthopedist. I encouraged her to wear her splints, returned for emg, ncv. End of note."
+    }
+  ]
+}

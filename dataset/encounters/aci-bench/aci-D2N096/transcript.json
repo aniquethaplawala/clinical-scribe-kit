@@ -1,0 +1,440 @@
+{
+  "encounterId": "aci-D2N096",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, hi mrs. Anderson. Right?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah. Yes, doctor."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "What brings you here today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hi, doctor. Um, I'm having this left shoulder pain lately, uh, and it's paining a lot."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. Hey, dragon. I am seeing mrs. Anderson, a 44-years-old female, uh, complaining to check the left shoulder pain. Um, so how long how has this lasted?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's been a week, doctor. Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "A week."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, did you take any medication yourself?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I did not take any pain medications. Actually, I did. I did take a tylenol for two or three days, but then that didn't help at all. So, uh, the reason why it started or when it started to happen is-"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": ". I was actually in gymnastics class."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, okay."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And, uh, I don't know. Maybe I must have toppled over into some weird position, so it started to pain since then, uh, because of a certain move."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, uh-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I went overboard, I think. Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right, lem me, uh, take a quick look. Uh, can you move up a little bit? Yeah."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, yeah. In fact, that's hurts."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Does that- does it hurt?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, it does."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "What if you move back a little bit?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, that also hurts, doctor."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, okay."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Any kind of movement on my left shoulder actually hurts."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right, um, so let's... Hey, dragon. Show me the last x-ray. All right, from the x-ray, it doesn't look like there is any, uh, broken bone or fracture. My guess is you probably, um, hurt your joint, uh-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh-."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": ". A little bit."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So I would, uh, suggest you continue using the pain reliever, maybe just like 600 milligram of ibuprofen three times a day and use it for a week."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And for how long? Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "For a week."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "A week, okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And then if you... If it's still painful, you can use, uh, ice or, um, heat pad-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": ". 'cause that might help relieve your pain."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um..."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "But I wanted you to know that I did have past surgery on my, um, left arm-"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": ". So, um, I hope that shouldn't matter, right?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, that doesn't seem related to your pain."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So... But I would try to rest my, your left arm-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": ". While it's healing."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So, um-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Can I, uh, carry any heavy weights or-"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, no. Definitely not."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": ". Anything like that?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Definitely not."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay. Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, use, um, right hand-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": ". Instead-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": ". For the next, uh, at least just three to four weeks."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Uh, come back to see me if the pain, you know, still there after maybe three weeks-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": ". So we can take a further look."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay. Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "But you should be fine-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": ". After just resting and regular pain reliever."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay. All right."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Should we take another x-ray when I come back, if the pain doesn't improve?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, maybe. Let's see how you're doing in the next three weeks."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey, dragon. Um, order medications and procedures as discussed. All right."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, I think that's good for today. Hope you feel better soon."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay. Thank you, doctor."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hopefully, the pain reliever, uh, ibuprofen actually helps."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, and if I have more pain, can I call you? Can I fix up another appointment earlier than three weeks?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, you can also try advil."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, so, um..."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Ale-, aleve. I mean, aleve."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I see. Okay, thank you, doctor."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Thank you."
+    }
+  ]
+}

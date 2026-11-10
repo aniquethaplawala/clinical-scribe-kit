@@ -1,0 +1,16 @@
+{
+  "key": "athenahealth",
+  "name": "athenahealth (athenaOne)",
+  "writePath": "proprietary",
+  "writableResources": [],
+  "noteType": "progress-note",
+  "noteContentType": "text/html",
+  "verifiedOn": "2026-11-10",
+  "sources": [
+    "https://docs.athenahealth.com/api/guides/onboarding-overview",
+    "https://dev-portal-prod.developer.athena.io/api/guides/base-fhir-urls",
+    "https://dev-portal-prod.developer.athena.io/api/api-ref/problems",
+    "https://docs.athenahealth.com/api/api-ref/allergy",
+    "https://api.preview.platform.athenahealth.com/fhir/r4/metadata"
+  ]
+}

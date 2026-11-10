@@ -1,0 +1,245 @@
+{
+  "encounterId": "aci-D2N039",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hi Virginia how are you today what brings you in"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm doing alright I started seeing this new pcp last year and you know she has been doing a lot of changes to my medication and making sure everything is up to date and she my noticed that my blood pressure has been quite high so she added to medications but and but I you know I've been taking them I've been really good and I I before I wasn't but now I am and we're still having a hard time controlling my blood pressure so she thought it would be a good idea for me to see you especially since she noted some on my last blood work she said something about my kidneys"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay yeah so okay let's before I dive into a lot of that tell me a little bit about how you've been feeling"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I would say you know most of the days I feel fine I'm still busy at work I definitely can tell though when my blood pressure is high"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay you measure it at home you you you measure your blood pressure at home"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I she wanted me to get a blood pressure cuff so I did start getting checking my blood pressures probably like a few times a week"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And so then I noticed that it has been getting higher the other day was even as high as one seventy over ninety"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Wow"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So I did call my pcp and she increased the meds again"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah okay now I I just have a couple questions about that are you using a an electronic blood pressure recorder or do you have somebody help you at home"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah she I have a a electronic one an electronic arm one"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay okay yeah that's good that's good and have you ever tried do you go to cvs at all"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I I do but I've noticed like since the pandemic I don't see the blood pressures anymore"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay okay yeah I I thought the one down on main street they I thought they just brought that one back so"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Did they"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That's good to know"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You may wan na check that but okay so that's good but I what I'd like you to do with that is I'd like you to keep a record of them for me for my next visit with you so let's talk a little bit about your diet tell me how how is your diet what what are the what kind of foods do you like what do you eat normally"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Alright do you want the honest answer"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Well yeah that would be better"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So I really you know with everything going on I really been trying to get better but I mean during football season it's really difficult I really love watching my games so have a lot of pizza wings subs like I said I've been trying to cut down especially on days where there is no games but it probably could be better"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay I think we all can say that but I do wan na just hey I don't know that if you've tried it or not but there is a new restaurant down on fifth street and it is nothing but solids and I you know when I heard this I was like okay yeah it's just another these solids are absolutely amazing so if you ever get a chance yeah if you ever get a chance try try that I mean I think you would enjoy them because they're salads that they make are just out unbelievable so let me go ahead and I just have a few more questions and I'm gon na just ask these in in order and you just tell me and then we will come back and talk about them do you have any headaches"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Really just when my blood pressure gets really high I have some mild headaches but otherwise I don't have it on a regular basis"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay what about chest pain"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No chest pain"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Shortness of breath"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No shortness of breath"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Even with exertion"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Even with exertion"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay do you have any swelling in your lower extremities at all that you noticed"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not if I'm on my feet for a long time I'll notice a little bit of swelling but otherwise no"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and then a couple other family history questions anybody in the family have kidney disease or significant high blood pressure"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Both my parents do have high blood pressure and one of them did have kidney disease"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay okay and in the the the form that you filled out when you came in it says that you are on ten milligrams of norvasc daily and carvedilol twenty five milligrams twice a day is those the medicines you're on"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes I was also on lisinopril before but with the adjustments yeah those are the ones I'm on"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and so here's where I think we are going to go do you take any nonsteroidals like advil or motrin or aleve"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah just once in a while for my like any knee pain or back pain that I have but again not like everyday"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and then lastly what kind of alcohol intake do you have you know do you consider how many drinks a week is really what I'm looking for"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'll have a couple of beers during the week and like one or two on the weekends"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay okay so lem me do a quick physical examination so I looked at your vitals when you came in today and your blood pressure it's still high it's one sixty nine over seventy four your heart rate was eighty eight and your oxygenation was ninety eight percent so those are all fairly good except that blood pressure's a little higher than we'd like to see now when I look at your neck I don't see any jugular vein distention and I'm gon na listen here real quick no I don't hear any carotid bruits I'm gon na listen to your lungs okay your lungs are clear and let me listen quickly to your heart I do hear that a two over six systolic ejection murmur and we'll we're gon na have to take a little bit look extra look at that that's when I I can hear an extra sound when I'm listening to your heart and you do have a small amount of one plus pitting edema bilaterally now I did so you do have that your diagnosis is uncontrolled hypertension you know and I think you're aware that that's what your your physician's been treating you for and most of the time this cause is is the cause of this is multifactorial it's not that there is just one thing causing it so we may need to be changing your medicine around and I'm gon na talk to your doctor but first thing before we make any more medication changes I want to order some tests first to rule out if there is any specific cause for this so first order will be a renal artery ultrasound and what I'm looking for there is that there is no areas of areas of narrowing in the the blood vessels of your kidneys that would be the cause of your hypertension in addition to that I'm gon na order a you get another urine collection some morning aldosterone levels reining levels and a twenty four hour urine and these things can really show me if there is any problems with your adrenal glands again this is a lot of big words but you know I'm I I'll write this all out for you I want you to decrease your alcohol I know you like those beers but let's bring it down to maybe one a week or two a week just to get those down lower and then your salt intake you need to be very judicious about decreasing that salt intake I'm gon na give you a referral to a nutritionist to discuss those changes for that you need and and they will help you get that cleared up and then finally stop taking any nonsteroidal medicines such as your advil or motrin the only thing I really want to want you taking is tylenol for any pain right now I am gon na prescribe one medicine and that's cardura four milligrams and I want you to take that once a day and that's good to see if that can help us with your blood pressure and then finally three weeks I'd like you to return I want you to record all of your blood pressures that you take over the next three weeks and bring them into the office but most importantly if you can try to take them at the same time everyday that would be beneficial for me any questions for me"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No I I just it's a lot so I I'm hoping this will work and this will get it under control"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah I I think you know this will be you know this we're gon na spend some time together so I'm glad to have you as a patient but you know we got ta try to get this under control and I'm gon na I'll be talking to your pcp just to let them know that you know what my plans are and we'll stay real in sync on treating this as we move forward does that sound like a plan"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That sounds good thank you"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay take care I'll talk to you later"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay alright bye"
+    }
+  ]
+}

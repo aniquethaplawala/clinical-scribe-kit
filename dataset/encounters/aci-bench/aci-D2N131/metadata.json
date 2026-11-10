@@ -1,0 +1,24 @@
+{
+  "encounterId": "aci-D2N131",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N131",
+  "split": "clinicalnlp_taskC_test2",
+  "collectionMode": "virtassist",
+  "chiefComplaint": "high blood pressure check",
+  "secondaryComplaints": [
+    "hx kidney transplant"
+  ],
+  "patient": {
+    "age": 26,
+    "gender": "female"
+  },
+  "turns": 32,
+  "wordCount": 609,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

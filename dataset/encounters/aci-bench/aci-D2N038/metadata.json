@@ -1,0 +1,22 @@
+{
+  "encounterId": "aci-D2N038",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N038",
+  "split": "train",
+  "collectionMode": "aci",
+  "chiefComplaint": "Hepatitis C",
+  "secondaryComplaints": [],
+  "patient": {
+    "age": null,
+    "gender": "male"
+  },
+  "turns": 32,
+  "wordCount": 829,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

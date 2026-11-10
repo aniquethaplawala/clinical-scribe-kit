@@ -1,0 +1,310 @@
+{
+  "encounterId": "aci-D2N075",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Next is Betty Hill, uh, date of birth is 2/21/1968. She has a past medical history of uterine fibroids and anemia. She's a new patient with a referral from the er of esophagitis. Um, I reviewed our records from the er, including the normal cardiac workup, and we're about to go in and see her now. Good morning. You miss Hill?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Good morning. Yes. That's me."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey, I'm dr. Sanders. It's nice to meet you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nice to meet you too."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So tell me about what brings you in today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well, I really needed to see you three months... Three months ago, but this was your first available appointment. When I called to make the appointment, I was having chest pains, but it stopped after four days, and I haven't had any since then."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. When did these four days of chest pain occur?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, early october."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Of 2020, correct?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Can you think of anything that might have caused the chest pain? Did you wake up with it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No. It just it randomly. I tolerated it for four days but then had to go to the emergency room because nothing I did relieved it. They did a bunch of testing and didn't find anything."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Can you point to the area of your chest where the pain was located?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well, it was here in the center of my chest, right behind my breastbone. It felt like I was having a heart attack. The pain was really sharp."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Did they prescribe you any medications in the er?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No. They ran an ekg and did blood tests, but like I said, everything was normal."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. I see."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "They thought it was something to do with the gi system, so that's why they referred me here."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Interesting. Uh, do you remember having any heartburn or indigestion at, at the time?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, maybe. I don't think I've ever had heartburn, so I'm not sure what that feels like."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Was the pain worse with eating or exercise?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes. With eating."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Any difficulty swallowing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm. I did."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And that's also resolved since the initial episode three months ago?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes. Thankfully. The chest pain and swallowing problem got better about three days after I went to the er. But I just feel like there's something wrong."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. So how has your weight been."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I've been trying to lose weight."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "That's good. Any in-... Issues with abdominal pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Good. And how about your bowel movements; are they okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "They're normal."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. Are you aware of any family history of gi problems?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have had you had any surgeries on your abdomen, or gall bladder, or appendix?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes. They took my gall bladder out several years ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. If you wan na lay down here on the table for me and lets take a look at you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So when I push on your lower belly, do you have any pain, or does it feel tender?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. How about up here in your upper abdomen?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes. It, it hurts a little."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And even when I press lightly like this?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes. Uh, just a little uncomfortable."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Does it hurt more when I press over here on the left or over here on the right? Or is it about the same?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'd say it's about the same."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. So we'll say you have some mild tenderness to light palpation in the upper abdominal quadrants, but everything on your exam looks normal and looks good."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay. Good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So let's talk about your symptoms real quick. Obviously, with the chest discomfort, we worry about heart issues, but I'm reassured that those were ruled out with all the testing they did in the er. Um, other potential causes could be anxiety, esophagitis, which is irritation of the esophagus. But typically with these, um... But typically, these cause the pain that would last for a long time rather than that isolated incident like you had. Um, it's also possible that you had intense heartburn for a few days."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well, since you mention anxiety, I was going through a really stressful job transition right around the time this happened."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. That's good to know. So stress from this could be, um... Could be, uh... Could be very well have contributed to your condition."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So we could do an, uh, egd or upper endoscopy to take a look at your esophagus and stomach. This would allow us to look for esophagitis. But your symptoms occurred three months ago and you haven't had any additional episodes, so likely if it were esophagitis, it's already healed by the point... By this point, and we wouldn't be able to see anything. The other option is just to continue to monitor, uh, for any additional symptoms at which point we could do the egd. Uh, with you being asymptomatic for so long right now, I'm comfortable with that option. But what do you think?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'd like to hold off on the egd and wait to see if I have more symptoms."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "That sounds good. Um, so you can call the office if you have any additional episodes of pain or any other symptoms you're concerned about. If that happens, we'll get you scheduled for an egd to take a look. If not, you can follow up with me... Follow up with me as needed for any other gi complaints."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right? If you don't have any questions for me, I'll walk you out to the check-out desk."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No. That's it. Thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You're welcome. Right this way. All right. Uh, in assessment, please summarize the patient's history briefly, and let's list her possible etiologies such as, uh, gerd, dyspepsia, esophagitis, musculoskeletal etiologies, and anxiety. Uh, suspect she had an anxiety attack related to her job transition, plus or minus a contribution from her musculoskeletal etiologies. Um, in the plan, include our discussion of the egd versus monderning... Monitoring for symptom. Patient elected to self-monitor her symptoms and will call with any reoccurrence or change. Thanks."
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "encounterId": "aci-D2N149",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So Dennis is a 57 -year-old male today complaining of shortness of breath he has also got a history of diabetes high blood pressure and history of asthma so Dennis tell me what's going on how're you doing"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not too good"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay how long have you been feeling not too well"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "About a couple of weeks"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Couple of weeks tell me what's going on"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I wake up with shortness of breath"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I go to when I'm short of breath there I get back home and I'm again short of breath so I had a tough time dealing with this"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you noticed any are you coughing up anything any swelling in your legs or what's going on"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I've been I've been coughing up I've been coughing up blood"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay how long has that been going on for"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Probably three weeks or so"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and are you coughing a lot of blood or just a little bit of blood"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I shave three to four cups a day"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Wow that's a lot of blood okay are you throwing up any blood are you having bleeding in any place else or just when you cough"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Only when I cough"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay have you noticed any bruising or bleeding from your teeth or anything like that or from your gums or anything like that"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay any leg swelling or calf swelling or any any anything like that any recent travel history you've been on a plane or trip recently"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I had some knee problem but there is no swelling but it hurts that's been going on for quite some time"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay so that's not near the knee problem okay and have you had any have you been to the hospital or been to the emergency room or anything like that for your coughing and coughing up blood"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No I tried to get an appointment in the office but they were kinda booked up"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "They just numb"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright and alright no but no fevers with this so since you're here your oxygen level looks pretty good in the clinic it's about ninety four percent on pulse your pulse oxygenation so that's good are you short of breath so when you walk or you or you exert yourself you're short of breath you said right okay and have you and how how is your blood sugar been doing since this has been going on I know you're on metformin how's your diabetes been doing"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not so good you know it kinda going up and down I wear this dexcom"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You know after meal they spike up well over two hundred"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And morning when I get up they are around one fifty"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright so it's been running a little bit high I know we checked your hemoglobin a1c last time and it was about seven. Seven. I think and we had talked about you know improving your diet and improving some exercise but is this blood sugar been high and low or high and normal when you're especially in the last three weeks or has it been going on for longer than that"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I would say about a month"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright and how is your blood pressure been at home since you've been taking since these episodes that you've been sick are you taking norvasc"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes I am but I keep them on some days because my blood pressure has been running somewhat on the low side"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright and right now it's about a hundred and twenty over seventy what how low does it go in the more when you check it"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well there are sometimes in the lower nineties"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright well let me let me examine you here in a second and we'll think about you know what we need to do especially with your coughing and your shortness of breath okay so nita I'm I'm examining you now let's pretend I did my exam I'm just gon na verbalize some of my findings so I can put it into my chart okay and I'll explain what those things mean so on my exam you've got no jvd there is no swelling in your neck no carotid bruits your lung exam you've got some rails and some rhonchi on on more on the right side I don't hear any wheezing right now there is some diminished breath sounds in the right side as well on your heart exam you've got two over successolic ejection murmur you've had that in the past that's unchanged from before the rest regular rate and rhythm otherwise your belly exam is nice and soft on your extremity exam you've got one plus nonpitting edema on both of your lower extremities on your on your ankles no calf tenderness no negative homan sign so what does all this mean so basically you've got you know you've got some sort of infection or something going on in your lungs that I can hear right now the rest of your exam is pretty much stable it's unchanged from before so let's talk about what we what we should do about this so for the for the first problem with the shortness of breath the first thing I wan na do is go ahead and get a chest x-ray for you okay you've been coughing up blood I also wan na send you to the emergency department to get some blood testing done I'm worried about a blood clot or something else going on so I wan na get a cat scan of your chest as well so I'm gon na go ahead and refer you to the emergency department I'll call them and and have you head over that way they can get a chest x-ray and a cat scan and some blood work as well and then we'll evaluate why you're having the shortness of breath and why you're coughing up this blood okay and then depending on what they find you may need you know it could be as simple as a pneumonia or it could be something a little bit more serious we may have to get you know start you know depending on what you find we will get the right treatment started any questions about that or can you drive to the emergency department from here or is that okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I can bike no problem I have no question"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright for the second problem for the diabetes since your blood sugar is running a little bit high once you get over this I'm blood sugars running a little bit high once we get you over this hump of the shortness of breath and get this diagnosed I'm gon na go ahead and order another hemoglobin a1c today we will probably increase your dose of metformin from five hundred twice a day to seven fifty twice a day so why don't we do that and then why don't we have we'll have the hemoglobin a1c back and then we can once you get over this illness that you're undergoing we'll we'll we'll discuss that more I'll have you come back in about three weeks to just discuss your diabetes and what our treatment plan will be for that okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "For the high blood pressure definitely hold off on the norvasc for right now let's figure out what's going what's causing this episode of shortness of breath I want some blood testing done and and once we have that under better control we can reassess your blood pressure so right now hold the norvasc and then we'll have you come back once everything is done okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any other questions or anything we know if we need to talk about today"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No I'm good"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Sounds good we'll get you signed out here in a second"
+    }
+  ]
+}

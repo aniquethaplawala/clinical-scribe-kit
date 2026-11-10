@@ -1,0 +1,260 @@
+{
+  "encounterId": "aci-D2N168",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hi Diane, how are you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm doing okay, how are you?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I'm doin' okay. So I know the nurse told you about Dax and I'd like to tell Dax a little bit about you okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Diane is a 28 year old female with a past medical history, significant for, depression and hypertension who presents for emergency room follow-up. So Diane what's going on? I heard that your- your blood pressure was really high in the emergency room. What happened?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, so I ended up going for a walk, um, yesterday 'cause it was sunny and it was really great. And I just felt really light-headed, um, and I started to fall a bit, and, um, luckily I was with my boyfriend and he caught me, um, and then we went right to the e, to the er."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, okay. Yeah, I saw that the blood pressure was pretty high, like in, like, the, almost 200."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Did you have a headache?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I did."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, all right. Have your blood pressures been running high in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, they have been. It's- it's, like, once a week, a month, it, kind of, just skyrockets."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, it usually ends up, um, being, I'm traveling a lot that week for work, so I'm not eating as well, um-"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You're not taking your blood pressures, I take it-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": ". When you're traveling?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, no, I don't bring my cuff with me."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, but you did buy the cuff like we talked about in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes I did."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, all right. And are you taking your medication, are you taking the lisinopril?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes I am."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, all right. Um, so I think we had started you at a, kind of, a moderate dose, so we'll have to talk about that a little bit, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Then in terms of your depression, how are you doing? I know that we didn't start you on medication, since you're on a bunch of other medications. What- what are your strategies for dealing with that and how are you doing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So last year I started therapy and I've been going once a week and that's really helped."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, all right, great. And how is your support system?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Really great. My boyfriend, my mom, and my brother are- are s-, amazing and they're all super close to me, so it's been, it's been good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, well great. So I know you did a review of system sheet when you checked in and I know that you had the headache and the lightheadedness yesterday. Do you have any other symptoms at this time, chest pain, shortness of breath, anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, I have a little bit of nasal congestion, but that's just from my seasonal allergies."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, all right. Well I want to go ahead and do a quick physical exam, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey, dragon, show me the blood pressure. So, yeah, looking at your blood pressure today here in the office, it does look a little elevated still, so we'll have to talk about that. So I'm just gon na listen to your heart and your lungs and we'll go from there okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So on physical examination, I- I don't appreciate any carotid bruits in your neck. Your heart on your heart exam, it does show that you have a slight two out of six systolic ejection murmur. Your, there, your lung exam shows nice clear lungs bilaterally and you do have some trace pitting edema to your lower extremities bilaterally. So what that means is, you know, I- I think ultimately, uh, you know we just need to get your blood pressure under better control, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, uh, let me just go ahead, I want to take a look at some of your results, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey, dragon, show me the ecg. Yeah, so in reviewing the results of your ekg, it looks the same as last year. Um, you do have just blood, those changes from your chronic high blood pressure that we'll address, okay? Hey, dragon, show me the echocardiogram. And this is just the echocardiogram from just a few months ago that just, you know, show that you have that slightly leaky heart valve, nothing to do for it, and that the heart murmur is stable, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So let's just talk a little bit about, you know, my assessment and my plan for you. So, for your first problem, your high blood pressure, it's not controlled at this time, so I want to go ahead and increase the lisinopril to 40 milligrams once a day. I want you to continue to check your blood pressures and report them to me through the patient portal and we'll have to make adjustments if necessary and maybe have to add a second agent, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And then for your second problem, uh, I want, you know, for your depression, I don't think that we need to start you on any medication, it sounds like you're doing really well from that standpoint, but you know that you can contact me if you, if you need anything, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you have any questions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, not at this time."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, all right, well it's good to see you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Good seeing you too."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey, dragon, finalize the note."
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "encounterId": "aci-D2N049",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey Linda good to see you today so looking here in my notes looks like you you think you have a kidney stone think you've had them before and and you I guess you're having some pain and while we are here I see you I see you have a you have past medical history of hypertension diabetes and we will check up on those as well so with your kidney stone can you tell me what happened what's going on"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And I've been in a lot of pain it started about I would say probably about three days ago"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Started having pain on my left back"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And since then I continued to have pain it is traveling a little lower it's gotten little low but I definitely have not passed it yet and I'm just in so much pain"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay so is the pain that you're having is it constant or does it come and go"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's constant"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "All the time I can't get comfortable"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright are you able to urinate"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I am and this morning I actually started seeing some blood"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay yeah so and I know you said I see you've had some kidney stones in the past like how many times would you say you've had one of these episodes"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I've had it for probably this might be my third time"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Third time alright"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I haven't had one in a while but yeah this is my third time"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay so have you noticed any nausea chills fever"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No fever some chills and I I just in so much pain I I can't eat and I do feel a little nauseous"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay that sound definitely understandable so you've been in a lot of pain so have you tried to take any medications to alleviate the pain"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I've been taking tylenol I have had to try some ibuprofen I know you said to be careful with my blood pressure but I have been trying to do that because I'm just in so much pain and it's not really working"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and before what would you how long would you say it took you to pass the other stones or how was that that resolved"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah usually usually about about three four days to pass it yeah"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Right so this is this is the looks like this is the third day"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So we are getting close there"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah so hopefully we can pass it but we'll I'll definitely we can take a look at it here in a second so while you are here I also wanted to check up on your your diabetes and and hypertension you have so I'm looking here at my notes and you're on two. Five of norvasc for your high blood pressure when you came in today your blood pressure was a was a little bit high and I know that's probably because you are in a bunch of pain so that definitely makes sense but I think last time we talked a little bit about you getting a blood pressure cuff and taking your blood pressures regularly so those readings first off were you able to get the blood pressure cuff"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I was I haven't been great about taking it but I did get the blood pressure cuff"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So the time that you did take it and I think that's something we got to work on is you've taken them I think at least three times a week I would like you to what have those been running"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Like the top numbers they're usually the one thirties sometimes I get I do go into one forties and once it went to like one fifty"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And then the bottom number has been between seventy and eighty okay that I mean that's not too bad I think when you were first diagnosed you were up there in the"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "The one eighties which was really high"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Right"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So let me talk a little bit also about you trying to lower your salt intake to like like twenty three hundred milligrams a a day so have you been able to do that"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Trying my best but doc I really like my french fries"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Like"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "We we all like we all like the french fries you know but you know we we we we also don't like strokes so we don't want to have a scope and all the all the french fries so that's something definitely I would like you to work on and do you think you'd be able to to curb that french fry habit or that bad this bad food habits by yourself or do you think you need help"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah some help could be helpful okay yeah we can definitely get you connected with someone just to help you with your diet kinda that's the biggest thing for a lot of my patient is trying to control that diet alright"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So I also want to take a look here at your diabetes and last time you came in your a1c was a little bit higher at seven. Three and you're on five hundred of metformin currently so have you been taking your blood sugars before you eat everyday"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I have and those those have been pretty good they are like in the low one hundreds"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay that that that's definitely good because when you came in I think we did a glucose test on you couple of months ago and you were around three hundred which is which is pretty up there so I'm glad that you know those levels are down and have you been taking that metformin everyday"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I do"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I do take it"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "That that that that's really good alright so let me do a quick physical exam on you just a couple of questions before I take a look at your your abdomen and and your back talked to take a look at that that kidney stones you're having so I just want to make sure are you having any any chest pain"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No chest pain"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No chest pain are you having any belly pain"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "The back pain is starting to kind of go down into my groin but I wouldn't say any back pain I mean abdominal pain"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No abdominal pain alright so let me check here I'm gon na listen to your heart real quick and so on your heart exam I do hear a grade two out of six systolic ejection murmur and that we knew about that already so not really worried about that currently listen to your lungs your lungs are clear bilaterally I don't hear any crackles or wheezes so let me press here on your abdomen does that hurt"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay I'm gon na press here on your back is that painful"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright so on your examination of your abdomen there is tenderness to palpation of the abdomen there isn't any rebound or guarding though and only there is also cva tinnitus on the right on your on your flank as well and so it seems to me you know that you do have that kidney stone looks like you do have some inflammation around your kidney that's what that that's that tenderness around your cva is is telling me so let's go talk a little bit about my assessment and plan for you so you know right now because of your history of of having kidney stones you you do have a kidney stone so what we're gon na do is first off I'm gon na get you some pain medication kinda you're in a ton of pain right now I'm gon na prescribe you some oxycodone five milligrams you can take that every six to eight hours as needed for pain and so hopefully that can help you feeling better and you can continue to take that tylenol for any breakthrough pain that you're having I do wan na make sure that you're pushing fluids right now because we need to try to push that stone out that you're having just kinda clear your kidneys and that that would definitely help I also want to give you a strainer so you can strain your urine to see if you do actually pass that stone and then I'm going to refer you to urology and we're actually I'm gon na have you you even if you pass a stone in the next couple of days I want you to go anyway because it seems like you're having recurrent kidney stones and so hopefully they can help do something to to help this from happening in the future for your hypertension I'm gon na keep you on that two. Five norvasc your your blood pressures look good so I'm not gon na make any changes there and then for your diabetes we'll keep you on the five hundred of metformin and I also want to give you a referral to nutrition to a dietitian and they will be able to help you with your your diet I know you said you have a few issues so you know they can possibly write a diet for you and if you follow it you know hopefully in the future we can get you off of both of these medications and get you back to normal so how does that all sound"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That sounds good and I I just I just want this pain to go away so thank you"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay no problem"
+    }
+  ]
+}

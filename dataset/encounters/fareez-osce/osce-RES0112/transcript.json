@@ -1,0 +1,310 @@
+{
+  "encounterId": "osce-RES0112",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "What brings you in today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I brought my son here. I'm a little bit worried about him because like yesterday he had he had this temperature of like 38.5 um so he's been feeling a little bit hot and he's not swallowing his food, like we've been feeding him some mashed up food but he's not swallowing it. He's just kind of throwing throwing it back out there. Um he's drooling now uh and he sounds kind of muffled um and he's been very short of breath."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "That doesn't sound good. Um uh yeah, I'm I'm currently looking at him and he doesn't uh look great. While the uh while the doctor's um taking his vitals and examining the baby, I'll just ask you a couple of questions."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So you said that all of this started about a day ago. How was he doing before that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "He was fine before that, he had like a an infection, like some sort of viral infection recently, like about a week back, he had like a runny nose and a cough, but that went away."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um OK, so he had these symptoms about a week ago. Did he see any, did you take him to the hospital or to a clinic?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I took him to our family doctor um and they just suggested some supportive treatments um which we've been doing at home like we try to keep him well hydrated, and we've been keeping an eye on his like um diapers and things like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, has he been um has he been, how many diapers is he um, are you changing a day?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Usually like about 5, 6, but yesterday it was like 2."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Um and uh has he been uh irritable or agitated?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh he has been very irritable and fussy."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Has he been sleeping OK?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I um no you know what last night he didn't sleep well at all. He was crying the whole night."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um and uh in terms of uh, so how much has he has he had to eat or drink in the past uh day or two?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh he's had about like maybe a bottle of his milk, like of that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "That's it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, he's not taking. He's not he's not taking anything else like he's been so fussy and so like he's unwilling to try anything."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, um and, OK. Do you feel like he's been drowsy uh and um lethargic?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um yeah, I feel like he's been a little bit lethargic. Like today, he's more lethargic. All of yesterday, he was very fussy and irritable, but today seems like, he's very slow."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and just a couple of questions about um his past medical history. Does he have any uh medical conditions uh that he was diagnosed with?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no, he's been healthy otherwise."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How was your pregnancy with him?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Normal, yeah no complications there."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Did did you have GBS or gestational diabetes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, OK. Did you have any viral infections during that time, during pregnancy?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Was he born via Caesarean section or uh C-section or a vaginal birth?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh vaginal."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Any complications during birth?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Was he um kept in the hospital for a couple days in the NICU after he was born?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Did he develop jaundice?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and and he's been OK for the past two years? Any concerns about his growth, his height and weight, and his head circumference? Has your family doctor uh said anything about that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, he's been pretty good. Um he's been growing and gaining weight OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any um developmental issues?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, alright, and any medical conditions that run in the family?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no, just like some heart issues."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um OK, and uh does he, I forgot to ask, has he had any hospitalizations in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any surgeries?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No surgeries."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Uh has he been on any medications? Any antibiotics recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Has um has he been vaccinated? Uh has his vaccinations, immunizations up to date?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, they're all up to date so far."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, alright, that's that's good. Um OK, and does he have any allergies that you're aware of?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Pardon me?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any allergies?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Oh, uh no allergies."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK alright um well it looks like um I, it's great that you brought him into the emergency room. Um if he hasn't been eating, drinking well, hasn't slept well, has been fussy, and and has been lethargic and tired, uh and is having difficulty swallowing food, um that's definitely very um serious. Uh we'll have a look inside his mouth and see what's going on. It could be that he has an infection or an inflammation of some sort. Um given his fever, he probably has an infection, um and uh we'll likely start him on antibiotics and put in an IV drip just to get in get some fluids inside him, just to get him hydrated, uh and monitor him very closely. We'll also check his vitals and um we'll do uh, yeah, we'll go from there. Do you have any questions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no, thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK."
+    }
+  ]
+}

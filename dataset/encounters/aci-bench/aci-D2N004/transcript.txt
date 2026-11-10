@@ -1,0 +1,95 @@
+Clinician: Hi, James, how are you?
+Patient: Hey, good to see you.
+Clinician: It's good to see you, too. So, I know the nurse told you about Dax.
+Patient: Mm-hmm.
+Clinician: I'd like to tell Dax a little bit about you.
+Patient: Sure.
+Clinician: James is a 57-year-old male with a past medical history significant for congestive heart failure and type 2 diabetes who presents today with back pain.
+Patient: Mm-hmm.
+Clinician: So, James, what happened to your back?
+Patient: Uh, I was golfing and I hurt my back when I went for my backswing.
+Clinician: Okay. And did you feel a pop or a strain immediately or?
+Patient: I f- felt the pop, and I immediately had to hit the ground. I had to just try and do anything to loosen up my back.
+Clinician: Okay. And how long ago did this happen?
+Patient: This was saturday morning.
+Clinician: Okay. So, about four days ago?
+Patient: Mm-hmm.
+Clinician: Okay. Um, and what have you taken for the pain?
+Patient: Uh, I took some tylenol. I took some ibuprofen.
+Clinician: Mm-hmm.
+Patient: I tried ice. I tried heat, but nothing really worked.
+Clinician: Okay. And, h- how are you feeling now? Are you still in the same amount of pain?
+Patient: Uh, by monday morning, it loosened up a little bit, but it's still pretty sore.
+Clinician: Okay. Any other symptoms like leg weakness, pain in one leg, numbing or tingling?
+Patient: Uh, I actually felt, um... I had a struggle in my right foot like dropped foot. I had some struggling with my right leg. I felt that for a while, and it got a little bit better this morning but not much.
+Clinician: Okay. All right. Um, so, are you... How are you doing walking around?
+Patient: Uh, uh, uh, I'm, I'm not going anywhere fast or doing anything strenuous but I can walk around a little bit.
+Clinician: Uh-.
+Patient: Not too fast.
+Clinician: All right. Okay. Um, and any history with your back in the past?
+Patient: I actually had surgery about 10 years ago on my lower back.
+Clinician: Okay. All right. Now, tell me a little bit about your, your heart failure. You know, I haven't seen you in a while.
+Patient: Mm-hmm.
+Clinician: How are you doing with your diet?
+Patient: Um, been pretty good t- taking my medications, watching my diet, trying to, uh, trying to exercise regularly, too.
+Clinician: Okay. So, you're avoiding the salty foods like we had talked about?
+Patient: Yes.
+Clinician: Okay. And any weight gain or swelling in your legs recently?
+Patient: A little bit of weight gain over the summer but nothing, nothing too radical, nothing more than five pounds.
+Clinician: Okay. All right. And any problems laying flat while you go to bed?
+Patient: No.
+Clinician: Okay. Uh, and lastly, what about your diabetes? How are you doing with, with that diet? I remember you have somewhat of a sweet tooth.
+Patient: Yeah.
+Clinician: Jelly beans?
+Patient: I love jelly beans, yeah, yeah. That's been a struggle, but I'm getting through it.
+Clinician: Okay. All right. Um, and you're watching your blood sugars at home?
+Patient: Mm-hmm. I monitor it regularly. Not always, I can forget,, but I'm pretty good about my measuring it.
+Clinician: Okay. And you are still on your metformin?
+Patient: Yes.
+Clinician: Okay. All right. All right. Now, I know the nurse did a review of symptoms sheet when you checked in.
+Patient: Mm-hmm.
+Clinician: I know that you were endorsing the back pain-
+Patient: Mm-hmm.
+Clinician: . And maybe a little weakness in your right leg. Um, any other symptoms? I know we went through a lot.
+Patient: No.
+Clinician: Okay. Um, so, I wan na go ahead and move on to a physical exam, okay?
+Patient: Mm-hmm.
+Clinician: Hey, dragon, show me the vital signs. So, here in the office, you know, your vital signs look great. They look completely normal, which, which is really good.
+Patient: Good.
+Clinician: Okay? So, I'm just gon na check you out, and I'm gon na let you know what I find, okay?
+Patient: Mm-hmm.
+Clinician: Lean up. Okay. All right. So, on your physical exam, everything seems fine.
+Patient: Good.
+Clinician: On your heart exam, I do appreciate a 2 out of 6 systolic ejection murmur, which we've heard in the past-
+Patient: Mm-hmm.
+Clinician: . So that's stable.
+Patient: Okay.
+Clinician: On your back exam, you do have some pain to palpation of the lumbar 5 or lumbar spine-
+Patient: Mm-hmm.
+Clinician: At the level of l5.
+Patient: Okay.
+Clinician: You have, you know, decreased range of motion with flexion and extension, and, um, you have a positive straight leg raise. Uh, for your strength, you do have a 4 out of 5 on your right and 5 out of 5 on your left. So, what does that mean? What does all that mean? So, that basically means that, you know, I, I think that you probably, you know, have injured your, your back with a muscle strain, but we're gon na look at some of your results, okay?
+Patient: Okay, sure.
+Clinician: Hey, dragon, show me the back x-ray. So, in reviewing the results of your back x-ray, this is a normal x-ray of your lumbar spine. There's good boney alignment. I don't see any abnormality there, which is not surprising based on the history, okay? Hey, dragon, show me the diabetic labs. And this is just... I just wanted to check your last, uh, diabetic labs that we did on you. Uh, it looks like your hemoglobin a1c has been a little high at 8. I'd like to see that a little bit lower around 7, okay?
+Patient: Okay.
+Clinician: Um, so, let's just talk a little bit about my assessment and my plan for you. Um, so, for your first problem, I think you have an acute lumbar, um, strain.
+Patient: Mm-hmm.
+Clinician: And I wan na go ahead and prescribe meloxicam 15 milligrams once a day, and I'd like to refer you to physical therapy to kind of strengthen that area. Now, if you're still having symptoms, I wan na go ahead and, uh, order an mri-
+Patient: Mm-hmm.
+Clinician: . Just to make sure that you don't have any disc herniation or anything like that, okay?
+Patient: That's fine.
+Clinician: How does that sound?
+Patient: No problem.
+Clinician: Hey, dragon, order meloxicam 15 milligrams once a day. For your next problem, your type 2 diabetes, I would like to increase your metformin to 1,000 milligrams twice daily-
+Patient: Mm-hmm.
+Clinician: . And I wan na go ahead and order another hemoglobin a1c in a couple weeks, or, I'm sorry, a couple months.
+Patient: Okay.
+Clinician: All right? Hey, dragon, order a hemoglobin a1c. And for your congestive heart failure, uh, I think you're doing really well with it. Um, you know, I wan na just continue you on your current medications, your lisinopril and your lasix. Now, do you need a refill-
+Patient: Actually, I-
+Clinician: Of the lisinopril?
+Patient: Actually, I do.
+Clinician: Okay. Hey, dragon, order a refill of lisinopril 20 milligrams once a day. And so, the nurse will come in. She's gon na help you get checked out. I wan na see you again in a couple weeks, okay?
+Patient: That's fine.
+Clinician: Um, any questions?
+Patient: Not at this point.
+Clinician: Okay. Hey, dragon, finalize the note.

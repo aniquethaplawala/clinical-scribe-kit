@@ -1,0 +1,70 @@
+Clinician: How may I help you today?
+Patient: I've been having, uhh, like, nasal congestion and I've been sneezing a lot, over these last couple of days, and I've also been having a sore throat.
+Clinician: Oh no, when did that start?
+Patient: So the store throat started like 2 days ago.
+Clinician: OK, and since then you've developed this nasal congestion and sneezing as well?
+Patient: Yeah exactly, it started a bit afterwards or around the same time.
+Clinician: Yeah, alright and have you have any other symptoms? Do you have a fever?
+Patient: Uh, no, I don't think so.
+Clinician: OK, do you have any difficulties swallowing?
+Patient: Uh, Yeah, it has been a bit sore when eating food, but it hasn't been so painful to prevent me from eating.
+Clinician: OK, do you have a cough?
+Patient: No, I haven't had a cough.
+Clinician: OK, uhm, and do you have a runny nose, any discharge?
+Patient: Uh, Yeah, there's been a little bit of a like watery discharge, my nose has been running.
+Clinician: Any ear pain or any pain in your cheeks or your head when you're bending over, anything like that?
+Patient: Uh, yeah, now that you say it, yeah, when I was bending over to put my shoes on, I felt just a bit of pressure on the front of my face.
+Clinician: OK, and you haven't been feeling feverish or having having any chills, right?
+Patient: No
+Clinician: OK, any fatigue, malaise, any aches or pains?
+Patient: Uh. no, I felt OK, that way, yeah.
+Clinician: Any rashes?
+Patient: Uh, no.
+Clinician: No, OK, Have you been up to date with your immunizations?
+Patient: I have yes.
+Clinician: Alright, and just have a couple more questions just to see if anything else is going on. Do you have a headache at all?
+Patient: Uh, yeah, I've had a headache, since this morning. It's pretty mild. It feels like my head is squeezing. I think, uh, I've had headaches like this before, if I don't sleep well or dehydrated.
+Clinician: Are you more stressed out than usual? Do you have exams or anything going on right now?
+Patient: No, schools been pretty good. We've been doing a lot of stuff online, so uh, yeah that's been good.
+Clinician: OK, any, uh, do you find that your eyes are runny or red or anything like that?
+Patient: Uh, no, I haven't noticed anything like that.
+Clinician: OK, alright and any difficulties breathing?
+Patient: No.
+Clinician: Any chest pain?
+Patient: No chest pain.
+Clinician: Ok, any pain in your belly or any problems with your bowel movements?
+Patient: No
+Clinician: OK, any urinary symptoms?
+Patient: No
+Clinician: OK, alright good. So can you tell me if you have any medical conditions?
+Patient: Uh, no, I had dermatitis when I was a kid but I haven't had any issues since. I remember using some creams for that but I haven't needed to use them recently.
+Clinician: OK, and any medications that you're taking currently, including over the counter pills?
+Patient: I don't take anything currently.
+Clinician: OK, did you take any medications, to reduce the symptoms that you're having, the headache or the sore throat?
+Patient: Oh sorry, yeah I used some Advil this morning. I think it was 400 milligrams.
+Clinician: OK and do you have any allergies?
+Patient: Um, yeah, to cats.
+Clinician: Have you been around a cat recently?
+Patient: No, we used to have a cat, but unfortunately we were unable to keep it because allergies were so bad.
+Clinician: Yeah, do you have any environmental allergies at all?
+Patient: Uhm, yeah sometimes in the spring or fall I can get like itchy eyes and a runny nose, so that's why I didn't think much about the runny nose at first, but with a sore throat and, been sneezing more, I thought to come in.
+Clinician: Yeah, OK. So in terms of your, uh, so general information. Do you live alone or do you live with your parents or anyone else?
+Patient: Yeah, I live with my mom, dad and a younger brother.
+Clinician: Alright, and are you currently working or going to school?
+Patient: Yeah, I'm finishing up Grade 8 and we're doing the courses online.
+Clinician: OK, great so, have you spent any time outdoors or spent any time with people who you think might be sick?
+Patient: Well, I've played some, like, basketball outside with one of the neighbors, but I don't think he's been sick.
+Clinician: OK, alright, and have you traveled anywhere recently?
+Patient: No, I've been at home.
+Clinician: OK, uhm, alright, and do you, uhm, have you had these symptoms anytime recently before?
+Patient: No, not that I can think of.
+Clinician: No, have you been tested for covid anytime in the recent past?
+Patient: No, I haven't.
+Clinician: Have you taken any antibiotics recently?
+Patient: No.
+Clinician: OK, alright well it sounds like you're probably having just a common cold, likely viral. So, and seeing that it's only been two days, have your symptoms gotten better or worse in the past couple of days?
+Patient: They've gotten worse since it's started.
+Clinician: Yeah, OK, well, it's only been two days so far, let's just keep an eye on your symptoms and see how you're doing. It might also be a good idea just to get a covid swab done, and if your symptoms continue to worsen, give me a call again and we can talk about it a little bit more and see if maybe a bacterial infection or if there's something else that's going on. You don't have any difficulties breathing, do you?
+Patient: No, I don't.
+Clinician: Alright, OK, alright umm, we'll do a physical exam and then chat a little bit more after.
+Patient: OK, thank you.

@@ -1,0 +1,659 @@
+{
+  "encounterId": "pm57-d3c09",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 0.43,
+      "end": 1.43,
+      "text": "Hi."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 1.35,
+      "end": 17.14,
+      "text": "Hello. Hi, I'm Doctor Jacob and welcome to Babylon. Hello. [inaudible] Hi. So, um, just before we start, is it all right if you could confirm your name for me please? [inaudible] And your date of birth?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 12.96,
+      "end": 21.85,
+      "text": "Sure, my name is Mary Smith. My date of birth is August sixteen, nineteen seventy six."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 21.63,
+      "end": 24.73,
+      "text": "And your email address for me, please."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 24.65,
+      "end": 28.5,
+      "text": "My email address is Mary dot Smith at gmail dot com."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 28.47,
+      "end": 34.4,
+      "text": "That's correct. And just to confirm, that you're in a secure location, and we can have a confidential conversation."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 34.5,
+      "end": 35.53,
+      "text": "Absolutely."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 35.52,
+      "end": 40.46,
+      "text": "Right. So you've mentioned that you have some pain in your jaw. Is that correct?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 40.59,
+      "end": 67.11,
+      "text": "Um, well. I think that's just, like, the first thing that I typed, but, uh, uh, it wasn't really what I, you know, I just typed it and then I clicked submit, so, that was uh, um. I mean it's part of the problem but I would say that, more of a problem for me, is that I can't quite move my left arm. I mean, I can move it but it's it's numb, and then I also feel some, like tingling in my fingertips."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 67.75,
+      "end": 73.36,
+      "text": "OK, so numbness in the left arm, yeah? How long has it been going on for?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 70.44,
+      "end": 83.05,
+      "text": "Yes, yes. So, I've started taking this boxing class. I've been taking this boxing class for a few weeks, and I feel like maybe, um"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 77.55,
+      "end": 78.25,
+      "text": "Mm hmm."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 84.47,
+      "end": 93.58,
+      "text": "It's probably been, I'd say, for at least two weeks, and it's kind of gotten worse. Like,in the beginning, I just kind of felt a little bit of a tingling."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 89.98,
+      "end": 90.81,
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 93.58,
+      "end": 105.15,
+      "text": "and then it's gotten, it's gotten worse since then. Then the numbing kind of started I can feel it both in my, uh, um, you know a little bit in my elbow, and then in my arm, as well as in my hand"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 105.01,
+      "end": 105.68,
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 105.15,
+      "end": 117.67,
+      "text": "And [inaudible] now because it hasn't gotten better, I tried to get a massage, it's not better. Or, you know, try to take warm baths. It's not better, so I figured I'd call you and, and just figure out what's going on."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 117.81,
+      "end": 123.63,
+      "text": "Right. So, have you mentioned that message and a warm bath, any medications that you've taken so far?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 124.62,
+      "end": 141.15,
+      "text": "Uh, well it's. You know it's, it's numb and I, I kind of looked at stuff online, um, but you know I, I do take Ibuprofen because my muscles were sore, a little bit, and I've been taking this boxing class."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 131.37,
+      "end": 132.05,
+      "text": "Uh huh."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 141.15,
+      "end": 149.51,
+      "text": "So, you know, I kind of hurt like my knuckles on my right hand. So that's been a little bit painful, so I've just kind of taken ibuprofen for that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 149.25,
+      "end": 149.95,
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 149.51,
+      "end": 156.86,
+      "text": "But, like I said, I mean, I tried massage, I tried some hot baths, and that didn't help with this numbness thing."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 153.97,
+      "end": 157.77,
+      "text": "Mmm. Sure."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 157.6,
+      "end": 159.7,
+      "text": "I'm just kind of getting a little worried."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 159.4,
+      "end": 171.21,
+      "text": "Of course. So [inaudible] you just mentioned that your pain is from elbow downwards, is that, you know, the tingling, numbness elbow [inaudible] . Not from your shoulder?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 171.28,
+      "end": 195.65,
+      "text": "And, um, well it's kind of funny, you know sometimes I will feel it in my shoulder. Like if I try to, if I try to like you know move like in boxing and stuff, I will even like, uh, um, maybe feel a little bit of, a little bit of pain. Uh, but I would say, if i'm just like resting [inaudible] if I'm sitting like, right now, I can feel like it's numb, and I, I actually feel, tingling right now, not in all of my fingers, just in some."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 195.84,
+      "end": 198.03,
+      "text": "Yeah. So, which fingers do you feel numb?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 198.57,
+      "end": 202.35,
+      "text": "OK, so it's my second, third, and fourth finger."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 202.31,
+      "end": 210.89,
+      "text": "Uh huh. Second, third and fourth finger. And is it your palm side or, you know, the back of your hand side which is numb, or both?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 210.69,
+      "end": 214.46,
+      "text": "No. It's, it's the, it's this side. So, the front side."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 214.39,
+      "end": 226.29,
+      "text": "It's the front side. OK, right. And have you been dropping things at all? Like, you know, when you try to [inaudible] hold onto things, like a glass or something, have [inaudible] dropping it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 224.84,
+      "end": 235.73,
+      "text": "Yes. So not so much with the glass, but I will say, um, well I play a little bit of a piano and so I just noticed it's been kind of harder to get the notes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 235.64,
+      "end": 236.29,
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 235.73,
+      "end": 246.18,
+      "text": "I can, I can grasp, I can grasp a [inaudible] a glass but because I use my right hand most of the time, you know, I'm not left handed so, it's kind of hard for me to."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 244.52,
+      "end": 262.12,
+      "text": "So So you would say this in mind weakness, mind. [inaudible] So [inaudible] just to [inaudible] get my facts right. So you would say it's definitely weakness rather than because of the pain, you can't hold it. That's two different things. So you know sometimes you can't hold it because it's hurting you [inaudible] ."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 248.98,
+      "end": 267.32,
+      "text": "Yes. Yeah. No, no, it's not hurting, it's not hurting, it's, like, numb, I can't feel it, right? Well, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 264.63,
+      "end": 274.25,
+      "text": "OK. [inaudible] Fine. So, you're definitely having some sort some form of weakness, OK. Edward, any neck pain at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 270.9,
+      "end": 277.22,
+      "text": "Yes, absolutely. No, not, no, nothing [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 276.77,
+      "end": 290.59,
+      "text": "[inaudible] neck pain and all? OK, right, OK. So, just a bit more of a background because I don't have much information on the system. Um, do you have any past, uh, medical history that you'd like to share?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 284.52,
+      "end": 299.58,
+      "text": "Mm hmm. Well, I guess because of this. You know, I'm not sure if it's boxing. I also had a really bad cold, like a month ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 299.27,
+      "end": 299.95,
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 299.58,
+      "end": 321.3,
+      "text": "I mean, I was out, you know, drinking with, uh, friends, um, one of our co-workers just had his three year anniversary and We kinda went crazy and we were like out partying until, you know, late hours, and I just got uncharacteristically drunk for me. And then after that, I was sick for probably good like two weeks. I was at home. I think I must have had some kind of like a flu or something."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 314.15,
+      "end": 321.67,
+      "text": "what Mm-hmm."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 321.3,
+      "end": 342.82,
+      "text": "So it's that. And then, I'd say another weird thing that happened to me a few weeks ago, is like, I all of a sudden just couldn't see from the, uh, from my left eye. Like, I, I lost some, like a little bit of a field of vision Uh, and, but that, that just lasted not very long. I mean, that just lasted maybe for, I don't know, twenty, twenty minutes?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 335.3,
+      "end": 335.86,
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 342.82,
+      "end": 348.62,
+      "text": "Uh, and I kind of thought, I don't know maybe it was the the cold you know and the virus and all that so"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 348.54,
+      "end": 349.14,
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 349.27,
+      "end": 360.43,
+      "text": "I, I guess that's what I can, you know, that's the last thing I can remember, but in general, I'm, I'm pretty healthy. You know, I work out, uh, [inaudible] , and I, I don't really have any medical problems."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 357.07,
+      "end": 363.64,
+      "text": "Yeah. Do you have any headaches at all, from the, in the recent past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 364.52,
+      "end": 390.18,
+      "text": "Um, sometimes I get headaches but I think they're just tired headaches. You know sometimes I'll get kind of Tired but I think that's probably because I work too much. Or, you know because like I'll go for a workout and then I'll really just exhaust myself and then I just kind of feel this fatigue. Uh, or sometimes like this morning for example, I just felt really, fatigued and I couldn't even get myself to the gym. But, you know, since I have this numbness it's kind of like, hard to workout right?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 379.97,
+      "end": 394.0,
+      "text": "Hmm. Do you wear glasses at all, [inaudible] glasses, contact lenses?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 394.51,
+      "end": 395.21,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 394.81,
+      "end": 402.18,
+      "text": "No, so no glasses [inaudible] . And, you've not [inaudible] experienced anything like a seizure or a fit, anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 402.82,
+      "end": 403.86,
+      "text": "What's a seizure?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 403.96,
+      "end": 407.64,
+      "text": "Like when you [inaudible] you [inaudible] lose consciousness and you start shaking."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 408.26,
+      "end": 410.95,
+      "text": "Ohh, no, no, no, no, nothing like that, mmm mmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 409.14,
+      "end": 420.63,
+      "text": "[inaudible] OK, no fits, yeah, OK. And your weakness is only in your left arm. Legs are walking and all this, normal, yeah?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 416.79,
+      "end": 423.25,
+      "text": "Right, exactly. Yeah, yeah, yeah, walking is normal, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 423.16,
+      "end": 431.55,
+      "text": "You mentioned for a while you couldn't see, you know, the outside peripheral vision from your left eye. How long did that episode last for?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 432.15,
+      "end": 447.39,
+      "text": "You know I think it was only maybe like twenty minutes or so. It's almost like it happened and I thought ohh my God. It's probably I'm still like sick from this, you know virus thing, cold, and so I just kind of slacked it off. And then when I, uh, um, when I woke up it was gone."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 447.83,
+      "end": 454.12,
+      "text": "Sure, OK. Um, OK. So is there any regular medications that you're using?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 455.19,
+      "end": 469.53,
+      "text": "Not really. I just take ibuprofen every once in a while, I take vitamin D. Um, I take some I, I like my [inaudible] my GP really wants me to take iron supplements, but you know, they're just like huge pills so I, I, most of the time I just forget."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 469.53,
+      "end": 470.09,
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 469.53,
+      "end": 473.6,
+      "text": "But, vitamin D I take. And then, sometimes I take Melatonin to help me sleep."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 473.54,
+      "end": 484.02,
+      "text": "OK Alright. And any family history you'd like to share? Any [inaudible] significant family history?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 484.41,
+      "end": 492.51,
+      "text": "I know that my dad has I don't know if it it's hypo, I think it's hypothyroidism."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 492.37,
+      "end": 493.01,
+      "text": "Yeah."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 492.51,
+      "end": 498.27,
+      "text": "Um, and then my, like, he's got he's got some autoimmune stuff going on, like that much I know."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 496.87,
+      "end": 498.69,
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 498.27,
+      "end": 518.24,
+      "text": "And then, my mom, my mom, she's actually not in a great shape. She's got diabetes type two. She's got hypertension, um, she's got, gosh, what is it, ohh, yeah, she's got high cholesterol, um, and I think that's it for her. Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 518.08,
+      "end": 523.07,
+      "text": "Yeah, right. Any neurological conditions in the family?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 524.38,
+      "end": 525.42,
+      "text": "Uh."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 525.26,
+      "end": 566.57,
+      "text": "there are related conditions. No, OK, that's fine. OK, so, right. So after, you know, speaking and examining, you know, yourself, I think it's quite important that we do investigate it a bit further. I'm just wondering whether there's something a bit more than just the boxing here. OK, [inaudible] few things that's, made me think other than, just like a boxing injury, is for instance, um, you know, when you said you can't, your vision went, your peripheral vision was not there for about twenty. So, and that with the weakness of the arms, make me think, is there something else going on rather than just an injury?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 546.19,
+      "end": 568.59,
+      "text": "OK. What do you think may be going on?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 568.52,
+      "end": 588.69,
+      "text": "[inaudible] sometimes you know you do get things like MS, multiple sclerosis. So people with multiple sclerosis can have, um, visual problems, like what you've experienced and sometimes [inaudible] you know the odd numbness tingling sensations going on. OK?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 574.89,
+      "end": 591.02,
+      "text": "Ohh! Ohh my God! Will I be in a wheelchair?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 592.09,
+      "end": 623.49,
+      "text": "We, if we capture it a bit early there are treatments for it. OK? I'm not, obviously I'm not suggesting that you do have it, but it is quite important to find out that, whether you have it or not that's the most serious kind of thing that needs to be, uh, dealt with here. Yeah. So, what we can do is I'm going to do an urgent, very urgent neurology referral. Yeah? What they, what that might entail is the brain scan and things like that. Hello?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 609.7,
+      "end": 626.19,
+      "text": "K, OK. OK [inaudible] I see. Yeah yeah yeah! Yeah, I'm here, I'm here."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 625.77,
+      "end": 637.66,
+      "text": "[inaudible] I know this might sound a bit of a shock to you, um, but [inaudible] I'm, I think it is more important that we investigate this a bit more seriously."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 632.01,
+      "end": 640.6,
+      "text": "Yeah. Alright. Yeah, that makes sense."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 640.48,
+      "end": 642.83,
+      "text": "OK. Any questions at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 643.42,
+      "end": 649.66,
+      "text": "Well, what's, OK, so you're gonna do the referral, um, should I be taking any drugs or, um"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 648.29,
+      "end": 685.61,
+      "text": "No, that's something we can't do. The treatment for it is actually some steroids and things like that, uh, when you have an acute [inaudible] you know, acute reaction or things like that. But, saying that, first we need to [inaudible] firm diagnosis. Yeah. [inaudible] While you're waiting for this to be done, if there's any weakness, uh, you know, if the weakness progresses to your legs, or there's any kind of headaches, vomiting, fits, and your visual symptoms are getting worse and not getting better, then that would be an A and E."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 664.08,
+      "end": 687.72,
+      "text": "Mm hmm, yes, OK. OK, got it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 688.33,
+      "end": 689.33,
+      "text": "Alright."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 688.63,
+      "end": 691.71,
+      "text": "Sounds good! OK, thank you, doctor."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 691.63,
+      "end": 704.03,
+      "text": "Yeah. I'm [inaudible] I'm sorry. I, I do appreciate you are a bit worried, but, you know, it's good that we know that you've come and spoken to us today, and hopefully we'll get things sorted and the ball rolling. OK?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 703.42,
+      "end": 706.66,
+      "text": "[inaudible] Thank you, doctor. Appreciate your time."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 706.64,
+      "end": 708.71,
+      "text": "That's OK. You take care."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 707.66,
+      "end": 709.87,
+      "text": "Thank you. Bye bye!"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 709.72,
+      "end": 710.94,
+      "text": "Good bye now, bye."
+    }
+  ]
+}

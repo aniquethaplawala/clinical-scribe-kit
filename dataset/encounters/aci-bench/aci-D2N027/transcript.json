@@ -1,0 +1,260 @@
+{
+  "encounterId": "aci-D2N027",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Eugene Walker, n- date of birth 4/14/1960. He's a 61-year-old male who presents today, uh, for a routine follow-up with chronic medical conditions. Of note, the patient underwent an aortic valve replacement and ascending aortic aneurysm repair on 1/22/2013. Regarding his blood work from 4/10/2021, the patient's alkaline phosphatate- phosphatase, excuse me, was elevated to 156. His lipid panel showed elevated total cholesterol of 247, hdl of 66, ldl of 166, and triglycerides at 74. The patient's tsh was normal at 2.68. His cbc was unremarkable. His most recent vitamin d level was at the high end of normal at 94. Good morning, mr. Walker. How are you doing? I mean, it's been a crazy year."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm doing fine, for the most part, but there are a few things I want to cover today."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Sure. Go right ahead."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, well, I'm having more fatigue, but I don't know if it's age or if it's just, you know, drained at the end of the day. But I still ride my bike. I can't go as fast as I used to. I'm still riding, and, you know, after a long bike ride, I'll sit down and then boom. I'm out, you know?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah. What's a long bike ride to you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, 20 to 30 miles."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "20 to 30 miles on a road bike?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, road bike. I think it's a time thing. If I had more time, I would try to do my 40 miles, but I haven't done that. Obviously, we're too early in the season so my typical ride is, like, 20, 30. In years back, I could do 40 on a good day. I can still do 20 but, you know, I'm tired and have to take a break when I get home."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, I understand."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And tyler's my buddy. He's always nice and waits for me, but I used to be able to beat him. But now, he waits for me all the time. He's older than me and it- it kills me."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, I can imagine that would upset me too."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well, the last time, you know, you found a heart thing, then. Just making sure that the valve is holding out, you know?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Right. So, when was your last stress test?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It was september 9th, 2019, because I'm eight years out from surgery, and back then, they said, you know, it's going to last eight years. And I'm at that year, so I just want to make sure. I asked dr. Lewis for an echocardiogram to see how I'm doing."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "But it's not... Like, nothing has changed drastically since I saw you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, good. Do you still go down to hopkins at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, not at all. I just get follow-ups intermittently, here. Going there is just... It's too much stress."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "One more thing, I want to make sure I don't forget. My wife and friends tell me that when I walk, I purse my lips when I'm breathing. Other doctors have said, \" did you notice your pursed lips breathing? \" I don't know if that's a bad habit or what."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Is there any wheezing associated with that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no wheezing."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And you're able to bike 30 miles and mostly keep up with your friend, tyler, correct?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah. The only other thing I want to mention is it's not like I do routine testicular exams, but I know I have this little nodule on my right testicle."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "On the testicle or the epididymis?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Epididymis. Uh, I really don't know. I'm not super concerned. I read a little online. Just wanted to ask you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And did you have a vasectomy?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No. Let me pull my notes out and make sure I mentioned everything I wanted to tell you. Those were the only things and it's not like my tiredness is depression or anything. I'm a pretty happy guy overall, you know? I just know you would ask those questions."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "What time are you going to sleep, and about how many hours do you sleep a night?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, it varies. Usually, I get six to seven hours of sleep. I get out of bed some days to be at work by 7:00, lecture, and I try to work out in the morning. I- I don't... I'm not... I'm not always successful, and now what I do is I- I do make reservations twice a week for a 5:45 swim in the morning."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, so you're getting six to seven hours of sleep, and has your wife ever mentioned if you snore or stop breathing at any time?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I believe I snore a little bit, but she's never said anything about me not breathing."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. So, you're currently taking vitamin d3, around 5000 units on sundays, and two thous... Or 50,000 units on sundays, excuse me, and 2000s on the other six days, and then clindamycin prior to dental procedures, correct?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, that's right."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you had a covid-19 shot yet?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I've received both. My first dose on january 15th, '21 and my second on february 5th, '21."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Good. If you'd hop up here on the table, we're just going to do a physical exam. Well, mr. Walker, overall you're doing well. I'm going to order an echocardiogram and a stress test. I also recommend that you follow up with cardiology, I think dr. Vincent sanchez would be a great fit for you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "All right."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Also your recent labs showed an elevated alkaline phosphatase level at 156. Now this could be related to your liver but most likely related to your bone health. We're going to check a few labs today."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You're going to have them done today?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yes, sir, and we will send the results through your patient portal unless something is way off then we'll give you a call."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sounds good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Now as far as your breathing, I observed the pursed lip breathing and your exhalation is low. I think you should do a pulmonary function test to further evaluate, and I'll order that as well. Now the nodule in your right testicle should be evaluated by urology, and we will place that referral today, also."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sounds like I'm going to be busy getting this all checked out."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yes, sir. Now you are due for your mmr and I'm recommend you get the shingles vaccine as well. You have completed your covid-19, so that's good. Now I'm going to have, uh... Have you return in about a year for your wellness visit. We'll see you back sooner if needed after I review all those labs and those other studies. Do you have any other questions for me?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, doc. I think you covered it all."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Great. Okay, the nurse will, uh, be back in a minute to give you mmr today, and the front desk will line up a time to do the shingles vaccine next month."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Thanks, doc. Have a great day."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right, I used my general physical exam template for respiratory notate: pursed lip breathing, low exhalation phase, clear to oscillation, no wheezing. Uh, genitalia notate: right testicle with two to three millimeters palpable nodule does not feel as if it will... Does not feel as if with the epididymis or variococele; left testicle, normal; no hernia. All other portions of the physical exam are normal default. Assessment history of the aortic aneurysm repair: the patient underwent and aortic valve replacement and ascending aortic aneurysm repair on 1/20/2013. He is doing well overall and currently asymptomatic. He is currently not seen by cardiology routinely. Suggest the following up and suggested vincent sanchez as his physician. We will perform an echocardiogram, eh, slash, stress test. Elevated alkaline phosphatase level. Most recent cmd showed elevation at 156. This could be related to his liver but most likely re- related to his bone health. I've ordered an alkaline phosphatase and again a gt. Lung field abnormal finding on exona... Excuse me, on examination. The patient has been noted to purse his lips while breathing. He was found himself... He has found himself feeling more fatigued at the end of the day. He does bicycle around 20 to 30 miles at a time. His exhal- exhalation phase is low on exam, and I've ordered pfts today to further... For further evaluation. The right testicular nodule is about two to three millimeters, I've noted on the exam. There's no hernia palpable, and I have suggested reaching out to ro... Urology for a possible ultrasound. Preventative health: the most recent blood work was reviewed with no significant abnormalaries... Abnormalities other than the cmv. Uh, we will perform mmr titer today. I have suggested the shingles vaccine and he is fully vaccinated against covid-19. Patient will return, uh, for a follow-up in one year for a wellness visit, sooner if needed. He is to call with any questions or concerns."
+    }
+  ]
+}

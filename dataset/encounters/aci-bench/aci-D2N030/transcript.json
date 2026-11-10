@@ -1,0 +1,450 @@
+{
+  "encounterId": "aci-D2N030",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Donna torres, date of birth, 08/01/1980. Hi Donna! How are you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm good. How about you?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I'm doing well, thank you. And so, I saw that dr. Brown put you on buspar. Have you been on that before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, that's new."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. How is it working for you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "My anxiety is going good now, thankfully. I'm serious, it was brutal in november and december. Finally, I was like, \" I can not do this. \" I have no idea why it happened. Dr. Ward did put me on singulair, and she did say we need to be careful because singulair can cause anxiety. So I'm not sure if that was the issue or what."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mm. Okay."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And it would, um, start usually during the day, at work."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I see."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I mean, I'm fine now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Well, that's good, that things have settled. I do wonder if some of what you are dealing with is hormonal, and that's why I was asking. 'cause you were on the progesterone, and I feel like you were having some irritability back then too."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I did."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And that was before we started the progesterone."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So I know we started it for regulating your periods, but perhaps it helped with this also."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah. And before, in november and december, I noticed that the week before my period, my anxiety would go through the roof. Which then, I knew my period was coming. Then it turned into my anxiety spiking just at random times."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hmm, okay."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And it seemed like it was for no reason."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "But november and december you were on the progesterone at that time."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. So not really a link there, all right."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I don't know."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, I don't know either. Um, sometimes with the aging process, that can happen too."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I figured maybe that's what it was."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And we did go through the golive in november and december, so that can be pretty stressful also."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, and at work, that's when I first started to lead the process of delivering the results to patients with covid. In the beginning of the whole pandemic, patients would have to wait nine days before they'd get their results. And then we opened the evaluation centers and the covid clinic. So I think it just took a toll on me."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, I can absolutely see that."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, and then I was feeling selfish because I wasn't even on the front lines. I mean, I was supporting people, sure, but I wasn't in the icu. So I felt selfish and guilty. I mean, hands down, the physicians and nurses were in the thick of it and there I was, having anxiety. And it felt ridiculous."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Well, honestly, you feel how you feel and what you were doing wasn't easy as well, so... But let's see. I need to just put this Dax back to work. All right, so no other issues whatsoever?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you lost weight?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, but I stopped taking the camila birth control. My hunger level was at a new high. I mean, I was eating constantly. I felt like, \" what is going on? \""
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And now I am feeling better."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, that's good. And your masked face, though, it does look thinner."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well, the past six months I have lost some weight."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, good. Um, anything else going on?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. So your pap was in 2019. I don't think that we need to repeat that because it was negative/negative. Um, have you ever had an abnormal pap?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not with you, but I did around 2009, and then I had to be seen every six months for a while. And then I had a normal pap."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right, well, let's just repeat it then."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, that's fine with me, to be safe."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. I know it sounds superstitious, but I feel like with all the immunocompromising, the pressure, the stress that people's bodies have been under, and the potential for getting covid or the vaccine... I have actually seen some, um, an increase in abnormal paps in people who have been fine for a while. So that's why I figure let's just check."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay. I fight the vaccine fight every day at home because my husband isn't ready to get it. Same with my daughter. She shares the same worries as her dad in how it'll impact her when she gets older."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you had the vaccine?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, I have. And so has my son. He, um, has had his first already."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Well, you know, you can only do what you can do."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I agree."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. Well, let's complete your exam."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "All right."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So let's take a deep breath. And again. All right, you can breathe normally. All right, and take one more deep breath. Okay, now I'm gon na touch your neck. Go ahead and swallow. Perfect. And just place your hand above your head. Okay, I do feel some little bumps."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, but they're not as big as they were."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mm-hmm. Okay, in this breast it does feel a little bit denser. Does it hurt at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It does, where your left hand just was."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, right here?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, down here. But whenever I breastfed, it was always sore there too. I had a clog and something else. The lumps do feel smaller, but they are still there, unfortunately."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, they are. Uh, well now I don't know, because if it was the progesterone, they would've gone away."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right, well just let your knees just op- relax and open. How's the itching or discomfort? Are you still using the cream?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, and I actually need to get that refilled for the first time ever."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, but yeah, I use it once a week and it does help."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, great. All right, looks good."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You can go ahead and sit up."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right, so typically the lumps would often just shrink up pretty quickly after you've had one or two cycles, and you've had two cycles so far. So I think let's just keep monitoring them for now."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay. And what could that mean?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Well, so just like people have an increased risk of breast cancer, there's also an increased risk for breast issues. You know what I mean? So for example, cysts and lumps and fibroadenomas, those are all benign things. They're annoying and require some workup, but they're all benign."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And I'm- I'm just worried because I'm almost 40 and my mom was almost 45 when she was diagnosed with breast cancer. So I mean, I know there's nothing I can do about it, but it's just I feel like, uh, we had it under control and now it isn't."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Well, I wouldn't say that. I mean, I feel like we're at a point where we have a good cadence for you having surveillance on things, and I think you are more aware of your breasts than ever before, and things actually haven't changed."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So those are all good things."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Because, um, if it was cancer, we'd actually, we would see some change."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "We would? Okay, thank you for explaining that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah. So I know it's annoying and distressing, but I think that's where we're at. It's annoying that you have the breast issue, and it's annoying that we have to follow them."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I agree there."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, but the only extra that I could po-, uh, potentially do, is we could get a breast specialist on the team and have you start to follow with them. And one of the advantages there is that they sometimes will do an ultrasound as an extension of their physical exam, in the office, to check out it- check it out on their own. Uh, they also have a lot more experience and more willingness to sometimes perform procedures earlier, if they think it needs, um, if they think it needs to be done. And I think they tend to be much quicker than, you know, like radiology as to biopsy it."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay. I'll do whatever you think I should."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. Well, I think since you're feeling worried, let's go ahead and we can get them on board. I'll send out a referral and they will call you within the next couple of business days to schedule."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, I think that sounds great."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. I do too. All right, well any questions or anything else we can discuss today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I think I'm all set."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right, good. All right, well have a good rest of your day and just give us a call if you need anything else."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "All right, thank you. You have a good day too."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right."
+    }
+  ]
+}

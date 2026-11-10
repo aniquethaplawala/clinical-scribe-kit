@@ -1,0 +1,215 @@
+{
+  "encounterId": "aci-D2N056",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Alright thanks for coming in today I see on my chart here that you had a bunch of lower respiratory infections so first tell me how are you what's going on"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You know I'm doing better now but you know last week I was really sick and I just have had enough like I was coughing a lot a lot of mucus even had some shortness of breath and even a low-grade fever"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Wow that is a lot so what did you do for some of those symptoms"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You know I ended up drinking a lot of fluid and taking some robitussin and I actually got better over the weekend and now I'm feeling much better but what concerns me is that I I tend to get pneumonia a lot"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay so when you say a lot like how frequently does it occur I would say it seem honestly it seems like it's every month or every other month especially over the past six six months that I just keep getting sick and I usually will end up having to go to my primary care doctor or"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Urgent care and I'll get prescribed some antibiotics and one time I actually ended up in the emergency room"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Wow and how long do your symptoms normally last for"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You know it could be as few as like a couple of days but sometimes it could go even up to a week"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm you mentioned that you are a farmer did you do you notice that your symptoms occur while doing certain things on the farm"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You know I was trying to think about that and I've been working on the farm for some time but the only thing I can think about is that I've been helping my brother out and I've been started like unloading a lot of hay which I don't usually do and I wan na say that my symptoms actually start the days that I'm unloading hay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Alright do you wear a mask when you're unloading hay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No I don't do that"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "None of us do"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay yeah so like that your brother doesn't either"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No I'm the only one who seems to be getting sick"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Alright so I know you said you were trying to like help out your brother like what's going on with him"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You know we've just been getting really busy and so he has been working around doing other things so I've just been helping him just cover the extra load"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm okay alright do you have any other siblings"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah there is actually ten of us"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Wow okay that's that's a lot of siblings"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah I'm okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Maybe maybe we could we could always stick them in they could get some work done the holidays must be fun at your place"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah we don't need to hire any I mean have anyone else this is our family"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You're right keep it in the family okay so speaking of family do you have do you or anyone have a history of seasonal allergies"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No no I have never had any problems with allergies"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay and do you smoke"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I don't smoke"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Do you live with anybody who does"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I do not"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay alright so okay so now I I wan na go ahead and do my physical exam I'm gon na call out some of my findings just to make sure that I'm documenting everything and if you have any questions about what it is that I'm saying please feel free to ask okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So I reviewed your vitals and you appear to be breathing a little fast your respiratory rate is twenty but but your oxygen is you're satting kind of fine at ninety nine percent on room air so I'm not too worried about that on for on your heart exam I do you have a regular rate and regular rhythm I do not appreciate any murmurs rubs or gallops on your lung exam you know I do you do have some fine rales on your lung exam but no wheezes and on your musculoskeletal exam I do not appreciate any clubbing of your fingers so for your results I did review the results of your chest x-ray and I noticed some round glass opacities so let me tell you a little bit about like my assessment and plan for your first problem of recurrent lung infections your symptoms seem consistent with a condition we call hypersensitivity pneumonitis in your case another name is farmer's lung which you know is appropriate considering your job this could be caused by bacteria and or mold that is found in the hay when you inhale it it leads to an allergic reaction in your lungs this is why your symptoms occur every time you move hay for your current symptoms I'm gon na prescribe you a a course of an oral steroid this will help to decrease the inflammation that is occurring in your lungs I will also be ordering a cat scan of your lungs which will help confirm the diagnosis as as well a pulmonary function test to assess how severe your respiratory impairment is it would be best if you could eliminate your exposure to the hay or prevent further to prevent further damage to your lungs however if you are unable it's very important that you wear a respirator when moving hay around I know that that was a lot of information I think it boils down to pull in more of your siblings to help work around but do you have any questions"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah so is this gon na help so I don't keep getting sick"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So ideally what we are doing I think this is the best course of action to deal with the deeper problem right of these infections and to kind of like clear up the pneumonia everything seems to hint on so what we're gon na do is treat your current infection we're going to either prevent you from being around hay or make it so that it's safe for you to be with hay and then we're gon na see like what we need to do moving forward does that help"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay it does"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Alright"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Thank you"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay no problem"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright"
+    }
+  ]
+}

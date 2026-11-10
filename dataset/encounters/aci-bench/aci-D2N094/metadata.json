@@ -1,0 +1,25 @@
+{
+  "encounterId": "aci-D2N094",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N094",
+  "split": "clinicalnlp_taskB_test1",
+  "collectionMode": "virtassist",
+  "chiefComplaint": "right index finger pain",
+  "secondaryComplaints": [
+    "chronic constipation",
+    "hx appendectomy"
+  ],
+  "patient": {
+    "age": 42,
+    "gender": "female"
+  },
+  "turns": 41,
+  "wordCount": 517,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

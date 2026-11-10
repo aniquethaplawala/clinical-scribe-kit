@@ -1,0 +1,320 @@
+{
+  "encounterId": "aci-D2N073",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Today I'm seeing Christina Cooper. Her date of birth is 07/01/1954. Uh, ms. Cooper is a new patient who was referred by diane nelson for a long-standing iron deficiency anemia. Hello, how are you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm good, thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So tell me what brings you in today."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Recently I tried to donate blood, around december I think, and they told me I was anemic, which is something I've been dealing with for a while, so it's not the first time I've been told I'm anemic."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Or how have you been feeling in general with this?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not great. I have been feeling fatigued often during the day, and even feverish with chills at times. When I try to be active I like I can't catch my breath and I feel like I'm wheezing. I've had some headaches too, which is not like me."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Are there any other symptoms?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I've been noting some chilling sensations. I also get cold so easily. It's annoying. I feel like I have to really bundle up. I don't know if this is related but my anxiety and depression feel like it has been getting worse lately. I feel like a mess."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Sounds like you're not feeling great, obviously. And I'm glad you came to see us. Um, we're certainly going to try to figure this out and figure out what's going on, uh, but it sounds like you've been dealing with this anemia for a long time?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I've been anemic since I was 13 years old."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Right. So why do your doctors think you're anemic? Do you have a history of heavy periods?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well I did have heavy periods until I had a hysterectomy in 1996. But no, they have not told me why they think I'm anemic, which is frustrating honestly."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah. I can imagine that is. Um, let's see if we can help though. Since you had your hysterectomy your periods, of course, are no longer the issue. Um, when was your last colonoscopy?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "About five to six years ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And was it relatively a normal exam? Did you have any polyps?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No. They said they'd see me in 10 years."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Well that's good news."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I agree."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, do you have a pacemaker or defibrillator, or have sleep apnea, or use oxygen at night?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. Do you ever drink alcohol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, but only once or twice a year."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Are you taking any supplements such as iron or vitamin b12?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I already started taking my iron pills which I have not taken in about a year."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. And what are you taking?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm taking 25 milligram tablets, twice daily."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and that's the, the ferrous sulfate?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, that's it. I take one in the morning and one in the evening."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Anything else?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I take vitamin b12, just the over the counter stuff."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, very good. All right, well let's go ahead and take a look and see what's going on."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sounds good. Thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Of course. You'll hear me, uh, talk through your exam so that I get all the information documented."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. So use my general physical exam template. I will start by listening to your heart and lungs."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. Next, I'd like you to lay back so I can examine your abdomen."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Is there any tenderness where I'm pressing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. You can sit up. So your physical exam is normal without any significant findings. All right ms. Cooper, often when we initially see anemia and your host of symptoms, we suspect internal bleeding."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Is that why they want me to have another upper endoscopy?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Actually it would be an upper endoscopy and a colonoscopy, but yes, likely that's the reason why."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Lovely."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah. Unfortunately our cameras do not meet all the way in the middle, so if those tests back, come, if those tests come back fine, then we'll have you swallow a pill camera to take pictures as it moves through your, uh, system."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "We may not need to, but it's just the first thing we can do to make sure that you're not losing blood. Um, the second thing we can do is have you see a hematologist. They will tell us if you need to give any, to give you any intravenous iron, or maybe something to help your body store the iron better."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "All right."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So let's go ahead, get your upper endoscopy and colonoscopy scheduled."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, have you ever had any issue with sedation in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I was just sleepy afterwards."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Well we will give you a bowel prep to clean out your bowels ahead of time. Um, if we do these tests and they are normal, like I said, then we will consider that capsule endoscopy."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay. Sounds like a plan."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. So after that you'll be all done and we will send you to the hematologist. Additionally, I'm going to need you to start taking your iron pills with orange juice. Uh, the vitamin c will help you absorb the iron better. Do this for about 8-12 weeks, uh, and then we can reassess your blood work."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, that sounds great."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. Well I think we have our plan. On your way out, stop by and schedule your upper endoscopy and c- colonoscopy. Uh, we will send a referral to dr. Flores who is is the hematologist, so schedule that appointment. Um, here are your instructions for the pre- uh, the bowel prep. Uh, call us if you have any questions or worsening symptoms. We'll be happy to help you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You're welcome. Have a great day, have a great day ms. Cooper."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You too."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. This is Christina Cooper, pleasant 65 year old female who was diagnosed with iron deficiency anemia in 12-2019, and w- and was unable to donate blood. Um, her followup blood work on 01/20/20 was revealed a low hemoglobin, stable hematocrit and normal iron labs, although ferritin was low. Um, she was taking ferrous sulfate, three hundred, twenty phil- 25 milligrams by mouth. I've asked her to continue each dose with vitamin c found in orange juice, for the next 12 weeks, then recheck to the cbc, iron, ferritin, b12, and folate. Um, a referral was sent to her hematologist. We will plan for an egd and a colonoscopy to assess for potential sources of anemia or gi bleed. If this is inconclusive, capsule endoscopy will be considered. Thanks."
+    }
+  ]
+}

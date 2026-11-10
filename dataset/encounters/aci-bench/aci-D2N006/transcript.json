@@ -1,0 +1,300 @@
+{
+  "encounterId": "aci-D2N006",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hi, Anna. How are you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm doing okay. How are you?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I'm doing okay. So I know the nurse told you about Dax. I'd like to tell Dax a little bit about you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "All right."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So, Anna is a 44-year-old female with a past medical history significant for arthritis, gout, and reflux, who presents today for follow up of her chronic problems. So, Anna, it's been probably about six months since I've seen you. How are you doing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm doing okay. Um, my arthritis is starting to get better. Um, I've been trying to move my body, doing pilates, lifting weights, um, and that's, kind of, helped me build up some muscle, so the joint pain is, has been going away."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Yeah. I know you were having, you know, some problems with your right knee, uh, and we sent you for physical therapy. So, so that's going well?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah. The physical therapy's gone really well. I've built up my strength back and it's been really great."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. So you feel like you're able to walk a little bit further now?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yup. I'm walking about a mile, a mile and a half a day."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Great. That's good. I'm glad to hear that. Okay. And then, in terms of your gout, um, how are you doing with that? I know you had an episode of gout of your, your right first big toe, um, about two months ago. How are you doing with that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm doing, doing well. The medication helped it, you know, go down and go away. Hopefully,, it doesn't come back."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And are you taking the allopurinol that I prescribed?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And no issues with that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nope."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Great. Um, no further flare ups?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Great. All right. And then, you know, how about your reflux? We had placed you on, um, omeprazole, you know, to help with some of those symptoms and I know that you were gon na do some dietary modifications. How are you doing with that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So, I started to make some dietary modifications. Unfortunately, I haven't cut the stone out quite yet. Um, I've still been having some episodes and, and throwing up in the mornings, um, things like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You're throwing up in the morning?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yup."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Like, just, like, reflux into your throat or are you actually vomiting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, actually vomiting."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. That's a problem."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yup."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. Well, um, let's talk about any other symptoms that you might have. Have you had any abdominal pain? Um, diarrhea? Um, do you feel like your belly's bigger than usual?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, the, the first and the last. So, I've been having some abdominal pain and then I feel like I'm bloated all the time."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And when was your last bowel movement?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, probably two days ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Was it normal?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Any blood?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. And any weight loss? Anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, not that I've noticed."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And any fever or chills?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. Uh, well, sounds like we just did the review of systems with you. It sounds like you're endorsing this, you know, nausea, vomiting, abdominal distension. Um, any other symptoms?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No? Okay. All right. Well, I wan na go ahead and do a quick physical exam. Okay? Hey, dragon, show me the vital signs. All right. Well, your, your vital signs here look quite good. All right. So, I'm, I'm reassured by that. I'm just gon na check out your heart and lungs and your belly and, and l- let you know what I find, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. So, on physical examination, you know, everything looks good. Your heart sounds good. Your lungs sound good. You know, on your abdominal exam, you do have some pain to your right upper quadrant when I press on it, um, and there's no rebound or guarding and there's no peritoneal signs and your right knee does show a little bit of, uh, an effusion there and there's, uh, some slight pain to palpation and some decreased range of motion. So what does that mean, you know? That means that you have some findings on your belly exam that concern me about your gall bladder, okay? So, we'll have to look into that and then, um, your right knee looks a little swollen, but you know, we know you have some arthritis there, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Let's take a look at some of your results. Hey, dragon, show me the autoimmune panel. Hey, dragon, show me the autoimmune labs. Okay. So looking at your autoimmune panel here, you know, we sent that because, you know, you're young and you have, you know, arthritis and gout and that type of thing and everything seemed to be fine."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey, dragon, show me the right knee x-ray. So, looking here at your right knee x-ray, you know, there's no fracture or anything, but you know, it does show that you do have that residual arthritis there, um, that we're, you know, we're working on improving so that we don't have to do some type of surgery or intervention, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So let's talk a little bit about my assessment and plan for you, okay? So, for your first problem, um, your reflux and your nausea and vomiting, uh, I wan na go ahead and get a right upper quadrant ultrasound to rule out any gallstones, okay? Um, and then I'm gon na check some labs on you. Okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I want you to continue on the omeprazole, 40 milligrams, once a day and continue with those dietary modifications. Um, for your second problem, your gout, um, you know, everything seems controlled right now. Let's continue you on the allopurinol, 100 milligrams, once a day. Um, do you need a refill of that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, I do actually."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey, dragon, order allopurinol, 100 milligrams, once daily. And then from your last problem, your arthritis, I'm very pleased with how your right knee is doing and I want you to continue pilates and using the knee and let me know if you have any issues and we can, and we can talk about further imaging or intervention at that time, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any questions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no. That's it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Great. Hey, dragon, finalize the note."
+    }
+  ]
+}

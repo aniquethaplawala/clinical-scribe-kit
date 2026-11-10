@@ -1,0 +1,15 @@
+{
+  "key": "meditech",
+  "name": "MEDITECH Expanse",
+  "writePath": "fhir-sections",
+  "writableResources": [],
+  "noteType": "history-and-physical",
+  "noteContentType": "text/plain",
+  "verifiedOn": "2026-11-10",
+  "sources": [
+    "https://greenfield.meditech.com/explorer/topic/USCore-STU7",
+    "https://greenfield.meditech.com/explorer/api/uscore.STU7.Observation/2",
+    "https://greenfield.meditech.com/explorer/topic/authorization-flows",
+    "https://home.meditech.com/en/d/regulatoryresources/otherfiles/2025meditechrealworldtestingresultsreport.pdf"
+  ]
+}

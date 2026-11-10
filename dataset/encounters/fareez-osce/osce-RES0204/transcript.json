@@ -1,0 +1,430 @@
+{
+  "encounterId": "osce-RES0204",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I hear that you have been having some coughing so I'm just going to chat with you for a bit get an idea of how things are going well, have a listen to your lungs in your heart and then I will go grab the doctor that's working today and we'll talk about it and then we'll come back and let you know what the next steps are going to be. That does that sound good to you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, that sounds great. Thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Can you tell me about what brought you in today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I've had this cough for the past four or five days and it doesn't seem to be going away or getting better, so I thought I should get it checked out."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, are you here with your mom today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I am."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hi mum. Um OK. You got a cough you said I'm sorry, you said for five days?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "For, yeah, four to five days ish, yeah?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And, uh, has it you said it was a dry cough? Is that right?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, that's right."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so at no point were you bringing up on gunk with your cough?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah. No, no, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Since it started, do you think it's gotten worse or has it kind of stayed the same? Gotten any better?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's kind of stayed the same."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. OK, uhm. Along with the cough have have you been having any other new symptoms?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you had a sore throat?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you feel like you can taste and smell things normally?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. OK, have you been having a runny nose?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Oh yes, I have had that for the past couple of days as well."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And is it a runny nose with kind of clear stuff? Is it watery or is it thick? Does it have a color to it a yucky the color?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's pretty clear."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, OK. Uhm. And uh have you had any fevers? Your mom might be able to answer that one better."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, um. He has had uh like he's had fevers in the past, but I I didn't really check this time. He didn't seem hot. He didn't have any chills."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, well that's good. Uhm. OK, have you had any back or muscle pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Have you had any chest pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no, no chest pain."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Any, any nausea or vomiting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no, no nausea or vomiting."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you ever had any pain in your belly?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, nope that no pain in my belly."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any headaches?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no headaches."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you been around anyone that's been sick?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, not that not that I can remember."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Uhm, have you traveled anywhere recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh nope."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Are you going to school right now or staying home?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I’m going to school and they're doing these half days."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. OK uhm, and has anyone in your school been sick?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Ah, Nope, not recently."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "At least not that we know of. OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you ever had anything like this before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No. I've been pretty healthy otherwise. I've never had like I've never had like a dry cough like this. I've had runny nose in the past, but they never lasted this long."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you ever been in the hospital?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Did you see your family doctor for anything? Any health problems?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you take any medicines?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. This may be a tricky one to answer, so Mom can definitely help us. Do you have any family history of respiratory problems?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um uh his grandparents had um asthma, but he's been worked up for that and he doesn't get short of breath or wheezing or anything like that with even with physical activity. So yeah, so he doesn't have that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And what else?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Pardon me."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I said just some some asthma in the family."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And so you live, you live with your mom. Do you live with anyone else in your family?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I have a four year old sister."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, do you live with your dad too?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you guys have any pets?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um no, no pets."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And does anyone smoke in the home?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nope, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and what do you like to do for fun?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um I like playing with my friends, I like playing video games."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Oh cool. So what's your favorite game?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I am playing Rollercoaster Tycoon."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Oh cool, that sounds like fun. OK well, hopefully we can get you back to feeling healthy so you can continue to play lots of roller coaster Tycoon. So I’m going to go get the doctor that I'm working with. I'm, uh, I'm wondering, you know, he might want to do a chest X Ray and get a better look at what's going on there. Have you ever had an X Ray before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't think so, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you know what an X Ray is?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "A little bit, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah it's like taking picture of your body on the inside. It's pretty cool so it gives us an idea of what's going on in the inside. Also, this really this part is kind of not so much fun, but I think we should probably do a covid swab because we're doing that with anyone that comes in with these symptoms lately and that's not a lot of fun. We gotta stick something up your nose, but I think that you're really brave and I think that you'll be just fine with it, OK?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So we're going to arrange for these things and then I will come back with the doctor that I'm working with and we'll kind of talk about where to go from here."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "OK, that sounds good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Thank you guys for chatting with me."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Thanks."
+    }
+  ]
+}

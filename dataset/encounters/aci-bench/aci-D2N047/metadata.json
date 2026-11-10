@@ -1,0 +1,25 @@
+{
+  "encounterId": "aci-D2N047",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N047",
+  "split": "train",
+  "collectionMode": "aci",
+  "chiefComplaint": "difficulty urinating",
+  "secondaryComplaints": [
+    "coronary artery disease",
+    "diabetes"
+  ],
+  "patient": {
+    "age": null,
+    "gender": "male"
+  },
+  "turns": 47,
+  "wordCount": 1346,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

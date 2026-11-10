@@ -1,0 +1,600 @@
+{
+  "encounterId": "aci-D2N138",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Next patient is Emily Hernandez. Date of birth, march 26 2001. This is a 20 year old female being seen today for our yearly follow-up for asthma, allergic rhinitis and food allergy. Due to insurance changes since our last office appointment in april 2020, she was switched from symbicort to wixela. She also uses zyrtec in the spring, summer and fall for her seasonal allergy symptoms, which tend to work well. She also has known peanut allergy, she does tolerate almonds and cashews. Please put in the asthma section at the very bottom that the act score is 21. Please put under interval history, written consent is obtained today to use Dax for documentation. Hi Emily, how are you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm pretty good, how are you?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I'm good, thank you. So gosh, we last talked a little bit over a year ago and it was just a telemedicine visit, but it seems like you've been doing pretty good. I know there was an insurance change. I think you had switched over to wixela, is that right?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yep, that's right, and it's what I'm currently using."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and that's the 250/50 dose, correct?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, correct."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Perfect. So how does that compare?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I mean, it's working well. I really haven't had any issues with it and I take it once in the morning and once at night."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And that's one puff twice a day?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And have you been having to use your albuterol inhaler at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Rarely, and if I do it's really just before a workout or something out that, if I know I'm really going to be pushing it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So it sounds like it's around strenuous activity."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. So you can do things like go on a walk or going to the grocery store no problem, and just use it for more exertional stuff?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes. Like, if I'm gon na go for a run or something like that I'll really just take it before as a preventative."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And I've been trying to use my daily if I can a little less because I'm trying to go into the military soon."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No kidding, that's great."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, so I have to be able to operate basically at a certain fitness level without an inhaler."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Really?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, and if I can prove that I'm capable of these activities without an inhaler it makes it easier."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And so by inhaler do they mean both your daily and rescue inhalers?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm. So it's like they'll have a fitness test and basically they'll tell me not to take my inhaler that day before the test, and then they'll see how the asthma affects me. And they're looking to see if it's serious enough to hold me back from joining or whatever. So I have been taking it less and less. And really some days I feel like I don't need it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And that is the wixela that you're not taking. So on average per week, how many days of the week do you use one puff in the morning and one puff at night?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Probably about three or four."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, three to four days per week and the other days it's once a day?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, that's correct."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And it's either in the morning or at night that I'm taking it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and do you think that's working okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I do."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Great. And any urgent care or er visits at all for breathing over the past year?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nope."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, so I'm going to assume no one has put you on prednisone for breathing issues then."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nope."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And now, military wise, what's the time frame of when you'll be completing some of these exertional tests? Like, what are your next steps?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So, hopefully I'm going to be enlisted early spring of 2022. So that gives me about six to seven months to get to a point where I'm able to exert my body where I don't really need the inhaler. Or at least show them that I have it under control."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Now when you were in the other room you completed a breathing test, correct?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Correct."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, great. So now let me ask you about the allergies, 'cause I know typically you'll use the zyrtec in the spring, summer and fall, correct?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I don't really... Um, or I'm sorry, I use it more during the spring and fall. I don't really have to use it too much in the summer."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you use it more just as needed in the summer?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, that's right."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And have you been taking the zyrtec every day recently since you're right in the mix of spring?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not every day, but I do take it on days I know I'm going to be outside a lot. Um, I do tend to work outside about three days a week so I'll definitely take it on those days."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And does it seem to work pretty well still? Are you happy with it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, it does, it works great."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Wonderful, good to hear. And then I'm assuming you're staying away from the peanuts. Uh, last year you had told me it worked with... Uh, you worked with enterprise rent-a-car and one of the cars had a lot of peanuts in it that you were cleaning out and that gave you hives, uh, when you had touched it, is that correct?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yep, that's correct."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And has there been anything like that since that experience?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I don't think so. I definitely became more cautious after that, so I usually wear, uh, wear long sleeves and change my gloves every time now. So I haven't had a reaction, but I imagine that I probably came into contact with cars that had peanuts in them, but they just d- didn't touch my skin."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Super. And it sounds like you're really smart about it."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, and the airplanes, they have peanuts. They give everyone too, so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And you have an epipen that k- that you keep with you, correct?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And I'm assuming you're going to need refills, um, I can call you in a new set for the year. Typically of course, they expire within a year."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And I remember, um, sometime previously you've had some testing for tree nuts, but you do have almonds and cashews, correct? And- and you do okay with them, or do you avoid all tree nuts?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I do tend to avoid all of them but I recall eating some almonds at one point, uh, really soon after we discussed I might not be allergic to tree nuts anymore."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And I remember having them and nothing happened, but I usually just tend to stay away from them, um, really if I can help it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. So sometimes when people have a peanut allergy, the nuts in general just aren't very important to them, so it is very common to avoid both. Um, so let's do this. I'll have helen come in and I would love to complete a breathing test on you. If your breathing numbers are looking great we can work on getting you, uh, something lower than wixela. If you look at all of our asthma regimens it is a stepwise process, and wixela is a combination of two medications in one. And, well maybe you don't need both of'em. Uh, maybe you just need one of'em. So we can work our way backwards."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And so the breathing test will help give us some- some more guidance, we will look at the results in just a moment."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "All right, and so this past year I did get into the bad habit of vaping and smoking, but I have been trying to cut that out. So I should be good, and, um, now I only do just a little bit and I am trying to quit. So I am sure that might have an effect."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "It can. Um, so what we can do today is compare your results with prior results, probably before you started smoking or using the vape."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah. And we'll see where you stand at that point."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "All right, that sounds good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Well let me go ahead and listen, so hop on up here for me."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right so your ears look good, a little bit of wax on both sides. Can I see inside your mouth? Big ahh."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Ahh."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Good. Okay let me take a peek in your nose. All right, good. You can put your mask back on."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And go ahead take a big breath in and out. Good, your lungs sound terrific. I'll listen to your heart, breathe quietly. Okay very good."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Awesome."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So your breathing test is about the same as it was a couple years ago, and actually looks a little bit better. You may not remember but when we last completed the test in 2019, uh, do you recall if you were feeling lousy at the time?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I think it was the smoke. There were so many fires at that point and I remember coming in and looking out the window and all you saw was the orange and the smoke."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yes, you're absolutely right, that was a bad year. That was my first fall here and I was really alarmed. Well that explains why at that time your numbers were a little bit lower and today they look better. Here's what I think, so you'll have kaiser currently, correct?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Correct."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Most insurances do limit what we can use."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I do know that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay so option one would be to continue using wixela like you're using it now. We would classify it as off-label and you can use it once a day instead of twice a day, which is fine. Some people do that because they just need it once a day, so that's an option. Option two would be to actually back up to an inhaler that just has one med."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So the one that kaiser covers is alvesco. The thing about alvesco, though, is that it would be two puffs in the morning and two puffs at night. So it's a bit more work. Um, it's not breath activated but we could step down the lowest dose to see how you do. Some of the newer guidelines for asthma that were published this year is recommending trying to treat people with inhalers like wixela or alvesco only when you're ill, or say during smoke season. So minimizing their use to those periods of time versus all year. Unless you found out that you're getting [ inaudible 00:09:25 ] sick having issues every month, then that would indicate would pull back too much."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "That we had too much, yeah."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, so we could step back and possibly get you to the point where you just use those inhalers, uh, when you're ill or it's smoke season, but at the first step to do any of that would be to try to drop down to just alvesco."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, that actually sounds really good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay great. So I will call that in for you, it will be the lower dose, 80 mcg, and you'll have to do two puffs twice a day."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "All right"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and that'll be on the box when I call it in. You can put the wixela off to the side, but don't throw it away just in case the alvesco doesn't work well for you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, got it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And then ideally we would repeat your breathing test in four months to see how you're doing, and then be able to document that you're doing well. Sometimes, not always, the military will require documentation on breathing tests."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Is your pharmacy still the same or did you update it with helen?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I believe she updated it. It should be kaiser permanente broadway."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay perfect. I'll make sure it's the alvesco and then I'll renew your albuterol and epipen as well."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Awesome, thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You're welcome. Uh, then the zyrtec, do you pick it up over the counter or do get- do you get it as a prescription?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I just get it over the counter."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay got it. And do you have a nebulizer that you would, uh, need refills on?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't think I need any refills, I haven't used that in such a long time. I think the last time was when I had bronchitis, or there was few select times when I had to use it when I was kid."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay good. Well I think we have our game plan."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay awesome."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And do the alvesco two puffs twice a day and your albuterol if you need it. The zyrtec 10 milligrams as you need it and continue to stay away from peanuts and tree nuts and I'll refill your epipen."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right so we've got it."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Great."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right I'll have you take this to the front and I'm gon na say four months re-check for asthma and we'll repeat the spirometer- spirometry at that time."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay sounds good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right well thanks so much and you have a great day."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You too."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And we'll do a follow-up in four months with act and spirometry, sooner if needed. Follow-up 25 minutes."
+    }
+  ]
+}

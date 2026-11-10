@@ -1,0 +1,41 @@
+Clinician: Hey, ms. James. Nice to meet you.
+Patient: Nice to meet you, dr. Cooper. How are you?
+Clinician: I'm well. Hey, dragon, I'm seeing ms. James. She's a 42-year-old female, and what brings you in today?
+Patient: I hurt my, uh, finger when I was skiing this past weekend.
+Clinician: Really?
+Patient: Yeah. Yeah, so, um, I was going down hill, double diamonds, uh, double black diamonds, and I just lost control, and I, you know, flipped down a few ways, but, uh, somewhere along the way, I, I jammed my, my index finger on something. I'm not sure what.
+Clinician: Okay. So this happened last saturday, you said?
+Patient: It was saturday, yes.
+Clinician: Okay. So about five days of this right index finger pain.
+Patient: Mm-hmm.
+Clinician: Have you taken any medicine for it?
+Patient: I took some ibuprofen. Um, didn't really seem to help.
+Clinician: Okay. Have you iced it or put a splint on it?
+Patient: No.
+Clinician: Okay. And what would you rate your pain?
+Patient: It's about a seven.
+Clinician: A seven out of 10 pain. Um, and no other injuries while you went down this double black diamond?
+Patient: No, interestingly enough, this is the only one.
+Clinician: Okay. Well, I guess you escaped... I mean...
+Patient: Could have been much worse.
+Clinician: Could have been much worse, yes. So, um, do you have any medical problems?
+Patient: Um... Yeah, I'm... I have chronic constipation.
+Clinician: Do you take any medicine for it?
+Patient: Miralax.
+Clinician: And does that help?
+Patient: Seems to flow nicely.
+Clinician: Good for you. Um... Have you ever had any surgeries before?
+Patient: Yes, I had my appendix out when I was seven.
+Clinician: Okay. Um, let's look at your x-ray together. Hey, dragon, show me the last x-ray. All right. So looking at your right hand here, and that index finger looks great. So all the joints, bones are in the right places, no fractures, so you've got a normal right hand x-ray. Um, let's go ahead and check your finger out. Now does it hurt when I push on your finger like this?
+Patient: Yes.
+Clinician: Does it hurt when I pull your finger like this?
+Patient: Yes.
+Clinician: Does it hurt when I squeeze over this joint here?
+Patient: Yes. Please don't do that.
+Clinician: Does it hurt when I squeeze over this?
+Patient: Yes.
+Clinician: Okay. Um... So with your x-ray, and with your exam, looks like you have a sprain of your distar- distal interphalangeal joint. It's called your dip joint, of your right index finger, and so what we're gon na do for that is we're gon na put a splint on that right finger. I'm gon na give you a strong antiinflammatory called mobic. You'll take 15 milligrams once a day. I'll prescribe 14 of those for you. And I want you to come back and see me in two weeks, and let's make sure it's all healed up and if we need to start any hand therapy at that point, then we can. Do you have any questions for me?
+Patient: No questions. Thank you.
+Clinician: You're welcome. Hey, dragon, order the medications and procedures mentioned. And why don't you come with me, and we'll get you checked out?
+Patient: Okay.
+Clinician: Hey, dragon, finalize the report.

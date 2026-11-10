@@ -1,0 +1,320 @@
+{
+  "encounterId": "aci-D2N063",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So Gloria is a 46 -year-old female today with past medical history of diabetes and back pain and today here for shortness of breath with chf and copd also so Gloria tell me what's going on"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I I I'm having a lot of trouble sleeping"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and and how long has this been going on for"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Really just for about the past two weeks I I just can't can't get comfortable you know when I when I lay down in bed I just can't can't fall"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Is it because you're having you can't sleep or you're having shortness of breath or difficulty breathing or what's going on with that"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I I feel like I'm just I'm just choking a few minutes after I I lay down to sleep I just can't catch my breath"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and are you and how has your pulse ox been your oxygen level been at home I know you your oxygen level here is like ninety two right now in the office which is a little bit on the low side how is how has that been at home"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I can breathe fine"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Just when you lay down you get short of breath okay and is it worse when you have you noticed any shortness of breath during the day when you exert yourself when you climb stairs or do other stuff"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't I don't do any of that usually I just I I sit on the couch and watch my shows"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay fair enough and how about have you noticed any weight gain or swelling in your legs or calves or anything like that"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I I can't see my ankles anymore and and yeah I I don't know what's going on with the scale I think the numbers are off because you know suddenly I gained about ten pounds"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Wow okay alright and are you taking I know you were supposed to be taking lasix and we had you on you know diet control to to prevent to limit your salt intake how is that going"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I I I don't know how much salt is in freedoes but you know I I I'm really enjoying those in last weekend we got this really big party and yeah which color is that lasix pill"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah it's it's the white one the round one so it sounds like you're not maybe not taking it as regularly as you should"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No sir I I don't think I am"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright and are you having any chest pain or tightness in your chest or anything like that or not really"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No not really"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Just just when I can't breathe good at night you know"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay got it"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So I'll examine you in a second so it's been a couple of weeks are you coughing up anything any fevers with this at all"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No no fever kinda feel like I'm just bringing a whole bunch of yuck up once in a while though especially first thing in the morning"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright and how have your blood sugars been doing this time I know you're taking the metformin are you checking your accu-cheks how has that been going"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I I'm sorry what's an accu-chek"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "For your blood sugar check are you checking that or not really"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I I I did it a couple of weeks ago"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And it was about it I I think about two thirty it was okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay so your hemoglobin a1c last time was seven. Five and we had talked about you know trying to improve your diet we had talked about you know we wan na avoid going to insulin but it sounds like it's been a challenge to kinda control the diet and also your blood sugars have been running a little bit high"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah it's it's been a challenge"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright and any nausea vomiting or diarrhea or anything like that are you peeing a whole lot or anything like that no"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I'm feeling like crazy"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Can't figure out why because I'm not drinking very much"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright and how is your back then has that been okay I know you're sitting you said you're sitting on the couch a lot watching tv but"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Besides that anything else"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah you know it it just it just really hurts so you know and so that's why I sit on the couch so much"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright no weakness or numbness in your legs right now"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So let me examine you now Gloria I'm gon na go ahead and do an exam and let's pretend I did my exam I'm just gon na verbalize some of my findings just so I can record this and put it into my my into my chart so neck exam you do have a little bit of swelling in your neck little bit of jvd no bruits your lung exam you have some crackles in both bases and some rales that I can hear and there are a little bit of intermittent wheezing as well on your heart exam you have a two over six systolic ejection murmur you've had that in the past otherwise regular rate and rhythm it doesn't feel a regular your belly exam your belly's slightly distended there's no tenderness or guarding or anything like that so that doesn't that looks pretty good on your leg exam you do have some one plus pitting edema or actually almost one and a half plus pitting edema in your both of your ankles no calf tenderness negative homans sign that means no blood clots otherwise neurologic exam is normal the rest of your exam is normal so what does this all mean so let me explain that so for the first problem the shortness of breath you know I think you have an exacerbation of your congestive heart failure what I'd like to do is increase your dose of lasix from twenty milligrams to sixty milligrams for the next four days I'm gon na have you check your weights everyday and also I'm gon na go ahead and have you use your albuterol and atrovent we had given you some inhalers in the past I can give you another refill if you need to help with that some of the breathing that you're having the shortness of breath so I'd like to get some of this fluid off you have you check your weights daily we'll have you increase your dose of lasix we'll have you use a breathing treatments and see if that helps your shortness of breath I'd like to have you come back in about couple days actually I wan na see how you're doing and if it doesn't get better we may have to increase the dose or send you to the hospital okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't want to go to the hospital doctor"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah so let's try to let's try to use the lasix and let's try to let's try to you know use the breathing treatments and and do that for the second problem the diabetes that we just talked about I like to go ahead and order another blood test another hemoglobin a1c I think we need to your blood sugars have been running a little bit high in the past and we've had a hard time but it's been a while since we checked your last one so I wan na check another one today to see where we are and when we have you come back in a couple days we should have the results back we can then adjust your metformin or we may have to adjust some of the you know add a different medication at that point but but right now I'm gon na order some blood tests we'll have you come back in a couple of days and then we can reassess at that point okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So I had a piece of cake before I came in here is that gon na affect the the lab work"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah we'll probably do a fasting blood sugar we'll we'll order the hemoglobin a1c that shouldn't be actually matter because that checks long term but if we need your blood sugar may be elevated today I I wouldn't be surprised alright and I forgot to examine your back by the way so on your back exam you do have some tenderness in the paraspinal areas of your back in the in the lower back mostly no midline tenderness you have good reflexes so I think this is all muscular pain right now for your back pain I'm gon na go ahead and put you on some naprosyn and some flexeril which is a muscle relaxer I'm gon na give you some exercises you can do to help you get off the couch it'll also help your blood sugar and why don't we have you if that doesn't work the the pain medicine and the physical we can start physical therapy and see if that helps okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any questions about that"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't think so which color pills"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I think it's a white pill and it's round"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "About this big"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Alright sounds good"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Anything else Gloria"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No that's it"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright thanks for coming in today"
+    }
+  ]
+}

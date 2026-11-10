@@ -1,0 +1,25 @@
+{
+  "encounterId": "aci-D2N004",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N004",
+  "split": "train",
+  "collectionMode": "virtassist",
+  "chiefComplaint": "back pain",
+  "secondaryComplaints": [
+    "congestive heart failure",
+    "type 2 diabetes"
+  ],
+  "patient": {
+    "age": 57,
+    "gender": "male"
+  },
+  "turns": 95,
+  "wordCount": 1151,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

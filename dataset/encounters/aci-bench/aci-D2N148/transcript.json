@@ -1,0 +1,305 @@
+{
+  "encounterId": "aci-D2N148",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hi Jeremy how are you the medical assistant told me that you injured your back"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I was moving some boxes when my son was moving out of his college dorm and I really hurt my lower back"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay how long ago did that happen"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "This was about four months ago"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "About four months ago okay that's quite a long time and you're just seeing me now for it"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah the appointments were backed up and I tried some pt at my gym but it it really didn't seem to help and I was really concerned"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and what exactly are your symptoms are you having pain when you're just sitting there or when you're moving around for a very short period of time it felt like I was gon na tapple over I like I couldn't support my my upper body weight and then my right toe or the the toes on my right foot tingled a little bit but that went away after about an hour okay are you still getting that numbing and tingling periodically in your feet or is that completely gone"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That's completely gone it it just happened when I first felt the the tweak in my lower back I felt that sensation but I haven't since"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and how about any difficulty or weakness in your legs"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Only if I'm carrying something heavy otherwise it seems relatively normal but I I feel the sensation so I'm a little nervous about carrying something heavy"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and are and do you still have pain down there in your lower back if I turn a certain way or if I roll over in my sleep I'll wake up from it from a like a sharp pain but then that that goes away if I if I position myself the right way okay and what have you been taking for the pain"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I took some tylenol I took some ibuprofen I've tried heat I've tried ice and nothing really seems to help"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay is the ibuprofen any better than the tylenol"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "A little bit but for sure a shorter period of time"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and did you get any stomach upset from the ibuprofen"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No I try not to take too much so I I don't have an upset stomach from it"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and did you go to like an urgent care centing or an emergency room have you had any imaging on this at all"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I went to an urgent care and they wanted me to do an mri but I was a little concerned because I think we maxed out our insurance so I I didn't do it because it started to feel better but because it's been going on so long I'm I'm a little bit concerned now I I do wan na actually move forward with that"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright and any other symptoms any problems with like your bladder or your bowels any incontinence or you know you feel like you can't go to the bathroom"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No I haven't had any of those issues"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright and any other any other past medical history do you that you have any"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I had knee surgery about two years ago on my right knee"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That went fine I rehabbed it pt has been fine it it feels about ninety five percent ever since"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and what did you have done to your right knee"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It was a total knee replacement"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay a total knee replacement in twenty eighteen is that what you said"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No it was actually about two years ago so it's the spring of twenty twenty"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright alright well I wan na go ahead and just move on to a physical exam I'm gon na be calling out some of my exam findings"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Now you have you had any fever or chills with this"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright alright so looking at your vital signs here in the office you know they look really good your you you don't have any temperature your blood pressure is good it's about one seventeen over fifty six"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Your heart rate is nice and slow at sixty eight and your oxygenation is fine at ninety five percent on room air so that means everything looks good"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Good"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "On your neck exam I I do appreciate some bony protuberance of the c5 c6 do you have any pain when I touch here"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No okay on your lumbar spine exam I do appreciate do you have pain when I touch here"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay so there is no pain to palpation of the lumbar spine there is decreased flexion and extension of the lower back the patient does have a positive straight leg raise and there is some spasm of the paraspinal muscles of the lumbar spine on musculoskeletal exam the lower extremities strength is equal bilaterally so what does that mean Jeremy that means that you have some you know maybe a some arthritis in your neck here and or maybe just a a little bit of some injury from from that from that back that back thing that you told me about"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay but I think overall things look really good so you know I had them do an lumbar spine x-ray on you before I saw you and I looked at the results of your lumbar spine x-ray which showed no acute bony abnormality you know there was no fracture of your back or anything which is not surprising based on your history so let's just talk a little bit about my assessment and plan so I do believe it sounds like you have an acute disk herniation now this did happen a few months ago but it sounds like that's what you had based on the fact that you're still having symptoms"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I do wan na go ahead and order a a lumbar spine mri to get a a a better look at what's going on you know x-rays really just look at the bones they don't show us any of the soft tissue so let's go ahead and order the lumbar spine mri I wan na continue with physical therapy so I'm going to refer you to a a physical therapist through our health system"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And then I also wan na go ahead and prescribe meloxicam fifteen milligrams once a day"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "To help with that do you have any questions about that"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No questions"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Now if you do have a herniated disk we can go ahead and talk about some other treatment options maybe like an epidural steroid injection to help take down some of that inflammation"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "It might make you feel better but we'll we'll deal with that when we get get there okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any questions"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not at this point"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay great thank you"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Thank you"
+    }
+  ]
+}

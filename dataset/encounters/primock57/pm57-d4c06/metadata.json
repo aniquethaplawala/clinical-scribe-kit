@@ -1,0 +1,21 @@
+{
+  "encounterId": "pm57-d4c06",
+  "source": "PriMock57",
+  "sourceUrl": "https://github.com/babylonhealth/primock57",
+  "license": "CC-BY-4.0",
+  "citation": "korfiatis2022primock57",
+  "originalId": "day4_consultation06",
+  "setting": "primary care (UK, remote consultation)",
+  "chiefComplaint": "my chest hurts and it's been hard to breathe",
+  "durationSeconds": 605.0,
+  "audio": {
+    "doctor": "https://media.githubusercontent.com/media/babylonhealth/primock57/main/audio/day4_consultation06_doctor.wav",
+    "patient": "https://media.githubusercontent.com/media/babylonhealth/primock57/main/audio/day4_consultation06_patient.wav"
+  },
+  "turns": 102,
+  "wordCount": 1697,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": true,
+  "simulated": true
+}

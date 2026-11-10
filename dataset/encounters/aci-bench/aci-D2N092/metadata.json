@@ -1,0 +1,24 @@
+{
+  "encounterId": "aci-D2N092",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N092",
+  "split": "clinicalnlp_taskB_test1",
+  "collectionMode": "virtassist",
+  "chiefComplaint": "right arm pain",
+  "secondaryComplaints": [
+    "allergies"
+  ],
+  "patient": {
+    "age": 43,
+    "gender": "female"
+  },
+  "turns": 40,
+  "wordCount": 506,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

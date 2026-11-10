@@ -1,0 +1,350 @@
+{
+  "encounterId": "aci-D2N177",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hi Bruce, how are you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hey, good to see you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Good to see you as well. Uh, so I know the nurse told you a little bit about Dax."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I'd like to tell Dax about you-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay? So Bruce is a 60 year old male, with a past medical history, significant for depression, type two diabetes and hypertension, who presents for followup of his chronic problems. So, Bruce, I saw you a couple months ago-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How are- how are you doing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's been a crazy year and a half and I think the uh the anxiety, the pressure of getting ready for thanksgiving was really starting to wear on me."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Did you have a nice holiday?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I, I did but it was uh, it was great to see everybody after about two years but it was just a lot of work. A lot of stress."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah. Yeah. And what do you have to look forward for like, the new year and that type of thing. Are you- more gatherings like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um planning to take a vacation. So hopefully somewhere nice and warm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. Um, well how are you doing in terms of your depression. I know that we've kind of talked about this in the past."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And we haven't put you on medication because you're on other meds and you- you haven't really wanted to do that, so what strategies are you using?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah. Over the summer we tried something new. I started going for long walks outside every morning. The weather was so nice and all the plants were in full bloom that I loved to start my day that way. On the weekends, it even encouraged me to do a little in the yard myself which was a nice way to be active and get some sun. But with the seasons changing and it getting so cold out, I have not been able to keep doing it and need to find something new to do.. I'm not ready yet to try any meds, so I think I'd like to look into some alternative options."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. So yeah. So we can talk about some therapy and-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "That type of thing."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. And no... You don't wan na harm yourself or others?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any thoughts like that."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, okay. And then in terms of your diabetes, how are you doing, you know especially with the holidays managing your- your sugar intake and that type of thing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, got through halloween okay. Didn't stick to the diet too much through the thanksgiving week but it's a little bit better. So I've been trying to really monitor it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And are you... You're still taking the metformin, correct?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. And then in terms of your high blood pressure, did you buy the blood pressure cuff that I recommended?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And how have they been running. I haven't received any you know notes from you in the portal."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nothing out of the ordinary. It's been pretty moderate."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "It's been pretty good. And you're still taking the lisinopril, no problems with that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm. Correct."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. I know you did a review of system sheet when you checked in."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, do you have any symptoms. Chest pain, shortness of breath, belly pain-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Blood in your stool."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Weight loss. Anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. I wan na go ahead and do a quick physical exam."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey dragon. Show me the vital signs. So here in the office. I agree. Your blood pressure looks good. Uh, I think you're doing a good job with that so keep up the good work. I'm gon na go ahead and take a listen to your heart and lungs, I'll let you know what I find."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. So on physical examination, everything looks pretty good, so on your neck exam, I don't appreciate any carotid bruits. On your heart exam I do appreciate a slight two out of six systolic ejection murmur heard at the left base, which we've heard in the past."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Your lungs are nice and clear and you do have uh one plus non-pitting edema bilaterally in your lower extremities. So what does all that mean? It just means I heard a little sound in your heart, which you know isn't anything clinically significant. We had looked into that last year."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You do have a little swelling in your legs but that might just be from your your diet recently, okay."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I wan na just take a look at some of your results. Hey dragon, show me the ekg. So I just had the nurse do an ekg on you before you came in just to make sure we weren't missing anything. You're in your 60's we have some risk factors. Everything looks good."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "There's no evidence that I'm concerned about anything at this time. Hey dragon, show me the diabetes logs. So on your diabetic labs, your hemoglobin a1c is elevated. It's at eight. I'd like to see it closer to six. Now some of them might be having to do with the holidays that type of thing but I still think that we need to get that under better control."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So lets talk a little bit about my assessment and plan for you so for your first problem of your depression I'd like to just go ahead and refer you to uh psychiatry not for medications, but just for some talk therapy that type of thing, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That's fine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, for your second problem of your type two diabetes I'd like to go ahead and order a hemoglobin a1c in the next couple months. I want to increase the metformin to 1000 milligrams twice a day. And we're gon na go ahead and order a lipid panel, okay."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Uh, lastly for your third problem for your hypertension I'm gon na go ahead and order an echocardiogram just to recheck it. Just that heart murmur. And I'm going to go ahead and keep the lisinopril at 20 milligrams a day. Do you have any questions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No questions."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay the nurse will be in soon, she'll get you checked out, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You got it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey dragon, finalize the note."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "key": "modmed",
+  "name": "ModMed (EMA)",
+  "writePath": "proprietary-fhir",
+  "writableResources": [
+    "Composition",
+    "Condition",
+    "AllergyIntolerance",
+    "MedicationStatement"
+  ],
+  "noteType": "consult-note",
+  "noteResource": "Composition",
+  "noteDocStatus": "preliminary",
+  "author": "Practitioner/REPLACE_WITH_AUTHOR",
+  "compositionCategory": {
+    "code": "LP173421-1",
+    "display": "Report"
+  },
+  "compositionSections": [
+    {
+      "code": "18776-5",
+      "display": "Plan of treatment",
+      "title": "Visit note"
+    }
+  ],
+  "verifiedOn": "2026-11-10",
+  "sources": [
+    "https://portal.api.modmed.com/reference/post_fhir-v2-composition.md",
+    "https://portal.api.modmed.com/reference/post_fhir-v2-documentreference.md",
+    "https://portal.api.modmed.com/docs/ema-proprietary-api",
+    "https://portal.api.modmed.com/reference"
+  ]
+}

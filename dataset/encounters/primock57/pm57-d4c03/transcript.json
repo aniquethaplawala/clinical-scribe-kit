@@ -1,0 +1,701 @@
+{
+  "encounterId": "pm57-d4c03",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 1.53,
+      "end": 2.14,
+      "text": "Hi."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 1.54,
+      "end": 2.28,
+      "text": "Hey."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 6.5,
+      "end": 7.71,
+      "text": "Hi. Can you hear me?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 7.61,
+      "end": 8.7,
+      "text": "Yeah. I can hear you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 8.86,
+      "end": 14.45,
+      "text": "Good. Um, my name is Doctor Gohil. I'm one of the physicians that works here at Babylon."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 14.32,
+      "end": 15.25,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 14.45,
+      "end": 17.1,
+      "text": "May I confirm your name and date of birth, please?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 17.07,
+      "end": 26.84,
+      "text": "Uh, uh, my name is Sarah Smith. And, my date of birth is the twentieth of April nineteen eighty. Great."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 27.45,
+      "end": 32.15,
+      "text": "Nineteen eighty three. And, are you in a space that's private and quiet, and you can talk?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 28.62,
+      "end": 33.18,
+      "text": "Yeah. Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 33.68,
+      "end": 39.86,
+      "text": "Good. So, it says, erm, I've got a note to say, it says you're feeling short of breath. Is that correct?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 39.26,
+      "end": 40.81,
+      "text": "Yeah, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 41.8,
+      "end": 44.0,
+      "text": "OK. Are you able to tell me a little bit more about that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 44.44,
+      "end": 51.16,
+      "text": "Yeah. I was watching TV and, um, just like over the last hour, I've started to feel, like, a bit short of breath."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 53.25,
+      "end": 55.35,
+      "text": "That is, while you're sitting watching TV?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 55.46,
+      "end": 56.14,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 57.11,
+      "end": 60.14,
+      "text": "OK. And, have you noticed anything like this before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 60.79,
+      "end": 62.33,
+      "text": "Um, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 64.49,
+      "end": 68.07,
+      "text": "OK. And, apart from the shortness of breath, have you noticed anything else?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 68.79,
+      "end": 72.11,
+      "text": "Um, so, I [inaudible] , I started with a cough yesterday."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 72.06,
+      "end": 72.85,
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 75.75,
+      "end": 83.03,
+      "text": "Um. Yeah. I, I don't know if it's, um, relevant, but I had a C-section a few weeks ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 83.47,
+      "end": 86.29,
+      "text": "OK. And, how long ago was that? Just a few weeks?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 86.54,
+      "end": 87.5,
+      "text": "Yeah, four weeks."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 87.71,
+      "end": 89.58,
+      "text": "OK. And, are you with baby at the moment?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 89.99,
+      "end": 90.87,
+      "text": "Yes, I am."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 91.86,
+      "end": 93.34,
+      "text": "And, how is baby doing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 93.94,
+      "end": 95.17,
+      "text": "Yeah. [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 95.06,
+      "end": 98.38,
+      "text": "OK. Any coughs or colds with, uh, them?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 98.81,
+      "end": 100.36,
+      "text": "No, no. He's fine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 100.21,
+      "end": 105.27,
+      "text": "OK. So, you've noticed shortness of breath for just an hour, while sitting and watching TV?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 103.77,
+      "end": 105.97,
+      "text": "Yep. Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 105.76,
+      "end": 108.84,
+      "text": "And, you had your C-section a couple of weeks ago?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 109.18,
+      "end": 109.76,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 109.68,
+      "end": 111.64,
+      "text": "And, yesterday you noticed a cough?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 112.1,
+      "end": 112.97,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 113.02,
+      "end": 116.04,
+      "text": "So, talk to me about the cough. Have you bought anything up?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 116.51,
+      "end": 117.97,
+      "text": "Uh, no, I haven't, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 118.51,
+      "end": 122.84,
+      "text": "And, when was the last time you were ill with the flu, or symptoms like this?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 123.32,
+      "end": 130.52,
+      "text": "Um, you know, I get coughs and colds quite a lot, but probably. Good few months ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 131.95,
+      "end": 136.06,
+      "text": "OK. And, this shortness of breath you're having, is it getting worse?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 137.07,
+      "end": 145.65,
+      "text": "Um. No. I mean, I don't know. I feel like I'm getting really stressed out because, like, my heart, it's really going."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 145.41,
+      "end": 148.2,
+      "text": "OK. So, you're feeling your heart more than normal?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 148.22,
+      "end": 149.1,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 150.77,
+      "end": 154.26,
+      "text": "And, the shortness of breath, does it cause any pain in your chest?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 155.42,
+      "end": 157.03,
+      "text": "Um, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 157.07,
+      "end": 159.68,
+      "text": "How about when you take a very deep breath in?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 162.03,
+      "end": 168.97,
+      "text": "Um, I mean, yeah. My chest feels sore, but so does my C-section scar. You know, it's, it's all tender."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 168.49,
+      "end": 173.49,
+      "text": "OK. And, since your C-section, did you have to take any medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 174.19,
+      "end": 176.26,
+      "text": "Um, no. Just some painkillers."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 179.34,
+      "end": 182.1,
+      "text": "All right. And, can you remember what the name of those were?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 182.31,
+      "end": 186.33,
+      "text": "Uh, they gave me some, uh, Codeine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 187.61,
+      "end": 189.58,
+      "text": "And, have you had to use that regularly?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 189.91,
+      "end": 195.49,
+      "text": "Uh, yeah. I, I've been taking that fairly, fairly regularly. But, probably haven't taken it for a week."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 195.55,
+      "end": 201.9,
+      "text": "OK. And, apart from the C-section and the shortness of breath, have you got any other medical problems I should know about?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 199.47,
+      "end": 204.87,
+      "text": "Yeah. Um, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 205.64,
+      "end": 207.05,
+      "text": "And, you were [inaudible] ."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 205.96,
+      "end": 209.07,
+      "text": "[inaudible] tell you, I'm allergic to Ibuprofen, though."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 208.83,
+      "end": 212.29,
+      "text": "OK. And, what happens when you take Ibuprofen?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 212.83,
+      "end": 217.26,
+      "text": "Um. I don't know. Sorry."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 218.4,
+      "end": 222.93,
+      "text": "So, I need you to do something for me. Have you measured the rate of your heart before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 223.23,
+      "end": 224.36,
+      "text": "Uh, yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 224.46,
+      "end": 227.69,
+      "text": "Have you measured it recently, either with an iWatch or something similar?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 228.74,
+      "end": 230.03,
+      "text": "No, I haven't, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 229.72,
+      "end": 240.33,
+      "text": "OK. We might need to do that over the phone. So, are you able to put your right hand on your left wrist, just underneath your thumb? And, see if you can feel your heartbeat."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 238.74,
+      "end": 242.15,
+      "text": "Yep. Yep."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 242.28,
+      "end": 250.44,
+      "text": "So, uh, what I need you to do is, when I count to three, count down from three, just [inaudible] count the number of beats you've noticed. And, I'll tell you when to stop. Is that OK?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 248.71,
+      "end": 251.13,
+      "text": "Mm-hmm. Yep."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 250.95,
+      "end": 266.12,
+      "text": "So, we'll start in three, two, one. Go. Great. That should be enough. How many did you count?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 266.83,
+      "end": 270.96,
+      "text": "Uh, I counted thirty."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 271.01,
+      "end": 280.91,
+      "text": "Good. So, your heart is running slightly fast at the moment, which is probably because of the shortness of breath and some of the pain that you're under."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 276.69,
+      "end": 281.93,
+      "text": "Mm-hmm. OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 282.08,
+      "end": 293.66,
+      "text": "Given that you've had a C-section, and you're short of breath, which has come on quite recently and quite quickly It might be worth you going into the hospital to get checked out the bit further."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 293.71,
+      "end": 294.62,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 294.53,
+      "end": 302.66,
+      "text": "So, there's two ways of us doing this. The first is, I can call an ambulance. Or, you can take yourself to the hospital with baby."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 302.91,
+      "end": 303.67,
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 303.32,
+      "end": 304.87,
+      "text": "Which one would you prefer?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 305.09,
+      "end": 311.29,
+      "text": "Uh, it feels a bit dramatic to call an ambulance. Um, I, I will, I will go. I will, I will take myself."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 311.45,
+      "end": 317.63,
+      "text": "Sure. And, what I would suggest is, go fairly quickly and take some bits for baby at the same time."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 317.67,
+      "end": 318.43,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 318.61,
+      "end": 323.43,
+      "text": "And, if you're taking any medications like Codeine, don't, don't take them for the time being."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 323.64,
+      "end": 324.88,
+      "text": "Mm-hmm, OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 324.78,
+      "end": 326.75,
+      "text": "Is anyone else with you at home?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 326.86,
+      "end": 328.59,
+      "text": "Uh, no. My partner's at work."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 328.69,
+      "end": 333.59,
+      "text": "OK. So, I think that's the best thing to do, for the time being."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 333.54,
+      "end": 334.35,
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 334.37,
+      "end": 345.1,
+      "text": "So, what I'm worried about at the moment is, given that you've had a C-section Some people can suffer with clots. And, those can either be found in the legs or your chest, so in your lungs."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 345.33,
+      "end": 346.07,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 345.67,
+      "end": 350.82,
+      "text": "It's quite a common thing to happen. And, it's not something to worry about. But, needs to be checked out in the hospital first."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 351.08,
+      "end": 351.84,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 351.61,
+      "end": 356.2,
+      "text": "And, if it, if that does become the case, they can give you something to reduce the clot."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 356.47,
+      "end": 358.68,
+      "text": "All right, OK. That makes sense."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 357.25,
+      "end": 358.63,
+      "text": "Fairly quick process."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 359.82,
+      "end": 368.83,
+      "text": "OK. Yeah. I mean, my mum's had, uh, clots in her legs before. So, I guess, you know. [inaudible] Yeah, that makes sense. I know, I know what they are."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 369.07,
+      "end": 373.32,
+      "text": "Good. Are you, uh, are you particularly worried about anything, or do you want to ask me anything, before we go?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 373.37,
+      "end": 377.39,
+      "text": "No, no. I'm fine. I'll, uh, I'll just take myself to the hospital."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 377.19,
+      "end": 378.63,
+      "text": "Great. Thank you so much."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 378.55,
+      "end": 380.11,
+      "text": "All right. Thank you. Bye."
+    }
+  ]
+}

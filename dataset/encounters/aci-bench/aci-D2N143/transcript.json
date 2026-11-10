@@ -1,0 +1,140 @@
+{
+  "encounterId": "aci-D2N143",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Next patient is Grace Ross. Date of birth 8-23-97. Ms. Ross is a new patient. She's here today for a full spectrum std testing. The patient states that she's having symptoms of discomfort, a change in discharge, and odor in her vaginal region. She says that the right side of her vagina is starting to become painful. She denies any fevers or chills. She reports, that she recently learned, her partner has been in sexual encounters with other people, and she wants to be evaluated for all stds. Hello, ms. Ross. I'm dr. Diaz. It's good to meet you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hi. Yes. Nice to meet you, too."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So, how are you doing today? I hear that you're here for std testing. Is that correct?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah. Actually, I found out earlier this week, that my boyfriend has been cheating on me, for some time. I'm really worried, that I could have caught something, you know?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I wanted to make sure I don't have anything."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah. I'm sorry to hear that. Of course, we can do that today. Um. Well, let's see. How do you feel? Do you have any symptoms?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well, um, I started noticing some weird discharge last week."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, it smells different. It's not the same color, or consistency, as usually, it is."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Right."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um. That part didn't even phase me, until I noticed that the right side of my vagina was hurting. Just sore, you know, but that hasn't gone away."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yep. Nah, that does sound like a cause for concern. How long have you been with him?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hmm, we've been dating for three years."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "As far as, I can figure, he started cheating on me, I think, about three months ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Uh-. Um, okay. Do you... Have you ever had an irregular pap smear?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well, yeah, I did, but it was back whenever I was 20 or so. It hasn't... And I haven't had one since."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And when was your last pap smear?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, about six months ago. It came back normal, though."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Good, okay. Well, let's see... Let's take a look at you, and then, we'll get some samples for std testing. Okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "All right."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You'll hear me talk through your exam, so that I can get it all documented. Uh-? Use my general physical exam template. Pelvic exam demonstrates no external lesions. Normal labia majora and labia minora. Normal physiological discharge, with normal color and smell. Ms. Ross, I'm going to touch you, now. You'll feel my fingers, and the speculum in your vagina. You'll feel some pressure, now. Cervix is normal. Vaginal wall is normal. No cervical motion tenderness and no adnexal tenderness or masses noted. Swabs were done for std testing. Okay, ms. Ross. Everything looks good from a visual standpoint. I'm going to send off std testing for, uh, gonorrhea, chlamydia, trichomoniasis, and I'll have you give some blood for syphilis, hiv and hepatitis c. Some of these tests will take longer than others. We will call you, if we see anything, but if you haven't heard anything, you can call us in three days for results."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay. Sounds good. Thank you, so much."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Of course, my pleasure. And, if everything is normal, I'll see you again, at your next annual checkup. Assessment: is screen for std. Plan: discussed with patient, and please add that she is high risk due to an abnormal pap smear in the past, and the recent discovery of her sexual partner having multiple partners, for some period of time. End of recording."
+    }
+  ]
+}

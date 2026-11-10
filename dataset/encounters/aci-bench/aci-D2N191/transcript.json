@@ -1,0 +1,405 @@
+{
+  "encounterId": "aci-D2N191",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So hi Zachary good to see you today so I'm looking at my notes I see you coming in with some right elbow pain and you also have a past medical history of hypertension diabetes we're gon na check on those so can you tell me what happened to your elbow"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I just woke up one day it was hurting"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "It was hurting okay how long ago would you say that was"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Since"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Since yesterday alright"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's actually my it's actually my left elbow my left arm"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay they must have written that down wrong so it is your your left arm are you right handed or left handed"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Right handed"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay so do you think you might have slept on it wrong or anything like that or what"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So what part of your elbow would you say hurts"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "From my elbow all the way up to the to the neck"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Elbow up to the neck alright is it your entire elbow or or would you say a a individual part of it is painful"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Just from the elbow up to the neck all the way up the arm"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All the way up the arm alright"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Or all the way down the arm to the elbow"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and what would you describe the pain as is it like a stabbing pain is it numb what what's going on"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Kind of a achiness achiness heaviness"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Achiness okay did you do anything yesterday that you think might have caused the pain"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Just a just a usual day of working around the house"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay do you remember I know sometimes do chores you end up lifting heavy things do you remember doing that"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No no no nothing nothing really unusual you know mowed grass and that's about it"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright have you taken anything for the pain yet"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Some motrin"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and would you say that worked for you"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not really still kinda comes and goes and aches"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright so we'll we'll take a look at your your arm there because it's like your entire left arm up from your shoulder to your elbow does hurt in a second we'll do an exam of that so I see you're also coming in we're gon na check on your hypertension and you came in today your blood pressure is a little bit high it was one fifty over ninety I don't think we talked last time about us getting you a blood pressure cuff so you could take those and keep track and and and and let us know so what have your blood pressures been running lately"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "One twenty five over seventy two"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay that's not"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Average"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "That's not too bad you might have a little white coat syndrome you seeing me today because it's a little bit high today so you're on that two. Five of norvasc have you been taking that"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay that's good how about your diet how is that going I know you were having a little trouble before your sot intake was a little bit high"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I think I'm doing okay so"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm doing okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright so as far as your diabetes your last time you came in let's say look at your a1c result it was a seven. Two you were on the five hundred of metformin so what have your blood sugars been running"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't really check them"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You don't check them okay so yeah we can get a a glucose test today and and and just check those because that's something we want to do everyday you know just to make sure you're eating the correct amount and that your sugars are are in range to make sure that and also to make sure that our medication is is the right amount as well so we'll do that that glucose test at the end of your visit and we could see if we can adjust your medication or not so let's go ahead and do a physical exam on you so I just want to double check make sure are you having any chest pain"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah yeah yeah on and off so it kinda comes with the elbow pain arm pain"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay comes with elbow pain arm pain"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Chest pain"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Chest pain"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It kinda goes up my neck sometimes too"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Up your neck alright"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah it's that whole side it just aches comes and goes"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Comes and goes alright how often is that chest pain happening to you you said it's not constant"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It just started yesterday"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay so every hour every fifteen minutes would you say"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't know mostly I had to stop mowing grass the other day it bothered me a little bit but but other than that it just kinda comes and goes I guess a few times a day"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright have you had any shortness of breath"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No okay just the chest pain alright"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So I'm gon na listen to your heart here and it it does seem like I do hear a slight murmur with your heart here and I I don't think we've we've heard that before so I think I'm gon na get an ekg as well because I'm concerned you might be having like a mild heart attack so because you have the pain all the way up your elbow that go into your neck and your your chest pain as well I don't think it's it's it's musculoskeletal pain because you said you hadn't done anything with it so far so what I wan na do is and let's talk a little bit about my assessment and plan here so I I do think that you or you do have that chest pain I'm concerned that you know you might be having a mild heart attack I'm gon na get ekg for that we're also gon na get you some aspirin is a nitroglycerin just to see if that helps with that pain as far as your for your diabetes I want you we're gon na get that p oct glucose and we'll keep you on be five hundred of metformin for now and then for your hypertension we'll keep you on that two. Five of of norvasc but I think our most immediate issue is the is the chest pain and so we'll do the ekg and depending upon those results we'll we'll call nine one one because we really need to get you to the hospital if that is the case so how does that sound"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't know I was talking to my brother and he's a he is a heart doctor and he kinda thought maybe it wasn't the heart but"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "He he thought maybe I had he thought maybe I had something jobie had you know they took jobie to the hospital"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So you heard you heard that did you"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I didn't hear about that no"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah he he he yeah he couldn't stop the"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay could stop doing what"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "He couldn't stop pooping"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No well yeah I didn't hear about joe biting and and his his not ability his ability did not stop pooping probably had a diarrhea I'm not sure I didn't hear about that but most of the time"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No it could it could stop pooping rushing"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Could not poop and you said pooping"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I know"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "It couldn't stop pooping yeah I mean that that might cause like anxiety or something like that you know we can't stop pooten he's he's he's in charge of my united states but right now I'm I'm really you know me I'm concerned about your heart so I do wan na get the ekg just to make sure you know it'll be wouldn't be good if we didn't get that you know in the case that you you leave here something terrible happened and and I wouldn't want that to happen on my watch so"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Right"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "We'll definitely get those tests"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Appreciate it"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah no problem we'll get those tests and my nurse will come in and we'll we'll we'll take it from there does that sound good"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay alright thank you so much"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright thanks"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah"
+    }
+  ]
+}

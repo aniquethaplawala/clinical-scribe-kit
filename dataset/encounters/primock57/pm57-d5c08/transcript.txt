@@ -1,0 +1,134 @@
+Patient: Hello.
+Clinician: Hi there, it's Doctor Smith from Babylon. Can you confirm your name, date of birth and your address, please?
+Patient: Uh, [inaudible] date of birth twenty second of december, nineteen ninety. Uh, address, uh, [inaudible] sixteen [inaudible] avenue.
+Clinician: OK, that's fine. [inaudible] Are you in a private place so you can have a consultation?
+Patient: Yeah, sure.
+Clinician: What can I do for you today?
+Patient: So, um, recently I'm wheezy. Uh, I have feel like kind of short of breath.
+Clinician: OK, and how long has that been going on for?
+Patient: Mmm, two, three days. Yeah, quite recently.
+Clinician: And have you ever had similar symptoms in the past?
+Patient: Um, I think so. It was a while before, yeah, but I can't remember.
+Clinician: As, was that as an adult or as a child?
+Patient: Sorry? Oh, as a [inaudible] , as a adult, yeah.
+Clinician: How long ago was that?
+Patient: Sorry?
+Clinician: How long ago was that, that you had similar symptoms?
+Patient: I can't remember, sorry.
+Clinician: And any problems with wheezing when you were a child or any asthma?
+Patient: Uh, yes, I had asthma. I also had, uh, [inaudible] hay fever and [inaudible] eczema [inaudible] , sorry.
+Clinician: OK, and [inaudible] when you were a child how bad was your asthma?
+Patient: Uh, it's quite bad.
+Clinician: Did you have to take medication?
+Patient: Yeah, I take the asthma inhaler.
+Clinician: Do you know which ones you took?
+Patient: No, I can't remember.
+Clinician: And did you ever have to go to hospital with it?
+Patient: Yeah, sometimes.
+Clinician: Did you ever get severely unwell, have to be on intensive care unit or anything like that?
+Patient: No, not that bad but still, sometimes, need to go to hospital to check if it goes well.
+Clinician: Did you have to miss school?
+Patient: Uh, yeah, occasionally.
+Clinician: OK. And when do you think it last, when do you think that asthma stopped? At what age did you get to a point where you weren't taking medication anymore?
+Patient: Mmm. Few years ago, like, three or four years ago I think? Yeah.
+Clinician: And so this time, how did it start? Did you have any other symptoms? Any chest pain, temperature, cold symptoms, anything like that?
+Patient: Yeah, so I have, I have cough and cough a lot, and I have a fever. Um, I also used to walk to work but recently I can't because it's, I, I feel like very short of breath and sometimes I feel like I can't even finish [inaudible] sentence is quite difficult to, to complete the, the the talking sometimes, yeah. Occasionally.
+Clinician: Right. Have you coughed any phlegm up or anything like that?
+Patient: No.
+Clinician: Any, any, um, blood in there when you cough?
+Patient: No, I don't think so.
+Clinician: OK. And any chest pain?
+Patient: No chest pain, no.
+Clinician: Have you been woken up at night time at all?
+Patient: No, just daytime working, yeah.
+Clinician: Have you been able to do any exercise?
+Patient: No, I can't.
+Clinician: OK, and do you have a peak flow meter at home, where you measure your breathing?
+Patient: Sorry?
+Clinician: You have what's called a peak flow meter, which you breathe into to get a score on your breathing?
+Patient: No, no.
+Clinician: And do you normally take any asthma inhalers over the last few years?
+Patient: Yes, yeah.
+Clinician: You do? So you said you stopped them three to four years ago?
+Patient: Ohh, um, when I had asthma I used to take this inhaler, yeah.
+Clinician: OK. How about over the last three to four years?
+Patient: Yeah.
+Clinician: Have you taken any medication?
+Patient: Um, I took salbutamol? Salbutamol? Yeah.
+Clinician: OK, so you, you normally take that do you? Or is that just recently?
+Patient: Normally, yeah.
+Clinician: OK, and how often do you normally need it?
+Patient: Every, every few weeks? I'm not sure.
+Clinician: OK. What about when you exercise normally, do you have to use medication? Uh, inhalers?
+Patient: [inaudible] Yeah, yeah, a bit.
+Clinician: Pardon?
+Patient: Yeah.
+Clinician: OK, um, and do you take any other medications?
+Patient: No, nothing else.
+Clinician: Any other medical problems?
+Patient: Uh, I have, uh, hay fever as well.
+Clinician: OK, do you take anything for that?
+Patient: No.
+Clinician: And any allergies to medications?
+Patient: No, no allergies.
+Clinician: Do you smoke?
+Patient: No, I don't smoke.
+Clinician: Do you drink any alcohol regularly?
+Patient: Yeah, one glass.
+Clinician: How often? Have a glass of what?
+Patient: Today, yeah. Uh, one glass of wine.
+Clinician: Every, how often did you say?
+Patient: Every two or three days? Depends, yeah.
+Clinician: And who do you live with at home?
+Patient: Yeah.
+Clinician: Who do you live with at home?
+Patient: Yeah, [inaudible] .
+Clinician: Who do you live with, do you live on your own, or do you live with
+Patient: I live with my partner.
+Clinician: OK, and what's your job, day-to-day?
+Patient: Uh, I'm engineer.
+Clinician: And have you been at work in the last few days?
+Patient: No I can't because I used to walk [inaudible] walk to work, but recently I, I work from home or sometimes I take sick leave, yeah.
+Clinician: OK, and when, at the moment, are you, um, feeling short of breath when you're sitting still? Or just when you walk?
+Patient: No. Just walk or sometimes, but currently I feel, I feel well.
+Clinician: Are you able to get [inaudible] up and down the stairs OK?
+Patient: Yeah.
+Clinician: Right, OK. Um, and did you say you were finding it hard to complete your sentences?
+Patient: Yeah, sometimes.
+Clinician: OK, um.
+Patient: Yeah, [inaudible] , days, yeah.
+Clinician: Right, OK. Um, I mean, it sounds like you've had a flare up of your asthma. It could be, um, triggered by, if there's more pollen around, or there may be, you may have a viral infection, causing it to get worse.
+Patient: Mm-hmm. Mm-hmm.
+Clinician: Did you say you checked your temperature already?
+Patient: Yes, I checked, I have fever [inaudible] .
+Clinician: Was it normal?
+Patient: Yeah, yeah.
+Clinician: [inaudible] What was your temperature?
+Patient: Uh, thirty seven, yeah.
+Clinician: OK, that's fine. Um, have you got an asthma inhaler at home?
+Patient: Yeah.
+Clinician: OK. So what I would suggest is you take it more regularly than you are doing at the moment. Have you got, um, a spacer at home?
+Patient: Mm-hmm. Um, do you want to show me how to do it or somehow?
+Clinician: Um, do you have a spacer at home?
+Patient: No.
+Clinician: OK. Um, what I can do is, I can prescribe you a peak flow meter so we can check your breathing level and a spacer to use your inhaler a bit more efficiently, which the pharmacist can show you how you use that when you pick it up.
+Patient: Yeah, sure.
+Clinician: Um, and if you increase it so you're taking it two to four puffs, like, every four hours?
+Patient: Mm-hmm.
+Clinician: Initially, um, if you get a high temperature or your wheezing is getting worse, you need to call us back straightaway so we can just advise you further with that.
+Patient: OK.
+Clinician: And it will be a good idea when you're feeling better if we can arrange just a review, just to see how your asthma is, because we may need to start some other medication for you.
+Patient: OK, sounds good, yeah.
+Clinician: You could arrange a review in a week or so, um, but, but before that and if you're, if you're feeling worse.
+Patient: In a week, right? OK.
+Clinician: OK, and the other thing to do would be to take a regular antihistamine.
+Patient: Mm-hmm.
+Clinician: Which you can get from the pharmacy, I can put a [inaudible] on your notes about what to take.
+Patient: Yeah. Yeah, they'll be helpful.
+Clinician: And then if you, when you get the peak flow meter, if you can take, the pharmacist can show you how to use it, and if you can record a value first thing when you wake up.
+Patient: Mm-hmm.
+Clinician: And in the evening over the next week, and then we can discuss that over the phone when we look at the figures and see whether you need to go on another inhaler as well.
+Patient: Oh, awesome, thank you.
+Clinician: Have you got any questions?
+Patient: Um, no, that's fine, yeah, thank you very much.
+Clinician: Thanks a lot, bye.

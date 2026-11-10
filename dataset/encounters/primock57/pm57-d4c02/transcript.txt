@@ -1,0 +1,134 @@
+Clinician: You have to do it, part of your training as a doctor.
+Patient: Hello.
+Clinician: Hi. Hi. Can you hear me?
+Patient: [inaudible] . Yes, I can hear fine.
+Clinician: Hi. My name's Doctor Gohill, I'm one of the general practitioners, that works here. Can I check your name and date of birth please?
+Patient: Uh, I am, uh, Patrick Smith.
+Clinician: Hi.
+Patient: Uh, thirty five years old. Um, October, seventh. Uh. ninety , three something.
+Clinician: Great. And Patrick, are you in a, space, that's private and quiet?
+Patient: Yes.
+Clinician: Great, and so, we're OK to chat?
+Patient: Yes, we are.
+Clinician: OK. So it says here, um, you are feeling hot, and have had severe headaches. Is that correct?
+Patient: Yeah. It's, it's really affecting my work. Uh, uh, it comes and goes. Uh. Uh, I kind of, feel like, uh, it's, it's hard 'cause I, I [inaudible] , kinda lose my appetite. Also. Uh, one thing that's kinda weird is, I just sometimes also get like some, tingling in my arms.
+Clinician: OK.
+Patient: [inaudible] . And, like, especially if, for example when I, come into the elevator, in the morning.
+Clinician: OK.
+Patient: I, I can uh, of have, my heart is beating, kinda fast.
+Clinician: OK. So, those are lots of things. Are they all happening at the same time?
+Patient: Almost randomly like. Yeah, it's, it's, it's at different [inaudible] , times.
+Clinician: And, do they all happen at the same time? Or is it one thing one time, and one [inaudible] ?
+Patient: [inaudible] , one time, one thing at a time.
+Clinician: OK. So, let's start with the headaches. When they do come, do you have any idea the headache is going to come?
+Patient: Uh, not really but, generally during, work times.
+Clinician: So, it's normally at work?
+Patient: I'm at work, I'm in a meeting, or on my laptop.
+Clinician: OK. And, where does the headache sit in your head? Is it the front, or the back?
+Patient: Um, I can't say, so like, kind of over.
+Clinician: [inaudible] . OK. And, does it [inaudible] else? Does it go anywhere else?
+Patient: [inaudible] , the headache? No, it's mostly in the front, and then yeah, it just kind of stays there.
+Clinician: And, when you have the headaches, specifically, do you feel sick?
+Patient: Yeah. [inaudible] , not, not, not really, but it's like, making it hard. I, yeah, I kind of feel a little bit nauseous maybe. Um.
+Clinician: OK.
+Patient: And sometimes I also feel like. Uh, yeah. It's like uh, maybe, probably, breathing or something.
+Clinician: OK.
+Patient: No.
+Clinician: And, do you normally get headaches, before all of this started?
+Patient: Uh, so. No, I, I feel like my, like, health situation was mostly under control.
+Clinician: OK.
+Patient: Yeah.
+Clinician: And then let's.
+Patient: But it [inaudible] , it started roughly when I changed jobs.
+Clinician: OK. So, talk to me about your job, what do you do?
+Patient: I'm a lawyer.
+Clinician: And, do you work in London at the moment?
+Patient: Yes.
+Clinician: So, do you get these headaches on your commute in to work?
+Patient: Not really. I get it, mostly when I'm, at work.
+Clinician: OK, and tell me about what you do. Do you sit in front of a computer most of the time? Or do you speak to people?
+Patient: Like fifty-fifty. I go to meetings and then uh, sit in front of a computer.
+Clinician: OK.
+Patient: There's a lot of reading.
+Clinician: And, these things have happened mostly when you're sitting at your computer?
+Patient: Um. [inaudible] , yeah, it happens then, yeah.
+Clinician: OK, and tell me, what did you do, before being a lawyer?
+Patient: Uh, no, I was a lawyer at previous job as well.
+Clinician: OK. So, talk to me about the stress that you're under at the moment. If, uh, ten out of ten is, extremely stressful, and one out of ten is being on vacation. Where would [inaudible] moment?
+Patient: Think it's, seven, or eight.
+Clinician: And, is that normal for you?
+Patient: Yeah, it's like, a law firm, like, there's always pressure.
+Clinician: OK. So, you mentioned your headaches. You also mentioned your reduced appetite. So, you don't want to eat as much.
+Patient: Yeah.
+Clinician: Have you lost weight?
+Patient: Yes.
+Clinician: Can you remember how much you've lost?
+Patient: Five pounds.
+Clinician: And, is that because you're going to the gym? Or is that unintentional?
+Patient: It's not intentional, no.
+Clinician: OK. So, have you noticed your clothes feeling looser?
+Patient: [inaudible] , not really, ah, no.
+Clinician: And, have people said, or commented that you've lost weight?
+Patient: No.
+Clinician: Great. And, another thing that you also mentioned. Is that you noticed tingling in your hand.
+Patient: Yeah.
+Clinician: So, talk to me about that. Is it in one hand? Or both hands?
+Patient: Both.
+Clinician: And, do you get that in your legs as well?
+Patient: No.
+Clinician: And, what does it feel like, the tingling?
+Patient: Quick picking, yeah.
+Clinician: And again, is this the first time you've noticed this?
+Patient: Yeah.
+Clinician: OK. And the other two things that I've just, jotted down. Is, you're feeling hot, but you didn't mention that. Is that correct?
+Patient: Uh, but like. I would say like, I get this like, feeling of, short, like, [inaudible] , short of breath, sometimes.
+Clinician: OK.
+Patient: So, like, that could be what, you we're, referring to.
+Clinician: Yes. So, do you feel short of breath while you're sitting at your desk?
+Patient: Yeah, no. Yes. Sorry, yeah.
+Clinician: [inaudible] . OK. And, how about when you're exercising?
+Patient: No.
+Clinician: OK. And the last thing is. You mentioned that you noticed your heart beating?
+Patient: Yeah.
+Clinician: Again, how often do you get that?
+Patient: I, I, when I like, it's maybe once a day, uh, maybe more. Uh. There's one more thing that I, I think I should mention, like, I do have like, some loss of libido at home.
+Clinician: OK. How long has that been happening for?
+Patient: Same amount of time really, like, since I changed my job.
+Clinician: Fine. And, apart from all of these things that you've told me. Do you have any other medical problems?
+Patient: Uh, well I have, hyperthyroidism.
+Clinician: OK. And, do you take medications for that?
+Patient: Thyroxine.
+Clinician: And, are you remembering to take your medications?
+Patient: Yes.
+Clinician: OK. And, do you drink or smoke?
+Patient: Yes.
+Clinician: How much do you drink?
+Patient: Like, once a week, couple of glasses, of wine.
+Clinician: OK. And, how about smoking?
+Patient: No.
+Clinician: And, uh, I need to ask this to all of my patients, but do you do anything else recreational, in terms of drugs?
+Patient: No.
+Clinician: OK. So, you've never taken cocaine, or marijuana?
+Patient: [inaudible] . No.
+Clinician: OK, thank you. And, are you allergic to anything? Good. So, you've told me lots of things happening to you at the moment, and I can understand, they probably feel quite strange and unusual.
+Patient: Yeah.
+Clinician: Um, I think the best course of action is, you come and see, one of our doctors, in the clinic.
+Patient: Yeah.
+Clinician: We can give you an examination, and what that means is, we check your heart and your breathing.
+Patient: Yeah.
+Clinician: Make sure that those things are functioning correctly.
+Patient: Yeah.
+Clinician: And probably do some blood tests, for your thyroxine.
+Patient: Yep.
+Clinician: And take it from there. How does that sound?
+Patient: That sounds, uh, very good. Thank you.
+Clinician: I think before we give you any medications, we should see you in person.
+Patient: OK. [inaudible] .
+Clinician: So, what we're going to do is book an appointment. Or I think you can book an appointment through the app, to come and see us [inaudible] clinic, and see one of my colleagues.
+Patient: Yep. Yep. Yep.
+Clinician: I'll let them know what you've told me today, so you won't have to repeat exactly what you've said.
+Patient: Thank you.
+Clinician: Great. Do you have any questions?
+Patient: Right. No, that was it. Thank you very much.
+Clinician: Thank you very much.
+Patient: Yep, bye.

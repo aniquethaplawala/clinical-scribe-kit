@@ -1,0 +1,295 @@
+{
+  "encounterId": "aci-D2N035",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Well hello Christina so how are you doing I was notified you were in the hospital for some heart failure what happened"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well I'm doing better now but I just started having problems that my ankles were swelling and couldn't get them to go down even when I went to bed and couldn't breathe very good had to get propped up in bed so I could breathe at night and so I just really got to feeling bad I called my friend diane and she said I probably ought to call nine one one since I was having a hard time talking and so I called nine one one and they sent out an ambulance and they took me into the er on the it was quite an experience"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Having an ambulance ride and and I've never done that before so not an experience I wan na do again either"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I'm sure you don't yeah I see that your blood pressure was high also it was two hundred over ninety have you been"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I guess is that really high"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah that's"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I feel really bad"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah that's pretty high are you taking your medications or you missing some doses"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't know I might miss one now but I try to take them all time"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah yeah you really need to take them very consistently now you also said you were watching your diet did you did you have some slips with that you said your ankles were swelling"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No I yeah I do I like to I like to eat"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Are you eating a lot of salty foods and pizza or"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I like potato chips"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I like the salt and vinegar potato chips they're really good so"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Well so do you do you go out to eat a lot or do you where you where where are you eating those potato chips or is that just the home snacking or"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That's home snacking I buy the the the the brand name salt and vinitive because brand won't taste real good but the the brand names really tastes good"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Oh"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So I eat those probably everyday"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Goodness well you know you we need to probably stop eating those now"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah well I hate to hate to give those up but I guess I might have to"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Well since you've been in the hospital and and they've helped you out with some with all that how are you feeling now"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well I'm I'm doing better"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mm-hmm and they"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't don't have quite as much shortness of breath I think maybe getting up and walking a little more is helping"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And they gave you a water pill and is that is that helping is that making you pee a lot"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah yeah I have almost incontinence so"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Goodness"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes that's not very pleasant at all"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And so they added another blood pressure medication also how are you doing with that are you feeling a little bit better"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I think so"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "If I can remember to take the pills"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That seems to be a sticky point"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Well a a pill box or maybe setting an alarm on your phone might really help"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay I'll I'll give that a try anything that will help"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah okay well that's good to hear so now have you bought a blood pressure cuff to have at home now"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes I already had one but I very failed if I ever used it"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "But"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Got it"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'll I'll try to use it everyday now"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and you might even just keep a log of what your blood pressures are and when it's up think about you know what you've eaten if you've done something different because that may help you to figure out what you need to cut back on or how you might need to change your your eating habits a little bit so"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you been short of breath or any problems sleeping since you've been home"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No I've been sleeping like a log"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay good alright have you had any chest pain"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No no chest pain"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright well let's do a quick physical exam here so your vital signs your blood pressure looks pretty good today at one twenty eight over seventy two your temperature is ninety eight. Seven and your heart rate is seventy two your respirations are eighteen your oxygen saturation looks pretty good at at ninety six percent okay now on your neck exam there is no jugular venous distention on your heart exam I appreciate a two over six systolic ejection murmur which I've heard before and so it's stable and your lungs are clear bilaterally and your lower extremities show just trace edema now now we since we did the echocardiogram I reviewed those results and it does show a preserved ef of fifty five percent abnormal diastolic filling and mild-to-moderate mitral regurgitation so let me tell you a little bit about my assessment and plan so for your first problem for your congestive heart failure it sounds like this was caused by dietary indiscretion and some uncontrolled hypertension so I want you to continue on your bumex two milligrams once daily continue to watch your diet and avoid salty foods might try keeping that log we talked about with your blood pressures and what you've eaten if if your blood pressure seems a little high also weigh yourself daily and call me if you gain three pounds in two days okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And I also want you to see a nutritionist to give you some education about what foods you can eat okay now for your second problem for I know this sounds like this is just for you and so for your second problem for your hypertension I want you to continue on the cozaar one hundred milligrams daily continue on the norvasc five milligrams once daily also and I'm going to order a renal artery ultrasound just to be sure we're not missing anything and then like maybe you know some renal artery stenosis or something and so so for your third problem for your kidney disease I wan na get some more labs to make sure you tolerate this the new medications and then I'll see you again in three months do you have any questions"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No I don't think so not today"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright it's good to see you and I hope we'll just keep getting you feeling better"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "encounterId": "aci-D2N100",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "family",
+      "label": "Family member"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Kayla Ward, date of birth, 4/28/07. Mrn 3-8-4-9-2-0. She's here for a new visit with her mother for acne located on the face, which started about two years ago and is present most every day. She has been using persa-gel and washing regularly, which is somewhat helpful. There are no associated symptoms including itching, bleeding, or pain. No additional past medical history. She lives with her parents and sister. They have a dog, bird, and bunnies. She is in 7th grade. She plays basketball and volleyball and tap. She wears sunscreen in the summer, spf 30. No additional family history. Hi Kayla, I'm dr. Juan price. I hear you are starting to get some acne on the face. How about the chest and back?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's not too bad."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So, it's not bad on the chest or back. You've used some over the counter items like washes and persa-gel?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do those seem to be helping?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, I think so, a little bit."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Good. What's your skin care routine like now?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Do you wan na know, like, the things I currently use?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yes. What do you do for your acne in the morning? And then what do you do at nighttime?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I wash my face, more like I wipe it down in the morning. Then at night I use an elf facial cleanser called the super clarity cleanser. I finish with a toner and then the persa-gel."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "When you say, \" wipe your face in the morning, \" do you use a product or just water?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm, just water and a washcloth, really. If I feel really greasy, sometimes I'll use the elf cleanser in the morning, too."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And is today a good day, bad day, or an average day for you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm, I would say it's probably a good day for me, of course, since I'm here, right?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Acne is always good when you come to see the doctor. Do you find that your acne flares with your periods?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, not really."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And do you get a regular period?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yup."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How long have you been getting a regular period?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm, I think about two years."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "The biggest flare, probably, was when she started school sports in the fall, just with all the sweating."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yup, that will do it. Is there anything else that you've noticed, mrs. Ward?"
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "No. Kayla really has been doing a good job with the facial care regimen. It just doesn't seem to help as much as we wanted."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Got it. Okay. Well, let's take a look then. Full exam is performed today, except for under the underwear and under the bra. Multiple benign nevi on the trunk and extremities. Scattered skin colored papules. Open and closed comedones. And erythmateous papules on the face, primarily on the forehead and with also some on the central cheeks and chin. The chest and back are relatively spared. And the remainder of the examination is normal. So, what I'm seeing from your exam today is mild to moderate acne, mostly comodonal with small inflammatory component."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, so is there anything we can do to help it?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yes. I would like to start with a topical therapy first. Every morning, you will wash your face with a mild cleanser then use a moisturizer labeled, \" noncomedogenic, \" with sunscreen spf 30 or higher. This means it won't clog your pores. Now, in the evening, wash your face with the same cleanser and allow it to dry. Apply adapalene, 0.1% cream, in a thin layer to the areas you generally get acne. I want you to start off using this a few nights a week and slowly work up to using it every night. If it is... Excuse me, if it is very expensive or not covered by insurance, you can try different gel over the counter. You can follow that with clean and clear persa-gel in a thin layer, or where you generally get acne. And then a noncomedogenic moisturizer. You're atopic retinoid will cause some sensitivity, so you will need to wear sunscreen when you are outside. It may also cause some dryness or irritation."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, I can do that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You also have multiple benign moles on your arms, legs, back and abdomen. This means they all look normal with no worrisome features. We will see if you have any progress over the next six months and follow up at that time."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, that sounds good. Thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you have any questions for me?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I don't think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. If you have questions or concerns before your next visit, please call the office."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Thank you, doctor, we will."
+    }
+  ]
+}

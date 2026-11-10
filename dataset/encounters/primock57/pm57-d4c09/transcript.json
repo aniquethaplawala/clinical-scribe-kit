@@ -1,0 +1,687 @@
+{
+  "encounterId": "pm57-d4c09",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 0.0,
+      "end": 0.54,
+      "text": "Hello."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 1.1,
+      "end": 9.96,
+      "text": "Ohh hello. Hi, how you doing? Uh, my name's Joe. I'm one of the doctors here at Babylon. Can I just confirm your name please?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 2.64,
+      "end": 3.32,
+      "text": "Hi."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 9.96,
+      "end": 12.97,
+      "text": "Yes. Brian [inaudible] ."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 10.22,
+      "end": 12.64,
+      "text": "Yeah, sure. My name's Daniel [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 12.97,
+      "end": 17.3,
+      "text": "Hi Daniel. And your date of birth? [inaudible] ."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 15.81,
+      "end": 18.68,
+      "text": "Yeah. May [inaudible] . Nineteen ninety two."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 18.71,
+      "end": 25.31,
+      "text": "Ninety two. OK, Daniel. And uh, are you in a, a comfortable and confidential place to talk?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 25.7,
+      "end": 26.67,
+      "text": "Yeah. Totally."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 26.52,
+      "end": 29.41,
+      "text": "[inaudible] , happy to go ahead. Great. How can I help?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 30.12,
+      "end": 33.83,
+      "text": "Um, yeah, I just, my chest has been feeling really tight."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 35.1,
+      "end": 38.23,
+      "text": "OK. And how long has this been going on for Daniel?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 38.62,
+      "end": 41.58,
+      "text": "Uh, for about. Three hours now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 42.84,
+      "end": 59.08,
+      "text": "OK. And, so, tight chest, three hours. Um, and, so you're born in ninety two, so that makes you twenty six? Um, and, you are, uh. Any shortness of breath at all, with that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 52.64,
+      "end": 66.07,
+      "text": "Twenty six, yeah. Yeah, like a little bit, um. Yeah, a little bit short of breath, not too bad."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 66.41,
+      "end": 68.63,
+      "text": "Uh, any cough? Wheeze?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 69.76,
+      "end": 74.54,
+      "text": "Yeah, I'm feeling a bit wheezy, as well. Kind of cough [inaudible] , coughing, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 74.47,
+      "end": 79.46,
+      "text": "Slight cough, yeah. [inaudible] , sore throat? Runny nose? Sore ears?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 76.28,
+      "end": 87.17,
+      "text": "Yeah. You know I had a cold last week, and, it's not as bad as it was, but yeah, I had a sore throat, I had a runny nose. Uh, just feeling under the weather."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 87.19,
+      "end": 90.94,
+      "text": "Mm-hmm. Are you feeling better now, other than the tight chest?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 91.02,
+      "end": 96.4,
+      "text": "I mean I feel worse, but the runny nose isn't as bad any more. [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 95.59,
+      "end": 102.83,
+      "text": "Right. OK, OK, but you now, now you've got this, this um. So you've still got, still got uh, symptoms of a cold, essentially?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 102.86,
+      "end": 104.72,
+      "text": "Yeah, but the cough's kind of stuck around."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 105.11,
+      "end": 111.63,
+      "text": "Uh, ooh, yeah, OK. And are you coughing up anything?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 112.24,
+      "end": 113.07,
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 114.97,
+      "end": 119.43,
+      "text": "And, um, do you have any other medical problems, like asthma?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 119.85,
+      "end": 129.91,
+      "text": "Yeah, yeah, I have asthma, I've had it for a while now, um. And then I have like, a hayfever, you know, and some allergies just to dust, stuff like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 128.53,
+      "end": 135.89,
+      "text": "[inaudible] , OK. You have any, inhalers? Or any, any medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 136.82,
+      "end": 143.05,
+      "text": "Um, yeah, so, uh, you know the um, uh, Ventolin. It's called uh, Salbutamol."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 143.35,
+      "end": 144.32,
+      "text": "Yeah."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 144.39,
+      "end": 148.87,
+      "text": "I got that one, and then I have a steroid, a Clenil, Clenil inhaler."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 149.03,
+      "end": 151.66,
+      "text": "Clenil, Clenil Modulite, yeah, OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 151.05,
+      "end": 152.24,
+      "text": "Yeah, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 152.5,
+      "end": 159.73,
+      "text": "And um, uh, have you been using Clenil and the Ventolin? And how often have you been using them?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 159.68,
+      "end": 169.37,
+      "text": "Um, well to be honest, I was away at uni last week, and I forgot to bring it with me, so I haven't really in the past week. Uh."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 168.2,
+      "end": 169.8,
+      "text": "Both of them?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 170.97,
+      "end": 175.06,
+      "text": "Because [inaudible] , because um, sorry, they ran out and I, I forgot to, go and grab the next one."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 174.79,
+      "end": 176.2,
+      "text": "Yeah, sure."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 175.76,
+      "end": 177.74,
+      "text": "About a week ago. Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 177.09,
+      "end": 183.02,
+      "text": "OK. All right, all right. So, so, so you've, you haven't got any Clenil, or any Ventolin at the moment?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 183.38,
+      "end": 185.51,
+      "text": "Not with me right now, no, I ran out."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 185.53,
+      "end": 191.96,
+      "text": "OK. All right. Um, and [inaudible] , any drug allergies, that you know of?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 192.22,
+      "end": 198.73,
+      "text": "No, no, not allergic to anything. Just like, just the, dust and stuff, but nothing, no drugs."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 198.78,
+      "end": 205.16,
+      "text": "OK, great. Now, uh, do you, anyone in your family have any medical problems, that you know of?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 205.2,
+      "end": 216.23,
+      "text": "Um, yeah, my mum has eczema, and my dad has asthma. [inaudible] , ohh, when I was young, I also had eczema. And I had a milk protein allergy, when I was young too."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 216.35,
+      "end": 232.47,
+      "text": "Hmm. OK. Um. Right. So, just uh, [inaudible] , do you have any other, sort of concerns? Or ideas about what might be going on? Or, um, hopes for this consultation?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 232.06,
+      "end": 250.75,
+      "text": "Um. Not really, like I feel like asthma's probably a part of it, and, probably getting my, inhalers would be helpful Um. It's just kinda scary, 'cause I haven't had, a time like this where I've been so, tight, uh, in a long time."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 251.22,
+      "end": 267.64,
+      "text": "Yeah, absolutely, I can, I can imagine. Um, well, it certainly sounds like uh, you've, you've had this cold, so you've got wheezy with a cough. Um, and it's non-productive cough, and you're short of breath. Uh, is the cough worse at night-time?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 268.82,
+      "end": 274.36,
+      "text": "I mean, it gets a little bit worse at night but, basically, just pretty consistent, and it hasn't gone away."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 273.07,
+      "end": 282.18,
+      "text": "Yeah. OK. And you've got this tight, tight chest. But you, you wouldn't say you've got chest pains? It's more of a tight chest, is it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 281.88,
+      "end": 289.07,
+      "text": "No, not really pain, it's more like, tight. It just feels like sometimes, [inaudible] I can't get a full breath in, you know."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 289.1,
+      "end": 302.07,
+      "text": "Yeah, sure. Um, OK. Well, I, I would quite like to, uh, certainly get you some, uh, Ventolin, Clenil Modulite. Have you had asthma exacerbations in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 302.44,
+      "end": 313.76,
+      "text": "Not in a long time. When I was young, a little bit, more like, back in high school. Um, but, I've been pretty good at taking my [inaudible] , my inhalers, so, not, not so much any more."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 308.62,
+      "end": 319.45,
+      "text": "Yeah. Have you ever been to hospital, uh, as an inpatient? As in, you know, stayed in there overnight, for asthma?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 319.64,
+      "end": 322.98,
+      "text": "Yeah, when I was in high school, I had to have a tube put down my throat."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 323.13,
+      "end": 334.85,
+      "text": "Ohh, OK. So you, so, so you, uh, you [inaudible] , you went to hospital, and had a, a, [inaudible] . So you stayed in hospital for a few days did you, with an asthma exacerbation?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 334.81,
+      "end": 335.86,
+      "text": "Yeah I did, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 335.77,
+      "end": 341.53,
+      "text": "OK, but currently you're just on Ventolin and Clenil? And you haven't got any of those steroids, uh, those inhalers at the moment?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 341.88,
+      "end": 345.81,
+      "text": "Yeah, I'm doing pretty good, I'm doing pretty good, just on the Clenil, and the Salbutamol."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 345.68,
+      "end": 350.9,
+      "text": "OK. When, sorry, how old were you when you had that severe asthma exacerbation?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 351.1,
+      "end": 355.99,
+      "text": "Uh, I think I was like seventeen. Sixteen maybe."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 356.38,
+      "end": 369.84,
+      "text": "Sure. OK. Um. Just to quantify how short of breath you are, um, I don't suppose you've got a peak flow with you? No, you won't have will you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 369.46,
+      "end": 370.63,
+      "text": "No, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 369.84,
+      "end": 381.42,
+      "text": "Um, are you able to, uh, like walk up, flights of stairs OK? Walk on the flat OK, without getting to short of breath? Or um, are you short of breath at rest?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 381.96,
+      "end": 392.46,
+      "text": "Uh, I'm definitely not short of breath at rest, like, except for that feeling I was describing. It does when I'm walking up stairs, I do feel like, I have a little bit, more short of breath than I would normally be."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 392.56,
+      "end": 396.78,
+      "text": "Sure. Yeah. OK, but you're not short of breath at rest at the moment?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 396.57,
+      "end": 397.92,
+      "text": "No, no, no I'm not."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 397.84,
+      "end": 410.4,
+      "text": "OK, fine. So, what, what I think, um, and just to, just to go over, [inaudible] . Is there anything you had hoped about getting other than the uh, a, prescription for your inhalers? Was there anything else you'd hoped about getting from this?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 409.95,
+      "end": 417.38,
+      "text": "Well I just wanna know that I'm OK, to just like keep. I just don't wanna have to get, um, that, that intubation again."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 417.39,
+      "end": 430.63,
+      "text": "Sure, yeah, no, absolutely. Well, I'm really glad you have [inaudible] talked to me today. I think what we can do is, is give you a prescription for, uh, some more of the inhalers. We can get that to you, within the hour, I would hope."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 418.42,
+      "end": 420.69,
+      "text": "Uh, [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 430.63,
+      "end": 449.14,
+      "text": "Um, and, uh, I think, what, the other thing I'd like to do is just give you a, dose of steroids. So this is, these are tablets which, um, you can take for five days. Uh, two tablets in the morning. And, uh, that should just dampen down your asthmatic response, OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 448.93,
+      "end": 449.54,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 449.14,
+      "end": 468.5,
+      "text": "Um, now there are some side effects to the steroids. Which I should really tell you about, but please read the label, that's associated with. Don't be too worried about the side effects. They're [inaudible] , most, you know [inaudible] , most of the time the steroids are, very well tolerated. And, uh, you [inaudible] . Have you had them in the past, do you know of?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 468.97,
+      "end": 472.24,
+      "text": "Sorry, sorry, you were cutting in and out a little bit there. What were you saying?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 471.28,
+      "end": 474.05,
+      "text": "[inaudible] . Have you had steroids in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 474.71,
+      "end": 479.09,
+      "text": "Um, I can't remember, probably. I think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 477.6,
+      "end": 523.51,
+      "text": "Probably, yeah I would [inaudible] too. So, um, they, they can come, they can make you, your mood change, can be slightly low or [inaudible] too, slightly high. Can give you, a high blood sugar, um, and, uh, their. Uh, [inaudible] , they can also cause rash, nausea, um, headaches, but, mostly is well-tolerated, and it should help your asthma an awful lot. Um, uh, what I'd like to do is, is send you these, the, some prescriptions for your, uh, inhalers, [inaudible] , ongoing. So you, um, you can, once you get better from this asthma attack, you can, you can, use the Clenil Modulite in the morning, with Ventolin as a PRN. [inaudible] , so, a Ventolin when you need to, um, when you're getting wheezy."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 500.94,
+      "end": 523.24,
+      "text": "OK. OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 523.51,
+      "end": 538.3,
+      "text": "If you should start to use the Ventolin more than, uh, every three hours. Uh, at, at anytime, it's a good idea to seek medical attention. So, um, see a doctor, um, in some capacity."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 536.51,
+      "end": 537.01,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 538.3,
+      "end": 549.57,
+      "text": "Uh, and, the other thing I'd like to send you is a spacer, which would allow the medication to actually, go into your lungs better. Have you, do you know what a spacer is? Have you used one before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 549.85,
+      "end": 555.53,
+      "text": "Yeah, yeah, I, somebody told me how to use one a while ago. I don't, I don't really use it, to be honest, but."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 555.76,
+      "end": 557.03,
+      "text": "Have you got one?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 558.31,
+      "end": 560.18,
+      "text": "I think I do, I have one somewhere."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 560.18,
+      "end": 574.61,
+      "text": "OK. All right. Well, um, I'll send you another one, and it has some instructions about how to use it, but essentially, uh, couple of puffs to prime it, inside, breathing in and out, um, uh, for five or [inaudible] , five or ten breaths."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 575.59,
+      "end": 576.25,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 576.24,
+      "end": 584.86,
+      "text": "Uh, yeah. So. Uh, was there anything else that was on your mind? Or you're concerned about at this stage?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 584.83,
+      "end": 586.6,
+      "text": "[inaudible] , I think you got me covered."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 587.02,
+      "end": 604.14,
+      "text": "OK, and, and uh, I might give you some time off work as well. You can self-certify first seven days, but uh, I think I would advise you just to, rest a little bit until you're feeling a bit better, if you're OK with that. All right?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 601.6,
+      "end": 607.56,
+      "text": "OK, [inaudible] . All righty. Well, thank you very much."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 606.21,
+      "end": 622.57,
+      "text": "OK. No worries. Any deterioration in your symptoms, like worsening shortness of breath. Um, or just generally concerning symptoms, uh, pain in your chest tightness, uh, feeling light-headed. Uh, then, seek further medical attention anytime please. OK?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 622.84,
+      "end": 623.92,
+      "text": "All right, sounds good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 624.32,
+      "end": 625.86,
+      "text": "OK. Thank you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 625.79,
+      "end": 626.98,
+      "text": "OK, thank you. Bye bye."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 627.19,
+      "end": 627.76,
+      "text": "Bye bye."
+    }
+  ]
+}

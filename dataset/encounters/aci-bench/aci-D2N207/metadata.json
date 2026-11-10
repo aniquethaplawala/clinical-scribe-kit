@@ -1,0 +1,25 @@
+{
+  "encounterId": "aci-D2N207",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N207",
+  "split": "clef_taskC_test3",
+  "collectionMode": "aci",
+  "chiefComplaint": "heart failure exacerbation",
+  "secondaryComplaints": [
+    "coronary artery disease",
+    "Stage 3 chronic kidney disease and possible gout flare"
+  ],
+  "patient": {
+    "age": null,
+    "gender": "male"
+  },
+  "turns": 69,
+  "wordCount": 1846,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

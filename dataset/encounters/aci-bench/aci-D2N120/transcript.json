@@ -1,0 +1,255 @@
+{
+  "encounterId": "aci-D2N120",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hello Larry how are you doing today"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I've been better my primary care doctor wanted me to see you for this back pain that I've been having for a couple of years now"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And I have tried so many things and just nothing seems to work"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I'm sorry to hear that now do you remember what caused the pain initially"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You know I never fell or was in an accident but I do remember it all happened like I started having back pain after I was moving furniture one weekend"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and now can you describe the pain for me"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah it feels like a sharp stabbing pain in my back and it does go down even down to my right leg sometimes all the way down to my toe it feels like my big toe"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And I also feel like I just can't get comfortable which is worse when I sit down okay yeah"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay now with that do you have any numbness or tingling associated with your back pain"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I do get some numbness and tingling especially to my right leg that goes down to my foot"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Let me separate these"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And how about a loss of sensation in the genital or the rectal area"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No nothing like that"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay now do you have any weakness"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I wouldn't say I have any weakness no"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay do you experience like any loss of control of your bladder or your bowels"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay now you mentioned earlier that you you have some tried tried some things in the past so tell me what were they"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So I've tried some physical therapy before and so when it gets really bad they've even had to prescribe some strong pain medications for me but that was only temporary and they even mentioned surgery to me in the past but I really would like to avoid surgery"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay sure so tell me what is your day like"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "My day so I try to be as active as I can but of course it's been difficult with my back pain and so because of that I have gained some weight over the past years"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright well I'm sorry to hear that I know that you used to like playing golf"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I and you know golf is relatively new for me I've been trying to get into it but this has definitely set me back"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah I'm sorry yep probably now at the peak of you know just learning it and being able to do more with it this comes and this happens right"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Exactly"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Well let's see what we can do for you here so you can go out into the you know the golf course again now do you tell me do you have any family members with spine conditions"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No I can't recall any family members"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright and do you smoke"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not now I I quit about twenty years ago"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright well alright well I like to do a quick physical exam on you here"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I'm gon na go ahead here I reviewed your vitals and they overall look pretty good so that's a good sign now on your musculoskeletal back exam there is no overlying erythema and that just means redness or ecchymosis and that just means bruising of the skin now there is midline tenderness at l4 l5 disk space with right-sided lumbar paravertebral tenderness so do me a favor and I'm gon na just have you you know bend forward and straighten up a bit"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay that's painful"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Sorry so definitely some pain with lumbar flexion and supine straight leg test is positive so on your neurological examination there is decreased sensation to light touch at the right lateral thigh at l4 dermatome okay and I'm just gon na take a look at your knees here real quick and then your your ankles so patellar and achilles reflexes are symmetrical so good now I reviewed the results of your mri and it shows disk herniation with nerve impingement so let me tell you about my assessment and plan here Larry so for your problem of chronic lumbar back pain so based on your symptoms your exam and reviewing your mri results your symptoms are consistent with an l4 l5 herniated disk with radicul radiculopathy so this means that one of your disks that sits between your spinal vertebrae is bulging out and this bulge is pinching on some nerves and that's why you feel that tingling in your leg so yeah yeah so I am recommending a spinal injection with a strong inflammatory medication called a corticosteroid and what I do is I will inject the corticosteroid into that lumbar spine under fluoroscopy which you can think of you know an x-ray to help localize to the exact area of your pain now this should this should help the inflammation that is causing the pain so what do you think about that"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Is there something I'm gon na have to do all the time"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Well you know patients are different so what we do is we will monitor you and we see how you respond to the injection and the patient's intervals can be different as well but we usually do not do more than four times a year"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright and it's not a long procedure it's it's relatively quick and common and you should be out of the office within an hour"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Alright sounds good"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright well let's go ahead and get you started on the first one today if that works for you if not we'll get you scheduled to start your first injection"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Alright thank you"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright thank you"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Bye"
+    }
+  ]
+}

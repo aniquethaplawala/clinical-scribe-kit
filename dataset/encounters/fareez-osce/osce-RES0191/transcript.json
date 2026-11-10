@@ -1,0 +1,590 @@
+{
+  "encounterId": "osce-RES0191",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How may I help you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hi I'm, I have been having this nasal obstruction and discharge for the past week and it doesn't seem to be going away and it's bothering me so I thought I would get it checked out by you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, for sure. Uhm, could you describe the discharge?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, it's a. It's mostly clear, it doesn't, it doesn't have a color to it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so no yellow, green or or red to indicate any blood?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and you mentioned, so with the obstruction, have you had difficulties breathing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um a little bit, I just need to, and is mostly at night. I just need to shift to one side or the other to like unblock my airways."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I see OK and have you been having any pain on your face? Like I like kind of over your cheeks or over your forehead?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, how about any headaches?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No headaches."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right, have you had any changes or to your sense of smell or any loss of smell?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm no, maybe a little bit, but no, not really. I can still eat. I can still smell like candles and things like that so, maybe go with no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Have you had any changes to your sense of taste?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Have you had any eye redness or or any eye pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any ear pain or ear discharge?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any changes to the vision or hearing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you had a sore throat?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you had a cough?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you had any shortness of breath"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you had any wheezing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And have you coughed up any blood?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and have you had any chest pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you had any lightheadedness or dizziness?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you felt like your hearts beating really fast or racing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you had any fevers or chills?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you had a night sweats?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you had any unexpected weight loss?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you had any loss of appetite?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, nope."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you had any nausea or vomiting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you had any abdominal pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you had any diarrhea or constipation?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you had any painful urination or urinary frequency?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you had any skin rashes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you had any muscle aches or joint pains?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you had any memory loss or confusion?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and how has your energy been? Have you had fatigue or malaise?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Uhm, and have you had any sneezing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Uhm, and, uh, are you healthy? Or, or have you been diagnosed with any medical conditions in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I'm actually pretty healthy."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Have you had any prior surgeries or hospitalizations?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nope."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and any allergies like to any medications or any seasonal allergies? Like do you get symptoms like this that change throughout the year?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK and sorry, no allergies to medications as well?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No allergies to medications."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and do you take any medications regularly, either prescribed or over the counter?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I don't take any medications."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and can you tell me about where you're living currently and who you're living with?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, I live by myself right now. I live in an apartment downtown."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and are you, got working right now or are you going to school or both?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm working right now, but I'm working from home."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, uh, have you been around anybody who's been sick?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No one personally, but I do go to the grocery store and the bank and all the essential things."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I see, OK. Uhm, and have you have you traveled anywhere recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I haven't."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Are you in a relationship?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I am."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Are you sexually active?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I am."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, could you tell me a little bit about your partner or, or partners?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm yeah, so we've been together for the past five years. And yeah, he's the only sexual partner I have."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and do you use condoms or birth control?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Birth control."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Uhm, and any concern for a sexually transmitted infection?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK and you smoke cigarettes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you smoke cannabis or use cannabis products?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, nope."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, how about the use of any recreational drugs?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, do you drink alcohol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I do, I'll have like a glass of wine every day."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And in the family, are there any heart conditions or lung conditions that run in the family?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How about things like diabetes or or high blood pressure?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, I don't think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and uh, are there any cancers in the family?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, there's colon cancer in the family."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and who was that and how old were they?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, my grandfather, he was 55."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Uhm, alright, and so that was everything that I wanted to ask today on history. Was there anything else that I was maybe forgetting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no, I think that was it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so with the prominent symptoms of being nasal discharge and obstruction without fever and without, like changes to smell and also without pain, it's most likely a viral rhinosinusitis. Uhm, however, this could have symptoms that overlap with, with COVID, and so we will still end up doing a swab even though the most likely diagnosis is going to be a viral acute rhinosinusitis."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you have any other questions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No thank you or yeah, thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Thank you."
+    }
+  ]
+}

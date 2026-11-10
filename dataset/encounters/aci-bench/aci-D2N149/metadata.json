@@ -1,0 +1,25 @@
+{
+  "encounterId": "aci-D2N149",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N149",
+  "split": "clinicalnlp_taskC_test2",
+  "collectionMode": "aci",
+  "chiefComplaint": "shortness of breath with hemoptysis",
+  "secondaryComplaints": [
+    "diabetes",
+    "hypertension"
+  ],
+  "patient": {
+    "age": null,
+    "gender": "male"
+  },
+  "turns": 45,
+  "wordCount": 1305,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

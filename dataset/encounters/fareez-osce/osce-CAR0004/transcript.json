@@ -1,0 +1,360 @@
+{
+  "encounterId": "osce-CAR0004",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "What brings you here today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm just having this really sharp pain in my chest and I'm scared. I think I'm having a heart attack."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Oh wow, yeah um that must be really scary. When did this, when did this pain start?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So about 3 days ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Three days ago, OK, and where exactly in your chest do you feel it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's kind of right here, right over my heart I think, that's where it's the worst."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and is it, what kind of pain is it? Is it more like a dull pressure pain, or is it a sharp pain? How would you describe it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I would say it's a sharp pain."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "A sharp pain, OK. Um, so it started three days ago, has it been coming and going or has it been constant?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It just lasts for a few seconds and then it goes away."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, does the pain come on when you're doing any activities or When does the pain usually come on?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Oh, it's usually worse when I'm coughing or laying down. Yeah, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and um, does it improve with any positional changes at all, or anything that you do that does it help?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "When I when I lean forward, it actually does get better. I think about it, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and has this ever happened to you before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no it hasn't."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK and on a scale of 1 to 10, one being the least amount of pain felt and 10 being the worst, how much would you rate it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I would say a 6 out of 10."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and does the pain move anywhere in your chest or does it stay in the same spot?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I think it kind of goes to my neck sometimes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and do you have any other symptoms, like do you have any shortness of breath, dizziness, anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I don't."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK any any palpitations?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Alright, and other than that, have you been having any other symptoms at all besides the pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no, nothing else, that's it, just have these sharp episodes of pain that last a couple of seconds."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, um have you have you tried like any medications that has helped the pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I took some um, I took some Tylenol and that did help."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I took it once yesterday."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, um, any recent injuries to the area like did you have any falls or anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no I haven't."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any headaches, nausea or vomiting, fevers, or chills? Any of those symptoms?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any cough, runny nose, any viral symptoms?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, well not right now, but I did have a, I did have a flu last week. I had a fever, had a runny nose. I did have a bit of a cough and I was feeling super tired, but not anymore. I'm OK now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and have you at all had any dizziness or have you fainted at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Have you been noticing any kind of weakness or numbness?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, OK, and in terms of your past medical history, do you have any medical conditions like diabetes, high blood pressure, any other diagnosis?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No. I'm a pretty healthy 25 year old."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Um, do you take any medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I sometimes take Tylenol."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and any allergies at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and any previous surgeries?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No no, no surgeries."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you have any family history of any heart conditions or any cancers or anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, my father, he he had a heart attack two weeks ago and he and he passed away. And I'm worried I am having a heart attack too."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "It was just two weeks ago?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I'm so sorry to hear that. Yeah, it must be really difficult time for you right now. OK, so you're worried you might be having a heart attack as well?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so we can definitely do some tests and see what was going on. I just have a few more questions and then I'll just get to some of the management and what we will be doing for you in the future. So currently right now do you work at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I'm a student. I, well as a part time job, I do work as a post man."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and where are you a student? What do you do?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm studying engineering at Western."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, and currently where do you live? Do you live in student housing, an apartment or a house?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I live with my parents, well my mom now, in a house."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Right, and you drink at all any alcohol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I drink occasionally, maybe one or two drinks on the weekends."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and any recreational drug use like marijuana or cocaine?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And do you smoke?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, so those are all the questions we had for you today. And yeah, it must be really difficult and scary for you right now, but we'll make sure to get to the bottom of this to see what's going on. So what we can do is get you an ECG to see how your heart is functioning and then see getting the blood work if we need it for the future. But yeah, right now I would say try not to worry too much about it right now and see um what some of those tests come back."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So yeah, you're welcome."
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "encounterId": "aci-D2N024",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Patient is Pamela Cook. Medical record number is 123546. She's a 36-year-old female post bilateral reduction mammoplasty on 10-10 20-20. Hey, how are you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Good. How are you?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I'm doing well. It's good to see you. How have you been?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I've been doing good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Great. How about your breasts, are they doing all right?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Great."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Are you having any chills, fever, nausea, or vomiting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Good. All right. Let's take a peek real quick."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How's life otherwise? Pretty good? Nothing new?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, just enjoying summertime."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. How's your family?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "They're good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Good. All right. I'm going to take a look at your breast now. If you would just open up your gown for me. Everything looks good."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How's your back pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm not really having any more."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any hard spots, lumps, or bumps that you've noticed?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I did when I came in last time when I saw your pa, ruth sanchez in march. She said I, she said she found a lump right here under my left breast, but I haven't felt it since then. But I did the massages."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, well. That that's good. Uh, it's probably just the scar tissue, but everything looks good and you're healing wonderful, so."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I told her that the scars here was kind of bothering me and I got scar gel. I was using it everyday, but I don't think I need it now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, that scar did widen a little bit. Let me take a closer look, hang on. This one widened a little too,? The incisions are well healed though with no signs of infection or any redness on either breast, so I'm not concerned."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, but this one just bothered me a little bit more."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I understand. Um, you can close your gown now. The only thing that is really going to help out that is to uh, to cut it out and re-close it."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": ""
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And you don't want that,?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I mean, not right now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, you want to come back and revisit um, maybe six months?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I will do that. I still haven't, I still have some more of the gel and I can try using that again."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Keep doing that twice a day. The gel is going to lighten the color a little bit, which is already pretty light. Um, but, just in that area, and it's high tension, so it's going to rub a little bit."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, but it kind of bothers me a little bit."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Uh, I do see that. Like I said, the only way to really fix that is to cut it out."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh-."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, let's take a look in six months and then we'll go from there. Sound like a plan?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "But we haven't hit a full year yet."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I know. Um, I wouldn't do any revisions anyway for scar tissue until we're at least a year out anyway."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So let's wait those six months. You can keep using uh, the mederma scar gel twice a day. Massage and scar gel will help for the scars. Um, you can put it on other scars too, if you need."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, so that's what I would do. Let's just get some pictures today so we can keep up um, with them. And keep an eye on these scars and then we'll go from there."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sounds good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right, well it's good to see you. I'm glad you're doing well."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, same here."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. Well, I'm going to tell the front desk six months and we'll revisit those scars."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "All right."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Thank you. They're gon na come get your photos now, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    }
+  ]
+}

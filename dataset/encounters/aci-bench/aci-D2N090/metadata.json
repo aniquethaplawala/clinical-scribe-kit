@@ -1,0 +1,26 @@
+{
+  "encounterId": "aci-D2N090",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N090",
+  "split": "clinicalnlp_taskB_test1",
+  "collectionMode": "virtassist",
+  "chiefComplaint": "ER follow-up ",
+  "secondaryComplaints": [
+    "depression",
+    "type 2 diabetes",
+    "kidney transplant"
+  ],
+  "patient": {
+    "age": 62,
+    "gender": "male"
+  },
+  "turns": 79,
+  "wordCount": 1089,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

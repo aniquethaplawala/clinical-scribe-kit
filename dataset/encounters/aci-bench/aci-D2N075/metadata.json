@@ -1,0 +1,24 @@
+{
+  "encounterId": "aci-D2N075",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N075",
+  "split": "valid",
+  "collectionMode": "virtscribe",
+  "chiefComplaint": "chest pain, suspected esophagitis",
+  "secondaryComplaints": [
+    "anxiety "
+  ],
+  "patient": {
+    "age": 53,
+    "gender": "female "
+  },
+  "turns": 59,
+  "wordCount": 1009,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

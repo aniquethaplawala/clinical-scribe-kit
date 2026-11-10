@@ -1,0 +1,119 @@
+Clinician: What brings you in here today?
+Patient: Hi, I'm um, I'm just, so I am here because I have this cough that I've had for the past um, week and a half, and I'm just uh, I usually don't come in with symptoms this minor, but because it's, because we're in the middle of a pandemic, I thought I should come in and get checked out.
+Clinician: Okay, yeah, so it's been going on for like more than a week. Um, can you describe to me what kind of cough you're having? Is it like a wet cough or a dry cough?
+Patient: It's a dry cough.
+Clinician: Okay, and has it been getting worse over the, over the time period you described?
+Patient: Um, it's kind of the same.
+Clinician: It's the same. Um, have you noticed, although it's like dry, have you brought up any kind of sputum or phlegm at all?
+Patient: Um no, not, not, not recently. But yeah, in the first couple of days, the first two, three days.
+Clinician: Okay, um and have you noticed any kind of yellowish to greenish tinge to it?
+Patient: No, it was watery.
+Clinician: Watery, okay. Have you noticed at all, any blood, have you been coughing up any blood at all?
+Patient: Uh, no.
+Clinician: Okay, and is your cough like constant or does it come and go?
+Patient: Um, kind of comes and goes. There's just times when I'm coughing a lot and then it just goes away.
+Clinician: Okay, and is there a pattern to it? Like, uh, do you cough more when you're exerting yourself or any time, a certain time of the day?
+Patient: Um, it's worse when I'm smoking.
+Clinician: When you're smoking, okay. And uh, how long do those episodes last?
+Patient: Couple of seconds, maybe?
+Clinician: Okay, and has this happened to you before at all?
+Patient: Yeah. I think, um, yeah, I usually don't pay much attention to it. You know, I think must have happened last year or the year before. It just kind of goes away on its own.
+Clinician: Okay, and is there any anything that makes it better or worse?
+Patient: Um, I um, I take this cough syrup, over the counter syrup, that helps.
+Clinician: Okay. And um, have you found that it's been helping over, like, to help improve your cough over the last few days?
+Patient: It goes away for a couple hours and then it comes back.
+Clinician: I see. Does it keep keep you up at night at all?
+Patient: No, no, no.
+Clinician: No, okay. Are you having any other symptoms like shortness of breath, um sore throat, runny nose, anything like that?
+Patient: Uh, I kind of had those symptoms in those first two, three days, but then it went away, and then I only had this cough that stayed.
+Clinician: Okay, okay. And have you been in contact with anyone that's been sick around you at all?
+Patient: Um, my daughter had the sniffles.
+Clinician: When was that?
+Patient: Last, two weeks ago.
+Clinician: Two weeks ago? Okay. And uh, how is she now like, did it just go away on its own, or did she have to go to the doctor?
+Patient: Um, no, it kind of went away on its own.
+Clinician: Okay. Have you traveled at all recently outside of the province or the country?
+Patient: No.
+Clinician: No, okay. And besides the cough, are you having any headaches at all?
+Patient: No.
+Clinician: Any nausea or vomiting?
+Patient: No.
+Clinician: Any fevers or chills?
+Patient: Not anymore.
+Clinician: Not anymore, when was the last time that you had fevers or chills?
+Patient: I think I had like a very, it must have been 37.4, um, in the first, two, three days. But it got better really quickly.
+Clinician: Okay, I see. Any night sweats?
+Patient: No.
+Clinician: No, okay. Any, um, do you feel tired throughout the day?
+Patient: Not anymore.
+Clinician: Not anymore, okay. So any kind of chest pain, or sensation that your heart is racing?
+Patient: No.
+Clinician: No. Any dizziness or fainting spell?
+Patient: No.
+Clinician: Any changes in your bowel movements at all?
+Patient: Um, no.
+Clinician: No, so no constipation, diarrhea?
+Patient: No.
+Clinician: Okay, any changes in your urination?
+Patient: No.
+Clinician: No, okay. Um, have you had to miss work at all or, do you currently work?
+Patient: Yeah, but I've been working from home.
+Clinician: Okay.
+Patient: I didn't have to miss work, so.
+Clinician: Okay. And any changes in your sleep or appetite?
+Patient: No.
+Clinician: Okay, any loss of sense of taste or smell at all?
+Patient: Um, initially, I guess the cough's first few days, my nose was a little stuffy, so yeah, I couldn't smell very well, but since then it's been fine.
+Clinician: Okay, but no loss of taste?
+Patient: No loss of taste, no.
+Clinician: Okay. Uh, any recent significant changes to your weight at all over the last few months?
+Patient: No.
+Clinician: Okay, um, and any exposure in your home environment to dust, fumes? Any animals in the household?
+Patient: No.
+Clinician: Okay. And otherwise, uh, do you have any medical conditions that you've been diagnosed with in the past?
+Patient: Uh no, I'm pretty healthy.
+Clinician: Pretty healthy, okay. Any allergies, either to medications or environmental?
+Patient: Um, I'm allergic to penicillin.
+Clinician: To penicillin, okay. And what kind of reaction do you get to penicillin?
+Patient: Um, I was told that I got a rash when I was a child. I don't really remember.
+Clinician: Okay, and do you take any medications on a regular basis?
+Patient: No.
+Clinician: No, okay. And have you been hospitalized in the past or had any surgeries?
+Patient: Um, I had my appendix removed about um, five years ago.
+Clinician: Five years ago, okay. Any complications at all after that?
+Patient: No.
+Clinician: Okay. Any family history of any lung conditions, heart conditions, any cancers at all?
+Patient: Um, colon cancer.
+Clinician: Colon cancer?
+Patient: Yeah my dad and my grandfather had it.
+Clinician: Okay, um, and have you, have you had any scopes done recently at all?
+Patient: Oh yeah, I had mine done uh, seven years ago.
+Clinician: Seven years ago, okay. And were there any findings at all?
+Patient: No.
+Clinician: No, okay. Um, currently so you work from home, so what's your home and living situation like? Who do you live with, and where, do you live in like a house, appartment?
+Patient: Uh, I live in an apartment with my wife and my daughter.
+Clinician: Okay uh, and uh, do they have any symptoms at all? Or are they, are they fine?
+Patient: Well, my daughter doesn't have any symptoms anymore. She did as I mentioned, have some flu like symptoms 2 weeks ago. My wife's been healthy.
+Clinician: Okay, and uh, does your daughter go to school right now or is she doing school from home?
+Patient: Uh, school from home.
+Clinician: School from home, okay. Um, and do you at all smoke? So you mentioned your symptoms get worse with smoking.
+Patient: Yeah.
+Clinician: Um, how much would you say you smoke on an average day?
+Patient: Um, I don't, I try, I've been trying to cut down, so I, I smoke about 3 or 4 cigarettes a week. I used to smoke a lot more before.
+Clinician: Wow, yeah, that's really good! That's really great progress, um, it's really difficult to quit, but it's great to see that you're trying to quit. Um, so how much would you say you used to smoke?
+Patient: Well, half a pack. Um, half a pack a day, but then over the past three years I've been trying to cut it down. I started smoking when I was 20, so it's been um, 30 years now.
+Clinician: Okay, so 30 years, okay. And um, are you just, are you using anything to help you quit smoking or are you doing it without any medications, or um, like, have you used anything in the past that has worked for you?
+Patient: Um, no I, I went to my doc and he said to try on my own first and if I'm struggling with it to come back, but I've been doing it very gradually so it's, it's going well.
+Clinician: Okay, and that's really good. And yeah, if you, at all, need any resources to help you quit smoking, it's great that you're doing really well, but if you need to talk more about it or need any more resources we can provide that for you. Um, other than uh, smoking cigarettes, do you use any recreational drugs like marijuana at all?
+Patient: No.
+Clinician: No. How about alcohol?
+Patient: Uh, I just drink on the weekends. Maybe a glass or two of wine.
+Clinician: Okay, and uh yeah. So those were kind of all the questions I had for you today. Do you have any questions or concerns?
+Patient: No.
+Clinician: No?
+Patient: I was, I guess I was just worried about the cough um, it's just, I was worried that it could be COVID.
+Clinician: Yeah, so definitely right now, any of these symptoms, like COVID can have a lot of different symptoms um, so we should definitely make sure that we, to check if you have COVID or not and we'll get a COVID swab test done for you today, and the results will come back in 24 to 48 hours. Uh, and in that time, you will need to isolate even in your own home. Try to wear a mask around your family members, um, trying to eat separately and use all those methods, and, and then after the test comes back you may, you'll be contacted by public health if it's positive and kind of given more instruction on what to do. And it doesn't necessarily have to be COVID either, it can be just another virus uh, like it can be just your common cold that's been going on. So it does seem that your symptoms have gotten better. Oftentimes uh, a cough can be the last thing to go, it can take up to two weeks or more for the cough to get relieved, but it seems that you're not having any systemic symptoms like no fevers or anything else right now, so it's, it's uh, that's, that's pretty good.
+Patient: Great, I'm glad.
+Clinician: Alright, yeah.
+Patient: Thank you.
+Clinician: You're welcome. Take care.

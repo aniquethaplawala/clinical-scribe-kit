@@ -1,0 +1,117 @@
+Clinician: What brings you in?
+Patient: Yeah, so I've had this chest tightness and and been short of breath and bringing up sputum with this uh cough.
+Clinician: OK, so um lets start with the cough. When did that start?
+Patient: So I've had a cough now for a few years, um but over this past uh three days it's gotten quite a bit worse.
+Clinician: : OK, for the past three days, three three years. OK.
+Patient: Yeah.
+Clinician: Um are there any triggers for your cough?
+Patient: Uh, yeah, if I'm doing, um, like if I'm really active like if I run to catch the bus or uh or if I'm shovelling snow, maybe I can make, become short of breath, but um not if I'm just walking around the block or anything like that.
+Clinician: OK, and what caused this cough initially three years ago? Do you know?
+Patient: Uh yeah, I think um I think it's just a smokers cough. I think that my family doctor told me I had like chronic bronchitis before.
+Clinician: OK, OK. How often were you coughing before it got worse recently?
+Patient: Uh I would usually cough every day, but the cough would be, usually just in the morning, I I'd get up um, there, I would cough up some sputum and and then maybe, and then I'd usually be OK.
+Clinician: OK, um and does anything make your cough better? Like do you take any over the counter cough syrup?
+Patient: Um yeah, I've tried some over the counter uh cough syrups in the past, but it hasn't helped.
+Clinician: OK, OK, and if you were to talk about the quality of your cough, is it is it barky? Does it sound harsh? What does it sound like?
+Patient: Uh yeah, I would say it sounds pretty harsh. You can kind of, it sounds like there's um mucus moving around, I guess with with the cough in my chest, I can I can kind of feel it
+Clinician: OK, OK and you mentioned that you're producing a lot of sputum with your cough. What colour is that sputum?
+Patient: Greenish
+Clinician: Green, OK. Any blood?
+Patient: No blood.
+Clinician: No blood, OK. And you mentioned, you've never produced sputum with the cough, especially not green sputum in the past three years, right?
+Patient: I would bring up sputum, but it's usually clear and white.
+Clinician: OK, OK, and do you have any wheeziness associated with this cough?
+Patient: Uh, yes I do
+Clinician: Yes, OK. And you mentioned you were short of breath. Were you short of breath prior to your cough or did that start um when when this cough got worse?
+Patient: I think the shortness of breath has gotten a bit worse over the um last few days uh as the cough has gotten worse.
+Clinician: OK, OK. And if you were to rate the severity of your symptoms, of how you're feeling, 1 to 10, 10 being the worst, where would you put yourself at?
+Patient: Uh I would say an 8, it's been really tough, it's been getting really difficult to um breathe.
+Clinician: OK, yeah. And have you ever experienced anything to this severity in the past?
+Patient: No, I haven't had uh this difficulty breathing before.
+Clinician: OK. OK. Um do you have any chest pain?
+Patient: Uh, my chest is, it feels tight.
+Clinician: OK. Uh it feels tight, OK, does that, does it hurt though?
+Patient: Uh no, no, it doesn't really hurt. It's just uncomfortable.
+Clinician: OK. And do you think it's tight because of the coughing or um the shortness of breath?
+Patient: Yeah, I kind of feel it um with the coughing.
+Clinician: OK and have you noticed any swelling in your limbs?
+Patient: Uh yeah, maybe a little bit in my in my feet, more than usual.
+Clinician: OK, and do you feel like your heart's racing?
+Patient: Uh, no.
+Clinician: No, OK. Any dizziness or fainting spells?
+Patient: Uh I haven't had anything like that.
+Clinician: OK. Um any changes to your vision or hearing?
+Patient: No.
+Clinician: No, um, do you have a stuffy nose or runny nose?
+Patient: No.
+Clinician: Um how about a sore throat?
+Patient: No.
+Clinician: No, any changes to your smell or taste?
+Patient: No.
+Clinician: Um any fevers or chills?
+Patient: No, I've felt OK.
+Clinician: OK, any weight loss?
+Patient: Um yeah, maybe I mean over the last few years I've um lost a few pounds, but maybe maybe 10 pounds over the last last couple of years
+Clinician: Last couple of years, OK. Was it intentional weight loss or unintentional?
+Patient: Unintentional.
+Clinician: OK, um alright, and any changes to your hair, nails or skin, like rashes?
+Patient: No, I haven't noticed anything like that.
+Clinician: OK, and how are your bowel movements? Everything normal there?
+Patient: Yeah, that's been normal.
+Clinician: OK, everything normal with regards to your urine?
+Patient: Yeah, that's been normal.
+Clinician: OK. Any confusion or memory loss?
+Patient: No.
+Clinician: No, OK. Any fatigue?
+Patient: Yeah, I've been feeling well, really tired these last three days.
+Clinician: Yeah, OK. Any joint pains or muscle aches?
+Patient: No.
+Clinician: No, OK um and are you otherwise healthy?
+Patient: Um, well, I use uh these inhalers um and I think I've been told I have COPD before.
+Clinician: OK, Um other than your COPD, do you have any other longstanding medical conditions like high blood pressure, diabetes, anything like that?
+Patient: Um yeah I have uh high blood pressure and um I had my gallbladder taken out uh a few years ago.
+Clinician: OK. OK, any other surgeries or hospitalizations?
+Patient: Uh I had an ACL repair like when I was a teenager.
+Clinician: OK, and besides the inhalers, are you on any other medication?
+Patient: Yeah, there's one for blood pressure um and I take vitamin D, um and that's it.
+Clinician: OK, which one, which um medication are you on for the blood pressure?
+Patient: Uh amlodipine.
+Clinician: Amlodipine, OK. When did you start taking that?
+Patient: About uh seven years ago.
+Clinician: OK, and then for your uh COPD, which inhalers are you on?
+Patient: Uh, there's one that's for, um, like short acting. And then there's one that I use everyday, uh Spiriva, I think.
+Clinician: OK, yeah. And how long have you been on these inhalers?
+Patient: Uh it's been a couple of years for well, for the the short one that I I use for rescue therapies been for like a long time, but Spiriva's been the last several years.
+Clinician: OK, OK, and do you find that your inhalers are helping?
+Patient: Yeah. They um, I definitely notice a difference when I, if I miss a dose or something.
+Clinician: Yeah, OK. And um, do you have any allergies?
+Patient: Uh no, I don't think so.
+Clinician: No, OK. How about um immunizations, are you up to date?
+Patient: Yeah, I believe so.
+Clinician: OK. And in terms of family history, uh are there any lung conditions or heart conditions that run in the family?
+Patient: Um, uh no.
+Clinician: No, OK. Um do you currently smoke?
+Patient: Uh I do, yes. I've been trying to quit, I um I smoke about a pack of cigarettes per day now. I used to smoke like 2 packs per day.
+Clinician: OK, well it's it's good that you've cut down, um if you need any additional help cutting down we have resources that we can refer you to.
+Patient: Yeah, that would be great.
+Clinician: Yeah, um how much, for how long have you been smoking? Like how many years?
+Patient: Uh well, I started when I was a teenager, so probably like 35.
+Clinician: OK. Um and do you do any marijuana?
+Patient: Uh no.
+Clinician: No, OK, OK, um how about alcohol? Do you drink alcohol?
+Patient: Yeah, a few beers on the weekend.
+Clinician: OK. Um and then where do you live currently?
+Patient: I live in an apartment by myself.
+Clinician: OK. Um and any reasons to think that there are any old carpets, mold, or um asbestos or anything like that that could be exacerbating your symptoms?
+Patient: Uh I mean I do have a carpet in the bedroom so, but I mean that that's the only carpet in the apartment.
+Clinician: OK. Um and do you live with anyone?
+Patient: No, it's it's just me and my dog.
+Clinician: OK. Uh have you, have you been around any sick contacts recently?
+Patient: Um maybe, I mean I I usually will see uh, a couple of friends, we'll meet up to grab some coffee in the morning in the morning um but I feel like they have been uh OK.
+Clinician: Yeah OK, how about um travel, have you traveled anywhere recently?
+Patient: No.
+Clinician: No, OK. OK, well I think those were all the questions that I had for you. Did you have any questions or concerns or anything that I missed that you wanted to discuss?
+Patient: Um no, I just wanted to, um, yeah, come in because it's been really difficult to breathe.
+Clinician: Yeah, so OK, well we'll do a physical exam on you um to try to understand um how bad your COPD exacerbation is. Um we'll also try to get an um oxygen saturation on you, and we do want that reading to be between 88 to 92%. If it is less than that um and we think you have a mild exacerbation, we'll just suggest that you use your short acting beta agonist puffer um more often, and then if you, if we think you have moderate, um moderate exacerbation we'll also prescribe uh antibiotics and or steroids to go along with the short acting beta agonist. And if it is severe, or if it becomes severe, um please do seek out aid um in the ER and they'll try, they'll probably put you on um uh some sort of, um oxy like um some sort of supplemental oxygen, whether it's BiPAP or CPAP. Um and again they'll continue giving you your bronchodilators and steroids, as well as antibiotics to um make sure that you don't have any bad complications of uh pneumonia. Um and it does sound like it is a COPD exacerbation at this point, but if you develop any other symptoms like um fevers, or any symptoms that overlap with uh viral viral illnesses, we'll we'll we'll work you up for that, we'll do, I think we will still do a covid swab on you just to make sure you don't have that, uh but we'll start with um working you up for COPD. How does that sound?
+Patient: That sounds great. Thank you.
+Clinician: Alright. Take care.

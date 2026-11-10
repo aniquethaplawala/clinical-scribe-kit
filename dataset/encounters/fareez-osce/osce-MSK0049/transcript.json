@@ -1,0 +1,600 @@
+{
+  "encounterId": "osce-MSK0049",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How may I help you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm here because um I've been having some pain in my left knee for the past two months and it's not getting better. It feels stiff and um I just haven't been able to uh, you know, use it as well, as well as I was using it before um and it's just limited some of my daily activities."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, um, and where, uh so it's, the pain is in your left knee. Where are you feeling this pain specifically? Is it at the front of the knee, the sides, or or the the back? Could you point to it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It feels like it's mostly on the front."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Like deep within that um kneecap."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and you said the pain started two months ago?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, well, it's always been a little like tender. Um but now it's more painful."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And so, so has it been getting worse?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I would say so, slowly getting worse."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Uh and when you get uh pain in the left knee, how long does it typically last for?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It usually hurts while I'm doing, while I'm moving it, or just after, but if I if I rest, the pain eventually goes away. Um but when I first wake up in the morning, that joint feels stiff. And then when I start using it, using it more, it's less stiff, but it becomes painful."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so you have some stiffness in the morning?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I do."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and how long does it last for? Like 30 minutes, 60 minutes or or longer?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "The stiffness or pain?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, the the stiffness."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh the stiffness goes away in like yeah 15 to 30 minutes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and how would you describe the pain, um in terms of its character?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It feels, it feels uh, I guess most of the time it's like it's like a dull kind of pain, but it can be sharp."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and is there anything that makes the pain worse?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Just with a lot of activity it gets worse."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And you feel it radiate anywhere else?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and how would you describe the severity of your pain on a scale of 10 being the worst pain you've ever felt, and 1 being kind of very minimal pain."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, I would give it maybe uh 7."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And have you had any injuries to your knee before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, not that I can think of."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, OK. Um and have you been having any uh any weight loss recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no, weight gain."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Weight gain, OK. How much weight have you gained over the last uh several months?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Over the past six months, I'd say I've gained about 20 pounds."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you had changes in your diet and or exercise?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um I guess I've been eating a little bit more, um but no changes in exercise."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Um have you been having any fevers or chills?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, how about any night sweats?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no night sweats."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, um have you had any changes to your vision or hearing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Have you had any changes to your uh sense of smell or sense of taste?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you had a runny nose or or a sore throat?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you had a cough or or any shortness of breath?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, how about any uh wheezing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No wheezing."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, any chest pain or heart palpitations?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright have you had any lightheadedness or dizziness?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, and any confusion or memory loss?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, and have you had any changes in appetite, like a loss of appetite?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no, I, if anything, had a gain in appetite."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, uh have you had any nausea or vomiting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How about any abdominal pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright. Um and how about any urinary problems?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no urinary problems."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um any changes to your bowel habits, like diarrhea or blood in the stool?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, and have you had any rashes or skin changes or changes to your hair or nails?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and any other joint pains? Or have you or do you have any joint swelling?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh I have some joint um swelling. It's it's not very visible, but it's it appears slightly more swollen than my left, sorry, than my right knee."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. So just a little bit of swelling in your left knee, but no other joints?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, um and have you been diagnosed with any medical conditions before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um I have um diabetes, high blood pressure and high cholesterol. And I'm overweight."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, do you take any medications for any of those conditions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm on insulin for diabetes. Um I'm on Ramipril for high blood pressure and I'm also on a statin for the cholesterol."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and do you have any allergies to medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, and uh, have you had any surgeries in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, and um are your immunizations up to date?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, uh, and could you tell me a little bit about your living situation currently, like like who you're living with and whereabouts?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um I live with my husband in a house downtown."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, um and are you working currently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I retired early."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, um do you drink alcohol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um I'll have a glass of wine every night."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so about 7 drinks per week?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and um, do you smoke cigarettes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no, I don't."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, how about the use of any recreational drugs like cannabis or uh or anything else?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright. Um and is there any, uh, like musculoskeletal or like autoimmune conditions that run in the family?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm no musculoskeletal issues uh that, I know diabetes runs in the family."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, um alright, so that was everything I wanted to ask on history. So next I just wanted to do a physical exam, and just looking at the left knee, are you seeing any um swelling or redness uh on the knee?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um it appears slightly more swollen than my right knee."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, but are you seeing any redness?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No redness."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and are there any temperature changes? Like does the knee feel hot or or warm?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and if you um press along the uh joint line, do you feel any pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm yeah, it feels a little tender."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And how about pain over any of the muscles, like the thigh muscles or the hamstrings or the calf muscles?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, those are fine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and then how about any pain over the patella or kneecap?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That that's a little bit more painful."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and are you able to bend your knee uh like like flex it, straighten it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh I can do that, it's just painful when I do that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Um and uh and then how about walking, are you um, do you have an antalgic gait or or or a limp?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm no, no, well, I guess I'm I'm putting more weight on my right knee so it might appear to some people that I do have a slight limp."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And any issues with moving your hip or your ankle?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, um so I think that was everything I wanted to ask and check today. Did did you have any questions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um yeah, so um how do you, how can I treat my knee?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, certainly, so it it sounds like um this could be most likely osteoarthritis um of the left knee, which uh is something that would be best treated with uh trying to stay as active as you can, but but also pacing your activities as well, so that you're not um doing so much that the next day you're in significant amount of pain, but it's important to remember that um activity will help um with keeping your knee mobile, but also um actually help with reducing pain as well, and then also uh you could use Tylenol um as a medication for it. I wouldn't recommend ibuprofen or NSAIDs on a long term basis, although you could take those if you're having like an acute flare up of your pain. Um and then also like topical agents such as um like Voltaren or something like that you could put on your knee and um if it's really bad and it keeps um continuing on, we can consider something like a steroid injection as well."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "OK, yeah, that sounds good. Thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, thank you."
+    }
+  ]
+}

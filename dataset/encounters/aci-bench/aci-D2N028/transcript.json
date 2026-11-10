@@ -1,0 +1,650 @@
+{
+  "encounterId": "aci-D2N028",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Patrick Allen. Date of birth: 7/7/1977. New patient visit. Past medical history includes gerd, anxiety, depression. Here for chronic abdominal pain. He had an abdominal ct on 1/23/2020. Impression is a normal ct of the ab- abdomen. Hello, are you mr. Allen?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, I am."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hi. My name is dr. Edwards. Nice to meet you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nice to meet you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Welcome to the gi specialty clinic."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Did you have any problems finding us?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I've been here with my sister once before."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Good. So how can I help you today? Uh, the referral I have is for abdominal pain and diarrhea."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Right. So I've had... I've been having this pain right here in my stomach, like right around here."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So in the area of your mid abdomen, just below the belly button?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Correct. I've had the pain on and off for about two years. I finally went to the er and a... A few months ago and they did a ct scan."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I saw that."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah. They said they didn't really see anything on the scan."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yes, I agree. It looked normal."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "The problem is I'm either constipated or have explosive diarrhea."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Is the pain there all the time?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's a nagging feeling and it just depends. Sometimes it bothers me, sometimes it doesn't."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Has this been the case over the past two years as well?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "More recently in the past couple months, at least with the constipation and diarrhea."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And before that, how are your bowel movements?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "They were normal."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Uh, okay. So any blood in your stool?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nope."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you feel like you have more constipation or diarrhea?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Probably more constipation."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, so when you're constipated, do you not have a bowel movement or is the stool hard?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I usually don't go, but when I do, it's hard."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And how often do you have a bowel movement when you are constipated?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "About three to four times a week. It's like when I need to go to the bathroom, if I can massage it, it feels like it's moving some and I can eventually go."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And when you have a bowel movement, does the pain change?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, it gets a little better."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And are you eating and drinking okay? Any nausea or vomiting, heartburn or indigestion?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "None of that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. So tell me about the diarrhea, how often do you get it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It kinda just depends on what I eat. I think I have a very sensitive stomach. If I eat pasta with a creamy sauce, I'm probably gon na have diarrhea."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And it doesn't happen for multiple days in a row or is it just one time?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's usually just one time and then it's over."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And how's your weight been? Any fluctuation?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nice and pretty stable, although I could stand to lose about 25 pounds."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And is there any family history of gi issues that you know of?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not that I can think of. Well, actually my sister does have problems with her stomach too. She has irritable bowel syndrome and that is kind of what I always thought I had even thought I've never been diagnosed with it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And is there any family history of gi cancer or liver disease?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nope."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you ever had any surgeries on your abdomen?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I've never had any surgery."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, so your gallbladder, appendix, all those are still intact?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yup."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And have you ever had a colonoscopy?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No. I thought that happen when you turn 50."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Well, that's for colon cancer screening, but there are other reasons to have a colonoscopy, like unexplained abdominal pain and changes in bowel habits."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Well, come have a seat here and lay back so I can examine you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I'm gon na start by listening to your belly with my steth- stethoscope. And I hear bowel sounds in all four quadrants."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "What does that mean? Is everything okay?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "It just means that I can hear little noises in all areas of your belly, which means your bowels are active and working."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So now, I'm going to push on your upper and lower abdomen. Let me know if you have any pain."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It hurts a little when you push right there on the left side, near my belly button."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. I do feel stool in your lower colon, which would coincide with constipation, but I also feel a slight enlargement of your liver here on the upper right side. Have you had any lab work done recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, I have a physical about four months ago and they... I had blood drawn then."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And did your primary care physician say anything about the lab results?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "He said I had some very slightly elevated liver enzymes, but we would recheck them in about six months."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And you remember what enzymes were elevated, alt, ast, alp?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "He said the alt and the ast were elevated."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And do you take any medications, either prescription or over-the-counter?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I take crestor and olmesartan daily and then tylenol for occasion- occasional pain."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And how frequently do you take the tylenol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hardly ever. Maybe once a month."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And do you consume alcohol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, yes, but only a couple of beers after working in the yard on saturdays."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And no previous history of heavy alcohol or drug use?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nope."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And have you had any recent issues with excessive bruising or bleeding?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nope."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And how about any issues with your ankles or feet swelling?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. I'm gon na take a look at your eyes and skin. I don't see any jaundice."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "What would cause that?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Issues with your liver. Let me take a quick listen to your heart and lungs."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Lungs are clear, bilateral heart sounds are normal, no murmurs, gallops, or rubs noted."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That's good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yes. The rest of your physical exam is normal other than what seems to be an increased stool burden in your colon and a slight hepatomegaly."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "What's that?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Increase stool burden means that there's a lot of stool sitting in your colon."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And that's the constipation, right? But what about the other thing?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "The hepatomegaly means the liver is enlarged."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "But you said mine was slightly enlarged?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Correct."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So what does that mean?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Well, let's talk about what we found and then some possible next steps if you're in agreement."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So as I said, the hepatomegaly means your liver is enlarged."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Could that be why my stomach is hurting and I'm having issues with the constipation and diarrhea?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, I think you're constipated and have occasional bouts of diarrhea because of certain foods you eat. And we can get you started right away on a fiber supplement that should help with that."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So what about my liver? Why is it enlarged?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Well, there are many reasons why people can have an elevated liver enzymes and also enlarged liver. Some possible causes are certain medications that can be toxic to liver, alcohol abuse, fatty liver disease, hepatitis, cirrhosis, and other liver diseases like wilson's disease."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So what do I need to do?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Well, I think since it's been about four months since your blood work was done, we should check your liver enzymes in addition to a few other labs."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay. And then what?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "We will get those drawn today and then depending upon the results you may need an ultrasound of your liver. I think we need to talk about your medications too."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Which medications?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Crestor, how long have you been taking that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "About 18 months."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Well, crestor is one of the medications that can cause liver toxicity so it may be a good idea to discuss other alternatives."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Should I talk to my primary care or can you change it?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I would recommend calling your primary care and discuss that with him since he follows you for your blood pressure and cholesterol."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay. I'll call him this afternoon."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Great. I also think we should go ahead and get you scheduled for a liver ultrasound. If your blood work looks good, then we can always cancel that."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay. When do you think I'll be able to get the ultrasound done?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hopefully, within the next two weeks. You will receive a call from the radiology scheduling this afternoon to get it set up."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay. And then what happens?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "When I get the results from the test, I will contact you. And depending upon what we find, we'll come up with our next steps."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And when should I see you again?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Uh, let's schedule an appointment when you check out to return in four weeks. We'll discuss how you're doing with the fiber supplement and your constipation and review test results to determine if we need to do further testing on your liver."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay. Is there anything else I can do to help with these issues?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Definitely refrain from drinking any alcohol, increase your water intake to at least 48 ounces a day in addition to taking the fiber supplement to help with your constipation. And be mindful of eating foods that you were sensitive to so you can avoid the bouts of diarrhea."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay. And I'll talk to my primary care about my crestor."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Excellent. And do you have any other questions for me?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Great. So remember when you check out the front desk, schedule follow-up appointment with me for four weeks and then go to the lab to get your blood work drawn."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay. Sounds good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And expect a call from radiology scheduling about setting up your ultrasound."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "All right. Thanks, dr. Edwards."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Thank you, mr. Allen."
+    }
+  ]
+}

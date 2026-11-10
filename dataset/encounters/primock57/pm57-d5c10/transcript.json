@@ -1,0 +1,778 @@
+{
+  "encounterId": "pm57-d5c10",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 1.14,
+      "end": 8.14,
+      "text": "Hi there. It's Doctor Smith from Babylon. Can you confirm your name, date of birth, and your home address, please?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 8.38,
+      "end": 11.5,
+      "text": "Um, it's [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 16.63,
+      "end": 23.43,
+      "text": "[inaudible] . Um, I can't hear you at the moment actually. Could you turn it up, the, volume up?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 24.35,
+      "end": 26.04,
+      "text": "Uh, can you hear me better now?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 24.55,
+      "end": 28.14,
+      "text": "[inaudible] . Yeah, that's better. Thank you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 27.48,
+      "end": 29.73,
+      "text": "Um, OK. Sorry about that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 29.53,
+      "end": 32.49,
+      "text": "Are you in a private place you can have a consultation?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 32.52,
+      "end": 33.66,
+      "text": "Uh, yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 33.72,
+      "end": 35.57,
+      "text": "What can I do for you today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 35.96,
+      "end": 48.07,
+      "text": "Um, I've been having this, blinding headache for a few days. Um, and it's like, really bothering me and [inaudible] , I find it very hard to focus or, like I can't even go to work."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 48.48,
+      "end": 51.74,
+      "text": "OK, and any headaches in the past before this?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 52.19,
+      "end": 64.6,
+      "text": "Not really just they're, on and off. Um, I recently had a, a one for like two days, um, but it just went away with Ibuprofen, so nothing like, more, longer than two days before."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 64.42,
+      "end": 66.2,
+      "text": "So, how did this start?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 66.8,
+      "end": 81.08,
+      "text": "Um, it just started all of a sudden. I woke up one morning with a headache, and that was three days ago, and I just keep having it. Doesn't really go away with Ibuprofen either, I try that, but it just. It gets a little bit better but like, doesn't go away."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 80.98,
+      "end": 83.71,
+      "text": "OK, and whereabouts in your head is the pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 84.08,
+      "end": 90.32,
+      "text": "Um, it's kind of all over but, I feel like over my right eye, it's um bit, stronger."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 90.68,
+      "end": 96.25,
+      "text": "OK. Any problems with your vision? Or, any problems tolerating the light?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 97.13,
+      "end": 118.94,
+      "text": "Um, lights definitely make me more sensitive. Like, um, I don't really, like strong lights. Um, and um, yeah, vision I think, I get this, shooting light sometimes. Um, not sure how to explain it. Just a bit of um, weird kind of vision."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 120.11,
+      "end": 125.2,
+      "text": "OK, and um, any, any nausea or vomiting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 125.28,
+      "end": 129.18,
+      "text": "Uh, no, feeling a bit sick, but no vomiting."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 129.41,
+      "end": 132.72,
+      "text": "Any tingling? Or numbness? Or weakness anywhere?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 133.41,
+      "end": 134.74,
+      "text": "Um, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 135.18,
+      "end": 138.62,
+      "text": "Any change in your smell or taste?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 139.86,
+      "end": 141.06,
+      "text": "No, none at all."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 141.85,
+      "end": 146.39,
+      "text": "Um, and, in the past, when you've had headaches, what have they been like?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 147.55,
+      "end": 157.94,
+      "text": "Um, I was sick but I had no more headache, it's just um, a bit of a pressure, in between my eyes, um. But nothing major."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 158.35,
+      "end": 163.48,
+      "text": "OK, and, with, with this, has it been there all the time? Or is it coming and going?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 163.92,
+      "end": 174.85,
+      "text": "Kinda all the time. Um, so when I take Ibuprofen it gets a bit better, so it's a bit, like less um, it, it bothered me less, but then I still have it, it's still there."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 175.38,
+      "end": 184.01,
+      "text": "Um, and what would you say, the severity is? If, if ten is the worst pain you've ever had, and zero is nothing, what would you say the pain is like?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 184.3,
+      "end": 189.8,
+      "text": "I guess it's mostly, eight, and then it kinda comes down to maybe a five."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 190.98,
+      "end": 194.23,
+      "text": "OK, and what about at night-time, are you able to fall asleep?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 194.53,
+      "end": 197.2,
+      "text": "Um, yeah, I'm, sleeping well."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 197.13,
+      "end": 199.38,
+      "text": "Is it waking you up in the night-time?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 199.18,
+      "end": 202.37,
+      "text": "No, no, no. But I can wake up with it in the morning."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 202.58,
+      "end": 207.81,
+      "text": "OK. Any worse when you change position, or bend over, or cough, or anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 207.78,
+      "end": 221.52,
+      "text": "Mmm. Sometimes when I stand up, quickly I get a bit of a, stabbing pain. Um, or if I throw my head like, it I kind of feel like something is moving inside."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 221.27,
+      "end": 225.5,
+      "text": "OK. And have you had any, uh, eye checks recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 225.84,
+      "end": 230.4,
+      "text": "Um, yeah, actually had one recently and, nothing changed my vision."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 230.34,
+      "end": 238.91,
+      "text": "OK. And have you had any cold symptoms, sore throat, sore ears, or pain over the sinuses? Any cough or flem?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 236.85,
+      "end": 238.5,
+      "text": "No, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 239.47,
+      "end": 243.91,
+      "text": "No. Any, any nose bleeds, or coughing up any blood or anything?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 244.41,
+      "end": 245.15,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 245.48,
+      "end": 255.58,
+      "text": "And just recently, have you been well, or have you had any general problems? Any change in your weight? Or, tiredness, lack of energy, anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 255.86,
+      "end": 268.14,
+      "text": "Um, no change of weight, maybe um, lack of energy but it might be because, I'm just having these headaches. so I'm find it quite difficult to go through my daily activities [inaudible] , you know when you have this constant headache."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 267.56,
+      "end": 269.62,
+      "text": "Have you been at work recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 269.97,
+      "end": 276.4,
+      "text": "Um, I work from home but, couldn't really manage to, do it all the time. So sometimes I just took a day off."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 277.19,
+      "end": 282.45,
+      "text": "So, you've been, you've had a headache for three days. [inaudible] , how many days have you missed off work?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 282.91,
+      "end": 298.97,
+      "text": "Um, so I worked from home all these three days and, um. First day I worked from home and then, um, the second I just took the whole day off. And, today I just tried to work from home the first half of the day but, I, I just stopped in the morning 'cause, I couldn't focus."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 298.92,
+      "end": 303.81,
+      "text": "OK. And, any other, medical problems in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 304.81,
+      "end": 315.79,
+      "text": "Um, I think I only had a, a [inaudible] pain, um, when I was younger but, no causes found and that went away, but that's, the only thing I know of."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 315.87,
+      "end": 318.43,
+      "text": "OK. Have you been abroad recently at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 318.85,
+      "end": 319.55,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 319.61,
+      "end": 321.48,
+      "text": "Do you take any medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 321.76,
+      "end": 323.27,
+      "text": "Um, just the pill."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 323.71,
+      "end": 324.86,
+      "text": "Which one?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 325.48,
+      "end": 326.86,
+      "text": "Um, [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 327.2,
+      "end": 328.86,
+      "text": "And when did you start that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 329.33,
+      "end": 331.17,
+      "text": "Um, about a year ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 331.18,
+      "end": 333.07,
+      "text": "Any side effects with that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 333.79,
+      "end": 336.46,
+      "text": "Uh, no I don't think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 336.35,
+      "end": 342.23,
+      "text": "Have you noticed any, any um, increased frequency of headaches since you started that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 343.09,
+      "end": 352.29,
+      "text": "Um, no, [inaudible] , these headaches just very recently, but nothing um, [inaudible] but nothing really changes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 352.66,
+      "end": 366.26,
+      "text": "OK. And when you'd [inaudible] , when you've had, when you described your headaches in the past, you said they were just general. Did you have any visual symptoms? Flashing lights? Nausea, vomiting with them?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 361.74,
+      "end": 368.17,
+      "text": "No. No, no. No nothing, none of those."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 367.4,
+      "end": 370.55,
+      "text": "Have you had your blood pressure checked recently with your pill?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 370.79,
+      "end": 375.97,
+      "text": "Um, yeah, I had it checked in the pharmacy when I got the pill, and they say it was normal."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 375.86,
+      "end": 377.04,
+      "text": "And when was that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 377.2,
+      "end": 378.35,
+      "text": "Uh, a year ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 378.71,
+      "end": 382.78,
+      "text": "OK. Um, and any allergies to anything?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 382.89,
+      "end": 383.6,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 384.23,
+      "end": 386.19,
+      "text": "And who do you live with at home?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 386.45,
+      "end": 387.25,
+      "text": "Sorry?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 387.11,
+      "end": 388.67,
+      "text": "Who do you live with at home?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 388.59,
+      "end": 390.09,
+      "text": "Uh, just by myself."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 390.26,
+      "end": 392.56,
+      "text": "OK. And do you smoke?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 392.74,
+      "end": 393.49,
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 393.85,
+      "end": 395.96,
+      "text": "Do you drink any alcohol regularly?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 395.88,
+      "end": 396.49,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 396.87,
+      "end": 398.98,
+      "text": "How much in a normal week do you think?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 399.29,
+      "end": 403.71,
+      "text": "Um, probably like, three [inaudible] , once a week."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 401.97,
+      "end": 407.76,
+      "text": "[inaudible] . OK. And do you take any other drugs at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 408.19,
+      "end": 415.37,
+      "text": "Um, no apart from the Ibuprofen that I take, sometimes when, the headache [inaudible] gets really bad, nothing else."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 414.58,
+      "end": 425.78,
+      "text": "OK. Um. So, uh, I mean it's obviously the first time you've had such a bad headache. And you said you'd had some altered light in front of your eyes as well?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 425.91,
+      "end": 426.72,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 426.56,
+      "end": 429.71,
+      "text": "But you haven't had a high temperature. Have you checked your temperature?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 430.37,
+      "end": 435.25,
+      "text": "Uh, no I didn't, I don't really feel, feverish or anything."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 435.43,
+      "end": 457.04,
+      "text": "OK. Um, I mean it, it, it could possibly be a migraine type headache. But, the fact it's still ongoing for three days, we probably should, book you into an appointment to get an examination. Um, obviously [inaudible] , if it settles, in the meantime then, we can cancel that. But we should do a neurological examination, look at the back of your eyes as well."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 457.19,
+      "end": 458.06,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 458.44,
+      "end": 470.43,
+      "text": "Um, in terms of medication, I can prescribe you something, similar to Ibuprofen, but a bit stronger which you can take instead of Ibuprofen. And you can also take Paracetamol at the same time."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 470.63,
+      "end": 471.51,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 471.86,
+      "end": 490.5,
+      "text": "So if you're happy to book a, [inaudible] , appointment with us, with the support line, for us to do a full examination. And start, the medication which I prescribe to you, take it with food. If, if you're, you said that when you go to bed your headache's, OK, and not waking you up in the night-time."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 490.15,
+      "end": 499.29,
+      "text": "Yeah it's not, um but, you mentioned migraine and that um, reminded that, my mum, suffers from, like she has migraines, um."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 498.24,
+      "end": 501.7,
+      "text": "OK. Any other family history of medical problems?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 501.63,
+      "end": 509.16,
+      "text": "Um, no I think that's it, but I know that my mum like, she has quite bad migraines, she's like, has the vomiting and everything, [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 509.68,
+      "end": 526.43,
+      "text": "OK that's fine. Um, I mean if, if in the meantime before your appointment your, headache is getting unbearable, getting worse or changing. Then [inaudible] , um, if it's that bad, then you should go to A and E and have an examination. Um, [inaudible] , you can call us for further advice on that."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 523.65,
+      "end": 528.06,
+      "text": "OK. Mm-hmm, OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 528.01,
+      "end": 545.06,
+      "text": "And when, when you have a, an examination with us, we'll check your blood pressure as well. Just to, make sure your pill's still appropriate for you, because sometimes if we, if we do think it's a migraine, then you would have to change your pill. If you've had these flashing lights, and things like that."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 536.82,
+      "end": 548.27,
+      "text": "OK, [inaudible] . Is there anything in the pill that can cause it? Or is it?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 548.27,
+      "end": 560.71,
+      "text": "Well [inaudible] , some [inaudible] , so that pill if you were having [inaudible] , regular migraines with um, flashing lights, or [inaudible] , other symptoms. It wouldn't be suitable to stay on that pill, particularly, we'd have to change it to something else."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 561.05,
+      "end": 561.83,
+      "text": "All right."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 562.21,
+      "end": 564.56,
+      "text": "But you can carry on with that for the moment."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 564.75,
+      "end": 565.54,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 566.3,
+      "end": 568.08,
+      "text": "Have you got any other questions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 568.0,
+      "end": 576.51,
+      "text": "Um, so will you like, um, send me a referral to a specialist, or do I have to [inaudible] to confirm?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 573.72,
+      "end": 580.23,
+      "text": "Uh. Yeah, if you book an appointment with the support team, then we can do a full examination then."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 580.28,
+      "end": 582.17,
+      "text": "OK. Perfect."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 582.31,
+      "end": 584.01,
+      "text": "All right then. Take care."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 583.98,
+      "end": 585.15,
+      "text": "Thank you very much."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 584.96,
+      "end": 585.71,
+      "text": "Bye."
+    }
+  ]
+}

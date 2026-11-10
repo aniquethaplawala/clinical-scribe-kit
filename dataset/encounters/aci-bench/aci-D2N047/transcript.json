@@ -1,0 +1,250 @@
+{
+  "encounterId": "aci-D2N047",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hi Billy how are you what's been going on the medical assistant told me that you're having some difficulty urinating"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah yeah I I didn't really wan na come in to talk about it's kinda weird but I think probably over the last six months I'm just not peeing right it just doesn't seem to be normal"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay so let's talk a little bit about that now is your is your stream is your urination stream weak"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I'd probably say so"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and do you feel like you're emptying your bladder fully or do you feel like you still have some urine left in there when you when you finish"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Most of the times I'm okay but sometimes if I stand there long enough I I can kinda go a little bit more so it's taking a while actually to just go to the bathroom"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and are you waking up at night to go to the bathroom does it impact your sleep"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I try to empty my bladder now right before I go to bed and and not drink anything but I'm still probably getting up three or four times a night to go to the bed"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay so you're getting up about three or four times a night and and how long has this been going on you said for about six months"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah six months to like this and it's probably been a little bit worse over the last six months and maybe it's been longer I just didn't want to bring it up"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay so you think it's been going on longer okay alright now how about have you had any burning when you urinate at all"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No it I don't think it burns"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No burning when you urinate okay and and any other any other issues any problems with your bowels any constipation issues"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hmmm no I I I had diarrhea last week but I think I ate something bad"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and ever have you ever had any issues where you had what we call urinary retention where you couldn't pee and you needed to have like a catheter inserted"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "My gosh no"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'll do that"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright and have you ever seen a urologist I don't think so you've been my patient for a while I don't remember ever sending you but have you ever seen one"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't think so"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay now tell me how are you doing with your with your heart when was the last time you saw doctor moore the cardiologist I know that you had the the stent placed in your right coronary artery about what was that twenty eighteen"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah sounds about right I think I just saw him in november he said everything was okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "He said everything was okay alright and so you haven't had any chest pain or shortness of breath you're still walking around doing your activities of daily living are you exercising"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Kind of"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Kind of okay now from what I remember I remember you being a big college football fan are you as excited as I am that georgia beat alabama in the national championships"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah yeah I'm super excited"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You don't really seem that excited"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Get the problem fixed because I have to be able to sit there and watch the whole game"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah I I really don't like nick saving I'm so I'm super happy that that the dogs pulled it out"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't know if we can do friends anymore"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Are you in alabama fan"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Maybe I'm actually originally not from georgia so"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright well I mean I I'm I'm a long horns fan but anyway well I digress let's talk a little bit about your diabetes how are how are you doing with your sugars are you watching your diet"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm trying to yeah I think they are okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and are you still taking the metformin"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yep"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You are okay alright now I wan na go ahead and just move on to a quick physical exam okay I'm gon na be calling out some of my exam findings and I'm gon na let you know what that means when I'm done okay alright I do have to do a rectal exam I apologize I'm just gon na be calling it out what what I what I appreciate okay so on your heart exam I do appreciate a slight three out of six systolic ejection murmur hurt at the left base on your lung exam your lungs are clear to auscultation bilaterally on your abdominal exam your abdomen is nontender and nondistended I don't appreciate any masses or any rebound or guarding on your prostate exam I do appreciate an enlarged prostate I don't appreciate any masses on physical exam so what what does that mean Billy so that ultimately means that you know everything looks good you know you have that little heart murmur which I believe you you've had in the past but we're gon na go ahead and look into that you know your prostate seems a little bit enlarged to me on physical exam so let's talk about how we can go about and and remedy that okay so for your first problem of this you know difficulty urinating I wan na go ahead and just order some routine labs I wan na get a a psa that kind of that ultimately kinda looks for prostate cancer issues which I don't think you have because we didn't really appreciate that on physical exam I wan na go ahead and we can try to start you on what we call flomax zero point four milligrams once a day you should take it at night because it can cause people to get a little bit dizzy if they take it in the morning so I would take it at night and I wan na go ahead and refer you to a urologist just to look into this more so we can go ahead and and get this problem solved for you okay I'm also gon na go ahead and just order some routine blood tests just to make sure that we are not missing anything do you have any questions about that and I wan na go ahead and order a urinalysis and a urine culture"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah so sounds good have you seen that commercial for that super batter prostate stuff does that work"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Well I think the data it's it's I'm not really sure if it works or not I'm not that familiar with it let's just go ahead and stick with flomax and that's why we are gon na refer you to the urologist so that they can go ahead and talk to you about you know the most current treatment options for you okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Alright"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright for your second problem of your coronary artery disease I wan na go ahead and order an echocardiogram just to follow up on that heart murmur that you had and I wan na go ahead and continue you on the lipitor forty milligrams a day and the aspirin and the metoprolol and I wan na go ahead and order a lipid panel any questions about that"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nope"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and then for your third problem of your diabetes it sounds like you're doing really well let's go ahead and continue you on the metformin a thousand milligrams twice a day we will go ahead and order a hemoglobin a1c to see if we need to make any adjustments to that and I'm gon na see you again in about three to four weeks okay I want you to call me or message me in the patient portal if you have any concerns"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Alright when is the urologist gon na call me"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I'm gon na reach out I'm gon na reach out to them now and see if they can get you in this week"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sounds good"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright well great it was good to see you bye I could just hit it and I can just talk and then I'm just"
+    }
+  ]
+}

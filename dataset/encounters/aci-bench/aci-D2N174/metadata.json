@@ -1,0 +1,25 @@
+{
+  "encounterId": "aci-D2N174",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N174",
+  "split": "clef_taskC_test3",
+  "collectionMode": "virtassist",
+  "chiefComplaint": "joint pain",
+  "secondaryComplaints": [
+    "coronary artery disease",
+    "lupus"
+  ],
+  "patient": {
+    "age": 57,
+    "gender": "male"
+  },
+  "turns": 65,
+  "wordCount": 913,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

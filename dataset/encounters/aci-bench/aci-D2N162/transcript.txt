@@ -1,0 +1,49 @@
+Patient: Okay
+Clinician: Hi Gregory hi how are you doing today
+Patient: Good how are you
+Clinician: I'm alright so I understand that you were having some you know right ankle pain and some swelling after you fell can you can you tell me a little bit about what happened
+Patient: Yeah so I was going out to take off the trash and I you know I was icy and I I was being very careful and then I noticed that there must have been a little patch of ice or something because all I know is that I slipped and I was on the ground and I was being really really careful
+Clinician: Okay yeah I know especially this this winter has been rough so you got ta watch for those little ice patches sometimes well okay so this occurred yesterday after falling on the ice so have you been able to walk on it at all
+Patient: When it first happened I couldn't and I actually had a friend who was with me he was she was actually coming to visit and so she had to help me up and so last night I was you know keeping it elevated I was resting it icing it so today it feels a little better like I could put a little bit more weight on it but I'm definitely still limping it it's not my normal
+Clinician: Okay alright and tell me what have you been doing for that foot pain since then
+Patient: You know other than the icing I have taken some ibuprofen and I do feel like it's it it is helping
+Clinician: Okay okay very good alright and tell me have you ever injured this ankle before
+Patient: You know considering I do a lot of sports my favorite right now is soccer or my favorite always is soccer and I've had a lot of injury but I can't remember if I actually injured this ankle I don't think I ever have
+Clinician: Okay alright well good I mean considering how long you've been playing soccer I know you're actually playing for the community league now so that is really great representing the community
+Patient: Yes it's so much fun
+Clinician: Yeah and and do your kids come and watch you play
+Patient: Yeah they come and watch and then now the oldest one is old enough to play himself so they have a leak for four and five -year-olds so he should be starting that soon too so I know he's really gon na enjoy that
+Clinician: That's gon na be exciting for him
+Patient: So much fun
+Clinician: That's a great you had a great soccer league of your own here in your family
+Patient: Yeah my husband's really into soccer too
+Clinician: Yeah
+Patient: Play a lot so
+Clinician: Oh
+Patient: Yeah
+Clinician: Well you I guess you'll be watching it for a while instead of playing it though
+Patient: I well I hope not not for too long
+Clinician: Yeah we'll we'll see what we can do just to get you back out there again okay so tell me have you experienced any kind of numbness in your foot at all
+Patient: No not that no I haven't had any numbness
+Clinician: Okay alright very good well let me go ahead and do a physical exam on you real quick here let me take a look at your vital signs good good everything here looks good lem me go ahead and take a look at your right ankle real quick I'm just gon na pull your pant leg up here and then look look at it now on the skin here there is ecchymosis and that's bruising this bruising Gregory and over the lateral malleolus associated swelling now lem me go ahead and just feel around here how does that feel
+Patient: That hurts
+Clinician: I'm sorry so you definitely there is some tenderness to palpation and anterolaterally in the soft tissue there is no laxity on anterior drawer and inversion stress and there is no bony tenderness on palpation of the foot now I'm just gon na take a look at your right foot here just to make sure it's still intact here so okay good on the neurovascular exam of your right foot your capillary refill is less than three seconds with strong dorsalis pedis pulse and your sensation is intact to light touch so that's good sign now so Gregory I did review the results of your right ankle x-ray and it showed no fracture so that's good so let's go ahead and talk about my assessment and plan so for your problem of right ankle pain what I'm seeing is that your symptoms are consistent with right ankle sprain so what I would like to do is I would like you to keep your leg elevated and especially when you're seated and to continue to ice it okay
+Patient: Okay
+Clinician: Alright and then you're going to also be given an aircast which is really gon na help stabilize the ankle and then you also be given some crutches for the next one to two days and then you may start walking on it as tolerated
+Patient: Okay
+Clinician: Okay
+Patient: Okay
+Clinician: Do you have any questions any other questions for me
+Patient: So when will I will I be able to play
+Clinician: Well let's see now your symptoms should significantly improve in the next two weeks and what I'll do is I'm gon na follow up with you then and then see how you're doing okay and then just please continue to take the nsaids as needed to help with any of that pain that you may have okay
+Patient: Okay
+Clinician: And then we will see in in a few weeks how how if you're ready to go play soccer again okay alright
+Patient: Alrighty
+Clinician: Well do you have any other questions for me or is there anything else I can do for you
+Patient: No I think that's it thank you
+Clinician: Okay well I will have the nurse check you out and then if you experience any kind of symptoms in the next you know before your next visit with me go ahead and feel free to call the clinic okay
+Patient: Okay
+Clinician: Alright alright take care Gregory
+Patient: Alright thank you
+Clinician: Bye
+Patient: Bye

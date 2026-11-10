@@ -1,0 +1,360 @@
+{
+  "encounterId": "aci-D2N142",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Amanda Taylor, birth date october 31st 1949. Patient is a 72 year old woman who comes for followup for hypertension. Her history includes significant alcohol use disorder and mi- mild hypercholesterolemia. At last visit on april 16th her blood pressure was 130 over 90. After presenting at 150 over 100 she was prescribed hydrochlorothiazide 12.5 milligrams by mouth once daily, and lisinopril 20 milligrams by mouth once daily. Cmp and cbc were essentially unremarkable. Hi miss Taylor, how are you today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hi, I'm- I'm good, thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Thanks for coming in today."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, no problem."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So how have things been going for you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, they've been all right. I'm struggling with not drinking. I wanted to discuss that, uh, shot that you had mentioned last time, but we didn't get to discuss it too much."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, well I'll be happy to provide you with more information. So tell me when did you last have a drink?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "On monday."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, so you've gone a couple days without it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, yeah I have."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, and had you been drinking for a while?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yep."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How much had- how much had you been drinking?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, four or five times a week hard alcohol, so, you know."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Well it will certainly help your blood pressure if you're able to stop drinking."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, yeah I- I- I agree with you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Are you taking your blood pressure medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, but I'm only taking half of the lisinopril."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I- b- well, the first time I took it I felt lethargic and tired, so I only took a half dose the next time. I felt much better and I didn't have the headaches or the swooshing that started in my left ear. So I feel like it's definitely helping but I don't know... I know it's not gon na be okay until I stop drinking."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And are you also taking the full dose of the hydrochlorothiazide? Do you have any, um, chest tightness or pressure or any shortness of breath?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I'm taking the full dose of that medicine too, and no none of those symptoms."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Anything else I should be aware of or that we should be checking?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, good. Are you doing the blood pressure checks at home?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes. Yes I am."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay good. What kind of numbers are you seeing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well, in the morning I'm seeing lower numbers than in the evening, um, where I run anywhere from like 130 to 145 or 150 over 95 to 100 on the bottom."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "But in the evenings if I sit there for a while and then take it, it goes down. Kind of like when I come here it's always high but then it goes down. In the mornings it's generally more normal where it's supposed to be."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Uh-."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm, also I'm taking my medicine in the morning when I get up instead of in the evening."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, so it sounds like we are not too far out of where we wan na be."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Right, mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Well let me get a listen to your heart, go ahead and hop up here."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Use my general exam template. All right, go ahead and take some deep breaths. Okay, good. Any fever, cough, shortness of breath or sore throat?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any recent travel or contact or exposure to the coronavirus?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nope."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you received your coronavirus vaccine?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, on february 9th."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, great. All right well I'm just going to look at your ankles and feet, I'm looking for any signs of swelling."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right, well everything looks good. You can go ahead and sit up miss Taylor. All right, so the good news is everything is looking okay. I think we both agree if you were able to stop drinking your blood pressure would cease to be an issue for you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I agree with that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So let us discuss the potential medicine to help you with that. What it does is it blocks some of the brain receptors that alcohol stimulates and it tricks the brain into thinking it does not need alcohol, thereby cutting down the urges."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "The urge to drink or the constant thinking about it?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "It actually will help with both."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay. So is it like a one-time thing?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Generally the shot is given about once a month, it can also be given as a daily pill, but the shot does tend to work a bit better."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I've taken things like this in the past and if it is a pill, I know I won't take it. With a shot, it's not like you can un-take it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah that's true. And the shot has been shown to work, it is more just a matter of getting you in to get your shot a month later with the nurse."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, sure, sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, so it's called naltrexone. I think the other name might be vivitrol. Like I've said, the research on it is pretty good."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I think I may have taken the naltrexone before."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, yeah, maybe you have."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, if it was available in a pill form then I'm almost certain I've tried it b- before."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. If this sounds good though, we can go ahead get you started with the shot. I am looking and it looks like we have you coming back in on may 17th for your first shot, does that sound good?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, yeah, that sounds great. Are there any possible side effects?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, some people will experience some nausea, headache, dizziness, anxi- anxiety, tiredness and trouble sleeping, but generally the side effects are mild and should go away within a few days."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Then we can schedule you for a follow-up in june to see how you are doing."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "All right that sounds good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right great. Well otherwise stay with your current medicines, keep checking your blood pressure, and let's see if we can stop the alcohol for good. Let us know if you have any questions or any issues come up after you receive the first dose."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "All right, sounds good, thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You are welcome, have a good rest of your day."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You too."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Miss Taylor is drinking alcohol four to five days per week to excess. No tobacco, no substance abuse, skin is moist, good trigger. On exam she is alert, pleasant, in no acute distress. She is not diabetic, there is no tremor, no cva tenderness, chest clear to percussion and auscultation, unlabored breathing, cardiac rhythm regular, no murmur, no gallop, jvp flat, with a head at 90 degrees. She does not appear anxious, agitated or depressed. My impression, alcohol use disorder. She would like to start naltrexone which we have previously discussed. She will take the injectable form and start on may 17th. We reviewed side effects and risks. The potential benefit of alcohol cessation would be highly beneficial to her for many reasons. Hypertension, she is taking lisinopril 10 milligrams daily and hydrochlorothiazide 12.5 milligrams daily. Quite possibly her blood pressure will improve completely with cessation of alcohol. Her target bp is 130 to 140 over 70 to 80. I will see her back week of june 14th, which is likely around the time of her second naltrexone injection. I recommend upgrading influenza vaccination and shingrix. Number two, she did defer this."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+Patient: Miss Edwards is here for evaluation of facial pain this is a 54 -year-old male
+Clinician: How're you doing doctor cruz nice to see you today
+Patient: Good to see you mister Edwards I'm doctor
+Clinician: Tell me what's been going on yeah so I've got this stabbing shooting pain I've had for a while you know and it it especially right here in my right face right in that cheek bone area it's sometimes it gets super hot I've had it for I think a couple of months now and I went to my family doctor and they said I should come see you
+Patient: Okay great I would like to ask you a little bit more about that
+Clinician: Had in your face do you remember how long that you had it probably for about two or three months just just came on slowly I started noticing it but now it's I have episodes where just shooting stabbing kind of a pain in my right cheek bone right face area
+Patient: Mm-hmm do you have any sensory loss meaning like numbness or tingling in that part of your face
+Clinician: Not that I've noticed no okay do you have any symptoms like this anywhere else on your face including the other side of your face
+Patient: No it's just on the right side mostly not on the left side just on the right side of my face
+Clinician: Have you noticed any weakness on that side of the face like when you smile or while you're doing other things any weakness there not really I mean I've I've I've tried to you know when I smile my smile seems equal on both sides my eyes I don't have any weakness there my vision seems to be unchanged but just this stabbing severe pain it's just like excruciating pain that I get sometimes does it happen on its own or there are certain things that trigger it
+Patient: Sometimes if I'm if certain temperatures seem to trigger it sometimes or if it's super where it's cold I get a trigger sometimes
+Clinician: Sometimes certain kind of sensory outside of the wind sometimes that seems to trigger it but that's about it
+Patient: Okay and anything that you've done to to that helps for a little bit when you
+Clinician: Pain excess
+Patient: You know I've tried ibuprofen and motrin that had really hasn't helped it just comes on suddenly and then it's kinda stabbing excruciating pain I've tried rubbing some you know some tiger balm on it that didn't work
+Clinician: But that's you know so I I went to my family doctor and he said you know I really need to see a neurosurgeon
+Patient: Got it how long do these episodes last these pain
+Clinician: You know it can last for anywhere from a few minutes to sometimes about an hour but generally generally a few minutes
+Patient: Any history of something like multiple sclerosis or any brain tumors that you know
+Clinician: No nothing like that alright any other kinda headache symptoms that have anything like you had migraines or anything related to the headaches I mean I get occasional headaches but not really I don't have a history of migraines but I occasionally get headaches like everybody else I take some tylenol that usually goes away but this is different
+Patient: How severe is the pain on a scale of one to ten
+Clinician: When it comes on it's like a ten it's like somebody is stabbing you with an ice pick and but usually you know after a few minutes usually it goes away but sometimes it can last up to an hour great so mister I would like to do a physical exam if that's okay with you
+Patient: Sure
+Clinician: I would like you to follow my finger here and I see that you're following my finger in in both directions can you show me your teeth
+Patient: That looks nice and symmetric I'm gon na rub my fingers next to your ear can you hear that
+Clinician: Yep
+Patient: You can hear it on the other side as well
+Clinician: Yep
+Patient: Okay
+Clinician: I'm gon na take this cotton tape and run it along the side of your face can you feel that okay
+Patient: Yeah it's a little bit numb on my right side not so much on my left side
+Clinician: Okay alright I'm gon na use this little needle here and I'm gon na poke here and I wan na see if you feel like it's being sharp or dull on that part of your face does that feel different or normal
+Patient: It feels a little bit dull on my left on my right side my left side it feels sharp
+Clinician: Alright good well I had a chance to look at your mri
+Patient: Okay
+Clinician: And I looked at your mri and it appears to have small blood vessel that is abutting and perhaps even pinching the trigeminal nerve the trigeminal nerve is nerve that comes from the brainstem that goes out to the face and provides the sensory inflammation from the face and you may have a condition called trigeminal neuralgia
+Patient: Okay
+Clinician: Where the nerve compression causes this kind of shooting electrical pain in the face how do we treat it
+Patient: Well the first line would be to try some medications usually we start with medications that are called gabapentin
+Clinician: Or tegretol these are medications that really help reduce the excitability of the nerve
+Patient: Okay
+Clinician: Most people can get the pain control with that but there are some people where the medications aren't gon na be enough and in that situation we would consider surgery I wouldn't I wouldn't recommend that now we usually try the medications first
+Patient: For considering a surgery to decompress the nerve the root cause of the problem is the compression of the blood vessel against the nerve
+Clinician: Okay so we should be tried which one would you recommend the tegretol or yeah I think we could start with the tegretol to start with I just want to make sure that you understand some of the potential side effects that you can have with this
+Patient: Sure
+Clinician: It's always a little bit of trial and error to figure out what the right dosing that would work for you but some common side effects can include you know memory loss tingling imbalance some people can actually have like dermatologic
+Patient: Skin reaction to this medication and particularly people who have eustachian descent so that we may do some genetic testing just to make sure that it will be safe for you
+Clinician: Okay sounds good let's do it
+Patient: Okay so I will prescribe that for you and then we will see how that goes and if your pain continues we can talk about different surgical options to treat the pain
+Clinician: Yeah I think I would like to try the tegretol first and if that doesn't work then I can come back and so once should I come back and just to kinda check back with you and see if you know if it's had enough time for a fact or not
+Patient: I think one month would be a great time to follow up
+Clinician: Okay sounds good so if you want to send that prescription over to my pharmacy that would be fine and then why don't I come back in about a month and we'll go from there
+Patient: Great I'll see you then
+Clinician: Alright

@@ -1,0 +1,390 @@
+{
+  "encounterId": "aci-D2N088",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hi, Andrew. How are you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hey, good to see you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I'm doing well, I'm doing well."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So, I know the nurse told you about Dax. I'd like to tell Dax a little bit about you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Uh, so, Andrew is a 59-year-old male with a past medical history, significant for depression, type two diabetes, and hypertension who presents today with an upper respiratory infection. So, Andrew, what's going on?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah. We were doing a bit of work out in the yard in the last week or so and I started to feel really tired, was short of breath. Um, we- we're not wearing masks as much at the end of the summer and I think I caught my first cold and I think it just got worse."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. Um, now, have you had your covid vaccines?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, both."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. And, um, do you have any history of any seasonal allergies at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "None whatsoever."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. And when you say you're having some shortness of breath, did you feel short of breath walking around or at rest?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, usually, it was lifting or carrying something. We were doing some landscaping, so I was carrying some heavy bags of soil and I, I got really winded. It really surprised me."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And are you coughing up anything?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not yet, but I feel like that's next."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And fevers?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, I felt a little warm, but I, I just thought it was because I was exerting myself."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. And any other symptoms like muscle aches, joint pain, fatigue?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "My elbows hurt quite a bit and my knees were pretty tired. L- like I said, I really felt some tension around my knees, but, uh, I think that was a lot to do with, uh, lifting the bags."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. Um, so, you know, how about, how are you doing in terms of your other medical problems, like your depression? How are you doing with that? I know we've, you know, talked about not putting you on medication for it because you're on medication for other things. What's going on?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I- it's been kind of a crazy year and a half. I was a little concerned about that but, for the most part, I've been, been doing well with it. My, my wife got me into barre classes, to help me relax and I think it's working."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right, great. And, and in terms of your diabetes, how are you doing watching your, your diet and your sugar intake?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, I've been monitoring my sugar levels while I am going to work during the week. Uh, not so, uh, if its saturday or sunday I usually don't remember. Uh, the diet's been pretty good for the most part, except for, you know, some house parties and things like that. But, uh, been good for the most part."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and have they been elevated at all since this episode of your-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And then, how, lastly, for your high blood pressure, have you been monitoring your blood pressures at home? Did you buy the cuff like I suggested?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, same thing. During the while I'm going to work, I'm regular about monitoring it, but if its a saturday or sunday, not so much. But, uh, it's, it's been under control."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "But you're taking your medication?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. Well, you know, I know that, you know, you've endorsed, you know, the shortness of breath and some joint pain. Um, how about any other symptoms? Nausea or vomiting? Diarrhea?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. Well, I wan na go ahead and do a quick physical exam, all right? Hey, dragon, show me the vital signs. So, your vital signs here in the office look quite good."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You know, everything's looking normal, you don't have a fever, which is really good. Um, I'm just gon na go ahead and listen to your heart and your lungs and, kind of, I'll let you know what I hear, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. So, on your physical exam, you know, your heart sounds nice and strong. Your lungs, you do have scattered ronchi bilaterally on your lung exam. Uh, it clears with cough. Um, I do notice a little bit of, um, some edema of your lower extremities and you do have some pain to palpation of your elbows bilaterally. Um, so, let's go ahead, I want to look at some of your results, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey, dragon. Show me the chest x-ray. So, I reviewed the results of your chest x-ray and everything looks good. There's no airspace disease, there's no pneumonia, so that's all very, very good, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey, dragon. Show me the diabetic labs. And here, looking at your diabetic labs, you know, your hemoglobin a1c is a little elevated at eight."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I'd like to see that a little bit better, around six or seven, if possible."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, so let's talk a little bit about my assessment and my plan for you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So, for your first problem, this upper respiratory infection, I believe you, you have a viral syndrome, okay? We'll go ahead and we'll send a covid test, just to make sure that you don't have covid."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Uh, but overall, I think that, um, you know, this will resolve in a couple of days. I don't think you have covid, you don't have any exposures, that type of thing."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So, I think that this will improve. I'll give you some robitussin for your cough and I would encourage you take some ibuprofen, tylenol for any fever, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You got it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "For your next problem, your depression, you know, it sounds like you're doing well with that, but again, I'm happy to start on a med-, a medical regiment or..."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": ". Refer you to psychotherapy, if you think that that would be helpful."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Would you like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "U- u- um, maybe not necessarily. Maybe in a, uh, few months we'll check on that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. For your third problem, your type two diabetes, I want to go ahead and increase your metformin to 1000 milligrams, twice daily."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And I'm gon na get an- another hemoglobin a1c in four months, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey, dragon. Order a hemoglobin a1c. And lastly, for your high blood pressure, it looks like you're doing a really good job managing that. I want to go ahead and continue you on the, um, lisinopril, 20 milligrams a day."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And I'm gon na go ahead and order a lipid panel, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you need a refill of the lisinopril?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Actually, I do."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Hey, dragon. Order lisinopril, 20 milligrams daily. So, the nurse will be in, she'll help you, uh, make a follow-up appointment with me. I want to see you again in about four months."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Let me know if your symptoms worsen and we can talk more about it, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You got it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. Hey, dragon. Finalize the note."
+    }
+  ]
+}

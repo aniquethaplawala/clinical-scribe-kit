@@ -1,0 +1,43 @@
+Clinician: Hi Andrea, how are you?
+Patient: I'm doing well. How are you?
+Clinician: Doing well. Uh, so I know the nurse told you about Dax. I'd like to tell Dax a little bit about you. Okay?
+Patient: Okay.
+Clinician: So, Andrea is a 52-year-old female with a past medical history significant for rheumatoid arthritis, atrial fibrillation, and reflux who presents today for her annual exam. So Andrea, it's been a year since I saw you. How are you doing?
+Patient: I'm doing well. So, I've been walking like you told me to and, um, exercising and doing yoga, and that's actually helped with my arthritis a lot, just the- the constant movement. So, I haven't had any joint pain recently.
+Clinician: Okay. Good. So, no- no issues with any stiffness or pain or flare ups over the last year?
+Patient: No.
+Clinician: Okay. And I know that we have you on the methotrexate, are you still taking that once a week?
+Patient: Yes, I am.
+Clinician: Okay. And any issues with that?
+Patient: No.
+Clinician: No. Okay. And then in terms of your a-fib, how are you doing with that? Are you having any palpitations? Or, I know that you've kind of been in and out of it over the past, you know, year or so.
+Patient: Yeah. I've still been having palpitations. The- the last one I had was about a week ago. I've noticed that when I start to get stressed, um, they start to flare up again. So, I've been trying meditation, trying running with my dog to try and relieve the stress but it hasn't really been working.
+Clinician: Yeah. I- I know that you had called, um, last month and we- we did that event monitor for you, uh, which we'll take a look at in a few minutes. Okay?
+Patient: Okay.
+Clinician: Um, how about um, your reflux? You know, we had placed you on the protonix, uh, has that helped? And I know that you were gon na do some dietary modifications.
+Patient: Yeah. I cut out soda and that- that's helped- seemed to help, and the medication's been helping too. I haven't had a flare up in over, I think, five months.
+Clinician: Okay. All right. Um, so, you know, I know that you did the review of systems sheet when you checked in and, you know, you had- you know, you endorsed the palpitations and you had some nasal congestion. Any other symptoms? You know, chest pain, shortness of breath, nausea or vomiting?
+Patient: No, nothing like that. Just the nasal- nasal congestion because of my allergies.
+Clinician: Okay. All right. Okay. Well, I'd like to go ahead and do a quick physical exam, okay?
+Patient: Okay.
+Clinician: All right. Hey dragon, show me the vital signs. Okay. So, you're in- here in the office today, it looks like, you know, your heart rate's really good today. It's- it's nice and controlled so that's good. Um, I'm just gon na take a look into your heart and lungs and- and I'll let you know what I find. Okay?
+Patient: Okay.
+Clinician: Okay. So, on physical examination, um, you know, everything looks really good. On your heart examination, I do appreciate a slight 2/6 systolic- systolic ejection murmur, um, which we've heard in the past so I'm not worried at that. You're in the- a nice regular rate and rhythm at this time. Your lungs are nice and clear. On your right elbow, I do notice some edema and some erythema. Does it hurt when I press it?
+Patient: Yeah, it does a bit.
+Clinician: Okay. So, she has pain to palpation of the right elbow. Um, and you have no lower extremity edema, okay? Um, so I wan na go ahead and just take a look at some of your results. Okay?
+Patient: Okay.
+Clinician: Hey dragon, show me the event- event monitor results. Okay. So, you know, this is the results of your event monitor which shows that, you know, you're in and out of a-fib, you have what we call a conversion pause. You know, you're in a-fib, you pause, and then you go back to regular rhythm. So, we'll talk about that, okay?
+Patient: Okay.
+Clinician: Hey dragon, show me the autoimmune panel. So, looking here at your autoimmune panel, everything looks good, it looks like you're- you know, everything is well controlled with your rheumatoid arthritis on the methotrexate. Okay? So, let me just go over a little bit about my assessment and my plan for you. Okay?
+Patient: Okay.
+Clinician: So for your first problem, your rheumatoid arthritis, again, everything looks good. I wan na just continue you on the methotrexate 2.5 mg, once weekly. Um, and uh, if you need a referral back to see the rheumatologist, let me know, but I think everything seems stable now. Do you need a refill of the methotrexate?
+Patient: Yes, I do.
+Clinician: Okay. Hey dragon, order methotrexate, 2.5 mg once weekly. For your second problem, the atrial fibrillation. So, you're going in and out of a-fib and I'd like to just keep you in normal sinus rhythm. So, I wan na go ahead and refer you to cardiology for a cardiac ablation which just maps out where that rhythm is coming from and burns it so it doesn't come back. Okay? You're young, we wan na keep you in a normal rhythm and, being that you're going in and out of a-fib, I think that's what we should do. Okay?
+Patient: Okay.
+Clinician: Hey dragon, order a referral to cardiology. And for your last problem, the reflux, you know, I wanna- I want you to just continue on the protonix, 40 mg a day. Continue with your dietary modifications, you know, avoiding coffee and spicy foods, that type of thing. Okay? And then let me know if you have any other issues with that, okay?
+Patient: Will do.
+Clinician: Any questions?
+Patient: No, I don't.
+Clinician: Okay. All right. It was good to see you.
+Patient: Good seeing you.
+Clinician: Hey dragon, finalize the note.

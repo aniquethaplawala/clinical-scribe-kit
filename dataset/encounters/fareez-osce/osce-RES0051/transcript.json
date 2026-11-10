@@ -1,0 +1,555 @@
+{
+  "encounterId": "osce-RES0051",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Would you mind starting with telling me what brought you in?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure I have had this cough for the past five days and it doesn't seem to be getting any better so I'm just here to ask you what it what it possibly could be."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Has the cough been getting any better, staying the same or getting worse over these last five days?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I think it's getting worse."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Are you bringing up any any phlegm?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, are you bringing up any blood?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you been coughing at night time as well? Is it interfering with your sleep? Or is the cough just during the day?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, it is mostly during the day and in the evenings, it doesn't wake me up from sleep."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and any triggers that you've notice 5 days ago or anything that changed at that time to bring on the cough?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, nothing."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And have you been having any other symptoms with the cough?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I have a sore throat and I feel like I can't taste things the same."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, um, are you having any pain with swallowing either liquids or food?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, mostly with foods."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and when did the sore throat start?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It started up around the same time as my cough."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and you can't taste your food as well, and when did you notice that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That was two days ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you noticed any any loss of smell?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no I don't think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and have you had any difficulties breathing or short of breath?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And have you had any symptoms like this before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, nothing like this."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And how has your energy level been? Have you been fatigued?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "A little bit, yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Have you had any changes to your vision or or hearing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any mucous or pain or discharge from either your ears or nose?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so your nose hasn't been runny, but has it felt congested?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "umm, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you had any fevers or chills?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't know about fevers. I guess I was feeling a little bit hot last night, but I didn't take my temperature."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so possibly a fever. I will certainly check your temperature today to investigate that. Have you had any night sweats?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Umm, no night sweats."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright. And have you had any weight loss in the last few months?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And have you had any chest pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No chest pain."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you noticed any heart palpitations or heart racing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Right, OK, have you had any wheezing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright. And have you had any abdominal pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any nausea or vomiting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, how about any urinary problems?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Problems like diarrhea or constipation?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and any muscle aches or or body pains?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you had any rashes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so the cough started 5 days ago, you had a sore throat, you've been feeling a bit more tired and haven't been able to taste your food for the last couple of days."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Have you been diagnosed with any medical conditions before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, no, I don't think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, nothing you see a physician regularly for?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, do you take any medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, do you know if you have any allergies to medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Umm, possibly penicillin."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, do you know what the reaction was?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I think I had a rash."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Are your immunizations up to date?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I think, yeah, I think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Excellent and any surgeries before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Umm, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And have you been in the hospital for any reason?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Umm, no, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And are you in school now?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm in grade 6."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, cool, what's your favorite class?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I would say it's math."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Awesome and has there been anybody in your class who's been sick?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, everything's virtual right now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK cool, so have you traveled anywhere?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Umm, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, and who are you living with?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I live with two of my younger siblings and my mom and dad."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and is there any physical or verbal abuse in the home?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so you do feel safe in the home?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And do you smoke cigarettes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK and I know some people in your age group might even start using other types of substances. Have you noticed anything like that, or have you used anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Umm, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And so do you drink? do you drink alcohol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I have had a sip of wine, but that's that's about it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, great. And has anybody in your family had had similar symptoms?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I don't think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, um and anybody in the family have asthma or lung conditions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I think my aunt has asthma but I was I was checked for asthma when I was younger and it turns out I don't have it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and any diseases that run in the family like genetic or congenital?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I think Crohn's disease."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and umm, who in the family has that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "My father."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so that was everything that I wanted to ask today, was there anything else you wanted to tell me?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, that's it. What do you think I have?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Well, it is sounding like it could be most likely an infectious type of process going on with the possibility of having a fever with a cough and sore throat. So we'll do a physical exam and also some investigations which will include a covid test today. Because some of these symptoms do overlap, but it could be something like the common cold. I don't know the virus that's bringing this on but it's not necessarily covid. But because we're doing the test, it will require 14 days of self isolation. We'll get back to you with the results as quickly as we can."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "OK, sounds great, thank you."
+    }
+  ]
+}

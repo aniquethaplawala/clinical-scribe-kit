@@ -1,0 +1,25 @@
+{
+  "encounterId": "aci-D2N014",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N014",
+  "split": "train",
+  "collectionMode": "virtassist",
+  "chiefComplaint": "ER follow-up",
+  "secondaryComplaints": [
+    "CHF",
+    "hx cataract and skin cancer"
+  ],
+  "patient": {
+    "age": 58,
+    "gender": "male"
+  },
+  "turns": 47,
+  "wordCount": 820,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

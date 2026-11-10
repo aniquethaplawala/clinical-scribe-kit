@@ -1,0 +1,17 @@
+{
+  "encounterId": "osce-RES0065",
+  "source": "Simulated patient-physician medical interviews (Fareez et al.)",
+  "sourceUrl": "https://doi.org/10.6084/m9.figshare.c.5545842.v1",
+  "license": "CC0-1.0",
+  "citation": "fareez2022dataset",
+  "originalId": "RES0065",
+  "setting": "simulated OSCE interview (Canada)",
+  "category": "Respiratory",
+  "audioSource": "figshare Data.zip: Audio Recordings/RES0065.mp3",
+  "turns": 90,
+  "wordCount": 1070,
+  "hasReferenceNote": false,
+  "audioInRepo": false,
+  "hasAudio": true,
+  "simulated": true
+}

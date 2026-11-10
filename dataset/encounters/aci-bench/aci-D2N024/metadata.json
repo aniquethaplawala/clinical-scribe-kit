@@ -1,0 +1,24 @@
+{
+  "encounterId": "aci-D2N024",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N024",
+  "split": "train",
+  "collectionMode": "virtscribe",
+  "chiefComplaint": "follow up on bilateral reduction mammoplasty ",
+  "secondaryComplaints": [
+    "scar tissue"
+  ],
+  "patient": {
+    "age": 36,
+    "gender": "female "
+  },
+  "turns": 48,
+  "wordCount": 604,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

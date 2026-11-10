@@ -1,0 +1,39 @@
+Clinician: And why is she here? Annual exam. Okay. All right. Hi, Sarah. How are you?
+Patient: Good. How are you?
+Clinician: I'm good. Are you ready to get started?
+Patient: Yes, I am.
+Clinician: Okay. So Sarah is a 27-year-old female here for her annual visit. So, Sarah, how have you been since the last time I saw you?
+Patient: I've been doing better. Um, I've been struggling with my depression, um, a bit more just because we've been trapped really inside and remotely over the past year, so I've been struggling, um, off and on with that.
+Clinician: Okay. Uh, and from looking at the notes, it looks like we've had you on, uh, prozac 20 milligrams a day.
+Patient: Yes.
+Clinician: Are, are you taking that?
+Patient: I am taking it. I think it's just a lot has been weighing on me lately.
+Clinician: Okay. Um, and do you feel like you need an increase in your dose, or do you... What are you thinking? Do you think that you just need to deal with some stress or you wan na try a, a different, uh, medication or...
+Patient: I think the, the medication has helped me in the past, and maybe just increasing the dose might help me through this patch.
+Clinician: Okay. All right. And, and what else has been going on with you? I know that you've had this chronic back pain that we've been dealing with. How's that, how's that going?
+Patient: Uh, I've been managing it. It's still, um, here nor there. Just, just keeps, um, it really bothers me when I sit for long periods of time at, at my desk at work. So I have... It helps when I get up and move, but it gets really stiff and it hurts when I sit down for long periods of time.
+Clinician: Okay, and do you get any numbing or tingling down your legs or any pain down leg versus the other?
+Patient: A little bit of numbing, but nothing tingling or hurting down my legs.
+Clinician: Okay, and does the, um, do those symptoms improve when you stand up or change position?
+Patient: Yeah, it does.
+Clinician: Okay. All right. And any weakness in, in your legs?
+Patient: No, no weakness, just, just the weird numbing. Like, it's, like, almost like it's falling asleep on me.
+Clinician: Okay. And are you able to, um, do your activities of daily living? Do you exercise, go to the store, that type of thing?
+Patient: Yeah, I am. It bothers me when I'm on my feet for too long and sitting too long, just the extremes of each end.
+Clinician: Okay. And I know that you've had a coronary artery bypass grafting at the young age of 27, so how's that going?
+Patient: Yeah, I had con- I had a congenital... You know, I had a congenital artery when I was a baby, so, um, they had to do a cabg on me, um, fairly young in life, but I've been... My heart's been doing, doing well, and arteries have been looking good.
+Clinician: Okay. All right, well, let's go ahead and do a quick physical exam. Um, so looking at you, you don't appear in any distress. Um, your neck, there's no thyroid enlargement. Uh, your heart I hear a three out of six, systolic ejection murmur, uh, that's stable. Your lungs otherwise sound clear. Your abdomen is soft, and you do have some pain to palpation of your lumbar spine. Uh, and you've had decreased flexion of your back. Uh, your lower extremity strength is good, and there's no edema. So let's go ahead and look at some of your results. Hey, dragon, show me the ecg. Okay, so that looks basically unchanged from last year, which is really good. Hey, dragon, show me the lumbar spine x-ray. Hey, dragon, show me the back x-ray. Great. So this looks good. That's also stable from last year. Okay. So let's go ahead and, you know, my, my plan for you at this time, you know, from a chronic back pain standpoint, if you need, um, you know, some more physical therapy, and I can refer you to physical therapy to help with those symptoms that are kind of lingering.
+Patient: Mm-hmm.
+Clinician: Um, and we can always give you some pain medication if you, if you get some pain periodically with activity. How do you feel about that? Do you need some pain medication?
+Patient: No, I think physical therapy is the right way to, way to start out on this.
+Clinician: Okay. Hey, dragon, order physical therapy referral. And then in terms of your depression, we talked about increasing your prozac, so we'll increase it from 20 milligrams to 40 milligrams. It's just one tablet once a day.
+Patient: Okay.
+Clinician: Um, and I'll send those to your pharmacy. Does that sound okay?
+Patient: That sounds great.
+Clinician: Hey, dragon, order prozac, 40 milligrams, once a day. And then in terms of your... The heart bypass that you've had... Let's go ahead and just order another echocardiogram for you, and I wan na continue you on the aspirin for now, okay?
+Patient: Okay.
+Clinician: Hey, dragon, order an echocardiogram. Hey, dragon, order aspirin 81 milligrams daily. Okay, so the nurse will come in. She'll help you schedule those things, and we'll go from there, okay?
+Patient: Okay.
+Clinician: All right, take care.
+Patient: Thank you.
+Clinician: Hey, dragon, finalize the note.

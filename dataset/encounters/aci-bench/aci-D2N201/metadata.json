@@ -1,0 +1,22 @@
+{
+  "encounterId": "aci-D2N201",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N201",
+  "split": "clef_taskC_test3",
+  "collectionMode": "aci",
+  "chiefComplaint": "back pain",
+  "secondaryComplaints": [],
+  "patient": {
+    "age": null,
+    "gender": "male"
+  },
+  "turns": 107,
+  "wordCount": 1853,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

@@ -1,0 +1,365 @@
+{
+  "encounterId": "aci-D2N157",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey Jose how are you doing it's been about you know three or four months since I last saw you what's going on"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm doing okay I I guess the medications are helping I'm concerned about all the medications I'm taking but I think I'm doing okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah yeah you are on a fair amount of medications you know we do have you on those medications because you did have a heart attack about six months ago they put that that stent into your left anterior descending artery and so that's a major artery on the left side of your heart and so we need to keep those stents open and and kinda help your heart heal so it is gon na be very important for you to continue on those medications so you're still taking your aspirin and are you still taking the brilinta"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes and and fish oil"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And fish oil okay good now how are you doing with the crestor I know that that's you know that's the statin that's the cholesterol medication you were concerned that it might cause you to have some muscle aches are you taking that"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I I think I'm doing good but I I am I feel like I I when I I guess the only complaint that I have is ever since I I don't know if this is the heart attack or if this this is the the medication but when I stand up real fast I get really dizzy"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You get you get dizzy okay yeah you know we do have you on a what we call a beta-blocker metoprolol I think your dose is fifty milligrams once a day and you know sometimes it takes a little bit for your body to adjust to that but yes if you stand up too quickly it can cause you to be a little dizzy so"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay okay that makes sense okay that's good to know because I didn't know what what what the problem was so can I ask you a question regarding the stents"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yep"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "How long do I have to have that in there"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So the stents are permanent we don't we don't remove them so yep so that's why it's gon na be super important for you you know you're gon na be on aspirin for the rest of your life and then I'm gon na keep you on that brilinta for another six months that's gon na help prevent the that stent from clogging"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay okay do I need to ever replace the stents then"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No I mean every so often the stents can become narrowed again but you know that's why you're seeing me your cardiologist so that I can follow you for that now if you start to have symptoms again of any chest pain like you had before or any shortness of breath when you start to exert yourself I want you to tell me and we might have to go ahead and send you for further testing to make sure that those stents are okay but typically if you continue to take the medication watch your diet that type of thing your stents will will stay open for a long time"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay alright that sounds good you know I haven't I had a I had I know you asked me to follow up with the dietitian because I had diabetes as well which probably contributed to my heart attack"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I may need a new order I don't I I forgot who I was supposed to talk to"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay that's okay yeah I certainly can help you with that now managing your diabetes is also going to play an important role in your coronary artery disease which it sounds like you already know that which is really good so I will put in another referral for diabetic education for you how are you doing watching your sweets I know that you know you do have an afinity for those chocolate chip cookies"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's okay my a1c wasn't where I wanted but my glucose is coming in in about one thirty"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Fasting"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay what was the what was the a1c the hemoglobin a1c if you don't mind me asking"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I thought it was close to sixty"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay yeah that's really high so we want it to be about six so you you do have some work to do with your diet"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah yeah so okay so I know you asked me to do a blood test so I did that I was wondering if you got the results"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I did you know I looked at the results of your kidney function that's what we call your creatinine just because you had some contrast dye and sometimes contrast dye can impact the kidneys and your kidney function is stable which is great when was the last time you saw your nephrologist"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Oh"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "That's your kidney doctor"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm a bad I'm a bad patient so probably a year ago"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay you know you do have the stage three ckd so that's the the stage three kidney disease so it is gon na be important for you to follow up with your nephrologist just to make sure that everything is okay now I did check your kidney function and and it was fine but are you staying away from things like motrin and advil"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Right yeah that's I threw all of those out"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay good okay perfect now I know that you're from the west coast are you super excited that la one the super bowl or are you more of a san francisco forty nine or span"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm a more of a san francisco fan"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So do you like jimmy g do you think he can beat erin rogers again"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay we'll see we'll see what happens but I'm pretty flexible when he comes to you know that is but one thing that since I can't take motrin what pain killer can I take for headaches"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You can take tylenol"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Alright that sounds good"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "This is I I don't think I have any other question the only thing I'm gon na need is a I need some refills on my medications"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah I can do that but I do wan na just do a physical exam on you okay so and looking here at your vital signs here you know your your vital signs look quite good you know your blood pressure is what right where it should be it's about one twenty seven over eighty which is great so you're doing a good job taking your metoprolol now in terms of on your neck exam I don't appreciate any jugular venous distention or carotid bruits on your heart exam I do appreciate a slight three out of six systolic ejection murmur heard at the left base and on your lower extremity exam I do appreciate some one plus nonpitting edema now what does that mean what does that mean Jose so all of that means is that I do hear a little heart murmur on your heart which I've heard before in the past and it doesn't it doesn't look like you're retaining any fluid which is good but you do have a little puffiness in your legs which sometimes some of the medications can cause"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I do have that"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So let's just go over a little bit about my assessment and and plan for you going forward so for your first problem of your coronary artery disease I think you're doing really well I wan na go ahead and refer you for cardiac rehab just so that you can be more active and have some confidence in in exercising again okay and I am gon na go ahead and refill your metoprolol your crestor forty milligrams once a day as well as the aspirin okay I don't think we need to proceed with a a stress test or anything at this time but you know to let me know if you have any symptoms okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay for your"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sounds really good"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Good for your second problem of your stage three chronic kidney disease I am gon na reach out to doctor miller and make an appointment for you to be seen just because again I think it's important for you to follow up with your nephrologist okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And then for your third problem of your diabetes I am gon na go ahead and order another hemoglobin a1c and I'm gon na put that referral in for the dietitian to give you some dietary education and I'm gon na go ahead and talk with your primary care physician about your your insulin regimen okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any questions"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah you know I've been kinda down ever since I had my heart attack is there any medication that I could take to make me feel a little bit less sad"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah I mean are you having any thoughts of of harming yourself or harming others"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No no I just feel kinda down"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You feel kinda down what's your"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Life sucks"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "What well I don't think so what what's your support system like"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You know I I live with my dog and that's it so it's kind of you know lonely"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright well would you be interested in in like a referral to psychiatry or something like that so that you have someone to talk to about some of of issues because medication can help but I do I think it's important to have you know talk some of these things out"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay yeah you know I'll give that a try I mean I'm retiring I got plenty of time"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay so why don't we go ahead and I'm gon na place a referral to psychiatry for you know you know difficulty adjusting after having a heart attack maybe some some mild depression okay does that sound okay okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah that sounds really good thank you"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay you're welcome anything else"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So you will do the medication refill do I so that's automatic"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yep I'm gon na put them into the computer and and whatever pharmacy you want yep mm-hmm"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay alright sounds great thank you"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay you're welcome I'll be in touch bye"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay alright bye-bye"
+    }
+  ]
+}

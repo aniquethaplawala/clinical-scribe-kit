@@ -1,0 +1,514 @@
+{
+  "researchedOn": "2026-11-10",
+  "notes": "Fields set to null are unverified from public sources. 'thirdPartySource' marks claims that come only from non-vendor sites and still need vendor confirmation. CapabilityStatement interaction lists were pulled live on 2026-11-10 from each vendor's public sandbox /metadata endpoint.",
+  "ehrs": [
+    {
+      "key": "epic",
+      "vendor": {
+        "officialName": "Epic Systems Corporation",
+        "products": ["Epic EHR (EpicCare Ambulatory, EpicCare Inpatient)", "Hyperspace / Hyperdrive (clinician desktop client)", "Haiku / Canto (mobile)", "MyChart (patient portal)"],
+        "segment": "both",
+        "marketPosition": "Largest US acute-care EHR vendor: 43.7% of acute-care hospitals and 56.9% of beds in KLAS's report on 2025 decisions. Also #1 in ambulatory at about 19.5% per Definitive Healthcare (Oct 2025).",
+        "marketPositionSource": "https://www.healthcareitnews.com/news/epic-keeps-expanding-its-acute-care-ehr-market-share-us ; https://www.fiercehealthcare.com/health-tech/epic-continues-grow-ehr-market-share-it-makes-gains-small-health-systems ; https://www.definitivehc.com/blog/top-ambulatory-ehr-systems"
+      },
+      "developerProgram": {
+        "name": "Epic on FHIR (fhir.epic.com) + open.epic; Showroom for app listings; Vendor Services for deeper partnerships",
+        "url": "https://fhir.epic.com/",
+        "marketplaceUrl": "https://showroom.epic.com/",
+        "access": "Self-service signup on fhir.epic.com: register an app, pick APIs, get non-production and production client IDs. The specification page says: 'No purchase is necessary to access the specifications or work with an Epic customer that licenses API technology and services.' Production use still needs each Epic customer to enable and configure the app (e.g., from May 2026, customers must manually configure the backend app's JWK Set URL).",
+        "sandboxFree": true,
+        "sandboxUrl": "https://fhir.epic.com/interconnect-fhir-oauth/",
+        "sandboxTestUsers": "Provider test logins FHIR / EpicFhir11! and FHIRTWO / EpicFhir11!; patient test logins e.g. fhircamila / epicepic1 (from the Sandbox Test Data page).",
+        "sources": ["https://fhir.epic.com/Specifications?api=1046", "https://fhir.epic.com/Documentation?docId=testpatients", "https://fhir.epic.com/Documentation?docId=oauth2"]
+      },
+      "fhir": {
+        "versions": ["R4", "STU3", "DSTU2"],
+        "usCoreVersion": "6.1.0 (supportedProfile URLs in the sandbox CapabilityStatement end in |6.1.0; software version 'August 2026')",
+        "baseUrl": "https://{customer-host}/{instance}/api/FHIR/R4/ (per-customer; template shown in Epic specs as https://hostname/instance/api/FHIR/R4/...)",
+        "sandboxBaseUrl": "https://fhir.epic.com/interconnect-fhir-oauth/api/FHIR/R4/",
+        "smart": {
+          "supported": true,
+          "launchTypes": ["EHR launch", "standalone launch", "backend services (SMART Backend Services / client_credentials with JWT)", "Subspace desktop integrations (non-SMART, local HTTP)"],
+          "smartConfigCapabilities": ["launch-ehr", "launch-standalone", "client-public", "client-confidential-symmetric", "client-confidential-asymmetric", "context-ehr-patient", "context-ehr-encounter", "context-standalone-patient", "permission-v1", "permission-v2", "sso-openid-connect", "authorize-post"],
+          "grantTypes": ["authorization_code", "refresh_token", "client_credentials", "urn:ietf:params:oauth:grant-type:jwt-bearer", "urn:ietf:params:oauth:grant-type:token-exchange"]
+        },
+        "oncG10Certified": null,
+        "certificationDetail": "unverified: no Epic or CHPL page was opened that states Epic's (g)(10) certification. The sandbox server claims US Core 6.1.0 profiles, and Epic labels some APIs 'USCDI'.",
+        "sources": ["https://fhir.epic.com/interconnect-fhir-oauth/api/FHIR/R4/metadata", "https://fhir.epic.com/interconnect-fhir-oauth/api/FHIR/R4/.well-known/smart-configuration", "https://fhir.epic.com/Documentation?docId=oauth2", "https://open.epic.com/Interface/FHIR"]
+      },
+      "noteWriteBack": {
+        "supported": true,
+        "viaFhir": true,
+        "mechanism": "FHIR R4 DocumentReference.Create (Clinical Notes). Plain text only, filed to an open or closed encounter. Since Feb 2025 (May 2024 by special update) it can also file to a pre-charting visit, but only as preliminary.",
+        "endpoint": "POST https://hostname/instance/api/FHIR/R4/DocumentReference",
+        "requiredFields": {
+          "resourceType": "DocumentReference",
+          "docStatus": "required; 'preliminary' (Epic marks the note incomplete so a clinician can review/edit and sign) or 'final' (default; maps to 'signed' in Epic). Pre-charting notes must be preliminary.",
+          "status": "optional; only 'current' supported",
+          "type": "required; LOINC (http://loinc.org) or org-specific note type (system urn:oid:<Note Type OID>). Cannot create Discharge Instructions or Patient Instructions note types.",
+          "subject": "required; Patient reference",
+          "content[0].attachment.contentType": "required; must be 'text/plain'",
+          "content[0].attachment.data": "required; base64; 'The decoded content must be plain text; it cannot be RTF or HTML.' Only the first attachment is saved.",
+          "context.encounter": "required; 'This must be a clinical encounter that can hold a note. This encounter must belong to the subject.'",
+          "author": "shown in the example (Practitioner reference); not marked required in the create table",
+          "prefer header": "return=minimal (Location only) or return=representation (Location + body)"
+        },
+        "supportedLoincCodes": [
+          {"code": "18842-5", "display": "Discharge Summary"},
+          {"code": "11488-4", "display": "Consultation"},
+          {"code": "34117-2", "display": "History & Physical"},
+          {"code": "11506-3", "display": "Progress Note"},
+          {"code": "28570-0", "display": "Procedure Note"},
+          {"code": "34111-5", "display": "Emergency Department Note"},
+          {"code": "34746-8", "display": "Nurse Note"}
+        ],
+        "loincNote": "'Epic organizations can map additional LOINC codes to note types as well.'",
+        "quote": "DocumentReference.Create (Clinical Notes) is used to file a plain text clinical note to an open (in progress) encounter or to a closed (finalized) encounter in the patient's chart. ... contentType: Content type. This must be \"text/plain\". ... Documents marked \"preliminary\" are given an incomplete status in Epic so that a clinician can review or edit the document before signing it in Epic.",
+        "quoteUrl": "https://fhir.epic.com/Specifications?api=1046",
+        "firstAvailableVersion": "August 2020 (products: EpicCare Ambulatory Base, EpicCare Inpatient Base)",
+        "alternative": "Epic's spec names the HL7v2 Incoming MDM (Transcriptions) interface as the alternative: it can create rich text notes, interact with In Basket, create encounters on the fly and fuzzy-match encounters."
+      },
+      "discreteWriteBack": {
+        "Condition": {"access": "write", "detail": "Condition.Create (Problems) (R4), POST api/FHIR/R4/Condition. Items go to a holding tank; a provider must reconcile them into the problem list. Duplicate checks run.", "source": "https://fhir.epic.com/Specifications?api=949"},
+        "AllergyIntolerance": {"access": "write", "detail": "AllergyIntolerance.Create (Patient Chart) (R4). Goes to a holding tank until a clinician reconciles it.", "source": "https://fhir.epic.com/Specifications?api=945"},
+        "Observation": {"access": "write", "detail": "Observation.Create (Vital Signs) (R4) files one value to a vitals-mapped flowsheet row. It must match an existing Encounter FHIR ID and cannot write to closed encounters or future appointments. Observation.Create (Flowsheets) (R4) covers other flowsheet rows (api=49210).", "source": "https://fhir.epic.com/Specifications?api=963"},
+        "MedicationRequest": {"access": "read-only (FHIR)", "detail": "Sandbox CapabilityStatement lists only read and search-type. Epic exposes 'CDS Hooks MedicationRequest.Create (Unsigned Order)' for CDS Hooks suggestions only.", "source": "https://fhir.epic.com/interconnect-fhir-oauth/api/FHIR/R4/metadata"},
+        "MedicationStatement": {"access": "read-only", "detail": "Only DSTU2/STU3 Read/Search listed in the API catalog.", "source": "https://open.epic.com/Interface/FHIR"},
+        "ServiceRequest": {"access": "read-only for orders", "detail": "R4 ServiceRequest create/update exists only for External Radiotherapy Summary and Prior Auth. Orders can be suggested as unsigned orders through CDS Hooks ServiceRequest.Create (Unsigned Order).", "source": "https://open.epic.com/Interface/FHIR"},
+        "Encounter": {"access": "read-only", "detail": "Only Encounter.Read/Search listed.", "source": "https://open.epic.com/Interface/FHIR"},
+        "Patient": {"access": "write", "detail": "Patient.Create (Demographics) (R4) with match-or-create logic; backend and clinician users only.", "source": "https://fhir.epic.com/Specifications?api=930"},
+        "note": "From the Epic API catalog on fhir.epic.com (719 APIs on 2026-11-10)."
+      },
+      "proprietaryApis": [
+        {"name": "HL7v2 Incoming MDM (Transcriptions) interface", "relevance": "Rich-text note filing alternative to FHIR create (named in the DocumentReference.Create spec)", "source": "https://fhir.epic.com/Specifications?api=1046"},
+        {"name": "Subspace Communication Framework", "relevance": "Desktop integration: the app calls APIs on the Epic desktop client through a local HTTP server", "source": "https://fhir.epic.com/Documentation?docId=oauth2"},
+        {"name": "CDS Hooks (Condition.Create Encounter Diagnosis/Problems, MedicationRequest/ServiceRequest Unsigned Order)", "relevance": "Suggest diagnoses and unsigned orders back into the clinician workflow", "source": "https://open.epic.com/Interface/FHIR"},
+        {"name": "Observation.Read/Search (SmartData Elements) (R4)", "relevance": "Read discrete SmartData elements filed with notes (DocumentReference context.related can reference them)", "source": "https://fhir.epic.com/Specifications?api=1046"}
+      ],
+      "noteStructureConventions": "Notes are typed by Epic note type. Epic-released note types carry a LOINC code, an org-specific Note Type category (system ending 7.4.737880.5010) and an Epic-released category (urn:oid:1.2.840.114350.1.72.727879.69848980). Organization-specific note types may only have local codings. Notes have statuses (preliminary/incomplete vs signed/final, amended) and can link SmartData Elements, problems and orders through context.related. Read-back content comes as text/html and text/rtf Binary attachments. Section-level conventions (SmartText/SmartPhrase templates) are not documented on the public pages reviewed (unverified).",
+      "noteStructureSources": ["https://fhir.epic.com/Specifications?api=1046"],
+      "ambientScribeIntegrations": [
+        {"name": "Epic Art - AI Charting (native ambient documentation, built with Microsoft Dragon ambient tech)", "detail": "Announced at UGM Aug 2025; broad release reported Feb 2026", "source": "https://www.fiercehealthcare.com/ai-and-machine-learning/epic-rolls-out-ai-charting-and-more-built-automation-clinicians-and"},
+        {"name": "Epic Toolbox - Ambient Voice Recognition category", "detail": "Ambience Healthcare joined in Aug 2025 (Haiku integration per Toolbox Blueprint for Ambient Voice Recognition)", "source": "https://www.fiercehealthcare.com/ai-and-machine-learning/epic-adds-ambience-healthcares-ai-its-toolbox-program"},
+        {"name": "Abridge and Microsoft (Nuance DAX / Dragon Copilot) via Epic Workshop", "detail": "TechTarget reports both as Epic Workshop partners for ambient speech integrations. Their Toolbox status is unverified.", "source": "https://www.techtarget.com/searchHealthIT/news/366614644/EHR-integration-drives-ambient-speech-purchasing-decisions", "thirdPartySource": true}
+      ],
+      "sources": [
+        "https://fhir.epic.com/Specifications?api=1046",
+        "https://fhir.epic.com/Specifications?api=949",
+        "https://fhir.epic.com/Specifications?api=945",
+        "https://fhir.epic.com/Specifications?api=963",
+        "https://fhir.epic.com/Specifications?api=49210",
+        "https://fhir.epic.com/Specifications?api=930",
+        "https://fhir.epic.com/Specifications?api=10050",
+        "https://fhir.epic.com/Documentation?docId=testpatients",
+        "https://fhir.epic.com/Documentation?docId=oauth2",
+        "https://fhir.epic.com/interconnect-fhir-oauth/api/FHIR/R4/metadata",
+        "https://fhir.epic.com/interconnect-fhir-oauth/api/FHIR/R4/.well-known/smart-configuration",
+        "https://open.epic.com/Interface/FHIR",
+        "https://www.healthcareitnews.com/news/epic-keeps-expanding-its-acute-care-ehr-market-share-us",
+        "https://www.fiercehealthcare.com/health-tech/epic-continues-grow-ehr-market-share-it-makes-gains-small-health-systems",
+        "https://www.definitivehc.com/blog/top-ambulatory-ehr-systems",
+        "https://www.fiercehealthcare.com/ai-and-machine-learning/epic-rolls-out-ai-charting-and-more-built-automation-clinicians-and",
+        "https://www.fiercehealthcare.com/ai-and-machine-learning/epic-adds-ambience-healthcares-ai-its-toolbox-program",
+        "https://www.techtarget.com/searchHealthIT/news/366614644/EHR-integration-drives-ambient-speech-purchasing-decisions"
+      ]
+    },
+    {
+      "key": "oracle-health",
+      "vendor": {
+        "officialName": "Oracle Health (formerly Cerner Corporation; acquired by Oracle 2022)",
+        "products": ["Oracle Health Millennium Platform (Cerner Millennium)", "PowerChart (clinician desktop)", "Oracle Health Clinical AI Agent", "Oracle Health Soarian Clinicals (separate API docs)"],
+        "segment": "both (primarily acute)",
+        "marketPosition": "#2 US acute-care EHR: 21.9% of acute-care hospitals and 20.4% of beds in KLAS's report on 2025 decisions (net loss of 56 hospitals; Oracle did not provide new contract data). Definitive Healthcare puts Oracle Cerner at about 5.4% of ambulatory.",
+        "marketPositionSource": "https://www.healthcareitnews.com/news/epic-keeps-expanding-its-acute-care-ehr-market-share-us ; https://www.definitivehc.com/blog/top-ambulatory-ehr-systems"
+      },
+      "developerProgram": {
+        "name": "Oracle Health Millennium Platform APIs (docs.oracle.com) + code Console (app registration) + Oracle Health Developer Forums",
+        "url": "https://docs.oracle.com/en/industries/health/millennium-platform-apis/",
+        "marketplaceUrl": null,
+        "access": "Register apps in code Console (https://code-console.cerner.com/). 'code Console requires a CernerCare account, which you can create upon initial use.' The open sandbox is read-only with no auth. Writes need the secure sandbox after registration. Whether registration is free or needs approval is not stated (unverified).",
+        "sandboxFree": null,
+        "sandboxUrl": "Open (read-only): https://fhir-open.cerner.com/r4/ec2458f2-1e24-41c8-b71b-0e701af7583d ; Secure (read/write, OAuth): https://fhir-ehr-code.cerner.com/r4/ec2458f2-1e24-41c8-b71b-0e701af7583d",
+        "sources": ["https://docs.oracle.com/en/industries/health/millennium-platform-apis/build-smart-on-fhir-apps", "https://docs.oracle.com/en/industries/health/millennium-platform-apis/mfrap/srv_root_url.html"]
+      },
+      "fhir": {
+        "versions": ["R4", "DSTU2 (being retired: 'Develop your application for R4 as DSTU 2 is being retired.')"],
+        "usCoreVersion": null,
+        "usCoreNote": "unverified: the sandbox CapabilityStatement lists US Core profile URLs without a version suffix. An Oct 2025 forum user said the R4 overview cites US Core STU3 (not confirmed).",
+        "baseUrl": "https://fhir-ehr.cerner.com/r4/{tenant-id} pattern (unverified for production; sandbox shown above). Secure sandbox example in docs: https://fhir-ehr-code.cerner.com/r4/ec2458f2-1e24-41c8-b71b-0e701af7583d/DocumentReference",
+        "smart": {
+          "supported": true,
+          "versionsImplemented": ["SMART App Launch 1.0.0 (STU1)", "SMART App Launch 2.0.0 (STU2)", "SMART Backend Services"],
+          "launchTypes": ["EHR launch (PowerChart; 'Some Oracle Health products support the launch feature')", "standalone launch", "system accounts / client_credentials (basic or JWT)", "contextless flow"],
+          "smartConfigCapabilities": ["launch-ehr", "launch-standalone", "client-public", "client-confidential-asymmetric", "client-confidential-symmetric", "context-ehr-patient", "context-ehr-encounter", "permission-v1", "permission-v2", "sso-openid-connect", "authorize-post"],
+          "notes": "Wildcard scopes not supported; aud parameter required; provider and patient personas use different authorize URLs."
+        },
+        "oncG10Certified": true,
+        "certificationDetail": "Oracle's 2025 real-world testing results list 170.315(g)(7),(9),(10) for Oracle Health Millennium (Clinical).",
+        "sources": ["https://docs.oracle.com/en/industries/health/millennium-platform-apis/authorization-framework", "https://fhir-ehr-code.cerner.com/r4/ec2458f2-1e24-41c8-b71b-0e701af7583d/metadata", "https://fhir-ehr-code.cerner.com/r4/ec2458f2-1e24-41c8-b71b-0e701af7583d/.well-known/smart-configuration", "https://www.oracle.com/a/ocom/docs/industries/healthcare/2025-oracle-health-real-world-testing-results.pdf", "https://forums.oracle.com/ords/apexds/post/what-version-of-the-fhir-r4-us-core-profile-is-oracle-using-7937"]
+      },
+      "noteWriteBack": {
+        "supported": true,
+        "viaFhir": true,
+        "mechanism": "FHIR R4 DocumentReference create (Provider or System auth). Base64 inline content; one content entry. Unlike Epic, there is no 'preliminary' option: provider access must send docStatus=final; system access can send final or amended. The secure sandbox CapabilityStatement also lists DocumentReference update.",
+        "endpoint": "POST https://fhir-ehr-code.cerner.com/r4/{tenant}/DocumentReference",
+        "requiredFields": {
+          "resourceType": "DocumentReference",
+          "status": "required; 'Only current is supported.'",
+          "docStatus": "required; 'Only final is supported for provider access. final and amended are supported for system access.'",
+          "type": "required; 'must include a LOINC or a proprietary coding but not both together. Multiple LOINC codings or a single proprietary coding can be provided.' Proprietary system format: https://fhir.cerner.com/<EHR source id>/codeSet/72 (Millennium code set 72).",
+          "subject": "required; Patient reference only",
+          "author": "required for provider access (single author = the authorized provider); optional for system access",
+          "authenticator": "optional; system access only",
+          "content": "required; exactly one entry",
+          "content.attachment.contentType": "required; must include MIME type AND charset. Supported: application/pdf, text/plain;charset=utf-8, text/richtext;charset=utf-8, text/rtf;charset=utf-8, text/html;charset=utf-8, application/xml;charset=utf-8, application/xhtml+xml;charset=utf-8",
+          "content.attachment.data": "required; base64",
+          "context": "required",
+          "context.encounter": "optional; single encounter reference only",
+          "context.period.end": "required (all dates need a time component)"
+        },
+        "supportedLoincCodes": null,
+        "loincNote": "Oracle's R4 create page lists no LOINC note-type value set. It accepts LOINC or code set 72 codes. The DSTU2 example used LOINC 34840-9; the R4 example used code set 72 code 2820507 'Admission Note Physician'.",
+        "quote": "The type must include a LOINC or a proprietary coding but not both together. ... Content type must include a supported MIME type and character set. ... Only final is supported for provider access. final and amended are supported for system access.",
+        "quoteUrl": "https://docs.oracle.com/en/industries/health/millennium-platform-apis/mfrap/op-documentreference-post.html",
+        "dstu2Note": "The legacy DSTU2 create supported only application/xhtml+xml;charset=utf-8 (https://docs.oracle.com/en/industries/health/millennium-platform-apis/mfdap/op-documentreference-post.html).",
+        "knownIssues": "A forum post reports 422 errors when charset was missing from contentType: https://forums.oracle.com/ords/apexds/post/422-unprocessable-entity-while-creating-documentreference-i-9848"
+      },
+      "discreteWriteBack": {
+        "Condition": {"access": "write (create + update)", "detail": "Only category problem-list-item or encounter-diagnosis, one category per resource. encounter-diagnosis requires clinicalStatus active. Provider and System auth.", "source": "https://docs.oracle.com/en/industries/health/millennium-platform-apis/mfrap/op-condition-post.html"},
+        "AllergyIntolerance": {"access": "write (create + update)", "source": "https://docs.oracle.com/en/industries/health/millennium-platform-apis/mfrap/rest-endpoints.html"},
+        "Observation": {"access": "write (create + update)", "detail": "Categories VitalSigns, Laboratory and Imaging (imaging limited to specific LOINC codes); one category on create. Provider and System auth.", "source": "https://docs.oracle.com/en/industries/health/millennium-platform-apis/mfrap/op-observation-post.html"},
+        "MedicationRequest": {"access": "write (create + patch)", "detail": "Secondary 'reported' records only (reportedBoolean must be true), intent order or plan, status active.", "source": "https://docs.oracle.com/en/industries/health/millennium-platform-apis/mfrap/op-medicationrequest-post.html"},
+        "MedicationStatement": {"access": null, "detail": "Not listed in the R4 REST endpoints (unverified as read-only)."},
+        "ServiceRequest": {"access": "read-only", "source": "https://docs.oracle.com/en/industries/health/millennium-platform-apis/mfrap/rest-endpoints.html"},
+        "Encounter": {"access": "write (create + patch)", "source": "https://docs.oracle.com/en/industries/health/millennium-platform-apis/mfrap/rest-endpoints.html"},
+        "Procedure": {"access": "write (create)", "source": "https://docs.oracle.com/en/industries/health/millennium-platform-apis/mfrap/rest-endpoints.html"},
+        "FamilyMemberHistory": {"access": "write (create + update)", "source": "https://docs.oracle.com/en/industries/health/millennium-platform-apis/mfrap/rest-endpoints.html"},
+        "Immunization": {"access": "write (create + update)", "source": "https://docs.oracle.com/en/industries/health/millennium-platform-apis/mfrap/rest-endpoints.html"},
+        "DiagnosticReport": {"access": "write (create)", "source": "https://docs.oracle.com/en/industries/health/millennium-platform-apis/mfrap/rest-endpoints.html"},
+        "note": "Writes only work on the secure (authenticated) endpoint. The open sandbox CapabilityStatement shows read/search only."
+      },
+      "proprietaryApis": [
+        {"name": "FHIR Bundle batch/transaction (POST /)", "relevance": "Submit several writes in one call", "source": "https://docs.oracle.com/en/industries/health/millennium-platform-apis/mfrap/rest-endpoints.html"},
+        {"name": "MPages components / PowerChart TOC launch points", "relevance": "Where SMART apps embed in PowerChart", "source": "https://docs.oracle.com/en/industries/health/millennium-platform-apis/build-smart-on-fhir-apps"}
+      ],
+      "noteStructureConventions": "Millennium document types come from Millennium Code Set 72 (event codes), referenced in FHIR as https://fhir.cerner.com/<EHR source id>/codeSet/72. Each health system has its own codes (e.g., 2820507 'Admission Note Physician' in the sandbox), so a mapping table per tenant is needed. Section-level conventions (e.g., PowerNote/Dynamic Documentation sections) are not described on the public pages reviewed (unverified).",
+      "noteStructureSources": ["https://docs.oracle.com/en/industries/health/millennium-platform-apis/mfrap/op-documentreference-post.html"],
+      "ambientScribeIntegrations": [
+        {"name": "Oracle Health Clinical AI Agent (native ambient note generation)", "detail": "Order drafting from ambient listening added Feb 2026; Oracle reports note generation expanded to inpatient/ED (HIMSS26) and coding/dictation added Aug 2026", "source": "https://www.oracle.com/news/announcement/oracle-health-adds-order-creation-capabilities-to-clinical-ai-agent-2026-02-02/"},
+        {"name": "Third-party ambient partner program", "detail": null, "source": null, "note": "unverified: no Oracle-published third-party ambient partner program was found"}
+      ],
+      "sources": [
+        "https://docs.oracle.com/en/industries/health/millennium-platform-apis/",
+        "https://docs.oracle.com/en/industries/health/millennium-platform-apis/mfrap/op-documentreference-post.html",
+        "https://docs.oracle.com/en/industries/health/millennium-platform-apis/mfdap/op-documentreference-post.html",
+        "https://docs.oracle.com/en/industries/health/millennium-platform-apis/mfrap/rest-endpoints.html",
+        "https://docs.oracle.com/en/industries/health/millennium-platform-apis/mfrap/op-condition-post.html",
+        "https://docs.oracle.com/en/industries/health/millennium-platform-apis/mfrap/op-observation-post.html",
+        "https://docs.oracle.com/en/industries/health/millennium-platform-apis/mfrap/op-medicationrequest-post.html",
+        "https://docs.oracle.com/en/industries/health/millennium-platform-apis/build-smart-on-fhir-apps",
+        "https://docs.oracle.com/en/industries/health/millennium-platform-apis/authorization-framework",
+        "https://docs.oracle.com/en/industries/health/millennium-platform-apis/mfrap/srv_root_url.html",
+        "https://fhir-open.cerner.com/r4/ec2458f2-1e24-41c8-b71b-0e701af7583d/metadata",
+        "https://fhir-ehr-code.cerner.com/r4/ec2458f2-1e24-41c8-b71b-0e701af7583d/metadata",
+        "https://fhir-ehr-code.cerner.com/r4/ec2458f2-1e24-41c8-b71b-0e701af7583d/.well-known/smart-configuration",
+        "https://www.oracle.com/a/ocom/docs/industries/healthcare/2025-oracle-health-real-world-testing-results.pdf",
+        "https://forums.oracle.com/ords/apexds/post/422-unprocessable-entity-while-creating-documentreference-i-9848",
+        "https://forums.oracle.com/ords/apexds/post/what-version-of-the-fhir-r4-us-core-profile-is-oracle-using-7937",
+        "https://www.oracle.com/news/announcement/oracle-health-adds-order-creation-capabilities-to-clinical-ai-agent-2026-02-02/",
+        "https://www.healthcareitnews.com/news/epic-keeps-expanding-its-acute-care-ehr-market-share-us",
+        "https://www.definitivehc.com/blog/top-ambulatory-ehr-systems"
+      ]
+    },
+    {
+      "key": "meditech",
+      "vendor": {
+        "officialName": "Medical Information Technology, Inc. (MEDITECH)",
+        "products": ["MEDITECH Expanse", "Expanse Now (mobile)", "legacy platforms (MAGIC, Client/Server, 6.x)"],
+        "segment": "both (primarily acute / community hospitals)",
+        "marketPosition": "#3 US acute-care EHR: 14.7% of acute-care hospitals and 12.5% of beds in KLAS's report on 2025 decisions. Per Becker's, it leads among standalone hospitals with 26-200 beds.",
+        "marketPositionSource": "https://www.healthcareitnews.com/news/epic-keeps-expanding-its-acute-care-ehr-market-share-us ; https://www.beckershospitalreview.com/healthcare-information-technology/ehrs/hospital-ehr-market-share-leaders-in-2025-by-category/"
+      },
+      "developerProgram": {
+        "name": "Greenfield Workspace (developer testing environment + interactive API docs) and the MEDITECH Alliance (partner program with Innovator / Accelerator / Collaborator tiers)",
+        "url": "https://ehr.meditech.com/meditech-greenfield",
+        "marketplaceUrl": "https://ehr.meditech.com/ehr-solutions/meditech-alliance",
+        "access": "Register through the Greenfield registration form, then get credentials and endpoints. Production access is per hospital: 'Developers wishing to leverage the Patient Data APIs in an application must contact the hospital's System Administrator' to configure client id/secret/redirect URI. 'MEDITECH doesn't grant access to specific applications.' Whether registration is free is not stated (unverified).",
+        "sandboxFree": null,
+        "sandboxUrl": "https://greenfield.meditech.com/ (portal); example dev server in docs: https://devmtx-restapis-stable.meditech.com:443/v2/uscore/STU7/",
+        "registrationUrl": "https://gf-ifiller.meditech.com/iFiller/iFiller.jsp?fref=ab6de264-240a-4754-8ede-2b72dafb8272",
+        "endpointList": "https://greenfield.meditech.com/explorer/endpoints",
+        "sources": ["https://ehr.meditech.com/meditech-greenfield", "https://ehr.meditech.com/ehr-solutions/greenfield-resources", "https://greenfield.meditech.com/explorer/topic/USCore-STU7"]
+      },
+      "fhir": {
+        "versions": ["R4", "DSTU2"],
+        "usCoreVersion": "Implementations for US Core STU3, STU4, STU6 and STU7 are published. STU7 (7.0.0) paths: https://[subdomain]/v1/uscore/STU7 and https://[subdomain]/v2/uscore/STU7 (USCDI v3)",
+        "baseUrl": "https://{hospital-subdomain}/v2/uscore/STU7/ (per hospital; listed at https://greenfield.meditech.com/explorer/endpoints)",
+        "smart": {
+          "supported": true,
+          "launchTypes": ["SMART EHR launch", "SMART standalone launch", "Authorization Code (non-SMART)", "Backend Services (system-to-system; Private Key JWT required for SMART Backend Services)"],
+          "notes": "PKCE required for public clients. Patient apps authenticate through external OpenID Connect IdPs (tested with Google Identity); patient-identity linking is manual by hospital staff."
+        },
+        "oncG10Certified": true,
+        "certificationDetail": "MEDITECH real-world testing reports on home.meditech.com cite 170.315(g)(7), (g)(9), (g)(10) (2025 report). Third-party sources say Expanse 2.2 is certified on US Core 6.1.0 / SMART 2.0.0 (unverified from MEDITECH).",
+        "sources": ["https://greenfield.meditech.com/explorer/topic/USCore-patient-health-data", "https://greenfield.meditech.com/explorer/topic/USCore-STU7", "https://greenfield.meditech.com/explorer/topic/authorization-flows", "https://home.meditech.com/en/d/regulatoryresources/otherfiles/2025meditechrealworldtestingresultsreport.pdf"]
+      },
+      "noteWriteBack": {
+        "supported": true,
+        "viaFhir": true,
+        "mechanism": "Two documented paths in the Greenfield US Core STU7 API docs. (1) Section-level narrative: POST Observation with the EHR-specific 'document' category writes text into a section of an in-process document, identified by the HPI/ROS/PE/A&P LOINC code. It returns 202 Accepted and is held until the applicable user reviews and approves it. (2) Whole-document: POST DocumentReference is listed ('This method allows for storage of a DocumentReference resource. The body should be DocumentReference resource and the id will be missing from the resource.'), with scopes user/DocumentReference.write and patient/DocumentReference.write. Required fields and content types for (2) are not documented on the public page (unverified). Note: MEDITECH's marketing page still calls the US Core APIs 'view-only'. Suki markets its integration as using 'MEDITECH Expanse Documentation APIs'.",
+        "endpoint": "POST https://{host}/v2/uscore/STU7/Observation (section text) ; POST https://{host}/v2/uscore/STU7/DocumentReference (document storage)",
+        "requiredFields": {
+          "Observation (Documentation Text)": {
+            "subject": "must be provided with the applicable Patient reference",
+            "encounter": "must be provided with the applicable Encounter reference",
+            "category": "must include {\"coding\": {\"code\": \"document\", \"system\": \"https://{{host}}/identifier/observation-category\"}}",
+            "focus": "Identifier-based reference to the in-process document: {\"identifier\": {\"value\": \"{{identifier for the document}}\", \"system\": \"https://{{host}}/identifier/document\"}}",
+            "code": "LOINC: 10164-2 HPI Narrative - Reported; 10187-3 ROS Narrative - Reported; 29545-1 Physical Findings - Narrative; 51847-2 Assessment/Plan",
+            "performer": "conditionally required if the Practitioner can't be determined from the auth context",
+            "response": "202 Accepted; Content-Location header gives the expected future Observation ID"
+          },
+          "DocumentReference": null
+        },
+        "supportedLoincCodes": [
+          {"code": "10164-2", "display": "HPI Narrative - Reported", "use": "Observation.code for section text"},
+          {"code": "10187-3", "display": "ROS Narrative - Reported", "use": "Observation.code for section text"},
+          {"code": "29545-1", "display": "Physical Findings - Narrative", "use": "Observation.code for section text"},
+          {"code": "51847-2", "display": "Assessment/Plan", "use": "Observation.code for section text"}
+        ],
+        "quote": "If the data is accepted, a 202 status code will be returned; acknowledging acceptance of the data. The Observation instance will not be immediately available; as it must first be reviewed and approved by the applicable user. ... Since in-process documentation is not currently available via FHIR APIs, an EHR specific Identifier value is used for referencing the documentation that the text is relevant to",
+        "quoteUrl": "https://greenfield.meditech.com/explorer/api/uscore.STU7.Observation/2",
+        "documentReferenceQuoteUrl": "https://greenfield.meditech.com/explorer/api/uscore.STU7.DocumentReference/2",
+        "openQuestion": "How a third party gets the in-process document identifier (the focus) is not explained on the public page (unverified)."
+      },
+      "discreteWriteBack": {
+        "Condition": {"access": "read-only", "detail": "Greenfield page lists only GET; scopes are read-only.", "source": "https://greenfield.meditech.com/explorer/api/uscore.STU7.Condition/2"},
+        "AllergyIntolerance": {"access": "read-only", "detail": "Only GET listed in the STU7 API list.", "source": "https://greenfield.meditech.com/explorer/topic/USCore-STU7"},
+        "Observation": {"access": "write (limited)", "detail": "POST supports only Documentation Text, Excessive Radiation (CT dose, LOINC 96914-7) and Device Vital Signs (device-read vitals, which must match a Device known to the EHR). It does not accept general clinician-entered vitals.", "source": "https://greenfield.meditech.com/explorer/api/uscore.STU7.Observation/2"},
+        "MedicationRequest": {"access": "read-only", "source": "https://greenfield.meditech.com/explorer/topic/USCore-STU7"},
+        "MedicationStatement": {"access": null, "detail": "Not in the STU7 API list."},
+        "ServiceRequest": {"access": "read-only", "source": "https://greenfield.meditech.com/explorer/topic/USCore-STU7"},
+        "Encounter": {"access": "read-only", "source": "https://greenfield.meditech.com/explorer/topic/USCore-STU7"},
+        "Communication": {"access": "write (POST listed)", "detail": "POST method shown; payload rules not reviewed.", "source": "https://greenfield.meditech.com/explorer/topic/USCore-STU7"},
+        "QuestionnaireResponse": {"access": "write (POST listed)", "detail": "POST method shown; payload rules not reviewed.", "source": "https://greenfield.meditech.com/explorer/topic/USCore-STU7"},
+        "note": "Read-only status comes from Greenfield API pages that show only a GET method. Condition was checked directly. Other read-only entries assume the same layout and were not opened one by one."
+      },
+      "proprietaryApis": [
+        {"name": "FHIR Scheduling APIs (Patient Based Scheduling)", "relevance": "Not note-related; user and patient workflows for Expanse customers", "source": "https://ehr.meditech.com/meditech-greenfield"},
+        {"name": "Outbound HL7 v2 interfaces", "relevance": "Outbound only; listed for Greenfield developers", "source": "https://ehr.meditech.com/hl7-outbound-list-for-greenfield"},
+        {"name": "'MEDITECH Expanse Documentation APIs' (as named by Suki)", "relevance": "Ambient note delivery into Expanse. Not confirmed whether this is the FHIR Observation/DocumentReference path above or a separate partner API", "source": "https://www.suki.ai/news/suki-becomes-first-to-integrate-ambient-ai-with-meditech-expanse-documentation-apis/", "thirdPartySource": true}
+      ],
+      "noteStructureConventions": "The documentation-text write path targets four narrative sections of an in-process document by LOINC: HPI (10164-2), ROS (10187-3), Physical Findings (29545-1), Assessment/Plan (51847-2). Read-back DocumentReferences use US Core LOINC types (e.g., 34117-2 History and physical note in the sample), category clinical-note, text/plain content, plus facilityType and practiceSetting in context.",
+      "noteStructureSources": ["https://greenfield.meditech.com/explorer/api/uscore.STU7.Observation/2", "https://greenfield.meditech.com/explorer/api/uscore.STU7.DocumentReference/2"],
+      "ambientScribeIntegrations": [
+        {"name": "Suki", "detail": "First partnership Sept 2024; Jul 1 2025 expansion so 'notes flow directly into Expanse' with no copy/paste, plus dictation into any field and ambient order entry", "source": "https://www.suki.ai/news/suki-becomes-first-to-integrate-ambient-ai-with-meditech-expanse-documentation-apis/"},
+        {"name": "Commure", "detail": "Joined MEDITECH Alliance Mar 2025; ambient launched from the Expanse workflow and embedded in Expanse Now mobile", "source": "https://www.commure.com/press-releases/commure-joins-meditech-alliance-offers-ambient-ai-for-meditech-expanse-with-deep-integration"},
+        {"name": "AvoMD (Avo) AI Scribe", "detail": "Partnership announced Aug 2025 to embed AI scribe in Expanse for rural/community hospitals", "source": "https://hitconsultant.net/2025/08/13/avo-and-meditech-partner-to-integrate-ai-scribe-into-expanse-ehr/"},
+        {"name": "Solventum Fluency Align", "detail": "Accelerator partner in MEDITECH Alliance, Jan 2026", "source": "https://www.beckershospitalreview.com/strategy/solventum-and-meditech-expanse-new-accelerator-partnership-delivers-ambient-ai-documentation"}
+      ],
+      "sources": [
+        "https://ehr.meditech.com/meditech-greenfield",
+        "https://ehr.meditech.com/ehr-solutions/greenfield-resources",
+        "https://ehr.meditech.com/ehr-solutions/meditech-alliance",
+        "https://greenfield.meditech.com/explorer/topic/USCore-patient-health-data",
+        "https://greenfield.meditech.com/explorer/topic/USCore-STU7",
+        "https://greenfield.meditech.com/explorer/topic/authorization-flows",
+        "https://greenfield.meditech.com/explorer/api/uscore.STU7.Observation/2",
+        "https://greenfield.meditech.com/explorer/api/uscore.STU7.DocumentReference/2",
+        "https://greenfield.meditech.com/explorer/api/uscore.STU7.Condition/2",
+        "https://greenfield.meditech.com/explorer/endpoints",
+        "https://home.meditech.com/en/d/regulatoryresources/otherfiles/2025meditechrealworldtestingresultsreport.pdf",
+        "https://www.healthcareitnews.com/news/epic-keeps-expanding-its-acute-care-ehr-market-share-us",
+        "https://www.beckershospitalreview.com/healthcare-information-technology/ehrs/hospital-ehr-market-share-leaders-in-2025-by-category/",
+        "https://www.suki.ai/news/suki-becomes-first-to-integrate-ambient-ai-with-meditech-expanse-documentation-apis/",
+        "https://www.commure.com/press-releases/commure-joins-meditech-alliance-offers-ambient-ai-for-meditech-expanse-with-deep-integration",
+        "https://hitconsultant.net/2025/08/13/avo-and-meditech-partner-to-integrate-ai-scribe-into-expanse-ehr/",
+        "https://www.beckershospitalreview.com/strategy/solventum-and-meditech-expanse-new-accelerator-partnership-delivers-ambient-ai-documentation"
+      ]
+    },
+    {
+      "key": "athenahealth",
+      "vendor": {
+        "officialName": "athenahealth, Inc.",
+        "products": ["athenaOne (athenaClinicals EHR, athenaCollector RCM, athenaCommunicator)", "athenaClinicals for Hospitals & Health Systems", "athenaPractice / athenaFlow (separate legacy products with a separate API server at mydata.athenahealth.com; not covered here)"],
+        "segment": "ambulatory (plus small hospitals via athenaClinicals for Hospitals & Health Systems)",
+        "marketPosition": "#3 US ambulatory EHR at about 6.9% market share per Definitive Healthcare (Oct 2025), behind Epic and eClinicalWorks.",
+        "marketPositionSource": "https://www.definitivehc.com/blog/top-ambulatory-ehr-systems"
+      },
+      "developerProgram": {
+        "name": "athenahealth Developer Portal (API Solutions) + athenahealth Marketplace",
+        "url": "https://docs.athenahealth.com/api/",
+        "marketplaceUrl": "https://marketplace.athenahealth.com/",
+        "access": "Self-service: create a Developer Portal account, then create an app and pick Certified-only or non-Certified API access and 2-legged or 3-legged auth. Preview environment credentials are 'automatically granted API access to the sandbox in the Preview environment for self-service development and testing.' Production for apps using non-Certified APIs (which includes the chart/encounter note APIs) 'require[s] an athenahealth Platform Services contract.' A customer must also enable the app for their practice.",
+        "sandboxFree": true,
+        "sandboxUrl": "https://api.preview.platform.athenahealth.com (Preview; public sandbox practice)",
+        "sources": ["https://dev-portal-prod.developer.athena.io/api/guides/onboarding-overview", "https://docs.athenahealth.com/api/guides/onboarding-overview"]
+      },
+      "fhir": {
+        "versions": ["R4", "DSTU2"],
+        "usCoreVersion": "6.1.0 (CapabilityStatement implementationGuide hl7.fhir.us.core|6.1.0; also Bulk Data 1.0.1 and 2.0.0)",
+        "baseUrl": "Global: https://api.platform.athenahealth.com/fhir/r4 ; site-specific: https://api.platform.athenahealth.com/{practiceid}/brand/{brandid}/csg/{chartsharinggroupid}/fhir/r4",
+        "sandboxBaseUrl": "https://api.preview.platform.athenahealth.com/fhir/r4",
+        "proprietaryRestBase": "https://api.platform.athenahealth.com/v1/{practiceid}/ (Preview: https://api.preview.platform.athenahealth.com/v1/{practiceid}/)",
+        "smart": {
+          "supported": true,
+          "launchTypes": ["EHR launch (provider, from athenaOne; testing it requires a customer's Preview environment)", "standalone launch", "2-legged client_credentials (system/backend)"],
+          "smartConfigCapabilities": ["launch-ehr", "launch-standalone", "client-confidential-symmetric", "client-confidential-asymmetric", "client-public", "sso-openid-connect", "context-ehr-patient", "context-ehr-encounter", "context-standalone-patient", "permission-v1", "permission-v2", "authorize-post"],
+          "grantTypes": ["authorization_code", "client_credentials"]
+        },
+        "oncG10Certified": true,
+        "certificationDetail": "'This is also the base URL for athenahealth's FHIR R4 APIs certified to the ONC's Cures Act Final Rule (g)(10) criterion.'",
+        "sources": ["https://dev-portal-prod.developer.athena.io/api/guides/base-fhir-urls", "https://api.preview.platform.athenahealth.com/fhir/r4/metadata", "https://api.preview.platform.athenahealth.com/fhir/r4/.well-known/smart-configuration"]
+      },
+      "noteWriteBack": {
+        "supported": true,
+        "viaFhir": false,
+        "mechanism": "Not through FHIR: the R4 CapabilityStatement lists DocumentReference as read and search-type only. Notes are written section by section into an OPEN encounter with the proprietary athenaOne chart APIs (HPI, ROS, Physical Exam, Assessment). Outside-care documents go up with the clinical document endpoint. These are non-Certified APIs, so production needs a Platform Services contract.",
+        "endpoint": "PUT /v1/{practiceid}/chart/encounter/{encounterid}/hpi ; PUT /v1/{practiceid}/chart/encounter/{encounterid}/reviewofsystems ; PUT /v1/{practiceid}/chart/encounter/{encounterid}/physicalexam ; Assessment section (assessmenttext + replacetext; exact path not opened, likely /chart/encounter/{encounterid}/assessment, unverified) ; POST /v1/{practiceid}/patients/{patientid}/documents/clinicaldocument",
+        "requiredFields": {
+          "prerequisite": "encounterid of an OPEN encounter (set when the patient checks in). Sources: GET /chart/{patientid}/encounters, GET /appointments/booked, appointments/changed subscription, or Embedded App launch context.",
+          "Assessment": "encounterid, assessmenttext, replacetext (yes/no)",
+          "ROS / Physical Exam": "GET first with showstructured=true. PUT back templateids and put the narrative in sectionnote; replacesectionnote true=replace, false=append.",
+          "HPI": "GET with showstructured=true, then PUT sectionnote + the full hpi array + the full templatedata array + replacesectionnote. 'anything you don't pass in will be removed.'",
+          "sectionnote format": "Light HTML is accepted. athena: 'This HTML formatting has only been tested for these encounter sections: Assessment, ROS, PE, HPI.' athena 'strongly recommend[s]' labeling API-imported text.",
+          "clinicaldocument": "departmentid (required), documentsubclass (required), attachmentcontents (base64; encrypted PDFs not supported; under 20MB recommended), attachmenttype, documentdata (text), autoclose (skip clinical inbox), internalnote, providerid. For care NOT provided by the practice."
+        },
+        "supportedLoincCodes": null,
+        "loincNote": "The section APIs take no LOINC codes. For read-back, athena's US Core DocumentReference returns LOINC types; a third-party summary of athena docs lists 11488-4, 11506-3, 28570-0, 34117-2 (thirdPartySource: https://nirmitee.io/blog/fhir-documentreference-clinical-notes-epic-oracle-athenahealth/).",
+        "quote": "The Assessment section is the simplest among all chart sections for adding notes. It requires only the encounterid, the assessmenttext (note field), and a parameter indicating whether to replace text (replacetext = yes or no). ... always make the GET call before the PUT call so you don't override anything in the template that the provider may have documented.",
+        "quoteUrl": "https://dev-portal-prod.developer.athena.io/api/workflows/adding-notes-to-an-encounter",
+        "hpiQuote": "It is extremely important to note that anything you pass in will become the new HPI. Even if you only wish to make an addition, you will need to pass in the whole output of the GET plus your addition, otherwise anything you don't pass in will be removed.",
+        "hpiQuoteUrl": "https://dev-portal-prod.developer.athena.io/api/api-ref/hpi-findings"
+      },
+      "discreteWriteBack": {
+        "Condition": {"access": "write (proprietary)", "detail": "POST /v1/{practiceid}/chart/{patientid}/problems (snomedcode, departmentid required; status CHRONIC/ACUTE, laterality, note, startdate). Encounter diagnoses: POST /chart/encounter/{encounterid}/diagnoses (SNOMED). FHIR Condition is read/search only.", "source": "https://dev-portal-prod.developer.athena.io/api/api-ref/problems ; https://dev-portal-prod.developer.athena.io/api/workflows/medication-ordering"},
+        "AllergyIntolerance": {"access": "write (proprietary)", "detail": "PUT /v1/{practiceid}/chart/{patientid}/allergies adds/updates allergies (allergenid, reactions, severity SNOMED, nkda, sectionnote). FHIR AllergyIntolerance is read/search only.", "source": "https://docs.athenahealth.com/api/api-ref/allergy"},
+        "Observation": {"access": "write (proprietary, limited)", "detail": "POST /v1/{practiceid}/chart/{patientid}/vitals takes device-generated vitals only, outside an encounter. Encounter vitals go to POST /chart/encounter/{encounterid}/vitals (named in the Vitals doc, not opened). FHIR Observation is read/search only.", "source": "https://dev-portal-prod.developer.athena.io/api/api-ref/vitals"},
+        "MedicationRequest": {"access": "write (proprietary, orders)", "detail": "Order workflow: POST /chart/{patientid}/ordergroups to get an encounterid, then add orders tied to encounter diagnoses. Exact order-create path not opened (unverified).", "source": "https://dev-portal-prod.developer.athena.io/api/workflows/medication-ordering"},
+        "MedicationStatement": {"access": null, "detail": "athena Chart docs say 'View, add or manage patient's medication details'; endpoint not verified."},
+        "ServiceRequest": {"access": "read-only (FHIR)", "source": "https://api.preview.platform.athenahealth.com/fhir/r4/metadata"},
+        "Encounter": {"access": "write (proprietary, limited)", "detail": "PUT /v1/{practiceid}/chart/encounter/{encounterid} updates only patientlocationid and patientstatusid.", "source": "https://dev-portal-prod.developer.athena.io/api/api-ref/encounter"},
+        "note": "Every FHIR R4 clinical resource in the Preview CapabilityStatement is read/search only. All writes use the athenaOne v1 REST APIs."
+      },
+      "proprietaryApis": [
+        {"name": "HPI Findings", "endpoints": ["GET/PUT /v1/{practiceid}/chart/encounter/{encounterid}/hpi"], "source": "https://dev-portal-prod.developer.athena.io/api/api-ref/hpi-findings"},
+        {"name": "Review of Systems", "endpoints": ["GET/PUT /v1/{practiceid}/chart/encounter/{encounterid}/reviewofsystems"], "source": "https://dev-portal-prod.developer.athena.io/api/api-ref/review-systems"},
+        {"name": "Physical Exam (shown as Mental Health Exam for behavioral health specialties)", "endpoints": ["GET/PUT /v1/{practiceid}/chart/encounter/{encounterid}/physicalexam", "GET /v1/{practiceid}/chart/encounter/{encounterid}/physicalexam/templates"], "source": "https://dev-portal-prod.developer.athena.io/api/api-ref/physical-exam"},
+        {"name": "Assessment section note", "endpoints": ["assessmenttext + replacetext on the encounter (exact path unverified)"], "source": "https://dev-portal-prod.developer.athena.io/api/workflows/adding-notes-to-an-encounter"},
+        {"name": "Document Type - Clinical Document", "endpoints": ["POST /v1/{practiceid}/patients/{patientid}/documents/clinicaldocument", "PUT /v1/{practiceid}/patients/{patientid}/documents/clinicaldocument/{clinicaldocumentid}", "POST /v1/{practiceid}/documents/clinicaldocument/{clinicaldocumentid}/actions"], "source": "https://docs.athenahealth.com/api/api-ref/document-type-clinical-document"},
+        {"name": "Encounter document", "endpoints": ["POST /v1/{practiceid}/patients/{patientid}/documents/encounterdocument"], "source": "https://docs.athenahealth.com/api/workflows/screening-questionnaires"},
+        {"name": "Encounter", "endpoints": ["GET /v1/{practiceid}/chart/{patientid}/encounters", "GET/PUT /v1/{practiceid}/chart/encounter/{encounterid}"], "source": "https://dev-portal-prod.developer.athena.io/api/api-ref/encounter"}
+      ],
+      "noteStructureConventions": "The athenaOne encounter is organized into chart sections, each with its own API. HPI, Review of Systems and Physical Exam are template-driven (practice-configured templates of paragraphs, sentences and findings with dropdown options) plus a free-text 'sectionnote'. Assessment takes free-text 'assessmenttext'. Read-back can be structured JSON (showstructured=true) or 'lightly-HTML marked up English text, as displayed in the athenanet encounter summary'. Physical Exam is renamed Mental Health Exam for behavioral health specialties.",
+      "noteStructureSources": ["https://dev-portal-prod.developer.athena.io/api/workflows/adding-notes-to-an-encounter", "https://dev-portal-prod.developer.athena.io/api/api-ref/physical-exam", "https://dev-portal-prod.developer.athena.io/api/api-ref/hpi-findings"],
+      "ambientScribeIntegrations": [
+        {"name": "athenaOne Ambient Notes ('choose your model' embedded scribes)", "detail": "Launched Oct 2024 (limited release) with Suki and iScribe Health", "source": "https://www.fiercehealthcare.com/ai-and-machine-learning/athenahealth-debuts-ambient-scribe-choose-your-player-product-suki-iscribe"},
+        {"name": "Abridge (added to Ambient Notes)", "detail": "Partnership announced Feb 25 2025", "source": "https://www.businesswire.com/news/home/20250225292481/en/athenahealth-and-Abridge-Partner-to-Deliver-AI-Designed-for-the-Needs-of-Ambulatory-Care-Practices"},
+        {"name": "athenaAmbient (native ambient scribe in the AI-native Clinical Encounter)", "detail": "Announced Nov 4 2025; drafts notes, diagnoses and prescriptions", "source": "https://www.businesswire.com/news/home/20251104083540/en/athenahealth%E2%80%99s-AI-native-Clinical-Encounter-Transforms-the-EHR-into-a-Real-Time-Clinical-Intelligence-Partner"},
+        {"name": "Nabla (athenahealth Marketplace program)", "detail": "Joined Marketplace program (Sept 2024 per release)", "source": "https://prnewswire.com/news-releases/nabla-joins-athenahealths-marketplace-program-to-expand-access-to-ai-powered-clinical-documentation-and-promote-clinician-well-being-302257237.html"}
+      ],
+      "sources": [
+        "https://docs.athenahealth.com/api/",
+        "https://dev-portal-prod.developer.athena.io/api/guides/onboarding-overview",
+        "https://dev-portal-prod.developer.athena.io/api/guides/base-fhir-urls",
+        "https://dev-portal-prod.developer.athena.io/api/workflows/adding-notes-to-an-encounter",
+        "https://dev-portal-prod.developer.athena.io/api/api-ref/hpi-findings",
+        "https://dev-portal-prod.developer.athena.io/api/api-ref/review-systems",
+        "https://dev-portal-prod.developer.athena.io/api/api-ref/physical-exam",
+        "https://dev-portal-prod.developer.athena.io/api/api-ref/encounter",
+        "https://dev-portal-prod.developer.athena.io/api/api-ref/problems",
+        "https://dev-portal-prod.developer.athena.io/api/api-ref/vitals",
+        "https://dev-portal-prod.developer.athena.io/api/workflows/medication-ordering",
+        "https://docs.athenahealth.com/api/api-ref/allergy",
+        "https://docs.athenahealth.com/api/api-ref/document-type-clinical-document",
+        "https://docs.athenahealth.com/api/workflows/screening-questionnaires",
+        "https://api.preview.platform.athenahealth.com/fhir/r4/metadata",
+        "https://api.preview.platform.athenahealth.com/fhir/r4/.well-known/smart-configuration",
+        "https://www.definitivehc.com/blog/top-ambulatory-ehr-systems",
+        "https://www.fiercehealthcare.com/ai-and-machine-learning/athenahealth-debuts-ambient-scribe-choose-your-player-product-suki-iscribe",
+        "https://www.businesswire.com/news/home/20250225292481/en/athenahealth-and-Abridge-Partner-to-Deliver-AI-Designed-for-the-Needs-of-Ambulatory-Care-Practices",
+        "https://www.businesswire.com/news/home/20251104083540/en/athenahealth%E2%80%99s-AI-native-Clinical-Encounter-Transforms-the-EHR-into-a-Real-Time-Clinical-Intelligence-Partner",
+        "https://prnewswire.com/news-releases/nabla-joins-athenahealths-marketplace-program-to-expand-access-to-ai-powered-clinical-documentation-and-promote-clinician-well-being-302257237.html",
+        "https://nirmitee.io/blog/fhir-documentreference-clinical-notes-epic-oracle-athenahealth/"
+      ]
+    },
+    {
+      "key": "eclinicalworks",
+      "vendor": {
+        "officialName": "eClinicalWorks, LLC",
+        "products": ["eClinicalWorks EHR (V11/V12)", "healow (patient engagement + patient-facing FHIR)", "Sunoh.ai (ambient AI scribe, developed by healow)", "eClinicalMobile / eClinicalTouch"],
+        "segment": "ambulatory",
+        "marketPosition": "#2 US ambulatory EHR at about 11.9% market share per Definitive Healthcare (Oct 2025), behind Epic.",
+        "marketPositionSource": "https://www.definitivehc.com/blog/top-ambulatory-ehr-systems"
+      },
+      "developerProgram": {
+        "name": "eClinicalWorks Platform for Open Development / 'eClinicalWorks Connect' FHIR Developer Portal (provider + backend/bulk apps); healow FHIR Developer Portal (patient apps)",
+        "url": "https://fhir.eclinicalworks.com/ecwopendev",
+        "marketplaceUrl": null,
+        "access": "Sign up as a developer on fhir.eclinicalworks.com (provider/backend) or connect4.healow.com (patient). 'Certified FHIR APIs are available to third-party application developers and eClinicalWorks customers at no cost at this time.' Practices enable FHIR through 'On-Demand Activation'. Each practice must activate the app ('if the app is not activated for the selected practice for SoF' you get an error). Sandbox login credentials: 'please reach out to FHIR Support team to share login credentials securely.' Some APIs are marked 'paid API' in the docs (e.g., 'Encounter (paid API)').",
+        "sandboxFree": true,
+        "sandboxUrl": "https://fhir4.eclinicalworks.com/fhir/r4/JAFJCD (sandbox practice code shown in eCW's own token example; the /metadata endpoint returned an error page on 2026-11-10)",
+        "patientPortal": "https://connect4.healow.com",
+        "sources": ["https://fhir.eclinicalworks.com/ecwopendev/documentation", "https://www.eclinicalworks.com/resources/certified-ehr-technology/", "https://www.eclinicalworks.com/products-services/interoperability/"]
+      },
+      "fhir": {
+        "versions": ["R4"],
+        "usCoreVersion": "STU6 Release 6.1.0 ('The Healow or eClinicalWorks FHIR server supports the HL7 FHIR US Core Implementation Guide STU6 Release 6.1.0.'); USCDI v1 and v3 resource sets documented",
+        "baseUrl": "https://fhir4.eclinicalworks.com/fhir/r4/{practiceCode} (per practice; list at https://fhir.eclinicalworks.com/ecwopendev/fhir-endpoints)",
+        "smart": {
+          "supported": true,
+          "launchTypes": ["EMR (EHR) launch, symmetric (client secret)", "EMR launch, asymmetric (private key JWT, RS384 only)", "standalone launch (symmetric/asymmetric)", "backend services and bulk (per eCW interoperability page)"],
+          "notes": "PKCE S256 required. The EHR launch opens the app in an iframe and does not allow localhost launch/redirect URLs. eCW does not support CORS on FHIR APIs. Refresh tokens are valid for 90 days."
+        },
+        "oncG10Certified": true,
+        "certificationDetail": "'eClinicalWorks offers FHIR ... APIs ... including APIs certified to the Standardized API for Patient and Population Services certification criterion found at § 170.315(g)(10).'",
+        "sources": ["https://fhir.eclinicalworks.com/ecwopendev/documentation", "https://fhir.eclinicalworks.com/ecwopendev/documentation/v3-fhir-r4-mapping", "https://www.eclinicalworks.com/resources/certified-ehr-technology/"]
+      },
+      "noteWriteBack": {
+        "supported": null,
+        "viaFhir": null,
+        "mechanism": "Partly verified. eCW's FHIR docs have a 'FHIR Resources (Create/Update/Delete APIs)' section that lists DocumentReference (C-CDAs), DocumentReference (Insurance Card & Govt. ID) and DocumentReference (PDF) as create resources, plus Encounter (Telephone Encounters) and Encounter (Web Encounters). There is NO 'DocumentReference (Clinical Notes)' create entry; Clinical Notes appears only under Read APIs. The per-resource specs are served as PDFs that could not be read, so required fields, content types and whether a PDF document can be tied to an office-visit progress note are unverified. Sunoh.ai (an eCW/healow product) writes into the progress note, but no public API for that was found.",
+        "endpoint": null,
+        "requiredFields": null,
+        "supportedLoincCodes": null,
+        "quote": "FHIR Resources (Create/Update/Delete APIs): ... DocumentReference (C-CDAs) ... DocumentReference (Insurance Card & Govt. ID) ... DocumentReference (PDF) ... Encounter (Telephone Encounters) ... Encounter (Web Encounters)",
+        "quoteUrl": "https://fhir.eclinicalworks.com/ecwopendev/documentation/create-resources?name=DocumentReference+%28Insurance+Card+%26+Govt.+ID%29"
+      },
+      "discreteWriteBack": {
+        "Condition": {"access": "write", "detail": "Create APIs listed for Condition (Problems) and Condition (Encounter Diagnosis); payload details in PDF (unverified)", "source": "https://fhir.eclinicalworks.com/ecwopendev/documentation/create-resources?name=DocumentReference+%28Insurance+Card+%26+Govt.+ID%29"},
+        "AllergyIntolerance": {"access": "write", "detail": "Listed under Create/Update/Delete APIs", "source": "https://fhir.eclinicalworks.com/ecwopendev/documentation/create-resources?name=DocumentReference+%28Insurance+Card+%26+Govt.+ID%29"},
+        "MedicationStatement": {"access": "write", "detail": "'MedicationStatement (reconciliation)' listed under Create APIs", "source": "https://fhir.eclinicalworks.com/ecwopendev/documentation/create-resources?name=DocumentReference+%28Insurance+Card+%26+Govt.+ID%29"},
+        "MedicationRequest": {"access": "write", "detail": "'MedicationRequest (orders)' listed under Create APIs", "source": "https://fhir.eclinicalworks.com/ecwopendev/documentation/create-resources?name=DocumentReference+%28Insurance+Card+%26+Govt.+ID%29"},
+        "Observation": {"access": "write", "detail": "'Observation (Vital Signs)' listed under Create APIs", "source": "https://fhir.eclinicalworks.com/ecwopendev/documentation/create-resources?name=DocumentReference+%28Insurance+Card+%26+Govt.+ID%29"},
+        "ServiceRequest": {"access": "write", "detail": "'ServiceRequest (Lab / DI / Procedure orders)' and 'ServiceRequest (Referrals)' listed under Create APIs", "source": "https://fhir.eclinicalworks.com/ecwopendev/documentation/create-resources?name=DocumentReference+%28Insurance+Card+%26+Govt.+ID%29"},
+        "Encounter": {"access": "write (limited)", "detail": "Create only for Telephone Encounters and Web Encounters, plus Update Telephone Encounter", "source": "https://fhir.eclinicalworks.com/ecwopendev/documentation/create-resources?name=DocumentReference+%28Insurance+Card+%26+Govt.+ID%29"},
+        "Immunization": {"access": "write (create + update)", "source": "https://fhir.eclinicalworks.com/ecwopendev/documentation/create-resources?name=DocumentReference+%28Insurance+Card+%26+Govt.+ID%29"},
+        "Other": {"access": "write", "detail": "ChargeItem (Create), Communication, Coverage (Create/Update/Delete), Patient (Create/Update), Task (Actions), MedicationAdministration (Th. Inj.) (Update), Organization (Delete Pharmacy)", "source": "https://fhir.eclinicalworks.com/ecwopendev/documentation/create-resources?name=DocumentReference+%28Insurance+Card+%26+Govt.+ID%29"},
+        "note": "These come from the documentation menu only. Field-level specs are PDFs that were not readable. Whether a given scope is free or paid, and whether a given practice has activated it, must be checked."
+      },
+      "proprietaryApis": [
+        {"name": "healow FHIR APIs (patient-facing)", "relevance": "Patient access and scheduling apps; not for note write-back", "source": "https://www.eclinicalworks.com/products-services/interoperability/"},
+        {"name": "Non-FHIR note APIs", "relevance": null, "source": null, "note": "unverified: no public non-FHIR progress-note write API found"}
+      ],
+      "noteStructureConventions": null,
+      "noteStructureNote": "unverified. eCW's FHIR read docs list 'DocumentReference (Progress Note PDF)' and 'DocumentReference (Clinical Notes)' read resources, but the progress-note section layout (e.g., HPI/ROS/Exam/Assessment/Plan tabs) was not confirmed from a public eCW source.",
+      "noteStructureSources": ["https://fhir.eclinicalworks.com/ecwopendev/documentation/create-resources?name=DocumentReference+%28Insurance+Card+%26+Govt.+ID%29"],
+      "ambientScribeIntegrations": [
+        {"name": "Sunoh.ai (eCW/healow ambient scribe integrated with eClinicalWorks EHR)", "detail": "Integration announced Oct 2023; mobile (eClinicalMobile/eClinicalTouch) Feb 2024; dermatology May 2024; marketed as EHR-agnostic", "source": "https://www.eclinicalworks.com/eclinicalworks-users-gain-access-to-sunoh-ai-on-any-ios-and-android-smartphones-and-ipads/"},
+        {"name": "Third-party ambient partner program", "detail": null, "source": null, "note": "unverified: no eCW-published third-party ambient partner program was found"}
+      ],
+      "sources": [
+        "https://fhir.eclinicalworks.com/ecwopendev",
+        "https://fhir.eclinicalworks.com/ecwopendev/documentation",
+        "https://fhir.eclinicalworks.com/ecwopendev/documentation/v3-fhir-r4-mapping",
+        "https://fhir.eclinicalworks.com/ecwopendev/documentation/create-resources?name=DocumentReference+%28Insurance+Card+%26+Govt.+ID%29",
+        "https://fhir.eclinicalworks.com/ecwopendev/fhir-endpoints",
+        "https://www.eclinicalworks.com/resources/certified-ehr-technology/",
+        "https://www.eclinicalworks.com/products-services/interoperability/",
+        "https://www.eclinicalworks.com/eclinicalworks-users-gain-access-to-sunoh-ai-on-any-ios-and-android-smartphones-and-ipads/",
+        "https://www.businesswire.com/news/home/20240515418888/en/eClinicalWorks-Announces-Integration-of-Sunoh.ai-for-Dermatology-Clinics-Nationwide",
+        "https://www.definitivehc.com/blog/top-ambulatory-ehr-systems"
+      ]
+    }
+  ]
+}

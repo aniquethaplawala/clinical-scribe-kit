@@ -1,0 +1,440 @@
+{
+  "encounterId": "osce-MSK0018",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "What brings you in?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I just came in because of I just got into like this uh, incident while I was playing rugby. I kind of got tackled and then fell onto my right shoulder. Um, and after I got up, I haven't, I've just been, this just happened a couple hours ago actually and uh, I've just been in intense pain in my right shoulder and I can't seem to move it at all."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, um, and sorry, when was this exactly?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, probably 2 hours ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "2 hours ago, okay. Um, and is this pain persistent or is it like on and off?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's, it's constant. It hasn't gone away at all."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. 1 to 10, 10 being the worst. How bad is this pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't know, like probably like 8 or, 8 or 9."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "8 or 9, okay. Um, and is it a sharp kind of pain or is it dull and aching?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's, it's sharp. Like if I try to move it at all, it's like a sharp pain."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, um, and have you ever had anything like this in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no, never."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Never, okay. And are you able to move your arm at all or you can't move it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I could move my fingers and hand and elbow, but um, elbow a little bit, but like uh, yeah, I can't move my shoulder whatsoever."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, um, and do you, are you experiencing any tingling or numbness?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, no, I don't think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, okay. Uh, how about any muscle weakness?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, in that area, I don't know if it's weakness or pain, but I just can't move it up and I, I, I do feel some like numbness just above my shoulder. No tingling though."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, any pain elsewhere in your body?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, okay. Any headaches?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Confusion or memory loss?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Uh, weight loss?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Fevers or chills?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Rashes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Uh, changes in your vision, hearing, smell or taste?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, coughing, shortness of breath or wheezing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Chest pain or heart palpitations?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Changes in your bowel movements?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Changes in voiding?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, okay. And then with regards to this pain, does anything make it better or worse?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, um not anything that I've tried that's made it better. Worse is probably just if I try to move it at all."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and the pains in your shoulder, does it radiate down or up elsewhere?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, mostly towards my shoulder, um, kind of down towards my upper arm as well."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, I see. Um, alright, and um, are you otherwise healthy? Do you have any other medical conditions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No. Yeah, otherwise I'm healthy. I've never been to the doctor much."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, alright. Um, and are you on any medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, okay. And um, are you up-to-date with your immunizations?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and do you have any allergies?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any family history of musculoskeletal diseases?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, not that I know of."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Uh, and any family history of autoimmune conditions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Um, do you smoke at all? P; No. No. Um, do you consume marijuana?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Uh, do you drink alcohol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no, just, just with friends sometimes on the weekends, but not really."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Um, and then, where do you live right now and who do you live with?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, I live just outside of town with my parents in a house."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And um, have you traveled anywhere recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, no, I've been at home."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, any sick contacts?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, okay. So now we're just going to move on to um, the physical exam part of this. So can you take a look at both your shoulders and let me know if you see any redness or swelling?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, I don't think I see any redness or swelling, but um, my right shoulder and my arm just seems a little bit lower than my left one."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, okay, any um, warmth on, on that shoulder?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no, not that I can feel."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, any atrophy, deformities, or skin changes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, deformity, I, I do feel like kind of uh, like my shoulder's dropped and like there's just kind of this uh, little, like divots, where like the shoulder should be."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, okay. And can you palpate that area for me? Just um, the bones in that area, so like right where your arm would connect to your shoulder and then kind of on your shoulder blade. Does that hurt when you press down?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, it hurts a lot."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, so some tenderness and pain in the acromion process and scapula. Um, and if you press down on your biceps, triceps, does that hurt?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not as much, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, okay. And then can I get you to um, can you lift your shoulder up at all? Like to where, to the point where your fingers are touch, like reaching the ceiling?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I, I can't. I can't move it at all."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, so um, it sounds like you have a shoulder dislocation. Um, so we are going to do an x-ray of your shoulder joint first to make sure that it's, it's just a dislocation and there aren't any broken bones or fractures. And then um, we can resolve this by doing something called a closed reduction, um, to try to put the joint back in its place."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, and if that closed reduction doesn't work, then uh, you may need surgery for like a, um, a weak shoulder joint, or if like ligaments um, aren't like, strong enough and it's it continues to happen."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, otherwise, we can keep it immobilized for a few days to a few weeks, um, depending on how bad the dislocation is. Um, and then once that's removed, you can do some rehab as well to restore some range of motion. Does that sound like a good plan? Do you have any questions or concerns in the meantime?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no, I think that's, uh, that's great."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay."
+    }
+  ]
+}

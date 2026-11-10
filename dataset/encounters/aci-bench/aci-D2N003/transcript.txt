@@ -1,0 +1,53 @@
+Clinician: Hi, John. How are you?
+Patient: Hey. Well, relatively speaking, okay. Good to see you.
+Clinician: Good to see you as well. So I know the nurse told you about Dax. I'm gon na tell Dax a little bit about you.
+Patient: Okay.
+Clinician: So John is a 61-year-old male with a past medical history significant for kidney stones, migraines and reflux, who presents with some back pain. So John, what's going on with your back?
+Patient: Uh, I'm feeling a lot of the same pain that I had when I had kidney stones about two years ago, so I'm a little concerned.
+Clinician: Yeah. And so wh- what side of your back is it on?
+Patient: Uh, honestly, it shifts. It started from the right side and it kinda moved over, and now I feel it in the left side of my back.
+Clinician: Okay. And, um, how many days has this been going on for?
+Patient: The last four days.
+Clinician: Okay. And is... Is the pain coming and going?
+Patient: Um, at first it was coming and going, and then for about the last 48 hours, it's been a constant, and it's... It's been pretty bad.
+Clinician: Okay. And what have you taken for the pain?
+Patient: Tylenol, but it really doesn't seem to help.
+Clinician: Yeah. Okay. And do you have any blood in your urine?
+Patient: Um, uh, it... I think I do. It's kind of hard to detect, but it does look a little off-color.
+Clinician: Okay. All right. Um, and have you had, uh, any other symptoms like nausea and vomiting?
+Patient: Um, if I'm doing something I'm... I'm, uh, like exerting myself, like climbing the three flights of stairs to my apartment or running to catch the bus, I feel a little dizzy and a little light headed, and I... I still feel a little bit more pain in my abdomen.
+Clinician: Okay. All right. Um, so let- let's talk a little bit about your... Your migraines. How are you doing with those? I know we started you on the imitrex a couple months ago.
+Patient: I've been pretty diligent about taking the meds. I... I wan na make sure I stay on top of that, so I've been pretty good with that.
+Clinician: Okay, so no issues with the migraine?
+Patient: None whatsoever.
+Clinician: Okay. And how about your... Your acid reflux? How are you doing with... I know you were making some diet changes.
+Patient: Yeah, I've been pretty good with the diet, but with the pain I have been having, it has been easier to call and have something delivered. So I have been ordering a lot of take-out and fast food that can be delivered to my door so I don't have to go out and up and down the steps to get it myself. But other than that, it's been pretty good.
+Clinician: Okay. Are you staying hydrated?
+Patient: Yes.
+Clinician: Okay. All right. Okay, well, let's go ahead and, uh, I know the nurse did a review of systems, you know, with you, and I know that you're endorsing some back pain and a little bit of dizziness, um, and some blood in your urine. Any other symptoms? You know, muscle aches, chest pain... Uh, body aches, anything like that?
+Patient: I have some body aches because I think I'm... I'm favoring, um, my back when I'm walking because of the pain, like I kinda feel it in my muscles, but not out of the ordinary and not surprised 'cause I remember that from two years ago.
+Clinician: Okay. All right. Well, let's go ahead and... And look at your vital signs today. Hey, dragon? Show me the blood pressure. Yeah, so your blood pressure's a little high today. That's probably because you're in some pain, um, but let... Let me just take a listen to your heart and lungs, and I'll let you know what I find, okay?
+Patient: Sure.
+Clinician: Okay, so on... On physical exam, you do have some, uh, cda tenderness on the right-hand side, meaning that you're tender when I... When I pound on that.
+Patient: Mm-hmm.
+Clinician: Um, and your abdomen also feels a little tender. You have some tenderness of the palpation of the right lower quadrant, but other than that, your heart sounds nice and clear and your lungs are clear as well. So let's go ahead and take a look at some of your results, okay?
+Patient: Sure.
+Clinician: Hey, dragon? Show me the creatinine. So we... We drew a creatinine when you came in here because I was concerned about the kidney stones. It... It is uh... It is up slightly, which might suggest that you have a little bit of a obstruction there of one-
+Patient: Mm-hmm.
+Clinician: . Of the stones. Okay? Hey, dragon. Show me the abdominal x-rays. Okay, and there might be a question of a... Uh, of a stone there lower down, uh, but we'll wait for the official read there. So the, uh, abdominal x-rays show a possible kidney stone, okay?
+Patient: Okay.
+Clinician: So let's talk a little bit about my assessment and plan for you. So, for your first problem, your back pain, I think you're having a recurrence of your kidney stones. So I wan na go ahead and order a ct scan without contrast of your abdomen and pelvis. Okay?
+Patient: Mm-hmm.
+Clinician: And I'm also gon na order you some ultram 50 milligrams as needed every six hours for pain. Does that sound okay?
+Patient: Okay.
+Clinician: Hey, dragon? Order ultram 50 milligrams every six hours as needed for pain. And I want you to push fluids and strain your urine. I know that you're familiar with that.
+Patient: Yes, I am.
+Clinician: For your next problem, for your migraines, let's continue you on the imitrex. And for your final problem, uh, for your reflux, uh, we have you on the protonix 40 milligrams a day. Do you need a refill of that?
+Patient: Actually, I do need a refill.
+Clinician: Okay. Hey, dragon? Order a refill of protonix 40 milligrams daily. Okay. So the nurse will be in soon, and she'll help you get the cat scan scheduled. And I'll be in touch with you in... In a day or so.
+Patient: Perfect.
+Clinician: If your symptoms worsen, just give me a call, okay?
+Patient: You got it.
+Clinician: Take care.
+Patient: Thank you.
+Clinician: Hey... Hey, dragon? Finalize the note.

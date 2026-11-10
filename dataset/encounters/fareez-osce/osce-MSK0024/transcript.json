@@ -1,0 +1,450 @@
+{
+  "encounterId": "osce-MSK0024",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "What brings you here today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hi, I've been having this back pain for the past month, so I'd just like something for it an and you know image it if possible just to figure out what it is."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You've been having it for the last month, is this the first time you're having this back pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK and where exactly are you having the back pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's in my lower back."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and what kind of pain are you experiencing, is it like a sharp stabbing pain or is that a dull aching pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's kind of dull and achy but sometimes I feel like I have little spasms in my back."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and how often are you getting these spasms?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um I'd say like two to three times a week."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And it is this back pain constant, or does it come come and go?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's pretty constant, but it gets worse with certain things."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So one month ago when it started before then, did you injure yourself at all or, were you doing anything that brought on the pain or did the pain come on gradually?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So I work in this factory where I move a lot of boxes and I think I may have like lifted a really heavy box or lifted it in an improper position because that's when, that night is when my back started hurting."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, I see and how long have you worked in this role?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "For the past 30 years."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK Alright. And has the pain become worse at all or has it stayed the same since it started?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'd say it's pretty. It's been pretty similar to the start."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And does the back pain move anywhere, like for example does it shoot down your legs at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No OK. Have you tried anything that has helped you? I've tried some topical analgesics, and you know those fire and ice gels and I think sometimes that helps, but it's always temporary."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And what kind of things make your pain worse like, bending down as opposed to stretching backwards?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, bending down like it when I flex my back that hurts more than if I straighten it out."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Is a bending hurts more and what about bending towards the sides?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um a little bit more towards my right side."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And are you having any other symptoms, like numbness or tingling in your extremities or back at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And any kind of numbness or loss of sensation in your buttocks area or just below your lower back?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um no"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And any fevers or chills?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nope."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any night sweats?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any um skin changes or rashes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any, have you been ill recently at all with cough cold symptoms at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you feel pain in anywhere else, in any other muscles or joints at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you recently had any changes to your weight?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And. Any kind of changes to your bowel movements?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Any kind of issues with urination at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And any urinary or fecal retention or incontinence?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Right, so it's just this pain that's been there for the last month, stayed around the same. In terms of your medical history have you been diagnosed with the. Have any medical conditions in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I have a high blood pressure which I take some Ramipril for."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Any allergies to any medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK and have you are using any other medications at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you been hospitalized or had any surgeries in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Do you have any family history of any musculoskeletal or rheumatologic condition?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any cancers in the family?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And so currently are you working or did you have to take time off work?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm taking some time off work until I figure out what this back pain is."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And currently, what's your living situation like?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I live in an apartment with my wife and our teenage son."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And do you smoke at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I used to smoke. I haven't smoked in over 10 years."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And do you drink alcohol at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I drink occasionally, I'll have like a beer on the weekend."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any recreational drugs like marijuana?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Alright, so I'm just gonna ask a few questions, maybe get you to do some movements and see what hurts the most."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So when you press your hand down, down your spine. Is it hurt at all in the lower back with palpation?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um it kinda hurts right in the middle, uh, just above the buttocks area an where like my tailbone almost is"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I see. And, uh, any kind of pain with lying down and then raising your legs straight up without bending the knees."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I can try that. Um that hurts a little bit, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And does it hurt in the lower back or near the front of your hips?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That hurts in my lower back."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And any kind of redness or swelling that you've noticed at all? I know it's in the back, so it might be more difficult to see."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um no, I don't see anything like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And are you, has your gait, changed at all, or is it, are you able to walk without a limp or anything?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm able to walk without a limp."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Alright, so and then, uh, bending down you said hurts more than standing up or extending your back, right?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Alright, so those are all the questions I had for you today. Do you have any questions for me?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, just like how can I treat this?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, for sure. So this has been going on for the last month. It sounds more like what's called mechanical back pain and due to the nature of your work having been lifting heavy objects for the last 30 or so years it's usually something that occurs with repetitive, repetitive work, and strenuous work like that that affects your back. And what you're describing with the flexion seems more pain coming from the discs themselves instead of the facets at the back. So every time you flex you have some compression of your discs. So what we what we need to do right now is it's been one month almost and then usually we get imaging if the pain does not improve after six weeks of conservative management. So what we can try is to give you some pain management first, and some anti-inflammatory medication, and then as well as try some physiotherapy, some exercises to help you with the back pain. And then if the pain does not improve and since there is no red flags that were too worried about right now with your back pain we can wait to get some imaging. But first we would just like to try some of the conservative management. Is that OK with you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, that sounds great. Thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You're welcome, alright take care."
+    }
+  ]
+}

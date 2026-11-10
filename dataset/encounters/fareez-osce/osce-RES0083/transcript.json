@@ -1,0 +1,385 @@
+{
+  "encounterId": "osce-RES0083",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "What can I do for you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I've been feeling really, just, bad these last couple of days. I've had these, uh, muscle aches and headache and cough that have been really bothering me."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "When did all this start?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So yeah, about 3 days ago I woke up in the morning with, uh, and yeah, I started having these, like muscle aches and a cough started kind of that day."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, can you tell me a little bit more about the cough? Is it a dry cough or wet cough?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's a dry cough, I haven't brought up any any sputum and no blood."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And the muscle aches, is it all over? is it specific part of your body?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, It's just kinda all over, just feels kind of icky."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and has the cough gotten better or worse over the past three days?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's got a little worse. I think I would say it's a bit more frequent. But the cough isn't that bad, but it's gotten worse."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and you mentioned headaches. When did those start?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So within the last couple of days, yeah, I've had a headache, want to say, most of the time. And I've been using Tylenol or Acetaminophen to help with those. Its taken the edge off of the headaches, for sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you usually get headaches?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Every once in a while, maybe once or twice a month, maybe even less than that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Is your current headache similar to the headaches that you usually get?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It is, yeah, it's yeah, It feels like my head is being squeezed and I kind of have a pressure, where yeah, that kind of squeezing sensation on my forehead."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "That front part, both sides, left and right?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, kind of both sides."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Is it accompanied with, uh, so is the headache worse when you're in bright light?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, OK, is it worse when, are you trying to stay in a dark room with no sound? Is it worse when you're, when people are talking or there's loud noises around you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, any nausea or vomiting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any stiffness in your neck? Any difficulties moving your neck?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, that's OK, I mean a bit, like I don't know, like, kind of achy I guess with my upper back and shoulders feel a bit sore but, yeah I can move my head around ok."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, OK and, uhm, let's see. So have you had any fevers or chills?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and any sore throat?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Runny nose, congestion?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, uhm, any other, I guess, any difficulties breathing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no,"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any chest pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any palpitations? Do you feel like your heart's racing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any pain your belly?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Changes in your bowel movements or your urinary function?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I haven't had any diarrhea, things have been normal."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, good. OK, I suppose, OK, so you've had this cough and you've had muscle aches and this headache, how has, uh, so you've tried Tylenol, have you tried anything else?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I just use the Tylenol, and I took a Tylenol cold and sinus at night, which helped with the sleeping."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, can you tell me if you have any medical problems, any medical conditions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I have, uh, high cholesterol and yeah, I just have high cholesterol."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any medications that you're on?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I take a statin."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And any allergies?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, maybe penicillin, I think I got hives when I was a kid or some sort of rash."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I see, OK, and any medical conditions that run in your family?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I know my dad had a stroke when he was in his late 70s and my mom had high cholesterol as well."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, OK, and do you currently smoke? Or have you ever smoked?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I quit smoking when I had my first kid, so that was about, yeah, that was 17 years ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and how much did you smoke before that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I smoked about a half a pack per day."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "For how many years?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "For about 12 years I guess"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and do you consume alcohol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I'll have three or four glasses of wine over the weekend."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, and what about any marijuana?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any recreational drugs?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, do you take any herbal medications or any vitamins or anything else over the counter?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I do take magnesium and, like, vitamin D and, uh, a multi vitamin."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And, do you, have you had any contact with anyone who is sick or you think might be sick?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't think so, um, everybody in my family has been been OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you had exposure to anyone or met anyone who you think might have had covid?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh well, I did go to a family party, just last weekend. It was outside and we were maintaining distancing, but, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Are you vaccinated?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, not yet."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, OK, alright, OK, so you've had this dry cough and muscle aches and headache for the past three days or so and your symptoms are getting a little bit worse or your cough's getting worse for the past three days. We're gonna, it could be that you have some sort of a viral infection like an upper respiratory infection but you might also or you could possibly have covid, so we'll do a covid test, and I just recommend that you stay hydrated and continue to eat and drink well and and monitor your symptoms. Take Tylenol, it sounds like Tylenol has been helping a little bit, continue to take Tylenol, get lots of rest and if you have any shortness of breath, or if you feel like your symptoms are getting worse call 911 for help if your concerned about your health at all. And we'll get a covid test set up for you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "OK, thank you."
+    }
+  ]
+}

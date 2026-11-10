@@ -1,0 +1,250 @@
+{
+  "encounterId": "aci-D2N014",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hi, Louis. How are you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hi. Good to see you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "It's good to see you as well. Are you ready to get started?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, I am."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Louis is a 58-year-old male here for follow up from an emergency room visit. So, Louis, what happened?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah. I was playing tennis on saturday. It was really, really hot that day, very humid. And about after about a half an hour I was very short of breath, I was struggling breathing. I thought I was having a heart attack, got really nervous. So, my wife took me to the er and, uh, everything checked out, but I was just very upset about it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. And how have you been feeling since that time?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, foof, probably, probably about six hours after we got home, I felt very light-head and very dizzy and then, sunday, I felt fine. I just thought it was worth checking up with you though."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And have you been taking all of your meds for your heart failure?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I have. I have. I've been, uh, very diligent with it. And, uh, I'm in touch with the doctor and so far, so good, other than this episode on saturday."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And, and you're watching your diet, you're avoiding salt. Have you had anything salty?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I cheat every now and then. You know, I try and stay away from the junk food and the salty foods. But, for the most part, I've been doing a good job of that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. Um, and I know that they removed a cataract from your eye-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": ". A couple of, like couple months ago. That's been fine?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That was three months ago, thursday, and everything's been fine ever since."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. So, no vision problems."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And you had a skin cancer removed about five months ago as well. You've had a lot going on."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah. It's been a really busy year. An- and again, so far, so good. That healed up nicely, no problems ever since."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. Um, so, why don't we go ahead and we'll do a quick physical-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": ". Exam. Hey, dragon, show me the blood pressure. So, here, your blood pressure is a little high."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, so, you know, I did see a report in the emergency room that your blood pressure was high there as well."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So, we'll have to just kind of talk about that. Uh, but let's go ahead and we'll examine you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. So, you know, looking at you, your neck is very supple. I don't appreciate any fibular venous distention. Your heart is a regular rate and rhythm, no murmur. Your lungs have some fine crackles in them, bilaterally. And you have trace lower extremity edema in both legs. So, what that means, essentially, is that you may have some extra fluid on board, um, from eating salty foods-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": ". Along with this history of your congestive heart failure. But, let's go ahead and look at some of your results. Hey, dragon, show me the ecg. So, this is, uh, a s- a stable ecg for you. This basically shows that you have some left ventricular hypertrophy which caused your congestive heart failure. Um, let's go ahead and review your echocardiogram. Hey, dragon, show me the echocardiogram. So, in reviewing the results of your echocardiogram, it shows that your pumping function of your heart is a little low, uh, but it's stable. And, you know, I think that we know this and we have you on the appropriate-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Medication therapy. And then, I just wan na be reminded about, um, the results of your skin biopsy. Hey, dragon, show me the skin biopsy results. Okay. And in reviewing the pathology report for your skin cancer-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": ". You know, it looks like they got all of that and everything's fine."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yep."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So, you know, my impression of you at this time, for the shortness of breath that you had in the emergency department, I think it was an exacerbation of your heart failure. And you probably had some, what we call, dietary indiscretion, you ate some salty food which made you retain some fluid."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So, for that, I'm going to prescribe you, you know, an extra dose of lasix 80 milligrams, once a day. And, um, we're going to, uh, put you on some carvedilol 25 milligrams, twice a day. Okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay. Perfect."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, and I think from a, a cataract surgery standpoint and your skin cancer removal, everything seems to be fine and you're doing well, so I don't think we need to adjust any of those medications."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Good to hear."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay? Hey, dragon, order lasix 80 milligrams, once a day. Hey, dragon, order carvedilol 25 milligrams, twice a day. Okay. And the nurse will come in and she'll see you soon. Okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Great."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey, dragon, finalize the note."
+    }
+  ]
+}

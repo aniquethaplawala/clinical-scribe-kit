@@ -1,0 +1,185 @@
+{
+  "encounterId": "aci-D2N114",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Good morning Julie how are you doing today"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I'm doing okay I'm just a little nervous about what's been going on with my headaches"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay so I know you were sent here by your your pcp what was your understanding of why you were sent here"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah so I actually have been someone who been struggling with headaches for years now ever since I was a teenager and they used to be around my when I would have my menstrual my menses but as I got older I noticed that it has been with that and also I can get it when I'm really stressed but recently and why I went to her is because my headaches have been getting a lot more they've just been happening a lot more frequently and a lot more severe"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay can you tell me a little bit about them what how do they how do they feel when they come on"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So they say mostly on my right side and it even seems like it's like behind my eye and it just like this pulsing like this really bad pulsing sensation"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay do you notice these any activities or time of the day that makes them worse I know you said they they seem to get worse around your menstrual periods but is there any time of the day or that makes them worse"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I I have noticed that you know I've been trying to exercise more in order to lose weight but I can't even really exercise for very long because I start of as soon as I start to jog I my headaches the headaches come back on a lot worse so I notice it when I'm exercising"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay and do you seem to have any other symptoms when you get these headaches I've been having a ringing in my ears for a few months now and then what really scared me is that now I'm starting to get some blurred vision it's not all the time but it it will come and go but some blurred like on the"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "In my on the side of my vision"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay okay and have you experienced any numbness or tingling to your hands or feet or your face"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No I haven't"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay so you you like to run a lot what kind of do you do you use a a good shoe you know what kind of shoes do you use for your running"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah I yeah I I'm starting to get back into it I'm a big new balance person in asics so yeah those are the two brands I like to wear yeah so right now I'm using asics"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay yeah I like to run too and I use nike"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I used to get tumor guy but I I really kinda moved over to nike"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hmmm"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That's good you know it is running is a great exercise"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "It is"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So have you had any let's get back to the exam here have you had a recent mri of your brain I saw one from a few years ago but as doctor white said anything about getting a more a recent mri"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah she was gon na put one in but she wanted me to see you first and urgently so they haven't called me yet for the mri"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay so that's good we I think we'll we will follow up with that mri but let's go ahead and take a do a quick physical exam here I reviewed your vitals that the the assistant collected when you came in and everything there looks good including your blood pressure you know with symptoms like that that's one of those things that I'd be concerned about"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Now on your heart exam it sounds like it's normal sinus rhythm with no murmurs rubs or gallops so that's good as I listen I'm gon na go ahead and look here in your eyes the funduscopic exam shows papilledema and that's just some of swelling behind there in the eye and this let me do a a neurological exam this will take a few minutes you get up to follow my instructions as we go through that okay on neurological exam your cranial nerves one through twelve are intact including a normal cranial reflex and just went to watch you walk across the room here"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay turn around come back and okay so on musculoskeletal exam your gait is normal Okay go ahead sorry"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That's okay for your first problem your headaches your symptoms are concerning for what we call idiopathic intracranial hypertension and this is a condition that that you have increased pressure in the in your head in your brain without any known cause for it now patient also presents with often present with symptoms such as yours you know headaches worsening with activity ringing in the ears changes in your vision so I'm I'm pretty confident that that's what we're having here now why we get concerned is if the pressure continues to increase this can lead to some permanent changes in your vision so I I do wan na get a a few more tests just so we can confirm that diagnosis and the first one that we just talked about is an mri I think it's really important to get that to check for any other condition that could be contributing to your symptoms now once I have that result I'm gon na be doing also doing a spinal tap which will help me evaluate the pressure in the brain and it can also help you feel better if you do have an increased pressure by taking the decreasing the amount of that pressure just by taking a a a little bit of fluid off of that and lastly I want you to be seen by a neuro-ophthalmologist for a complete eye exam now I I know that sounds like a lot of information but I think it's really important we get that accomplished do you have any questions for me"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah that is a lot and so I I'm sure I'll have more that comes up but so let's say we do all this test and it confirms what you're saying does that mean was I referred to you because that means I will need surgery"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not necessarily if you have idiopathic intracranial hypertension there are number of medications that we can try to help decrease that pressure in your brain and this will also help you have less headaches when you exercise as exercise and weight loss are also an important part of the treatment"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright alright and I'll probably add something about so is this something I'll be doing soon is this all things I'll be doing this week"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah that's a great question here I I'm gon na go ahead and we're gon na for the mri I'll have to get a preapproval from your insurance company I will work on that my my my team in the front office will get that preapproved and then once that's done we'll call you to help schedule that mri"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright thank you bye"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Bye sorry"
+    }
+  ]
+}

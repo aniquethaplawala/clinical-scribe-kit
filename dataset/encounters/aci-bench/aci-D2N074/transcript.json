@@ -1,0 +1,190 @@
+{
+  "encounterId": "aci-D2N074",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Patient, Bruce Ward. Date of birth 5/21/1969. Please use my neuro consult template. This is a 52-year-old male with dia- newly diagnosed pituitary lesion. The patient is seen in consultation at the request of dr. Henry howard for possible surgical intervention. Mr. Ward presented to his primary care provider, dr. Howard, on 3/1/21 complaining of worsening headaches over the past few months. He denied any trouble with headaches in the past. His past clinical history is unremarkable. Worked out for worsening headaches was initiated with brain mri and serology where pituitary lesion was incidentally discovered. I personally reviewed the labs dated 3/3/21 including cbc, unes, uh, coagulation, and crp. All were normal. Pituitary hormone profile demonstrates a low tsh, all other results were normal. Um, I personally reviewed pertinent radiology studies including mri for the brain with contrast from 3/4/21. The mri reveals a pituitary lesion with elevation and compression of the optic chiasm. The ventricles are normal in size and no other abnormalities are lo- are noted. Hello, mr. Ward. Nice to meet you. I'm dr. Flores."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hi, doc. Nice to meet you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I was just reviewing your records from dr. Howard and he's referred you because the workup for headaches revealed a mass on your pituitary gland. I did review your mri images and you have a significant mass there. Can you tell me about the issues you've been experiencing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah sure. So I'm really getting fed up with these headaches. I've been trying my best to deal with them but they've been going on for months now and I'm really struggling."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Where are the headaches located and how would you describe that pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Located behind my eyes. It's like a dull nagging ache."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Was the onset gradual or sudden?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well it started about three months ago. And they've been getting worse over time. At first it was like three out of 10 severity, and it just gradually worsened. And now it's about six out of 10 severity. The headaches do tend to be worse in the morning and it feels like a dull ache behind the eyes. They last a few hours at a time, nothing makes them better or worse."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Can you tell me if the pain radiates, or if you have any other symptoms? Specifically feeling sick, fever, rashes, neck stiffness, numbness, weakness, passing out?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No. I haven't been sick or felt sick. Can't recall a fever or any kind of rash. No- no neck issues, no numbness, no tingling. And I've never passed out in my life. But, um, for some reason recently I seem to be bumping into door frames."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Have you noticed any change in your vision or with your balance?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No I don't think so. My eyes were checked in the fall."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Let's see, do you have any other medical problems that you take medicine for?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No I don't have any medical problems and I don't take any medicines. I tried tylenol a few times for the headaches but it didn't work, so I stopped."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I see. Anyone in your family have any history of diseases?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I was adopted so I really have no idea."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Um, what kind of work do you do? And are you married?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I work as a computer programmer and I've been married for 25 years. We just bought a small house."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "That's nice. Um, do you drink any alcohol, smoke, or use recreational drugs?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nope. I don't do any of those and never have."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Um, well let me take a good look at you. Um, now you'll hear me calling out some details as I perform the examination. These will be noted for me in your record and I'll be happy to answer any questions you have once we're done."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sounds good, doc."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. The patient is alert, oriented to time, place, and person. Affect is appropriate and speech is fluent. Cranial nerve examination is grossly intact. No focal, motor, or sensory deficit in the upper or lower extremities. Visual acuity and eye movements are normal. Pupils are equal and reactive. Visual field testing reveals bitemporal hemianopia. And color vision is normal. All right, mr. Ward. I'm going to review these pictures from the mri with you. Um, now this appears to be a benign pituitary adenoma, but there's no way to be sure without sending the removed adenoma to pathology to make the diagnosis, which we will do. Um, here you can see it's a well defined mass. And it's pressing right here on what we call the optic chiasm. And today when I was having you look at my fingers, you couldn't see them off to the sides, that's what we call bitemporal hemianopia. And explains why you have been bumping into door frames."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I never noticed that I couldn't see out of the side until you did that test, and you closed one eye with both eyes. I really couldn't tell."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No because you're having this vision loss from the mass compressing the optic chiasm, the only option we have is to do surgery."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, I understand. Do you think I'll regain my vision?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Well there's no guarantees, but it is a possibility. I'm gon na refer you to the eye doctor for a full exam and they'll do what's called visual field test. This will map our your peripheral vision or side vision prior to surgery. And we can monitor after surgery to see if your vision is improving."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "All right."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And let's discuss the surgery a little more. Um, we would do what's called a transsphenoidal approach to do the surgery. This is minimally invasive and we go through the sphenoid sinus. There are some risks I have to inform you of. Uh, risk of anesthesia including but not limited to the risk of heart attack, stroke, and death. Risk of surgery include infection, need for further surgery, wound issues such as spinal fluid leak or infection, uh, which may require long, prolonged hospitalization or additional procedure. Uh, seizure, stroke, permanent numbness, weakness, difficulty speaking, or even death."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well I guess we have to do it regardless."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. So I will have you see our surgery scheduler, deborah, on the way out to get you set up. We will get this scheduled fairly quickly so I don't want you to be alarmed. Um, she'll also get you set up today or tomorrow to have the visual field test and you may not be able to see the eye doctor until after surgery. But we have the pre-surgery visual field test for comparison after surgery."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay. I look forward to these headaches going away. I never thought it could be something like this going on."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah. Come this way, we'll get your things lined up. Please call if you think of any questions."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Thanks, doctor."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Diagnosis will be pituitary adenoma. Mr. Ward is a very pleasant 52-year-old male who has benign appearing pituitary adenoma, incidentally discovered during workup for worsening headaches. He is symptomatic with clinical and radiographical evidence of optic chiasmal compression, therefor surgical intervention to excise and decompress the pituitary fossa is indicated. End of note."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "encounterId": "aci-D2N070",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N070",
+  "split": "valid",
+  "collectionMode": "virtassist",
+  "chiefComplaint": "back pain",
+  "secondaryComplaints": [
+    "diabetes type 2",
+    "hypertension",
+    "osteoarthritis"
+  ],
+  "patient": {
+    "age": 58,
+    "gender": "male"
+  },
+  "turns": 77,
+  "wordCount": 1259,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

@@ -1,0 +1,715 @@
+{
+  "encounterId": "pm57-d5c06",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 0.88,
+      "end": 2.07,
+      "text": "Hello?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 1.65,
+      "end": 4.17,
+      "text": "Hi there, it's Doctor Smith from Babylon."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 4.54,
+      "end": 6.05,
+      "text": "Uh, hi, Doctor Smith."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 5.3,
+      "end": 10.75,
+      "text": "Hi there. Could you give me your full name, date of birth, and your, the first line of your address, please?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 11.36,
+      "end": 13.1,
+      "text": "Um, I."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 18.24,
+      "end": 24.51,
+      "text": "Your full name, date of birth, and your address, please? Yeah, OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 21.87,
+      "end": 29.21,
+      "text": "Yeah, my name is Barbara [inaudible] . Um, and my date of birth, fourth October, nineteen eighty four."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 29.06,
+      "end": 30.02,
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 30.71,
+      "end": 32.61,
+      "text": "And address fifty [inaudible] Avenue."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 32.63,
+      "end": 36.69,
+      "text": "OK. Are you in a private place so you can have a confidential consultation today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 37.19,
+      "end": 38.21,
+      "text": "Yes, I am."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 37.89,
+      "end": 39.46,
+      "text": "What can I do for you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 40.14,
+      "end": 50.25,
+      "text": "Um, I've just been [inaudible] for the past couple of days. I've been having this serious diarrhoea and this really, Giving me trouble."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 50.7,
+      "end": 52.8,
+      "text": "OK. So when did it start?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 53.71,
+      "end": 57.14,
+      "text": "It was three days ago. Now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 56.91,
+      "end": 62.72,
+      "text": "OK. And when you say diarrhoea, what do you mean by that? Is it watery or just loose?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 63.23,
+      "end": 68.26,
+      "text": "It's, it's, it's very loose but it started as being very watery."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 68.32,
+      "end": 70.94,
+      "text": "OK. And how many times are you going to the toilet?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 73.46,
+      "end": 80.11,
+      "text": "I lost count, um. Today alone, I've been at least four time."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 81.32,
+      "end": 86.61,
+      "text": "OK. And any, any high temperatures? Are you feeling feverish?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 87.12,
+      "end": 91.26,
+      "text": "Yes, I've been running a serious temperature. I'm literally boiling."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 91.15,
+      "end": 93.6,
+      "text": "Have you checked your temperature with a thermometer?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 94.5,
+      "end": 99.93,
+      "text": "No, 'cause I've not got one but like, to the touch, I'm, like, literally roasting."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 100.45,
+      "end": 105.02,
+      "text": "OK. Um, and any nausea or vomiting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 105.47,
+      "end": 116.13,
+      "text": "Yes, I've been throwing up. I can't keep to, uh, I can't seem to be able to keep anything in me. Not even water, not even my tea, not even any liquid stuff. I've just been throwing up everything."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 116.38,
+      "end": 119.69,
+      "text": "OK. And when, when were you last sick?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 120.9,
+      "end": 128.42,
+      "text": "Um, I was sick just after trying, uh, trying to have breakfast this morning, so maybe about two hours ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 128.48,
+      "end": 132.18,
+      "text": "OK. And have you been passing water OK?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 133.48,
+      "end": 137.6,
+      "text": "Yeah, I've been, I've been, yeah, urinating OK. Is that what you mean, like?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 137.03,
+      "end": 141.98,
+      "text": "Yeah, yeah, urinating, yeah. Any, and what sort of color is the urine?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 142.71,
+      "end": 146.06,
+      "text": "To be honest, I [inaudible] have a look so I really couldn't say."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 144.77,
+      "end": 149.58,
+      "text": "OK. OK. And when did you last pass urine, do you think?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 150.17,
+      "end": 154.68,
+      "text": "Um. [inaudible] an hour ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 154.87,
+      "end": 161.42,
+      "text": "OK. And any blood in the stool or in the urine that you've noticed?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 161.72,
+      "end": 162.96,
+      "text": "No blood."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 163.75,
+      "end": 169.42,
+      "text": "OK. Any episodes like this before? How's your bowels normally?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 170.49,
+      "end": 172.27,
+      "text": "Sorry, I didn't catch that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 171.57,
+      "end": 173.59,
+      "text": "How is your bowels normally?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 173.7,
+      "end": 180.73,
+      "text": "Ah, ah, my, my bowels is normally fine. I would normally go to the toilet every day. You know, in the morning, just once, yeah, and that's fine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 177.59,
+      "end": 182.75,
+      "text": "OK. Any episodes of diarrhoea or constipation normally?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 183.41,
+      "end": 184.41,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 183.53,
+      "end": 188.87,
+      "text": "And [inaudible] is there anything you think might have triggered this off? Have you been abroad anywhere?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 189.53,
+      "end": 207.63,
+      "text": "No, but then, um, my, um my brother, um, has actually been having similar symptoms, um, for the past, um, few days as well, and he does say like everyone in school's got this so, I, I don't know, that might, that might be something."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 207.16,
+      "end": 209.34,
+      "text": "So you've been in contact with him, have you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 209.59,
+      "end": 210.51,
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 210.69,
+      "end": 223.01,
+      "text": "OK. Um, and any other medical problems? Have you had any other symptoms at the moment, like rash?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 224.65,
+      "end": 227.42,
+      "text": "No, no rash, no, nothing that, um."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 225.93,
+      "end": 233.01,
+      "text": "No. OK. Um, any surgery before, or abdominal problems, or any other medical issues?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 233.77,
+      "end": 246.78,
+      "text": "Well, apart from the fact that this one is giving me abdominal pains, no previous abdominal pains before. Obviously I get the odd, um, you know, menstrual cramps and all that but, you know, that's, you know, that comes and goes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 239.37,
+      "end": 249.03,
+      "text": "Yeah. OK. And whereabouts is the pain that you're getting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 249.88,
+      "end": 261.07,
+      "text": "Um, it's kind of like towards my navel area, like I can't touch my navel area. It's just so sore. And it gets, yeah, it's almost like the center of my navel."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 260.87,
+      "end": 262.96,
+      "text": "Um, and does the pain come and go?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 264.37,
+      "end": 273.99,
+      "text": "Yes, it does come. When it comes, I feel this strong urge to go to the, to the loo, and then [inaudible] and sort of like comes again, it comes and."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 274.36,
+      "end": 279.8,
+      "text": "OK. Um, and do you take any medication regularly?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 280.61,
+      "end": 289.09,
+      "text": "Well, I, I take my, my vitamins, [inaudible] vitamin D, every day. That's about, that's about all that I regularly take."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 285.19,
+      "end": 291.49,
+      "text": "OK. And have you got a normal diet?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 292.36,
+      "end": 294.83,
+      "text": "Yeah, [inaudible] I eat well, normally."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 294.86,
+      "end": 297.32,
+      "text": "Right. Do you smoke or drink alcohol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 298.44,
+      "end": 302.03,
+      "text": "Well, I don't smoke, but, you know, I have a pint from time to time."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 302.16,
+      "end": 304.13,
+      "text": "And do you take any other drugs?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 304.99,
+      "end": 314.61,
+      "text": "No. Like I said, I only take, um, vitamins. And for my menstrual cramps, when they come, maybe I might take a, a, an ibuprofen just to ease the pain, but."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 313.48,
+      "end": 315.84,
+      "text": "And when was, when was your last period?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 316.44,
+      "end": 317.96,
+      "text": "Um, two weeks ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 318.68,
+      "end": 320.76,
+      "text": "OK. Are you on any contraception?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 321.2,
+      "end": 322.0,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 321.9,
+      "end": 324.22,
+      "text": "Are you having regular sexual intercourse?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 324.89,
+      "end": 325.79,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 325.67,
+      "end": 330.11,
+      "text": "OK. Um, and what's your job?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 331.03,
+      "end": 339.06,
+      "text": "Um, um, uh. Um, uh. A graphics designer."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 338.88,
+      "end": 341.35,
+      "text": "Have you had to miss work because of this problem?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 342.02,
+      "end": 351.04,
+      "text": "Well, yes, I've had to actually work from home today. I'm working from home today because I can't, I can't be out for work. [inaudible]"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 348.5,
+      "end": 353.14,
+      "text": "OK. [inaudible] And who do you live with at home?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 354.02,
+      "end": 356.56,
+      "text": "I live with my brother and my mum."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 356.16,
+      "end": 363.86,
+      "text": "OK. OK. And, um, have you tried anything yourself for this problem?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 364.34,
+      "end": 376.84,
+      "text": "Well, I've tried a home remedy. Um, I've tried the, the, uh, ORS, you know, thing I bought from my, my local, my local, uh. Um."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 376.31,
+      "end": 378.01,
+      "text": "What? Could you just repeat that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 378.29,
+      "end": 386.9,
+      "text": "The ORS, the, the salt sugar ORS, um, um, mix, the salt sugar mix."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 386.6,
+      "end": 389.5,
+      "text": "OK. And how often have you been taking that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 387.62,
+      "end": 395.45,
+      "text": "Yeah. I've taken that, I've taken that, like, um, three times a day for the past two days."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 395.73,
+      "end": 405.24,
+      "text": "OK. Um, and do you feel like your symptoms are easing off, or getting worse, or [inaudible] ?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 404.31,
+      "end": 415.63,
+      "text": "[inaudible] I, I, I they're not getting any better, 'cause like I said, I've been, I've been vomiting literally everything I take, so, so I doubt that even that had, had the chance to work."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 411.62,
+      "end": 473.07,
+      "text": "Yeah. OK. Um. I mean, it sounds like, because your brother's had a similar thing, it sounds like it might be some, an infectious gastroenteritis that you've got, which is usually caused by a virus. But, it can be from something you've eaten, as well. Um. If the symptoms, they do normally start to settle by themselves with the oral rehydration salts. Um, if the symptoms are continuing to get worse, the key thing is that we want to make sure that you're hydrated enough. Um, sometimes you do require certain medication to help this, if it's, sometimes if it's caused by a bacteria. Um, what I would say, probably worth as it's been going on for a few days and you feel like it's not starting to ease off. I think it's probably important to get a sample of the stool, so we can make sure that you haven't got a nasty bacterial infection which needs specific treatment."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 473.49,
+      "end": 474.49,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 474.54,
+      "end": 489.75,
+      "text": "Um, and we should also check that you're not getting dehydrated, because if you're, if you're not keeping fluid down, then you can get dehydrated. Um, so."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 487.79,
+      "end": 496.55,
+      "text": "So, how, how do I, how do I get myself hydrated when I'm not able to even, like, drink water? I'm throwing up everything."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 496.24,
+      "end": 509.86,
+      "text": "Yeah. So you need to carry on with your rehydration salts, and just have very small amounts. It's a positive sign that you passed urine an hour ago. So, you're obviously still, um, hydrated enough to pass urine."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 506.03,
+      "end": 506.75,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 509.86,
+      "end": 530.0,
+      "text": "But we, um, we should see you so that we can check your hydration and, um, get that sample sent off as soon as possible. 'cause if, if, if you come into the clinic, you can send that sample off straightaway. Otherwise, we would have to post it out to you which would take time."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 522.23,
+      "end": 534.26,
+      "text": "OK. Ohh, OK. So, when can I come to the clinic to have this done?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 534.17,
+      "end": 553.87,
+      "text": "Um, so we can, we can make you an urgent appointment, um, and then you can, you can get the sample sent off and we can check your hydration. Um, but if, in the meantime, you're feeling more unwell, then we would get you seen urgently in A and E."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 554.79,
+      "end": 555.65,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 555.41,
+      "end": 558.68,
+      "text": "So you can call us back in the meantime."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 559.08,
+      "end": 573.17,
+      "text": "OK. So, what I'll do is, yeah. If you could, please book me the appointment and, um, yeah, I'll see how I feel, um, for the end of the day. Hopefully I don't need to go to the A and E, and, um [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 571.51,
+      "end": 600.61,
+      "text": "Yeah. If you keep drinking, keep going with the rehydration salts. Just tiny sips constantly, to [inaudible] so that your stomach doesn't get overfilled and, and you vomit, so just tiny, tiny sips but just keep going with it. Um, and just have very simple food, if you're gonna have anything, like toast or biscuit or something really light like that. Avoid, um, fruit, vegetables, uh, milk, anything like that, which might just make it worse."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 593.95,
+      "end": 601.59,
+      "text": "Mm-hmm. OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 602.26,
+      "end": 606.16,
+      "text": "OK. So you'll have to book an appointment through the support line."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 603.35,
+      "end": 607.38,
+      "text": "OK. Yes, please."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 607.59,
+      "end": 612.3,
+      "text": "Right, OK. We'll do that for you. OK, take care."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 612.32,
+      "end": 613.23,
+      "text": "Thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 612.88,
+      "end": 614.18,
+      "text": "Thanks, bye."
+    }
+  ]
+}

@@ -1,0 +1,555 @@
+{
+  "encounterId": "osce-RES0195",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "What brings you in here today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah hi, I'm so over the past few months I've noticed that I get short of breath sometimes. And my eyes are so irritated. And they feel itchy and red. And I've also noticed this rash below my knees, so I just wanted to get everything checked out."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK and when did this all kind of start?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Ah it started a couple months ago like 2, 3 months ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK and when did the shortness of breath start?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That's been on and off for the past two months as well."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and how about the rashes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "The rashes started like a month back, but it looks worse now. It started off small."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, um so for the cough, is it like a dry cough or a wet cough?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's a pretty dry cough."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Dry cough OK, are you bringing up any green or yellow material or any blood at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and this also started like a few months ago?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And is it constant or does it come and go?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um it's it's getting worse now so it feels more constant now, but at first it it just came in. Yeah, it came in went."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and has this happened to you before at all of these symptoms?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Alright um. So it started a few months ago and how about the rashes? Are they have they been there like the ones below your knee since the two months? Or do they come and go?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um that's been there for the past month."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And can you describe the rash a little bit? What does it look like?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure, so it's now pretty diffuse. It's just below my knees like on my shins. It's on both sides. The one on my right side is a little bit bigger. It's about I'd say maybe like 10 centimeters and diameter. It's it's red or like a dark pink um. There's nothing coming out of it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Is it painful or itchy at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's um painful, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. What kind of paint do you feel that when you press on it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's it's not that OK, so it's not painful painful, it's tender. So if I touch it, it will feel tug tender."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Uh. Have you tried anything that has helped you relieve these symptoms?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um I took some ibuprofen that helped a little bit."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. OK, um and. So you've had the cough, but have you been having any kind of shortness of breath?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No. Well, actually sorry, sorry I have had a shortness of breath. I haven't had a cough."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so no cough, but you've been having shortness of breath."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And. When your shortness of breath is it more so that you're not able to take deep breaths, or you taking shallow breaths, how would you describe it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It just feels like, yeah, I can take in a full deep breath."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I see. And are you having any other symptoms like fevers or chills?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and how about the eye irritation? When did that start?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That started a month ago as well."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and you do you have any red eyes? Or can you see any changes in your vision at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, my eyes do look a little bit red and. I don't know if my vision changed a lot, but sometimes things will look a little bit blurry when they're far away."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And with the shortness of breath, is it brought on by exertion, or can it be at rest as well?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It can be at rest as well."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And then, do you have any other symptoms? Like any joint pains?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No no join pains."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Any nausea or vomiting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any headaches?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any muscle pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And any recent travel or contact with someone who's been sick?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you see any or do you notice any like fluid coming out from your eyes or anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no, I didn't notice that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, do you get any night sweats?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And any chest pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sometimes the shortness of breath."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, is it just like a discomfort or is it a pressure or stabbing pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Ah it just feels like a discomfort."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you feel your heart is racing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh. No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and any changes in your bowel movements at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Any changes in your urinary pattern?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Any sore throat, runny nose, any cold like symptoms?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no, but I haven been feeling um a little bit hot, so I wonder if I have a fever. I haven't checked it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, we can check. Have you had any recent weight changes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Now that you mention it, I have had some weight loss over the past um six months. I've lost about 15 pounds."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "15 pounds OK. How about your appetite? Have you been eating well?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I've been eating the same."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, OK, and have you had any exposure to any fumes, dust, animals or pets in your environment?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you been diagnosed with any medical conditions in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you take any medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um nope."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any allergies?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No allergies ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Hospitalizations or previous surgeries?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh I had a C-section for my second child."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any complications with that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, it was it was a pretty standard. I didn't have any excessive blood loss or anything like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any family history of any medical conditions like any lung or heart conditions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um no lung or heart conditions. There are some autoimmune conditions in my family though."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and what what kind of autoimmune conditions are there?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, there is rheumatoid arthritis um . There is um uh lupus. Like type one diabetes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. OK and then. Are they for any like direct relatives like your parents or or children?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, my parents."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And currently right now do you work?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I work from home. Yeah, I teach I teach online."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK and how's your living situation like right now?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Pretty good. We live in a house. I live with my husband and two children."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, um. And do you currently smoke?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And any recreational drug use like marijuana?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK and any um alcohol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I drink once in awhile like I'll have a glass of wine on Fridays."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Alright, yeah, so those are all the questions I had. Do you have any questions for me?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um no, like what what do you think I have and how should I treat it?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, so definitely one thing we need to rule out with the shortness of breath is any viral or viral infection like coronavirus so we will get a test done for you today. However, since this seems to be kind of a chronic issue, been going on for a few months and you're having with the shortness of breath, some other symptoms, the rash below knees, or is what we called erythema nodosum and irritation in your eyes and you have a family history of auto immune conditions as well. So sometimes you can get an auto immune disease that affects the lungs, so we need to rule out something like sarcoidosis which can cause fibrosis in your lungs and cause shortness of breath. So just to work that up will get a chest X Ray and also do some inflammatory marker tests like CRP, ESR and some other rheumatological tests as well, and based on what comes back we may have to refer you to a rheumatologist for further management and treatment. Yeah, so let's just do some of those tests 1st, and then we'll go from there. You have any questions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, that sounds great. Thank you so much."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You're welcome, and you may need depending on what we find, steroid treatment today or until you see the rheumatologist."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, take care."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You too."
+    }
+  ]
+}

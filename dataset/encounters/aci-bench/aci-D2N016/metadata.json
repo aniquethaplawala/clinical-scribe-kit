@@ -1,0 +1,26 @@
+{
+  "encounterId": "aci-D2N016",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N016",
+  "split": "train",
+  "collectionMode": "virtassist",
+  "chiefComplaint": "chronic problems",
+  "secondaryComplaints": [
+    "depression",
+    "hypertension",
+    "hx rotator cuff repair"
+  ],
+  "patient": {
+    "age": 59,
+    "gender": "male"
+  },
+  "turns": 69,
+  "wordCount": 1036,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

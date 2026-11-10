@@ -1,0 +1,14 @@
+{
+  "key": "nextgen",
+  "name": "NextGen Enterprise",
+  "writePath": "proprietary-unverified",
+  "writableResources": [],
+  "noteType": "progress-note",
+  "noteContentType": "text/plain",
+  "verifiedOn": "2026-11-10",
+  "sources": [
+    "https://www.nextgen.com/developer-program",
+    "https://www.nextgen.com/api/regulatory-nge",
+    "https://nextgen.com/certifications"
+  ]
+}

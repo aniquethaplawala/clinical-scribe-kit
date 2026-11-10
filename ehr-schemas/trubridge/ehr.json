@@ -1,0 +1,14 @@
+{
+  "key": "trubridge",
+  "name": "TruBridge (formerly CPSI)",
+  "writePath": "none",
+  "writableResources": [],
+  "noteType": "progress-note",
+  "noteContentType": "text/plain",
+  "verifiedOn": "2026-11-10",
+  "sources": [
+    "https://trubridge.com/wp-content/uploads/2026/06/TruBridge-FHIR-API.pdf",
+    "https://trubridge.com/fhir-api/",
+    "https://trubridge.com/solutions/ambient-listening-technology/"
+  ]
+}

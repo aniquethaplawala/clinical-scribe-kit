@@ -1,0 +1,510 @@
+{
+  "encounterId": "osce-MSK0031",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How can I help you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hi, I just was brought in here today. I had a fall just waking up coming down the stairs. I fell off the last few stairs and just fell onto the right side and on, right onto my head and now, uh I couldn't even I could barely stand up and put any weight on my hip. It's the right hip."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, Uhm, so what caused you to fall in the 1st place? Did you just lose balance, were you dizzy?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I think I just I missed, I wasn't dizzy or anything. I just missed one of the steps and just slipped, slipped down the stairs."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "But it was just the last few stairs I didn't have like I didn't hit my head or anything like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and when was this?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "This was a so I guess now two hours ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Two hours ago, OK. Has a pain been constant since?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, it's, it's really excruciating."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, does anything make it better or worse?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, it's I'm just in extreme pain. Like I I I can't even put any weight on it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so you can't, OK so you can't weight bear, and you can't walk on on that leg I guess."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mhmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Is it a sharp kind of pain or is it dull and achy?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's uh, it's pretty sharp, like if I'm not putting any weight on it right now, it's like really achy. But if I put any weight on, it's really sharp."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And where is this pain exactly? Is it just in your right hip or is it radiating up into your upper anterior lower back or down to your leg?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's in the right hip, mostly just on the side, but the pain is kind of like, all over the right side of my groin and I feel like there's some swelling there as well."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And one to 10, 10 being the worst pain ever. How bad is your pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I would say 10, like I've never experienced pain like this."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "10, OK. And do you, have you ever had pain like this before? Like have you ever had a fall in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, this isn't this is the first time I've had a fall."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any numbness or tingling?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, no, not that I can tell, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Dizziness or fainting spells?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, after the fall out like this, I I don't know if it's due to the pain, but even in the ambulance, coming out of the ambulance I was feeling a little bit dizzy, but I don't know if that's just 'cause of the pain."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any headaches?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Confusion or memory loss?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Uh, joint pains or muscle aches elsewhere?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Weight loss recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Fevers or chills?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nope."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Uhm, and rashes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any changes to your vision, hearing, smell or taste?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any, uh, you experiencing any cough, uhm, shortness of breath or wheezing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, how about chest pain or heart palpitations?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, not that I have experienced."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and how about changes your bowel movements?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nope."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, how about changes to urine?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, nothing."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And. Are you otherwise healthy? Do you have any longstanding medical conditions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, so I just have a, uhm I do have some osteoarthritis and then I have, I take this medication for blood pressure. It's called uh, Ramipril."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. OK, and is that the only medication that you're on?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, yeah. And then I'm just on vitamins like vitamin D, calcium and just multivitamins."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And are you up to date with your immunizations?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, OK. Any allergies?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no, not that I know of."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Any family history of lung or heart conditions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, I think, uh my father, he died of a heart attack in his 60s."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, OK, any musculoskeletal issues?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, no, I don't think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No. Uhm, how about autoimmune conditions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, not that I know of."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any cancers?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, I think, my, my mother had some skin cancer, but the ones that, she didn't need any surgery, they just zapped them off."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Uhm and do you smoke?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I've never smoked?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, uhm, do you drink alcohol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Just maybe like a wine, what every other day, a glass of of wine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and then do you consume marijuana in any form?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And how about in terms of where you live? Who do you live with and where do you live?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I live with uhm, just my husband and and we just live in a small apartment."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And have you been in touch with any, anyone sick recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh. No, I've I've been like at home with my husband. We haven't really left."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And have you done any travel recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, no, I've just stayed at home."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Alright, so let's move on to the physical exam part of this interview. So if you can, I'm going to get you to take a look at both your hips as well as your legs. Do you notice any redness or swelling in the area?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I do notice some swelling. It's a little bit red. I can't really see too much red."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. OK. Any muscle atrophy? Any deformities or skin changes like bruises?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, maybe some bruising, but I, I don't notice anything else."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Alright. And then when you place the back of your hand on both hips, do you notice any temperature changes? Is one side warmer than the other?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's a little bit warmer, the right side than the left."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and does one like appear to be shorter? Or does does it appear to be misaligned? Or in any sort of like strange positions like outward turning of your leg, one compared to the other?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I think it's a bit, but look at it a bit, like outward turning. And then yeah, I would say it's more outward turns."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and if are you sitting down right now?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, are you able to stand up from a sitting position?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I can try, but it's very painful."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, should I go ahead and try?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yes please."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah. So I yeah I can barely stand up. I can't, it's kind of just, I'm just supporting myself with my left like."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK and so I, I guess you can't do any of the like hip flexion or hip extension, hip abduction or addduction, correct?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I can barely move it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK alright those are all the questions that I had. Did you have any questions of your own?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I think I I just don't know if I need surgery or something."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, so it sounds like you have a hip fracture from your fall. Uhm, so, the way to treat this is a combination of surgeries and rehab and medication. So we will definitely look into the surgical option first, which is done using some internal repair with screws. Or, you can do a total hip replacement or a partial hip replacement. The orthopaedic surgeon will uh, decide like which option is best for you after we refer you for a consult with them, and then after that surgery they'll likely refer you to some rehab, so physiotherapy will focus on improving your range of motion and strengthening the muscles in that area. Uhm, and for management of pain, you can take ibuprofen or any over the counter pain medications for now. Does that sound OK?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, that sounds good. Thank you so much."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, great, no problem."
+    }
+  ]
+}

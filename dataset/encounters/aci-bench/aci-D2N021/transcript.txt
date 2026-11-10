@@ -1,0 +1,129 @@
+Clinician: Next patient is Christine Hernandez, uh, date of birth is january 13th, 1982. Hey, miss Christine, how are you doing today?
+Patient: I'm good, thanks. How are you?
+Clinician: I'm pretty good. So it looks like you've completed the covid vaccine, that's great.
+Patient: Yes, I did.
+Clinician: Anything new since your last visit?
+Patient: No, I did all the tests that you had recommended me to take. I haven't been able to take the thyroid medicine, the one that you prescribed, as I'm still taking my old one. Um, the price was a little high on the new one.
+Clinician: Okay, so did... Did you try the coupon that I gave you?
+Patient: I did not try the coupon, uh, there was a charge of $75.
+Clinician: Okay, well, next time that... That coupon should help, and it should only be about $3.
+Patient: Okay, um... I don't have it, do you happen to have another one you can give me?
+Clinician: Yep, right here.
+Patient: Wonderful, thank you so much, and... And then the gel, they are charging me $100 for it. So, I don't know if this is because it's a... It's wal-mart, or if I should try somewhere else, or... Maybe you know how or where I can get it cheaper.
+Clinician: Yeah, let's try something else, um... Sometimes it can be cheaper if we just prescribe you the individual ingredients of a medication, rather than the, the combined medication itself.
+Patient: That would be great.
+Clinician: So, that's clindamycin gel and benzoyl peroxide, uh, maybe by doing them separately, they could be a lot cheaper. So, that we can do. The unithroid, with the discount code, should only be about $9 for 90 days.
+Patient: Okay, that would be great. Yeah, they were charging me $75, and I just couldn't pay that.
+Clinician: Maybe we'll try different pharmacy, as well.
+Patient: Okay. So, do you think that my weight gain could have been the birth control that I was taking before that caused it?
+Clinician: Maybe. I don't really see an endocrine cause for it, at least, so I would need to see the, the hyperandrogynism or high testosterone. Or, a high dhea, to cause acne, or hair growth, or any of that stuff. But, the numbers aren't showing up out of range.
+Patient: Okay.
+Clinician: I really don't see any endocrine cause for it, like I said. Your growth hormone was fine, but we definitely want to and need to treat it. Um, I don't know if we talked about maybe a little weight loss study.
+Patient: You mentioned the weight loss study, and you mentioned that I have some meal plans, um, that you had given me. I still have those, too.
+Clinician: Have you tried to make any changes in the diet since the last time we spoke?
+Patient: I've been trying to get better. I will start back at the gym in july, because of my contract, I had to put a hold on it until then.
+Clinician: Okay.
+Patient: So, I do want to start doing that. I will be a little freer since, um, I'll be on vacation after july 8th.
+Clinician: Okay, good.
+Patient: And then my cousin was telling me to ask you about cla, because it's supposed to help your metabolism. Is that okay to take?
+Clinician: Um, I'm not sure. What is c, cla?
+Patient: I'm not sure what it is, either.
+Clinician: Okay, well, I'm unfamiliar with it, so...
+Patient: Okay. I also have a coworker who has a thyroid issue too, and she suggested to try chromium for weight loss.
+Clinician: So, that likely will not help too much. You can try either, if you really want to, but then... It will not accept you into the weight loss study if you try those two.
+Patient: Okay.
+Clinician: Chromium is just a supplement and it won't help that much.
+Patient: It won't, okay, thank you.
+Clinician: It won't hurt... Okay, I shouldn't say that it won't hurt, but, it also won't help that much. So, it's up to you.
+Patient: Okay. And so, my cousin also suggested amino acids, and that I might find them in certain foods, I guess, for my workout.
+Clinician: Yeah. Amino acids are fine, they won't, won't really help with weight loss either, but it might help, uh, you replenish, and just kind of, feel hydrated.
+Patient: Okay. Are they proteins? Um, my cousin said she had lost some weight, and has been working out every day, but she doesn't work, so... I don't know.
+Clinician: Yes, amino acids are what make up the protein, which is in any food you eat, with any protein. So, meats, dairy, nuts, any of that sort of thing.
+Patient: Okay, thank you. Got it.
+Clinician: All right. Um, are you allergic to any medications?
+Patient: No, not that I know of.
+Clinician: Okay. Is your s- skin pretty sensitive?
+Patient: Yes.
+Clinician: All right.
+Patient: Um, yeah, my size, I will start getting rashes, with different products.
+Clinician: And have you ever tried clindamycin topical, as an antibiotic for your acne?
+Patient: No, I've never tried anything for it.
+Clinician: Okay. We might give you some of that.
+Patient: Okay. And I also want to mention that my feet do swell up a lot.
+Clinician: Okay. I'm... Let me take a look at that for just a moment. Um, any constipation?
+Patient: Yes, I also do have that problem.
+Clinician: All right. Mira- miralax will definitely help with that.
+Patient: Okay, yes, my doctor did also recommend that.
+Clinician: Great. All right, let's do an exam real quick. Please have a seat on this table and I'll listen to your lungs and heart.
+Patient: Okay.
+Clinician: All right, deep breath. All right, again.
+Patient: Okay.
+Clinician: All right, sounds good.
+Patient: Great.
+Clinician: Let me take a look at your feet and ankles.
+Patient: Okay.
+Clinician: All right, they look okay right now, certainly let your doctor know about this if it gets any worse or reoccurs.
+Patient: Okay, I will do that.
+Clinician: Now, let's go over your lab work. So, when you took that pill, the dexamethasone test, you passed, which means you don't have cushing's syndrome. On that test, at least. The salivary cortisol, though, unless you did one wrong... Two of them were completely normal and one was abnormal, so, we might need to repeat that in the future.
+Patient: Okay, that's okay.
+Clinician: All right, so, your cholesterol was quite high. The total cholesterol was 222. The good cholesterol was about 44. The bad was 153, and it should be less than 100. The non-hdl was about 178, and it should be less than 130. The good cholesterol should be over 50, and it was 44. So, your screen for diabetes is... Was fine. You do have a vitamin d deficiency, and, I don't know if we started the vitamin d yet, or not.
+Patient: Yes, we did. I- I do need to take one today, though.
+Clinician: Okay. So, I also checked a lot of other pituitary hormones, iron levels... Everything else seemed to be pretty good, and in decent range.
+Patient: Okay, that sounds great. So, I wanted to also show you my liver enzymes, um, because I haven't come back since then... But I was also happy, because one of them was back to normal.
+Clinician: Okay, great. Let's see them.
+Patient: Okay. So, the one that's 30, that was almost 200 not so long ago.
+Clinician: Yeah, your alt was about 128.
+Patient: Okay, and, and back in october was 254.
+Clinician: Yeah, this is much better.
+Patient: Okay, great. And then it dropped in january, and then it dropped a little more in march, since I stopped taking the medicine in december.
+Clinician: Okay, that's good. So... I'm proud of you with the course of your labs, so before I forget, I'm going to, uh, just put your labs into the computer today, and I won't be checking your vitamin d level for some time.
+Patient: Okay. So, with the thyroid, and the low vitamin d, does that always happen together?
+Clinician: Um, I do have a lot of people that have thyroid, thyroid issues and they have vitamin d deficiency.
+Patient: Okay.
+Clinician: This is what I'm, um, I'm going to do. I'm going to put, print out your prescriptions, so you can shop around at the pharmacies and see if you can find better prices.
+Patient: Okay, that way I can go ask them and try cvs.
+Clinician: Yeah, that sounds like a plan.
+Patient: Okay, good. So, the weight loss study that you mentioned, when does that start? Or, how does that work?
+Clinician: So, we are about to start, as we just got approval last week, and we are just waiting on our paperwork so we can get started.
+Patient: Okay, and what's involved with that?
+Clinician: So, it'll involve you receiving a medication which has been used for diabetes treatment, and it works mostly in the gut on satiety, or satiety hormones. Um, the most common side effects are going to be nausea, vomiting, diarrhea and constipation. They are s- uh, six arms, to the study. One is a placebo, the other ones are a, various as... Various dosages of the medication, excuse me. Um, you would receive an injection once a week. Also, keep in mind that most of the weight loss medications are not covered by insurance.
+Patient: Okay.
+Clinician: So, it's a way of getting them, but, the odds of getting one of the arms with the medication that are in your favor, right, might be only one out of five of our hundred patients that we have on the list for the study that will receive the placebo.
+Patient: Okay.
+Clinician: Does that make sense?
+Patient: Yes, it does.
+Clinician: So, we do expect pretty big weight loss, because of what we learn in diabetes study. So, it's a year long, uh, process, and it's an injection once a week. You come in weekly for the first four, five weeks, I believe. And then, after that, it's once a month. You do get a stipend for partici- for participating in the study, and parking is validated, and whatever else that you need for the study.
+Patient: Okay, do you know how much the stipend is?
+Clinician: Um, I will have to double check for you, and, you don't have to be my patient, you just have to meet the criteria. So the criteria is a bmi greater than 30, if you don't have any other medical condition. Or, a bmi greater than 27, if you do have another medical condition, like your cholesterol. Um, a bmi greater than 27 would quali- uh, qualify you.
+Patient: I have a friend who might be interested, and she does have diabetes.
+Clinician: If she has d- diabetes, then she won't qualify.
+Patient: Okay, you can't if you... If you have diabetes, got it.
+Clinician: Correct. Yeah, the only thing that, um, they can not have, really, is diabetes. So, either a psychiatric disease, or schizophrenia, bipolar, things like that.
+Patient: Okay.
+Clinician: But, if they have hypertension, high cholesterol, things like that... They can definitely sign up.
+Patient: And they can, okay. Thank you for explaining that.
+Clinician: Of course. So, do you want me to try to get you into that study? Or, would you just like to try, me to prescribe something? It's kind of up to you.
+Patient: I think I'll just wait for a little bit now.
+Clinician: All right, sounds good. I'll give you the information for the research, it's just in my office. Um, it is a different phone number, though. So then, if you're interested, just call us within a month, because I don't know how long, uh, the, the wait will be.
+Patient: Okay, will do.
+Clinician: Perfect. So, let me go grab your discount card for the unithroid. Um, when you go in to activate it, the instructions are on this card, and then you use your insurance... Then, show them this, and ask how much it'll cost. If it's too expensive, just let me know.
+Patient: I will. Thank you so much for your help on that.
+Clinician: You're welcome. Then, what I did is, I gave you a topical antibiotic, plus I gave you the benzoyl peroxide. So, the peroxide may bleach your sheets, but, you want to make sure to take it and apply it at night, so you don't have a reaction from the sun during the day.
+Patient: Okay, I can do that.
+Clinician: But, you do also want to make sure that you don't mess up your sheets.
+Patient: Okay, sounds good.
+Clinician: Um, so, that's that. And then, let's see how you do on the other medications. I think this will, this will get better. In the meantime, a low-carb diet, avoid alcohol and fatty foods, and low chole- cholesterol foods.
+Patient: Okay.
+Clinician: And again, once you finish your dose of vitamin d, for the vitamin d deficiency, you're gon na start with the 2000iu daily, so that you're able to maintain those levels. Sound good?
+Patient: Yes, that sounds great.
+Clinician: I really think your liver enzymes are going to get better once you lose the weight, though.
+Patient: Okay, that would be great.
+Clinician: Since we stopped your birth control, we can try once called phexxi, which is kind of like a spermicide, basically.
+Patient: Okay.
+Clinician: And you just apply it before intercourse.
+Patient: Okay.
+Clinician: If you need some, uh, just let me know.
+Patient: Okay, I will. I'll let you know.
+Clinician: Okay, perfect. So, stay put for me now. I'm going to go see if they have discount samples, and bring you that prescription. And then, I'm going to order the labs for next time.
+Patient: Okay, great, thank you so much.
+Clinician: You're welcome. So, under the plan, under abnormal liver enzymes, they have improved since discontinuation of her birth control. Under abnormal weight gain, her dexamethasone suppression test was normal. Two out of three salivary cortisol tests were normal, not consistent with cushing's, and therefore we're ruling out cushing's. Under her hirsutism, her androgen levels were normal. For the acne vulgaris, the epiduo was not covered, so we'll try benzoyl peroxide with clindamycin, and remove the previous information. On the hyperthyroidism, we'll print out her prescriptions. Unithroid should be better priced with the discount card, and we'll repeat levels of everything before next visit. Thanks.

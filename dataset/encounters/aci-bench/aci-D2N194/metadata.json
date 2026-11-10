@@ -1,0 +1,22 @@
+{
+  "encounterId": "aci-D2N194",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N194",
+  "split": "clef_taskC_test3",
+  "collectionMode": "aci",
+  "chiefComplaint": "Left shoulder pain",
+  "secondaryComplaints": [],
+  "patient": {
+    "age": null,
+    "gender": "female"
+  },
+  "turns": 45,
+  "wordCount": 977,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

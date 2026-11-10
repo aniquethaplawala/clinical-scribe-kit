@@ -1,0 +1,220 @@
+{
+  "encounterId": "aci-D2N094",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey, ms. James. Nice to meet you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nice to meet you, dr. Cooper. How are you?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I'm well. Hey, dragon, I'm seeing ms. James. She's a 42-year-old female, and what brings you in today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I hurt my, uh, finger when I was skiing this past weekend."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Really?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah. Yeah, so, um, I was going down hill, double diamonds, uh, double black diamonds, and I just lost control, and I, you know, flipped down a few ways, but, uh, somewhere along the way, I, I jammed my, my index finger on something. I'm not sure what."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. So this happened last saturday, you said?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It was saturday, yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. So about five days of this right index finger pain."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you taken any medicine for it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I took some ibuprofen. Um, didn't really seem to help."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Have you iced it or put a splint on it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And what would you rate your pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's about a seven."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "A seven out of 10 pain. Um, and no other injuries while you went down this double black diamond?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, interestingly enough, this is the only one."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Well, I guess you escaped... I mean..."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Could have been much worse."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Could have been much worse, yes. So, um, do you have any medical problems?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um... Yeah, I'm... I have chronic constipation."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you take any medicine for it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Miralax."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And does that help?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Seems to flow nicely."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Good for you. Um... Have you ever had any surgeries before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, I had my appendix out when I was seven."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Um, let's look at your x-ray together. Hey, dragon, show me the last x-ray. All right. So looking at your right hand here, and that index finger looks great. So all the joints, bones are in the right places, no fractures, so you've got a normal right hand x-ray. Um, let's go ahead and check your finger out. Now does it hurt when I push on your finger like this?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Does it hurt when I pull your finger like this?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Does it hurt when I squeeze over this joint here?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes. Please don't do that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Does it hurt when I squeeze over this?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Um... So with your x-ray, and with your exam, looks like you have a sprain of your distar- distal interphalangeal joint. It's called your dip joint, of your right index finger, and so what we're gon na do for that is we're gon na put a splint on that right finger. I'm gon na give you a strong antiinflammatory called mobic. You'll take 15 milligrams once a day. I'll prescribe 14 of those for you. And I want you to come back and see me in two weeks, and let's make sure it's all healed up and if we need to start any hand therapy at that point, then we can. Do you have any questions for me?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No questions. Thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You're welcome. Hey, dragon, order the medications and procedures mentioned. And why don't you come with me, and we'll get you checked out?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey, dragon, finalize the report."
+    }
+  ]
+}

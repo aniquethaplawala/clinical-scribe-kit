@@ -1,0 +1,101 @@
+Clinician: Good morning ms. Reyes!
+Patient: Good morning.
+Clinician: How are you doing ma'am?
+Patient: I'm doing well doctor, how are you?
+Clinician: I am fine thank you. So you've been having some problems with your right hip?
+Patient: Yeah.
+Clinician: Okay, and where are you hurting? Can you show me?
+Patient: Right in the groin area.
+Clinician: Okay, and this has been going on since february 2020?
+Patient: Yeah.
+Clinician: Okay. And is it worse with movement?
+Patient: Well when it catches and I almost fall, yeah.
+Clinician: Okay. So it kinda grabs you?
+Patient: Yeah.
+Clinician: Okay, and this all started when you were walking?
+Patient: Well, walking around the infusion room.
+Clinician: Okay.
+Patient: So it started if I took a step back or, you know, stuff like that. Now it happens anywhere.
+Clinician: Okay, so now it hurts whenever you move?
+Patient: It hurts when I pivot.
+Clinician: Okay. So if you pivot then it hurts, got it. Um...
+Patient: Anything can sometimes do it. Sometimes it won't though, and sometimes it'll do it several times in a row.
+Clinician: Several times in a row, okay.
+Patient: And sometimes I fall.
+Clinician: Okay. And you rate the pain to range from two through seven out of 10?
+Patient: Yeah, that's correct.
+Clinician: Okay. And are you experiencing fever or chills?
+Patient: No.
+Clinician: Okay. And any tingling or numbness?
+Patient: No.
+Clinician: And have you had any problems with your bowel or bladder?
+Patient: No.
+Clinician: Okay. And if you stay still, do you feel better?
+Patient: Yes, but I don't want to stay still.
+Clinician: I understand, no problem. And for past medical history, do you have anything going on?
+Patient: I've had a lot of surgeries. I've had pcl, I had infertility, a gall bladder removed, but that's it.
+Clinician: Okay. And for family history, it looks like there's high blood pressure, diabetes, thyroid disease, heart disease, kidney disease and gastric ulcers. For your current medications, it doesn't look like you're taking anything at this time. And you're allergic to percocet, vicodin and regulin. And it looks like you've had intentional weight loss?
+Patient: Yes, I've lost 110 pounds.
+Clinician: That is awesome. And how did you do that?
+Patient: With weight watchers.
+Clinician: That's great.
+Patient: Mm-hmm.
+Clinician: And how many months have you been participating in weight watchers?
+Patient: I started in 2018, and I've been at my current weight for a little over a year.
+Clinician: That is awesome.
+Patient: Yeah, thank you.
+Clinician: Yeah, very good, and congratulations. And so, for social history, it looks like you work at an infusion center?
+Patient: Yes, over at.
+Clinician: Okay. And you live with your roommate, no history of tobacco and you limit alcohol intake to less than five drinks per month.
+Patient: That's correct.
+Clinician: All right. Well let's go ahead and take a look at your hip.
+Patient: Okay.
+Clinician: Please use my general physical exam template. Physical exam. Ms. Reyes is a pleasant 56-year-old woman who is five feet, six inches in height, weighing 169 pounds. Blood pressure is 115 over 75. Pulse rate is 67. Ankles, no ankle edema is noted, no calf tenderness. Okay, ms. Reyes, can you go ahead and stand up for me please and take a couple of steps? Great.
+Patient: Okay.
+Clinician: And can you walk on your tippy toes? Good, okay. And can you walk on your heels? Kind of a heel walk and toe walk are intact. Um, go ahead and turn around please.
+Patient: Okay.
+Clinician: Examination of the cervical spine, any pain here now?
+Patient: No.
+Clinician: Okay, no tenderness. Look at your right and your left and then over to the right, then go ahead and look up, then look down, and look straight ahead. Range of motion is full in the neck without pain. Spurling's test is negative. Exam of the low back. Any pain here?
+Patient: No.
+Clinician: Okay. Skin is intact, no midline tenderness to palpitation. Go ahead and lean back. And lean to your right, to your left. Does that hurt at all?
+Patient: No.
+Clinician: Okay, great. And go ahead and bend forward and then come back up. And that doesn't bother you?
+Patient: No. I did or do have several bulging discs.
+Clinician: Okay. But you're not hurting right now?
+Patient: No, the weight loss has really decreased all the pain.
+Clinician: Okay. Range of motion is decreased in exertion. Lateral flection without pain. Any pain when I push?
+Patient: No.
+Clinician: Okay. You can go ahead and, um, sit down please. No pain?
+Patient: No.
+Clinician: Okay. Sacroiliac signs are negative. Examination of the hips. Trochanteric is non tender. Go ahead and lift your knee up, does that bother you?
+Patient: Um, just a little bit.
+Clinician: Okay, little bit. And then back one, probably bothers you?
+Patient: Right there, like there, yeah.
+Clinician: Okay. How about this way? Not too bad?
+Patient: No.
+Clinician: Okay. Range of motion is decreased in right hip with pain in the groin and internal and external rotation. Okay, go ahead and keep it up, don't let me push it down. Does that hurt?
+Patient: Right there.
+Clinician: Okay. Resisted right hip flection causes pain in the right groin region. No tenderness is noted. Do you feel me touching you all the way down?
+Patient: Yeah.
+Clinician: Okay. Motor control is normal in the lower extremities. Go ahead and lift your knee up.
+Patient: Okay.
+Clinician: Okay, lift it up. Any pain?
+Patient: No.
+Clinician: Okay. And this one?
+Patient: Yeah.
+Clinician: And squeeze your knees together, push it out and kick your leg out straight. Now go ahead and bring it back and kick it out straight again. And go ahead and lean back, keep it loose. Okay, all set. You can go ahead and sit up now.
+Patient: Okay, thank you.
+Clinician: You're welcome. So what I think we're dealing with is right hip degenerative joint disease.
+Patient: Okay.
+Clinician: And we do have some options. So first is to start some low impact exercises. I can provide you with a hand out with what exercises you can do. You should take nsaids as needed to help with the pain and discomfort, as well as use of a cane to help offload the right side. A cane will help support your painful side to help reduce the pain.
+Patient: Hmm, I don't love that idea but I'll give it a try.
+Clinician: Okay, that would be great. And we can also try a cortisone injection into the right hip joint to see if that offers any relief.
+Patient: I would like to definitely get the injection.
+Clinician: Okay. We can take care of that today while you're here and then schedule a follow up appointment in three months to see how you're doing, and then receive another injection if needed.
+Patient: Okay, that sounds good.
+Clinician: Okay. And here are the risks associated with getting the inje- injection. Um, please just take a moment to review it and consent to the shot.
+Patient: I'm good.
+Clinician: Great. We'll get that set up for ya. All right, well I hope things, um, feel better, and we will see you back here in three months.
+Patient: See you. Have a nice day.
+Clinician: Thank you so much, you as well. Deep tendon reflex is one plus throughout. No focal motor weakness is noted. No focal sensory deficit noted. Can you please include the surgical list? Next radiographs, mr arthrogram of the right hip done june 3rd 2021 show high grade condromalacia involving the interosuperior right acetabulum with subchondral marrow edema and cyst formation. Next paragraph plan. Options include low impact exercise program, use of an nsaid and use of a cane to offload the right. We discussed that she'd like to proceed with the cortisone injection in right hip joint. I explained the risks of injection, including needles, sterile and covid. She understood and decided to proceed with the injection. She will follow up with me in three months for another injection if needed. End of dictation.

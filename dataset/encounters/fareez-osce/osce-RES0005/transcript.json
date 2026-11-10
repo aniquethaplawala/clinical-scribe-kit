@@ -1,0 +1,610 @@
+{
+  "encounterId": "osce-RES0005",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I was wondering if you could tell us what brought you in to see us."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, so I just came in. I was a bit worried because I've been having this cough for around two years, which has been getting worse. But recently I've noticed that I see streaks of blood in the sputum that I'm producing. Before it just used to be like white but now I'm seeing over the last, I would say two months occasionally some streaks of blood."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and the cough started two years ago."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And, it's been gradually getting worse over that time?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I would say so. It's getting more frequent and worse in nature."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And how much sputum are you bringing up an in a day?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Probably like a, a couple teaspoons."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and uh, is are you seeing like bright red blood when you're when you're coughing it up?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh. In this it's kind of mixed into the sputum. I would say like, but it definitely is red."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And how much blood would you say that you're you're bringing up would be teaspoons? Or a Cup? Or?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No. It's just like a little streaks. It's not really significant, it doesn't feel like the whole production of the sputum, but just like little streaks that I've noticed."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK and um is the cough worse, at any particular time of day?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, it definitely gets worse when I'm doing more activities and then also when I get like some viral infections. But other than that, it's pretty much always there."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, anything that that makes it worse? You said some viral infections. Have you had a viral infection recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, like in the last two years, I've probably had two or three viral infections, just just just cold cold symptoms."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Has there been anything that you've tried to make the cough better?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I've tried the Tylenol Cold, hasn't really worked. Tried just other over the counter medications, haven't really worked."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And prior to two years ago um, were you experiencing any similar symptoms like, uh, like this cough or bringing up blood before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "In the past, I've always had a somewhat of a cough like I have COPD. So I've always had a little bit of a cough here and there, but over the last two years I feel that it's been getting much worse."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you been diagnosed with chronic bronchitis before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Um and so with with this cough and now blood tinged sputum, have you been experiencing any other symptoms?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, I do feel sometimes I get like more tired than I used to throughout the day."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, sometimes I also feel more breathless on when I'm exerting myself more."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and have you been having any fevers or chills?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no I haven't."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How about any night sweats?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you lost any weight?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I've actually lost a significant amount of weight. I would say within the last 1 and a 1/2 months probably lost like 8 to 10 pounds."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you been trying to lose weight?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, not really I've just been sitting around like I can barely walk that much anymore too. I used to be able to walk at least 400 meters around the block, but now I can barely even go to the kitchen."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, is this because of the shortness of breath when you are are exerting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, that and I just start coughing so much that I just have to sit down."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Um, and have you been having any headaches?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No headaches."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, and how about and how is your appetite been?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, I think it's been pretty much the same. Sometimes when I'm coughing a lot, I don't feel like eating, but other than that it's been around the same."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any nausea or vomiting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any runny nose or sore throat?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And then how about a loss of smell or a loss of taste?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you been having any chest pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any heart palpitations?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nope."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any wheezing when you're breathing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sometimes I would say like when when, it gets worse when I'm exerting myself more, I I can get some wheezing."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and have you noticed any swelling in your feet or ankles?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright. And have you woken up at night extremely short of breath?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I'm pretty fine during the night."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright And, uh, have you been having any abdominal pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any urinary problems?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any bowel problems like diarrhea or constipation?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, any skin rashes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nope."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any joint pains or or muscle pains?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any weakness?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not weakness, I'll just say more fatigue."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright so I know you told me a COPD, but do you have any other medical diagnosis?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I have high blood pressure as well."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I think I have high cholesterol too."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I see, OK. Do you take any medications regularly?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, so for the cholesterol taking Rosuvastatin and I forget what I'm taking for the blood pressure, but it's pretty well under control."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, do you use any inhalers for COPD?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I used to. I used to have I think like 3 different inhalers but haven't had to use them for more than 10 years now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and what was the reason for not needing them anymore?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I just didn't have any symptoms for a pretty long time and my doc said like if I don't really need them then I could just stop."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and have you had any recent hospitalizations?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any allergies to medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nope."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any surgeries that you had in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No surgeries."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, And are your vaccinations up to date?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yup."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and could you tell me a little bit about your social situation or living situation?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, so currently I'm just living by myself in an apartment. I've been there for more than 10 years now. Um, I am retired so I'm not working anymore. But yeah, that's that's me."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, great um. What did you do previously for for work? Did you have any exposures for two chemicals or dusts or asbestos? Things like of that nature?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Oh yes, I worked in the steel factory for most of my working life. I think yeah, there might have been some exposures to chemicals and dust particles. Asbestos I don't think there was exposure, but definitely I may have lived in places that had asbestos. I mean, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, how long have you been living where you you've been now?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So this this is like the one I'm living in is a new place, but before that, I lived in another apartment for around five years and that was a pretty old building."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, do you have any pets?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No pets, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK um. And do you smoke cigarettes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I smoke, I'd say around 20 cigarettes a day right now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, and did you smoke more previously?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I think I've been smoking for almost like 40 years now and I used to smoke up to 30 cigarettes a day."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, do you smoke cannabis?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright. Do you drink alcohol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um just maybe a couple times a month. Nothing, nothing throughout the week."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so do you use any recreational drugs like IV drugs or opioids or cocaine?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright. And anybody in the family have any similar symptoms before like coughing up blood or?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No. Not that I know of. My father passed away from a heart attack when he was in his 60s. And I think my mother had a, um like I think one of the like, an arthritis. But yeah, like, but I think that was just like the one that you get with old age."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, like osteoarthritis?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah that that was the one."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Any cancers in the family?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, not that, one of my uncles had like um bladder cancer, but that's that's that's about it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and have you have you traveled anywhere recently or been around any sick contacts? Possibly people anybody who's had tuberculosis or any infections?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I've been pretty much to myself over the last few months, so not really."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK um. Was there anything that you're worried that this could be?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um Yeah, just the blood I kind of got scared maybe I thought like you know what if it's a cancer? One of my friends had lung cancer and I I know I've been smoking for most of my life, so that's something I was worried about."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, I can certainly see that the concern and I understand where you're coming from. I think it would be very reasonable to investigate that today. So we'll start with a chest CT along with some lab work and we will get a CBC and some electrolytes, also get an ECG as well to just check your heart and we will see what what the investigations show"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sounds good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and um, other things that um to think about this could be, uh, also like to COPD I know it's been going on a long time, but possibly could have a pneumonia that's been lingering on, particularly if it's a fungal type of infection and as well as things like you mentioned you possibly unsure if you've had an asbestos exposure in the past and stuff like that can possibly lead to scarring of the lung, and so all of these factors will be looked into."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "OK, sounds good. Thank you so much."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, you're welcome, thank you."
+    }
+  ]
+}

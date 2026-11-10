@@ -1,0 +1,103 @@
+Clinician: How may I help you?
+Patient: Hi there, umm, so I've had this runny nose for the past five days and it doesn't seem to be going away so I thought I should get some help.
+Clinician: OK, and ah, with the runny nose, could you describe the discharge?
+Patient: Yeah, it's, it's pretty clear.
+Clinician: OK, and have you had any nasal obstruction or feeling as though like one of your nostrils is plugged when you're breathing in?
+Patient: Uh yeah, I have that feeling.
+Clinician: OK, have you had any pain on your face?
+Patient: Pain? Ah no, nothing like that.
+Clinician: OK, how about a change to your sense of smell? Like loss of smell?
+Patient: No, I haven't had that.
+Clinician: OK. Have you had any discharge from your eyes or eye redness or any eye pain?
+Patient: No.
+Clinician: Alright, have you had a sore throat?
+Patient: Uhm, no sore throat.
+Clinician: Have you had a cough?
+Patient: No.
+Clinician: OK. Have you had any headaches?
+Patient: Ah, just a slight headache.
+Clinician: OK, I mean, have you experienced headaches like this in the past?
+Patient: Yeah, usually when I get sick, I get get a headache.
+Clinician: OK. OK, can you describe where you feel the headache the most and is it pulsating or kind of always there?
+Patient: It's kind of always there and it's just on the sides of my head.
+Clinician: OK, have you tried anything for it?
+Patient: Just some Tylenol, which seems to have helped.
+Clinician: OK. Uhm, and umm, yeah, have you had a cough?
+Patient: Ah no cough like now, uhm, I I did have a slight cough last week.
+Clinician: OK, and it went away?
+Patient: Mhmm.
+Clinician: Was it dry or did you were bringing up any sputum or phlegm?
+Patient: No, it's pretty dry.
+Clinician: OK. Uhm, and do you have a sore throat?
+Patient: No.
+Clinician: OK, and have you had any wheezing or shortness of breath?
+Patient: No.
+Clinician: OK, and have you had any chest pain?
+Patient: No.
+Clinician: How about any we, sorry, fainting or dizziness?
+Patient: No, nothing like that.
+Clinician: OK, have you had any heart palpitations or feeling like your heart's racing?
+Patient: No.
+Clinician: OK, uhm, and have you had any abdominal pain?
+Patient: Uhm, I have had some, like diarrhea so I think part like my stomach hurt a little bit during that time, but I don't have that anymore.
+Clinician: OK, when did you have diarrhea?
+Patient: Last week as well.
+Clinician: OK. Uh, was there any blood in the stool?
+Patient: No.
+Clinician: OK, have you had any changes to your urinary habits? Like any pain or frequency?
+Patient: No.
+Clinician: Alright, and have you had any nausea or vomiting?
+Patient: No.
+Clinician: How about any fevers or chills?
+Patient: Uh, no.
+Clinician: Have you had any night sweats?
+Patient: Uh, no, nothing like that.
+Clinician: I see, OK. And have you had any weight loss recently?
+Patient: No.
+Clinician: Alright, have you had any rashes or skin rashes?
+Patient: No.
+Clinician: And how about any muscle aches or or body pains?
+Patient: Oh, no.
+Clinician: Alright and how has your energy been? Have you had fatigue?
+Patient: Uhm, a little bit.
+Clinician: OK, little fatigue and and how has your appetite been?
+Patient: Appetite's been OK, I'm still eating.
+Clinician: Alright. And, uhm have you been diagnosed with any medical conditions before?
+Patient: Uh, no, I've been pretty healthy.
+Clinician: OK, great and so do you take any medications regularly, either over the counter or prescribed?
+Patient: No.
+Clinician: OK, and do you have any allergies?
+Patient: No, I don't.
+Clinician: OK, and any recent hospitalizations in the past or any prior surgeries?
+Patient: Uh, no. Actually, I had my appendix taken out when I was younger, but that was a long time ago.
+Clinician: OK, I see. And are you living, ah, can you tell me about where you're living now and who you're living with?
+Patient: I'm I'm living by myself. I'm a student. I live in an apartment.
+Clinician: OK, and are you going to classes in person right now?
+Patient: No, they're all online.
+Clinician: OK. And have, have you been around anybody who's been sick?
+Patient: No, not that I can think of.
+Clinician: OK, and have you traveled anywhere recently?
+Patient: No.
+Clinician: OK. And you smoke cigarettes?
+Patient: I don't.
+Clinician: And do you smoke cannabis or use any cannabis products?
+Patient: Occasionally, I will.
+Clinician: OK, how often?
+Patient: Uhm I will maybe smoke once a week.
+Clinician: OK, uh, and use any recreational drugs like cocaine or opioids?
+Patient: Oh gosh, no.
+Clinician: And do you drink alcohol?
+Patient: Uh yeah, occasionally.
+Clinician: OK, how many drinks would you say you have per week?
+Patient: Uhm, I'll have like a bottle of wine a week.
+Clinician: OK, and are there any heart or lung conditions that run in the family?
+Patient: No.
+Clinician: OK. How about any cancers?
+Patient: I think like colon cancer runs in the family.
+Clinician: OK, umm and alright so that was everything that I think I wanted to ask about on that on the history today. I was wondering if there was anything else that you wanted to mention that I maybe forgot to ask about?
+Patient: No, nothing else I I I was just wondering what I could do to feel better or make this go away.
+Clinician: Yeah, certainly. So, I, so it's sounds like you have the common cold or a viral illness, which it could be caused by something like adenovirus or there are others as well. However, the symptoms do overlap with COVID. As you can be like nonspecific symptoms, such as having kind of just like a runny nose like you do here, and so we will do a COVID swab and we'll await those results, but in the meantime it's mostly supportive care, so it means just trying to stay hydrated, stay rested. And just monitor your symptoms because if things do get worse, it'll be important to, uh, go to the emergency room.
+Patient: OK.
+Clinician: Alright, so we'll get the swab now and get that testing started.
+Patient: OK, that sounds great, thank you.
+Clinician: Alright, thank you.

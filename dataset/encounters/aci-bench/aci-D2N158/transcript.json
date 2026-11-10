@@ -1,0 +1,210 @@
+{
+  "encounterId": "aci-D2N158",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah so sorry so Barbara is a 31 -year-old female and she has history of diabetes type two and asthma and she is here today with abdominal pain so Barbara tell me a little more about your abdominal pain what's been going on"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So I've been having this pain for the past one week and as you know I have a longstanding history of diabetes and I guess I've been drinking too much coffee lately I don't know if that triggered my gastritis so"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I think it's been but lately"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright and so is it increasing in severity would you say or staying about the same or what"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's gradually increasing for sure"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright and along with the pain have you had any nausea or vomiting or diarrhea"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nausea and vomiting is on and off"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hmmm"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So I would say I've experienced nausea for about like three times in the past week"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay okay and and so and you vomited how many times"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "A couple of times"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright been drinking a lot of coffee you said too uh is that is that starbucks I love those nitrocolbrus and starbucks we ever had those those are incredible"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "That's"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And the venti"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah the for sure you got ta go venti on that you really have to coax them into it though they won't even give you it's it's like you need a license to get a venti on that that nitro it's so strong so that's my achilles heel I tell you but okay so you think that might have you think maybe coffee contributed to your abdominal pain uh you you you you've been drinking more coffee and maybe that's related as you're thinking"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I think so because I started last week and towards the end of last week my coffee intake was pretty bad so I've been controlling myself this week and you know I I probably just had one cup"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay yeah okay and so is the pain in your upper abdomen or where in your abdomen is it"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's on both the sides of my upper abdomen"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hmmm okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So I it also increases when I work out like if I wan na jog or like go for a run my abdominal pain just like spikes you know so I have to take it easy"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright understood you've not had any fever with that pain have you"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No I haven't"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright and so how about your diabetes how's your diabetes been doing how your blood sugars been what low one hundreds two hundreds where where is it"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I think it's been under control it's eight hundred so"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay good and you're still taking the metformin five hundred milligrams once a day right no actually it looks like last visit we increased that to five hundred milligrams twice per day is that correct"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes that's probably helping me keeping it under control so"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay good good and then for your asthma have you had any recent asthma attacks and are you still taking the flovent twice a day and albuterol as needed for wheezing"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes but sometimes I forget you know I haven't had any asthma attacks lately so I just figured I could decrease"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yep okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I think that's a good decision though"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah well better to stay on the flovent daily and then just use the albuterol if you need it but if you stay on the flovent daily it will decrease the frequency of those attacks so yeah alright well let's go ahead and examine you okay so on your physical exam it's pretty normal for the most part unremarkable but I I'll I'll say on your on your heart exam you do still have a grade three out of six systolic ejection murmur that's unchanged from your prior exam and and I'm not worried about that we're kinda watching that but it just means I hear some heart sounds when your valves are moving and otherwise normal heart exam for your abdominal exam you do have mild tenderness in the epigastrium of your abdomen your abdomen's otherwise soft there's no tenderness in the right lower quadrant whatsoever and there is no significant tenderness in the right upper quadrant so I think you know that's right where your stomach is in the upper abdomen so I think that you know that may be you may be right this could be some gastritis so so then otherwise on your exam on your lung exam you do have some mild end expiratory wheezes very faint and otherwise normal lung exam with excellent air movement and otherwise pretty normal physical exam so let's talk about your my assessment and your plan here so first of all for the first problem of the abdominal pain I do think that you have acute gastritis and I think this is probably related to the caffeine intake and I I know that you've had a a moderately heavy history of alcohol use too so I want you to cut back on the alcohol as well you know keep that down to a dull roller like maybe keep that less than two or three drinks a week would be great and then also cut back on the caffeine and that should help and I'm going to write you a prescription for zantac as well as we need and so I'll write you a prescription you can take that twice a day that should help with the acid in your stomach and the pain and then I'm going to check a urinalysis a urine pregnancy test a cbc a comprehensive metabolic panel as well and we'll see what those results show just to be sure it's nothing else going on and then for your second problem of diabetes type two let's continue you on the metformin but I wan na adjust the dose slightly I'm gon na increase the morning dose to one thousand milligrams and the evening dose we can keep at five hundred so we'll go metformin one thousand milligrams in the morning and five hundred milligrams in the evening please continue to check your blood sugars let me know what they are when you come back you know we just keep track of those and then we'll see you back in four weeks by the way I wan na have you follow up with me in four weeks and for your third problem of asthma let's continue you on the flovent that seems to be doing pretty well continue to take that daily and then also albuterol as needed so how does that sound for a plan any other questions comments suggestions"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That sounds good and I also feel like I'm eating been eating a lot of spicy food"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hmmm"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Lately that could be contributing towards my gastritis so I'm gon na cut back on that as well"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay yeah I'd also recommend while this is hurting you definitely cut back on the spices the spicy food easier said than done sometimes I know but yep yep alright sounds good well listen I'll see you back in four weeks give me a holler if if you have any questions or anything else in the meantime"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I will"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright you take care sure you got"
+    }
+  ]
+}

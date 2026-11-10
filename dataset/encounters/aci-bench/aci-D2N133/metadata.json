@@ -1,0 +1,26 @@
+{
+  "encounterId": "aci-D2N133",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N133",
+  "split": "clinicalnlp_taskC_test2",
+  "collectionMode": "virtassist",
+  "chiefComplaint": "joint pain",
+  "secondaryComplaints": [
+    "carpal tunnel release",
+    "chronic back pain",
+    "depression"
+  ],
+  "patient": {
+    "age": 27,
+    "gender": "female"
+  },
+  "turns": 57,
+  "wordCount": 876,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

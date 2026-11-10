@@ -1,0 +1,73 @@
+Clinician: Hi, brian. How are you?
+Patient: Hi, good to see you.
+Clinician: It's good to see you too. So, I know the nurse told you a little bit about Dax.
+Patient: Mm-hmm.
+Clinician: I'd like to tell Dax about you, okay?
+Patient: Sure.
+Clinician: So, Brian is a 58 year old male with a past medical history significant for congestive heart failure and hypertension, who presents today for follow-up of his chronic problems. So, brian, it's been a little while I've seen you.
+Patient: Mm-hmm.
+Clinician: Whats, what's going on?
+Patient: I, I just feel out of sorts lately. I don't know if it's the change in the seasons or if we're just doing a lot of projects around the house and, and some, some construction on our own. I'm just feeling out of it. Lack of, uh, energy. I'm just so tired and fatigued, and I feel kinda... I feel lightheaded every once in a while.
+Clinician: Okay. All right. Um, how long has that been going on for?
+Patient: Uh, probably since labor day, so about five weeks or so.
+Clinician: Okay. And, have you noticed any, like, symptoms of weight gain, like, like swollen legs, or, you know, your belly feels bloated and things like that?
+Patient: I feel, I feel bloated every once in a while.
+Clinician: Okay. All right. Um, and, are you taking your, your medications?
+Patient: Uh, yes, I am.
+Clinician: Okay. And, how about your diet? Are you watching your diet?
+Patient: Uh, it's been a little bit of a struggle. We began construction on our kitchen over labor day weekend, and it was... Hard to cook or prepare meals so we ate out a lot, and not always the best food out. It, it, it kind of reeked havoc, uh, so it's been maybe off a little bit.
+Clinician: Okay. All right. And, how about, you know, other symptoms, like, have you had a fever or chills?
+Patient: No.
+Clinician: Okay, and any problems breathing? Do you feel short of breath?
+Patient: Uh, just when I'm doing doing the projects. Again, not even lifting anything really heavy, it's just that if I'm ex- exerting any energy, I, I kinda feel it at that point.
+Clinician: Okay. Do you have any chest pain?
+Patient: Slight cramps. That seems to go away after about, maybe about an hour or so after I first feel it.
+Clinician: Okay, and how about a cough?
+Patient: A, a slight cough, and again, I'm not sure if it's just the change of seasons and I'm getting a cold.
+Clinician: Mm-hmm. Okay. All right. Well, you know, for the most part, how, you know, before all of this-
+Patient: Mm-hmm.
+Clinician: . How were you doing with your heart failure? I know that we've kinda talked about you being able to watch your healthy food intake and that's been kind of a struggle in the past.
+Patient: I, I, I've actually been pretty good about that ever since. The, the, the last year, it's been a little chaotic, but I wanted to make sure I stayed on top of that.
+Clinician: Okay. All right. Are you excited for halloween?
+Patient: Uh, can't wait.
+Clinician: Okay.
+Patient: Our home renovations should be complete by then
+Clinician: All right, yeah, right.
+Patient: Yeah.
+Clinician: And, so, lastly, for your high blood pressure, how are you doing with that? Have, are, did you buy the blood pressure cuff like I asked?
+Patient: Yeah, I, I did, and we do mon-, I, I monitor it regularly. My wife makes sure I stay on top of that, but it's been pretty good.
+Clinician: Okay. All right. Well, I know you did the review of systems sheet when you checked in, and you were endorsing this fatigue-
+Patient: Mm-hmm.
+Clinician: . And a little dizziness and we just talked a lot about a lot of other symptoms.
+Patient: Mm-hmm.
+Clinician: Any other symptoms I might be missing? Nausea or vomiting, diarrhea?
+Patient: No.
+Clinician: Anything like that?
+Patient: No.
+Clinician: Okay. All right. Well, I just want to go ahead and do a quick physical exam.
+Patient: Mm-hmm.
+Clinician: Hey, dragon? Show me the vital signs. So, looking at your vital signs here in the office, everything looks good. You know, your blood pressure and your heart rate and your oxygenation all look really good.
+Patient: Mm-hmm.
+Clinician: So, I'm gon na just take a listen to a few things and check some things out, and I'll let you know what I find, okay?
+Patient: Perfect.
+Clinician: Okay. So, on your physical examination, you know, I do appreciate some jugular venous distention to-
+Patient: Mm-hmm.
+Clinician: To about eight centimeters. On your heart exam, I do appreciate a three out of six systolic ejection murmur, which we've heard in the past. And, on your lung exam, I do appreciate some fine crackles at the bases bilaterally, and your lower extremities have, you know, 1+ pitting edema. So, what does all that mean? That means I think you're retaining a little bit of fluid.
+Patient: Mm-hmm.
+Clinician: Okay? I wan na just go ahead and look at some of your results, okay?
+Patient: Sure.
+Clinician: Hey, dragon? Show me the chest x-ray. So, looking here at the results of your chest x-ray, it does look like you have a little bit of fluid in your lungs there, and that can be just from, um, your heart failure, okay? Hey, dragon? Show me the echocardiogram. So, this is the echocardiogram that we did about four months ago, and this shows that the pumping function of your heart is a little bit reduced at 45%, and it also shows that leaky valve, the mitral regurgitation that, that you have, okay? Um, so, let me just go over and talk about, a little bit, my assessment and my plan for you.
+Patient: Mm-hmm.
+Clinician: Okay? So, for your first problem, your congestive heart failure, I think you're retaining fluid, and I wan na go ahead and increase your lasix to 80 mg once a day.
+Patient: Mm-hmm.
+Clinician: I want you to weigh yourself every day. I want you to call me if you're gaining more weight.
+Patient: Mm-hmm.
+Clinician: And, I certainly want you to call me if you have any other symptoms of shortness of breath, and I wan na go ahead and order another echocardiogram, okay?
+Patient: Sure.
+Clinician: Hey, dragon? Order an echocardiogram. Lastly, for your high blood pressure, it looks like you're managing it well at this time, okay? So, I wan na go ahead and continue with the lisinopril 20 mg a day. I want you to continue to record your blood pressures at home, and report them to me in the patient portal if you see they're getting elevated, okay?
+Patient: Mm-hmm.
+Clinician: Does that sound like a plan?
+Patient: That sounds fine.
+Clinician: Okay. Um, I'm gon na be in touch with you after we get your test results, and we'll go from there, okay?
+Patient: Sure.
+Clinician: All right. Hey, dragon, finalize the note.

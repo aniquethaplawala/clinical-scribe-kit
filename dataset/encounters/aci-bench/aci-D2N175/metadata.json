@@ -1,0 +1,26 @@
+{
+  "encounterId": "aci-D2N175",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N175",
+  "split": "clef_taskC_test3",
+  "collectionMode": "virtassist",
+  "chiefComplaint": "abnormal labs",
+  "secondaryComplaints": [
+    "hypertension",
+    "type 2 diabetes",
+    "hx right acl repair"
+  ],
+  "patient": {
+    "age": 39,
+    "gender": "female"
+  },
+  "turns": 41,
+  "wordCount": 880,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

@@ -1,0 +1,24 @@
+{
+  "encounterId": "aci-D2N100",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N100",
+  "split": "clinicalnlp_taskB_test1",
+  "collectionMode": "virtscribe",
+  "chiefComplaint": "acne",
+  "secondaryComplaints": [
+    "moles"
+  ],
+  "patient": {
+    "age": 15,
+    "gender": "female "
+  },
+  "turns": 34,
+  "wordCount": 772,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

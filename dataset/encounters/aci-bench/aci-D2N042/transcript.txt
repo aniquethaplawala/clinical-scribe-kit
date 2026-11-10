@@ -1,0 +1,39 @@
+Clinician: Good morning Carolyn how are you
+Patient: I'm doing alright other than this ankle pain I've been having
+Clinician: So I see here that you hurt your right ankle can you tell me what happened
+Patient: Yeah so yesterday I was going to take out the trash and it was quite icy I thought I was doing okay job and I just slipped and and fell and I'm pretty sure I heard a pop
+Clinician: Okay and you said this happened yesterday correct
+Patient: Yeah
+Clinician: Okay and have you been able to walk on it at all
+Patient: No I was so initially when I first fell I was unable to walk at on it at all I had a friend that was visiting and so she heard me fall so she helped me inside now today I have been able to put a little bit more weight on it but I'm still limping
+Clinician: Okay and then what have you been doing for your foot or ankle pain since that happened
+Patient: So I like iced it last night and kept it elevated and I also took some ibuprofen last night and this morning before coming in today
+Clinician: Okay and can you rate your pain for me
+Patient: I would say right now it's like a four out of ten
+Clinician: Okay and does the ibuprofen help with that pain
+Patient: It does it does help with the pain
+Clinician: Okay and when you take your ibuprofen what can you what's your pain level then
+Patient: So this so what did I just say four
+Clinician: Yes ma'am
+Patient: Four out of ten so four out of ten is with ibuprofen
+Clinician: It's with ibuprofen okay what's your pain level without then
+Patient: I would say probably a six
+Clinician: Okay
+Patient: I'm sorry it's a six out of ten without ibuprofen and it goes down to like a one with ibuprofen
+Clinician: Okay alright that that sounds good have you ever injured that foot and ankle before
+Patient: You know I've had a lot of injuries to my ankle but I've never hurt this ankle before I just realized an error
+Clinician: Okay you know and I see here that you have a history of playing sports looks like you played soccer in college and then played a little bit of a inner marrow soccer now
+Patient: Yeah
+Clinician: I'm I'm guessing you probably haven't been able to do that since you hurt your ankle
+Patient: No I have not been
+Clinician: So did you hear about the new major league soccer stadium and team that's coming to town they opened in the this year actually they built the stadium have you been down there yet
+Patient: No I have to get there
+Clinician: Yeah we are all excited it's going to be a good time well have you experienced any numbness or tingling in that right foot
+Patient: No
+Clinician: Okay so if it's okay with you I would like to do a quick physical exam your vitals look good and everything there looks okay now I'm gon na do a focused exam on your right ankle I do appreciate some ecchymosis or bruising over the lateral malleolus malleolus associated with some edema or swelling of that area you are positive for tenderness to palpation of the anterior lateral soft tissue and now I don't appreciate any laxity on anterior drawer and inversion stress there is no bony tenderness on palpation to that foot or ankle area now on neurovascular exam of your right foot you have brisk capillary refill of less than three seconds strong dorsalis pedis pulse and your sensation is intact to light touch and all of that is consistent with what's present on your left side as well so I did review the results of your of your x-ray the x-ray of your right ankle showed no fracture which is a good thing so now let me talk to you a little bit about my assessment and plan so for the first problem of right ankle pain your symptoms are consistent with a right ankle sprain or I'm sorry right ankle sprain of your lateral ligament complex more specifically your anterior talofibular ligament now this ligament's on the outside of your ankle ankle which got stretched when you fell the best treatment at this time for your sprain is to keep your leg elevated when you're seated and let's continue to ice okay you're gon na be given an air cast which is gon na help stabilize that ankle and I'm also going to prescribe some crutches because I want you to stay off that leg and start walking on it stay off your leg for now and then in a couple of days start walking on it as tolerated do you have any questions or concerns for me
+Patient: So how long do you think it'll take to heal
+Clinician: So your symptoms should significantly improve over a few weeks but I'd like to follow up with you and see how you're doing let's say I'll see you again in fourteen days now I do want you to go ahead and continue to take nsaids or ibuprofen as needed to help with any pain and that's also gon na help reduce that inflammation and swelling okay
+Patient: Okay
+Clinician: Alright I will see you again in two weeks Carolyn
+Patient: Great thank you
+Clinician: You're welcome

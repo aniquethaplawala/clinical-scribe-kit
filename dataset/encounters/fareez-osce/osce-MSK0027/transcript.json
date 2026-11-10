@@ -1,0 +1,605 @@
+{
+  "encounterId": "osce-MSK0027",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How may I help you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hi, I'm here with my 3 year old daughter and she's been holding her elbow awkwardly and um she seems like she's in pain and so I was just wondering if like something happened to her elbow and if you can fix it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah for sure. OK so. Is she holding her arm, like any particular position, like with her elbow, kind of flexed or is her arm extended?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's it seems kind of flex is holding it awkwardly and she can't she she's not, she's not stretching it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, uhm. And when did this start, when did you first notice?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I notice this yesterday."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And and I, had she been holding her, her arm, kind of like this the whole time?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, there's just like a slight bend to it. It's not fully straightened. It's not fully like fully flexed. It's just kind of hanging out her side."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, um and. Has there been anything that's made the pain worse?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm no, I don't think so, I think. No, I think she she's just been holding it awkwardly like that I I'm assuming so it doesn't cause more pain."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and is the pain sharp, burning or achy?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I think it's it's. It's sharp."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "A sharp pain, OK and does the pain radiate anywhere else like pain in the hand or wrist, or pain up into the arm or shoulder?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and has there been like was there anything that happened around the time that you first noticed her holding her arm like this, such as a fall, or maybe like somebody pulling on on her hand like swinging her from her arm or anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um I know her father was swinging her arms yesterday, They were playing in the park, so maybe."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so just uh, she's swinging from arms yesterday, OK and. Has she talked about having any numbness or tingling?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And any muscle weakness that you've noticed?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Ah no, no muscle weakness."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And has she had any? Fevers or chills."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and it has she had any headaches?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Has she had any sensory changes like any issues with vision or hearing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "any issues with sense of smell or taste?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How she had a cough or sore throat."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, has she had any night sweats?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And has she had any weight loss?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK.  And you has she had a runny nose or sore throat?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How about a cough or shortness of breath?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Has she had any wheezing or chest pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, and any abdominal pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any nausea or vomiting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "any diarrhea, constipation, or blood in the stool?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any changes to her urinary patterns?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and as you had any appetite loss?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How is your energy been?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's been the same she's just not doing as much because her arm is in pain."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, but no fatigue?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I see OK. And how about any memory loss or confusion?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Does she have any muscle aches or body pains or or any joint pains anywhere else?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and how about skin changes such as rashes or any changes to her hair or nails?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And in the past, has she had any medical problems or has she been diagnosed with any medical conditions before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, she's been pretty healthy otherwise."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, does she take any medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Did she have any allergies?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And has she been hospitalized for any reason or has she had any surgeries?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any concerns for reaching developmental milestones such as walking, talking and like social interactions."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No. No issues there."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No problems?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK and then how about like just growth and and development? Is she getting taller and I'm gaining weight?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah like that's been pretty good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, well that's good and were there any concerns with the pregnancy with her? Any like gestational diabetes, high blood pressure or infections?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No everything went smoothly."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, was she at term or where she pre term?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "She was at term. She was like a 37 1/2 weeks or something like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, And was it vaginal delivery or c-section?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It was vaginal."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and was there any reason for her to stay in hospital afterwards?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And can you tell me a little bit about the living situation currently like who is the primary caregiver for her and like who she who she's living with then whereabouts?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And she's living with both her parents and myself as well as her dad. And she has a 7 year old brother and we live in a house just outside of London."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I see OK and is she going to daycare right now or anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Umm no she's she's at home with me."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, she been around anybody who's been sick,"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And have you traveled anywhere?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, an any concern for like physical or emotional violence in the home?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and is there anybody who smokes in the home?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm no, no one smokes at home."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And are there any musculoskeletal or neurological conditions that run in the family?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How about any heart or lung conditions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so I ask you to just have a look at her elbow now and."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Let me know the if you're seeing any swelling or redness?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "OK. And so the elbows look fine, neither elbow appears red or swollen."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and. Are you seeing any muscle atrophy or any joint deformity or or malalignment?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I don't see that. I also actually it might be slightly. It looks a little bit awkward the way she's holding it, so I can't tell if it's misaligned."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and any skin changes over the elbow?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright Ann. If you were to press over various portions of the elbow, are there any areas that cause pain like the lateral side, medial side, or anterior posterior?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It hurts she's in pain whenever I touch anywhere near the elbow area."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and um is there any pain with with movement?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes. Whenever I tried to bend it or straighten it out all the way she she complaints of pain."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, how about moving the rest or shoulder?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, that's fine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so that that was everything that I wanted to ask about and and look for on the physical today. Did you have anything else that perhaps I forgot to mention that might be important?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm no that was kind of it, I just was wondering how we can fix her elbow."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I yeah certainly so. It will be so when I get an elbow X Ray. And. But typically to fix this type of injury, so currently I'm thinking this could be a like a radial head subluxation, and possibly a radial head fracture, but most likely I radial head subluxation, where there's a mechanism of pulling on a child's arm. And it's just that the what could happen is the part of the radius, which is that a forearm bone can pull out of the ligament that's holding it down."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "An just because of the structures there, not yet fully matured and strong, and somebody who's that young. And so it will cause pain reduced range of motion at the elbow and you won't really see much swelling or redness, and with just the physical exam maneuver you can reduce it and then put the head of the radius back into place and things will be usually back to back to normal. But if there is a fracture which will look for an X-Ray then there the pain might be last a little bit longer, but immobilization of the arm is not required and most kids will regain full mobility in in a short time after the reduction."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "OK, that sounds good, thank you."
+    }
+  ]
+}

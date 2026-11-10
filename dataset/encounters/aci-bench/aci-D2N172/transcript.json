@@ -1,0 +1,235 @@
+{
+  "encounterId": "aci-D2N172",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Morning Roy, how are you doing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hey, good to see you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So, my nurse told you a little bit about Dax? So, if you don't mind, I'm going to tell Dax a little bit about you today."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Perfect."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Great, great. So, Roy is a 50-year-old male patient who comes in with a history of depression, you had some, um, high blood pressure and some hypertension. So, tell me how have you been doing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure. So it's been a, a pretty stressful winter and spring. And, uh, we've been onboarding a couple new employees and we have been pretty short-staffed in the meantime."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, any changes in, um, weight gain or anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Probably for the last month or so, we've been hosting some friends over vacation, and on... You know, at the beach in the summer, so the diet is off the charts."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Okay. Gotcha, gotcha."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Out the window."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Out the window. Okay. And, um, now I know you've had a history of depression. You're on zoloft, uh, 50 milligrams a day. Have you been doing okay with that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, for the most part. Again, it's been kind of a challenging year-and-a-half or so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Sure."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So I have my bouts. But I- it- it's under control."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Uh, sleeping okay at night?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Occasionally?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I, I could use more sleep like everybody."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "But, uh, I'll, I'll usually wake up at about 5:00 in the morning."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Which is a little early."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Uh, no feelings of, uh, you want to hurt yourself or anybody?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, good, good. And, um, your high blood pressure, um, that's been under relatively good control recently. Have you found that? Your blood pressures have been okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes. That's why this is a little concerning to me, because of the, uh, recent, the recent readings."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, gotcha. Gotcha. Okay. So, um, if you don't mind, I'm going to do a quick exam. Okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. So, um, on my physical exam, your lungs are clear. Your heart is, is regular. You do have a grade two systolic ejection murmur. We've had that before, so nothing new-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": ". There. Um, and not clinically relevant at all. Um, your extremities are normal, no edema. Um, you have put on a c- a, a little bit of weight."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I want you to get back on that diet."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Because that's the key. Right?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "As far as your high blood pressure, not going to change anything there. Okay? We'll just leave you on your lisinopril 5 milligrams a day, that's good."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "That's also good for your kidneys, so everything, everything good... Is good there. Your third problem is your depression. Been a rough year. Some of that's just normal reactive stuff. So I think we'll just keep you where you are at. Not going to change the zoloft. Do you need a refill on your zoloft?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, actually I do."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Hey dragon, order a zoloft 50 milligrams daily. We'll get that refilled for you. Okay? So, um, I'd like to see you back in about a month, an- and then in about, uh, three months Okay."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "A1c, if everything's getting back on track. Okay? Anything else I can do for you today?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No. That should do it."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay. Come with me, we'll get you checked out. Hey dragon, finalize the note."
+    }
+  ]
+}

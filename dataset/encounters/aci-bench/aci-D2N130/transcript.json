@@ -1,0 +1,390 @@
+{
+  "encounterId": "aci-D2N130",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hi, Anna, how are you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm doing okay. How are you?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I'm doing well. Uh, so I know the nurse told you a little bit about Dax. I'd like to tell Dax a little bit about you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. So, uh, Anna is a 26-year-old female with a past medical history, significant for epilepsy, depression, and, uh, peptic ulcer disease, who presents with, uh, some joint pain. So, Anna, what's going on with your, uh, what's going on with your joints?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So, um, it's my left elbow that's really been bothering me. Uh, I sit at my desk a lot for work, and type, and I stay in this motion specifically all day. And then after, um, work, it's really hard for me to, uh, open and, and close my, my elbow here, my left elbow, and it's been just really stiff and, and hurts."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Have you noticed any swelling there on the-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I have."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and is it right here on the, on the tip?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yep, it is."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and are you right or left-handed?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I am right-handed."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, so it's your non-dominant hand?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, which is good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So, I can still write, which is great, but typing is, is difficult."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and any numbing or tingling in your hands at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I haven't felt numbing or tingling."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And any weakness in your arm?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "A little bit of weakness, uh, but nothing too significant."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and... And how about.. And how about, um, any fever or chills?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No fever or chills."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right, well, let's talk a little bit about your epilepsy, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, have you had any recent seizures?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no, I haven't. I think my last seizure was a year ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, good."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And you're still taking the keppra?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, I am."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, great. And then, tell me a little about your depression. How're you doing with that? I know that you went into therapy last year, and you tried to avoid medication since you're already on the keppra. How's that doing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, therapy, therapy's been good. It, it has definitely helped. Uh, I still feel a little down, uh, and, and stressed."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right, but no, no feelings of wanting to hurt yourself or somebody else?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. And then, how are you doing with your, with your ulcer? I know that you, you know, you had so much stress a year ago and, you know, you were having some issues there. We did the endoscopy-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": ". And they showed that. So, how are you doing with that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm doing, I'm doing better. I haven't had any, um, issues with that, um, since we did the procedure, and everything's been good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, well great. Let's go ahead and... I'm gon na go ahead with, um... And, you know, I know that the nurse did a review of systems sheet on you when you came in, and I know that you were endorsing that left elbow pain."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any other symptoms, you know, chest pain, shortness of breath, abdominal pain, nausea or vomiting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, nothing like that. I have a little bit of nasal, nasal congestion from allergies, uh, but that's it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, so you're endorsing some nasal congestion?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right, well, let's go ahead to a physical exam, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey, dragon, show me the vital signs. Good, here in the office, everything looks great with your vital signs. I think that's great, so I'm just gon na take a listen to your heart and your lungs, and take a look at your elbow and, and we'll go from there, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right, so, so on physical examination of your left elbow, you do have some erythema and edema of your left elbow. Does it hurt when I touch?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, it does."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, he... She has some pain to palpation of the olecranon. Of the left olecra- olecranon, and it is warm to palpation. Um, can you straighten your elbow for me?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, it, it hurts, and it's, uh, it's a bit stiff."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, so she has pain with flexion and extension of the left elbow. There's a palpable right... Or s-... Palpable left radial pulse. Okay, um, so let's go over... I just wan na take a look at some of your results, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey, dragon, show me the left elbow x-ray. Hey, dragon, show me the elbow x-ray. Hey, dragon, show me the left arm x-ray. Okay, so, in reviewing the results of your left arm x-ray, there's no evidence of any elbow fracture, which is not surprising, okay? Hey, dragon, show me the endoscopy results. Hey, dragon, show me the endoscopy. Okay, well, your recent endoscopy showed that you... Hey, dragon, show me the endoscope. All right, so here it looks like, you know... Your endoscopy results look like you had an episode of gastritis. That's for your, your peptic ulcer disease, and so everything, you know... You took your, your protonix, and I think everything resolved at that point, okay."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So, let's talk a little bit about my assessment and my plan for you. So for your first problem, this left elbow pain, you know, I think you have olecranon bursitis, and we're just gon na, you know, have you, you know, get a little pillow for your elbow there. It's just caused by repetitive trauma."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So, maybe you're slamming your elbow down a little bit on the desk, so just get a little rest there-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": ". And we'll give you some melo- meloxicam, 15 mg, once a day. You can ice the area, okay? Um, for your next problem, the epilepsy, sounds like you're doing really well. I would go ahead and continue with the keppra, 500 mg, twice a day. Do you need a refill of that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, I do."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey, dragon, order a refill of keppra, 500 mg, twice daily. For your third problem, the depression, it sounds like you're doing well with the therapy and, if you want, we can talk about medical treatment options."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I think that would be great."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, well, let's go ahead and we'll start you on some lexapro, 10 mg, once a day, and we'll see how you do on that, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right, and then, for your last problem, the peptic ulcer disease, um, I want you to continue on the protonix, 40 mg, once a day before meals, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you have any questions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I don't."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. Well, the nurse will come in soon and see you, okay, and I'll, I'll see you in a couple of weeks."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right, take care. Bye."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Bye."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey, dragon, finalize the note."
+    }
+  ]
+}

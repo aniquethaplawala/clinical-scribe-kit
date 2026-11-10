@@ -1,0 +1,390 @@
+{
+  "encounterId": "aci-D2N166",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey Kyle so I see here on your chart that you've been having some back pain could you tell me like how you've been doing what's going on"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I have this real bad low back pain it started a couple of weeks ago I was lifting something and I just felt a pop and I I don't know what's going on"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and so you were like moving what what were you moving exactly when you say lifting"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I was lifting a box of books"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright did we use proper lifting technique do you wonder"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You know probably not"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright I'm sorry about that alright can you describe the pain for me"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I I feel like kind of it's like achy and sharp"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Oh"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "In in my low back"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Uh uh and does the pain like radiate anywhere"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You know it didn't at first but now I'm feeling it's kinda starting to shoot down my left leg"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright and how is positioning for you does any sitting in any particular position hurt more or hurt less"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No sitting is usually okay for me"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mm-hmm okay and then do you have any numbness or tingling associated with the pain"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright any loss of sensation"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay how yes sir okay how about any weakness"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No I don't feel any weakness"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and I know this sounds like a weird question but I do need to know do you experience any loss of control of your bladder or bowels"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright this this is a no judgment zone I there I'm working through some things in my head to make sure that I give you the best care that we need right I'm making a plan as we move along you mentioned that the pain has been getting worse have you done anything or tried anything that's worked in the past"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I tried to take some ibuprofen and tylenol"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That that sometimes helps"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright and has anyone discussed the option of like just no has anyone discussed surgery with you"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No this is the first time I'm talking about it"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright that's good so what is your like how what is your activity level right now that I know that you're you know an olympic weightlifter with books what else do you do to like exercise"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You know I try to exercise a few times a week but I'm pretty inconsistent I have a sedentary job"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright and has this like pain started to like affect you like in your job or anything like that"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not my job but I feel like I don't want to be as active as I was previously"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright so do you have any family members that have spine conditions"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah my dad has back pain"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright and then do you smoke"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't smoke"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay awesome alright so sorry one question did you do you have a history of playing sports"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay what did you play"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Soccer"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay what position"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I played midfield"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay the people who hide in the back that's fine I was centered forward fine no baby do you have a team that you wrote for"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You know I am a tatnham hotsper fan"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "They have the best colors not going to lie but I I grew up manu so sorry"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well I won't fault you for that"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Thanks okay so if you don't mind I'm gon na go ahead and do my physical exam I'm gon na call out my findings just to have them recorded and if you have any questions please feel free to stop me and let me know okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright so looking at your vitals your blood pressure seems alright we are in like the one thirty over seventy range that's perfectly fine your respiratory rate I have you at an eighteen again pretty normal when I listen here to your heart you have a regular rate and rhythm I don't appreciate any murmurs rubs or gallops that means your heart sounds great on your respiratory exam your lungs sound clear to auscultation bilaterally on your musculoskeletal back exam as I'm looking here I don't notice any overlying redness or bruising on the skin when I push here on the midline of your back does it hurt"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay so there is midline tenderness at the l4 l5 disk space with right sided lumbar paravertebral tenderness alright so are you able to bend forward"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright and are you able to bend backward"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright do either of those actions cause you pain"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Bending forward"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay so pain with lumbar flexion and so I'm gon na have you lie down and we're gon na do I'm sorry okay and then I see that a supine straight leg test is positive alright so for your neurological exam you said that you are experiencing pain radiating down radiating down your left leg correct"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright when I touch are there any like decreased sensation"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright so patella and achilles reflexes are symmetrical alright so I received before you came in here we got an mri and so in reviewing your results it does show a disk desiccation a disk bulge with paracentral disk herniation resulting in moderate right neuroforaminal I don't like this word neural foraminal stenosis what those complicated words is that I just said is that it seems that you have a a a herniated disk with nerve impingement so let's talk about my assessment and plan alright your symptoms are in line with a I'm sorry you have lumbar back pain at the l4 l5 disk space due to a herniated disk with radiculopathy this means that one of your disks that sits between your vertebrae like the bones in your spine is bulging out and the bulge is pinching on some nerves so that's why you are feeling that pain like radiating down your leg I'm gon na recommend something a spinal injection with a strong nsaid and called the I'm sorry and a corticosteroid I'm just gon na inject it into the lumbar spine under fluoroscopy which you can think of like an x-ray to localize the exact area of your pain this should help with the inflammation that's causing your pain I know that sounds a bit scary it this is a typical procedure that I do all the time it's in office and we can get you scheduled today if you would like so what questions do you have right now"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Is that something that we can do today"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah I think I have time in my schedule to get it done today just you know I'm here for you right now"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Alright"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Are there are there any complications with this"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "There are sorry yeah you're right there are risks associated with this kind of injection just like any procedure but we aim to minimize them and my ma when she comes in we will give you some paperwork with explanations and any and hopefully answer most of the questions that you have if after reading that you have any more questions please feel free to stop us we want to make sure that you feel as comfortable as possible during this time"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Great"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Anything else"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I think that's it"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright"
+    }
+  ]
+}

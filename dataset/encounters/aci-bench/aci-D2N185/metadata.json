@@ -1,0 +1,24 @@
+{
+  "encounterId": "aci-D2N185",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N185",
+  "split": "clef_taskC_test3",
+  "collectionMode": "virtscribe",
+  "chiefComplaint": "abnormal renal ultrasound with atrophic right kidney",
+  "secondaryComplaints": [
+    "none"
+  ],
+  "patient": {
+    "age": 14,
+    "gender": "female "
+  },
+  "turns": 99,
+  "wordCount": 2154,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

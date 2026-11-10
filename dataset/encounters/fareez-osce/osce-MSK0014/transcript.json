@@ -1,0 +1,535 @@
+{
+  "encounterId": "osce-MSK0014",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How may I help you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I just came in here today, I usually don't come to the doctor that much unless I absolutely need it. Five days ago I started having this pain and swelling in my right knee. So and at first I thought it was just like my arthritis acting up but it's been getting more swollen and painful than usual, so I just wanted to come in and check it out."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so when did you first notice that this pain, like when did it get more swollen and painful than usual?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So like I would say around 5 days ago it started getting more and usually I do get pain in some of my joints but I I don't really get swelling so that was a bit different."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and is the joint hot as well, or is there a temperature change?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It is, it does feel like if I touch the joint it does feel a bit warmer than the surrounding areas."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, does it look red?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It It definitely it definitely looks more red than my other knee."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and so what knee is it that, that's bothering you right now?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's the right knee."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And so this pain has been going on for the last five days. Has it been getting better, worse, or staying the same?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I think it's getting a. It's getting it was getting worse, but it's like a bit better right now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah it comes and goes in severity though."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and how would you describe the the pain. The character of it, is it sharp, dull, or achy?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's it's like someone is stabbing me in the knee and it hurts the most when I'm moving the knee."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and does the pain radiate anywhere?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, I don't think so, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so you're feeling it just in the knee and you said moving the knees is painful. Is there anything else that makes the pain worse?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, not really like resting it definitely helps, yeah, but I just have to keep it a bit immobilized."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and is there anything that that makes the pain better that you've tried like maybe medications or any ice packs or anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, not really. I do take some painkillers, so just some Advil, which seems to help a little bit."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And. And um. OK, is the pain worse at any particular time of the day, like do you have morning stiffness?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, usually with my normal this arthritis I do get some morning stiffness but this is completely different, it's throughout the day pretty much."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and did you have any trauma or any injury to the knee?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I didn't."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, uh."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I I did have like a steroid injection to the same knee just a week ago, but no, I I haven't fallen on it. I haven't had any operations."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Anne. And. Have you had any fevers or chills?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you had any changes to any of your senses like vision, hearing or your sense of smell or taste?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you had a runny nose or sore throat?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you had any cough or shortness of breath?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How about any wheezing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nope."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you had any chest pain or yeah, have you had any chest pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How about any lightheadedness or dizziness?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No,"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK and have you had any nausea or vomiting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um nope."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, have you had any loss of appetite?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And have you had any abdominal pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you had any changes to your bowel movements such as diarrhea or constipation, incontinence?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any urinary problems like painful urination or frequency."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, not really."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you had any skin changes like rashes anywhere?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and any other painful joints or muscle aches or body pains?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I just got my general like I havee osteoarthritis, so I like It's been a pretty long time though but I get some pain in my hips sometimes my knees, so it's it's that's been going on for awhile, but this is something I've never experienced though like this significant pain and swelling and redness."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And have you had any changes to your memory or any confusion?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nope."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and have you had any unexpected weight loss?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And how about any night sweats?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, Um in the past have you been diagnosed with any medical conditions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I do have. So I have a couple conditions. I have osteoarthritis in both my knees and hips. I have high blood pressure. I did have a heart attack four years ago and I also have had heart failure. And also I'm just a bit on the overweight side."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, are you currently taking any medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, so I am taking just um Furosemide then Ramipril for my blood pressure. But yeah, that's that's about it right now and like just painkillers over the counter. DL OK, uh. And any allergies to medications? Um, just to have a penicillin allergy."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and what's the rash, or sorry what's the reaction?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't really remember I was a child at that time. I don't remember what reaction I really got."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I see OK and have you had any prior hospitalizations or surgeries?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Surgeries I did have my appendix removed when I was young and also I was hospitalized after my heart attack a couple years ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, did you have any surgeries on your on your heart like a cabbage or?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I had a couple a couple of stents put in."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and you take aspirin for that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Uhm, Alright, and could you tell me a little bit about where you're living and who you're living with?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I live with my wife and daughter. And kind of live in a small little townhouse just, in the city."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, uh, are you currently working or uh, are you retired?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I I kind of had to retire after just my past medical history like the heart attack and then. There was just too much stress at work. It was too much for me. But yeah, I'm just at home right now. My wife still works. Yeah, I'm taking it more easy now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And with being at home, are you able to manage the majority of activities of daily living on your own, or are you receiving help?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Oh you're not receiving any outside help. I can do most things myself. My wife does most of our shopping and cooking though."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And do you drink alcohol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I I do. I do drink probably drink like three or four beers a night."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, Ann, and at the smoke cigarettes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I used to I I forced myself to quit after my heart attack."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, well that's good. I'm glad that you quit and how long did you spoke for and how much were you smoking during that time?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Probably smoked for more than 30 years and I was smoking only one to two packs a day at most."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And. OK, and then I about your um family history. Is there anybody in the family that has any heart or lung conditions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, so heart disease runs in my family. My brother, my dad, they both both have had heart attacks. But yeah, my on my mom side everyones pretty healthy though."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Oh OK, that's good, and Alright, so I just wanted to the I guess physical exam piece you've already mentioned that it's red, it's swollen and is warm to touch compared to the other knee and um painful to move. Are you having any limping with your gait?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I barely like I can't really put too much away or move that knee around. So yeah, if I stood up I would have a limp."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, uh, and is there any instability to either varus or valgus stress?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, no, I don't think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and any instability when testing the ACL or PCL with the anterior and posterior kind of translation test. Pulling and pushing it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And any I don't think I asked this any muscle weakness?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And any numbness, tingling?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Or burning sensations?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Alright, so that was everything that I wanted to check. Was there any anything that I may be missed or any final questions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, yeah no, I was just I I just don't know if like this is serious and if I need surgery or something because it's been really painful."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, certainly so right now the top thing on top two things on the differential would be gout or pseudogout they do have some risk factors for that, including a diuretic medication as well as alcohol and obesity are all risk factors for it. However, you also had a knee injection a week ago, which could predispose to an infection. So gout and septic arthritis are the two things that I am thinking about an, so we'll do a knee aspiration and send that off for some investigations and that will help us determine which what the cause is and we can choose the appropriate appropriate treatment."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "OK, sounds good."
+    }
+  ]
+}

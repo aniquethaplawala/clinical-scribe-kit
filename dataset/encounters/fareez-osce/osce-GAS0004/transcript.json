@@ -1,0 +1,410 @@
+{
+  "encounterId": "osce-GAS0004",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I understand that you've been having some diarrhea. Can you tell me a little bit about that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, sure I had, I've been having diarrhea for the past three to four days, and it's been pretty bad. I couldn't go, uh I couldn't go to my classes, had to skip because it was just it was just embarrassing."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, I'm sorry to hear that. Uh, have you ever experienced something like this before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, have I experienced something like this before? Uhm no, I don't think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And over the three or four days, have your stools all been loose? Or have you had some solid ones in between?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I think they've mostly been loose. I think they've all been loose actually, if I think about it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and how many times a day have you been having episodes of diarrhea?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Oh my god, I have I've lost count. I'm going every every hour."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, every hour. OK, and then you notice any changes in the color of your stool?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, it's brown."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Any blood in your stool that you've noticed?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um not really. I don't think so. I don't look that much to be honest."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, um have you noticed any any pain associated with it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well, I didn't start off with pain, but I I I do have a bit of a cramp now since yesterday. It's just it hurts. Yeah, it hurts sometimes, it comes and goes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and do you feel that when it, do you feel that you still have control over like releasing it to like does it come on and you don't even notice that it has happened or you still are able to kind of have a warning before you get to the toilet?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no I do get a warning, but it's just I I do need to get to the toilet really fast, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and before this happened, have you noticed, have you, is there anything that you've done differently that you've been eating differently, or any other changes that have happened in your life recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, I I did go to um, I did go to a new restaurant 5 days ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, what did you have there?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um  I I just got some rice with chicken Manchurian, it was a nice little Chinese restaurant, and yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Did anyone else have the same thing that you did that you were with?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, no not really, I went with my friend and I haven't really, haven't talked to her about this. I never really thought that these were related, that this was related to that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And then it's, you know, absolutely, potentially not like, maybe not. It could possibly be so not to not to worry you about that. We just like to get an idea of kind of the whole picture of what you're coming in with. So in terms of the last three to four days, have you experienced any nausea or vomiting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah yeah, I have actually, but it's not been as bad as the diarrhea. I didn't even yeah, I didn't, I wasn't even thinking about that. Yeah, I I did vomit, I think twice yesterday."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you noticed any blood in the vomit?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, it's just watery."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And are you nauseated all the time, or is it kind of on and off?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's on and off."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you taken any any over the counter medicine or anything to help?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, not really. I was just trying to drink a lot of water, 'cause I I know that I can get dehydrated so just drinking lots of water."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, well that's good to hear. Have you have you been eating normally or have you not been eating as much as you regularly do?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I have been eating less specially since yesterday when I had my these abdominal cramps started. I just don't feel like eating."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Is there anything that has been making it worse?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Making what worse?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Just in general, like is there anything that you're finding makes your nausea or your diarrhea come on?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not really, I don't think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you notice any changes to your urine or any discomfort when going to the bathroom?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you traveled anywhere recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and have you noticed any fever or chills in the last few days?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, I've just been feeling really tired and and, I don't know, maybe I haven't checked my checked my temperature."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Have you noticed any rashes or changes in your skin?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Have you noticed any major changes to your weight, I know that you might not weigh yourself everyday, but anything that jumps out to you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I actually haven't weighed myself in the past five days, so I don't, I don't know."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. OK, I'm I'm just gonna jump to you and your general history. Do you have any history of problems with your digestive system?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Do you have any chronic conditions that you see a family doctor for regularly?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I have asthma."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Do you take any medication?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I've got some puffers that my family doc gave me."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Nothing else?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, that's it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you have any allergies?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, no I don't."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you (unclear speech due to connection issues)?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm sorry, can you say that again?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you ever been hospitalized in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um? I had my wisdom teeth removed. But no, I like I wasn't hospitalized, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you been in contact with anyone recently that's been sick?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nope, I don't think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. What is your living situation right now? You said you're a student?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I am."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and do you live, do you live on your own, with family, with roommates?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I live with two roommates."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you drink alcohol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, sometimes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, how how many drinks per week would you say?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I might have like a glass or two on the weekends."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, do you smoke?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, do you use any other substances?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and what would you eat on a regular day typically, what would your typical diet be?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Oh gosh, um well, I like to have oatmeal for breakfast. I usually make something quick for lunch, maybe like a salad, and then I might have my, I'll probably just like eat out at night, maybe get like a burger or fries or something."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Well, and I just wanted to jump over to ask you about your family history. Does anyone in your family have any history of digestive problems, or um abdominal problems, abdominal surgery?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "My brother had appendicitis when he was young. Um, my mom has had a hysterectomy if that counts. Yeah, nothing else."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. OK, thank you for sharing that with me. So I think that's everything that I wanted to ask you for today."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+Clinician: All right. Today I am seeing Jose James. Uh, date of birth 9/29/1957. Mr. James is a new patient who's having pain in his left shoulder and elbow. He fell five months ago going up a stairs, and the pain has been present since. Hi mr. James, I'm doctor isabella. How are you doing?
+Patient: I'm okay. Thank you.
+Clinician: That's good. That's good. Tell me what's brings you in today.
+Patient: Sure. So I've been having constant pain in my left shoulder and left elbow for a while, about five months or so. Hurts all the time. Pretty bad at times.
+Clinician: Mm. That does not sound like fun. It sounds like you injured it going up the stairs?
+Patient: Yes, that's correct. It was icy, and I have to walk up a flight of stairs to my house. I stepped and my feet just went out. Fell on my left side. Seems like my shoulder and wrist took the brunt. It's been hurting since.
+Clinician: Yeah, that does seem like a likely cause of your symptoms. Anything seem to make the pain worse?
+Patient: Well, I've always hit the gym and lifted weights. I've been trying to keep with my routine of two days a week, but it's been hard. The pain is worse when I lift, and I haven't been able to lift more than 15 or 20 pounds which is very frustrating.
+Clinician: Mm-hmm. I can imagine it is when you're so accustomed to your routine.
+Patient: Exactly. I really enjoy my exercise, but over the past one to two weeks, I've stopped hitting the gym because the pain just wasn't worth it honestly. I do keep up with my walking, though. My wife and I walk about 30 minutes almost every day. We have done this since I retired from my office job last year.
+Clinician: I do not blame you, mr. James. Does anything seem to help the pain that you've tried?
+Patient: Not too much. I have iced a bit, but I have not taken anything for the pain. Stopping exercise and some ice has helped a bit, but it still hurts enough for me to come to see you.
+Clinician: Yeah, okay. How about any numbness or tingling? Have you felt that at any point?
+Patient: No, doc. Just pain. No tingling or numbless, numbness, thankfully.
+Clinician: Understood. Understood. All right. Well, let's go ahead and take a look and see what's going on.
+Patient: Sounds good. Thank you.
+Clinician: Okay. Use my general physical exam template. Mr. James, I'm going to gently press around your shoulder and elbow here to see where your pain might be stemming from. Just let me know when it hurts.
+Patient: Okay. It hurts when you press there on my elbow and here on my shoulder.
+Clinician: Okay. Left shoulder and elbow, tender sa space, no warmth, erythema or deformity. Positive hawkins-kennedy and neer's test. Normal proximal and distar, distal upper extremity strength. Intact median radial ulnar sensation and abduction to 90 degrees. Normal empty tan, can test. Okay, mr. James, w-what I think you are dealing with is impingement syndrome of your left shoulder. I don't think there's an additional injury or issue with your wrist, but because everything is connected, you're experiencing pain in your wrist because of your shoulder. We do see this type of issue when someone has a fall, so it's good you came to see us, you came in to see us so we could help.
+Patient: So what are the possible treatments?
+Clinician: Well, we have a few options you can try. First option would be to start with physical therapy. I would recommend two sessions per week as well as any other exercises they give you to do at home. We can start there and if that doesn't improve your pain, then we could try a cortisone injection.
+Patient: I like the idea of starting with the physical therapy and have a next step if it doesn't help. I am not opposed to a shot but would like to try the therapy first.
+Clinician: All right. Great. I'll get a referral order, and they will call you within the next day or two to get you scheduled.
+Patient: Okay.
+Clinician: Mm-hmm. Also, please continue to ice, especially your shoulder, and rest as much as you can.
+Patient: Okay. I will.
+Clinician: Give us a call or email us if you have symptoms worsen, if your symptoms worsen or do not improve with the therapy.
+Patient: Will do. Thank you. I appreciate your help.
+Clinician: You're welcome. Have a great day.
+Patient: You too.
+Clinician: All right. Assessment is impingement syndrome of left shoulder. Plan discussed with patient. Referral is requested for dr. Martha rivera to be in physical therapy two days per week.

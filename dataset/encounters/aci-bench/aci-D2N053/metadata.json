@@ -1,0 +1,22 @@
+{
+  "encounterId": "aci-D2N053",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N053",
+  "split": "train",
+  "collectionMode": "aci",
+  "chiefComplaint": "itchy scalp",
+  "secondaryComplaints": [],
+  "patient": {
+    "age": null,
+    "gender": "female"
+  },
+  "turns": 26,
+  "wordCount": 953,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

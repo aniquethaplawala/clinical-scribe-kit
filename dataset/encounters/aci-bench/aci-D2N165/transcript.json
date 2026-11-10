@@ -1,0 +1,235 @@
+{
+  "encounterId": "aci-D2N165",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey Sophia how are you doing today"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I've been better my primary care doctor wanted me to see you because of this knee pain that I've been having for about six months now"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay do you remember what caused the pain initially"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You know I really can't recall any specific event that caused the pain"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright well can can you describe the pain for me"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah so it's it's like a deep achy pain that it I feel like it's behind my kneecaps and sometimes I can even hear like what seems like like some creaking in my knees"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hmmm alright now tell me what what type of activities makes that pain worse"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So I feel like the pain gets worse anytime I'm like getting from like a seated position to standing so I I work from home so I'm at my desk a lot so anytime I get up I have some pain or after watching tv or even like going up and down stairs it's really painful"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hmmm okay and does anything make the pain feel better"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Usually after I rest it for some time it does help with the pain"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay now you did mention earlier that you have tried some things in the past can you tell me what they were"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah so when it first started hurting I was putting ice on it and I even got like some ace bandage like wrapping from the pharmacy I do take ibuprofen or aleve sometimes but I try to avoid really taking any medications"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and and tell me what is your day like"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well I try to be as active as I can I actually love to run and I would run like five to six miles a day but now I I mean honestly I can't even get to half a mile and my leg will start hurting my knee will start hurting"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay that's definitely a decrease in your mileage there where have you been running lately like do you run outside or on a treadmill or"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I I you know I will do the treadmill during the winter but I just love being outdoors and running"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah yeah there are some really nice senior routes here in boston isn't there like"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "There are"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So many knee places there's some right by the harbor that I've I've done some runs there before too it's pretty nice well I mean the boston marathon what can you say right"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Right exactly exactly no it's very nice"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Well okay well hopefully that we get you feeling better so you can start running again more than. Five miles but tell me though have you noticed any swelling or redness in your knees"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No not really"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and have you ever injured your knees before"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No I've been pretty good I actually have never broken a bone actually no I'm gon na change that actually I did break my arm when I was in sixth grade but nothing since then"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and it's just your arm right not not your knee"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Right"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay well alright well let's go ahead and do a quick physical exam on you here let me look at your vital signs okay I reviewed your vitals they they overall they look good take a listen to your heart real quick alright and your heart exam I hear regular rate and rhythm with no murmurs and on your musculoskeletal exam I have seen you and walk around here and you do have normal gait alright now I'm gon na have you do some movements on your legs here okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright good your strength is three out of five for abduction of legs bilaterally and the remainder of muscle strength for your lower extremities are five out of five so that's good let me take a look at your knee now on your knee exam there is no overlying erythema that's redness or ecchymosis and that's bruising or any warmth of the skin appreciated there is no effusion let me go ahead and feel around here does that hurt right here how does that feel"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It does"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Sorry so there is tenderness to palpation of the bilateral retinacular retinaculum and there is positive patellar grind test alright and can you are you able to squat for me"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I can but that hurts"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright so you're definitely having some knee pain with squatting and I'm just gon na maneuver your leg just a little bit here real quick okay so lachman anterior and posterior drawer and mcmurray tests are all negative bilaterally so that's good there okay now your neuro exam patella and achilles reflexes are symmetrical alright so now I did review the results of your x-ray and both of your knees which shows no fractures or osteoarthritis so let me go ahead and tell you about my assessment and plan so for your problem of bilateral knee pain based on what you told me your exam and reviewing your mri your symptoms are consistent with patellofemoral pain syndrome and this is a very common condition that we see that causes knee pain especially in active young people so this condition has to do with the way your kneecap which is your patella how that moves along the groove of your thigh your thigh bone which is the femur now for the pain you may continue taking ibuprofen or anti-inflammatory as needed to help with the pain but I'm also going to recommend physical therapy where where they will show you a number of lower extremity exercises and this will help increase your lower extremity strength your mobility and correct any incorrect running mechanics that you may have so do you have any questions for me about that"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Will I be able to run anytime soon"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Well that is a goal of treatment and to get you back in running again now you will have to take an take it easy from running for now but we will continue to assess your progress with each visit okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright anything else"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No I think that's it"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay well very good well I will be following up with you soon and again just take it easy for now from the running okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay thank you"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Bye"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Bye"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+Clinician: Hi, Martha. How are you?
+Patient: I'm doing okay. How are you?
+Clinician: I'm doing okay. So, I know the nurse told you about Dax. I'd like to tell Dax a little bit about you, okay?
+Patient: Okay.
+Clinician: Martha is a 50-year-old female with a past medical history significant for congestive heart failure, depression and hypertension who presents for her annual exam. So, Martha, it's been a year since I've seen you. How are you doing?
+Patient: I'm doing well. I've been traveling a lot recently since things have, have gotten a bit lighter. And I got my, my vaccine, so I feel safer about traveling. I've been doing a lot of hiking. Uh, went to washington last weekend to hike in northern cascades, like around the mount baker area.
+Clinician: Nice. That's great. I'm glad to hear that you're staying active, you know. I, I just love this weather. I'm so happy the summer is over. I'm definitely more of a fall person.
+Patient: Yes, fall foliage is the best.
+Clinician: Yeah. Um, so tell me, how are you doing with the congestive heart failure? How are you doing watching your diet? I know we've talked about watching a low sodium diet. Are you doing okay with that?
+Patient: I've been doing well with that. I resisted, as much, as I could, from the tater tots, you know, the soft pretzels, the salty foods that I, I love to eat. And I've been doing a really good job.
+Clinician: Okay, all right. Well, I'm glad to hear that. And you're taking your medication?
+Patient: Yes.
+Clinician: Okay, good. And any symptoms like chest pains, shortness of breath, any swelling in your legs?
+Patient: No, not that I've noticed.
+Clinician: Okay, all right. And then in terms of your depression, I know that we tried to stay off of medication in the past because you're on medications for your other problems. How are you doing? And I know that you enrolled into therapy. Is that helping? Or-
+Patient: Yeah, it's been helping a lot. I've been going every week, um, for the past year since my last annual exam. And that's been really helpful for me.
+Clinician: Okay. So, no, no issues, no feelings of wanting to harm yourself or hurt others?
+Patient: No, nothing like that.
+Clinician: Okay, all right. And then in terms of your high blood pressure, I know that you and I have kind of battled in the past with you remembering to take some of your blood pressure medications. How are you doing with that?
+Patient: I'm still forgetting to take my blood pressure medication. And I've noticed when work gets more stressful, my blood pressure goes up.
+Clinician: Okay. And, and so how has work going for you?
+Patient: It's been okay. It's been a lot of long hours, late nights. A lot of, um, you know, fiscal year end data that I've been having to pull. So, a lot of responsibility, which is good. But with the responsibility comes the stress.
+Clinician: Yeah, okay, all right. I understand. Um, all right. Well, I know that you did a review of system sheet when you checked in with the nurse. I know that you were endorsing some nasal congestion from some of the fall pollen and allergies. Any other symptoms, nausea or vomiting, abdominal pain, anything like that?
+Patient: No, nothing like that.
+Clinician: No, okay, all right. Well, I'm gon na go ahead and do a quick physical exam, okay?
+Patient: Okay.
+Clinician: Hey, dragon, show me the blood pressure. So, yeah, looking at your blood pressure today here in the office, it is a little elevated. You know, it could just, you could just be nervous. Uh, let's look at some of the past readings. Hey, dragon, show me the blood pressure readings. Hey, dragon, show me the blood pressure readings. Here we go. Uh, so they are running on the higher side. Um, y- you know, I, I do think that, you know, I'd like to see you take your medication a little bit more, so that we can get that under control a little bit better, okay?
+Patient: Okay.
+Clinician: So, I'm just gon na check out your heart and your lungs. And you know, let you know what I find, okay?
+Patient: Okay.
+Clinician: Okay. So, on your physical examination, you know, everything looks good. On your heart exam, I do appreciate a three out of six systolic ejection murmur, which I've heard in the past, okay? And on your lower extremities, I do appreciate one plus pitting edema, so you do have a little bit of fluid in your legs, okay?
+Patient: Okay.
+Clinician: Let's go ahead, I wan na look at some of your results, okay? Hey, dragon, show me the echocardiogram. So, this is the result of the echocardiogram that we did last year. It showed that you have that low-ish pumping function of your heart at about 45%. And it also sh- shows some mitral regurgitation, that's that heart murmur that I heard, okay? Um, hey, dragon, show me the lipid panel. So, looking at your lipid panel from last year, you know, everything, your cholesterol was like, a tiny bit high. But it wasn't too, too bad, so I know you're trying to watch your diet. So, we'll repeat another one this year, okay?
+Patient: Okay.
+Clinician: Um, so I wan na just go over a little bit about my assessment and my plan for you, okay? So, for your first problem your congestive heart failure, um, I wan na continue you on your current medications. But I do wan na increase your lisinopril to 40 milligrams a day, just because your blood pressure's high. And you know, you are retaining a little bit of fluid. I also wan na start you on some lasix, you know, 20 milligrams a day. And have you continue to watch your, your diet, okay?
+Patient: Okay.
+Clinician: I also wan na repeat another echocardiogram, okay?
+Patient: All right.
+Clinician: Hey, dragon, order an echocardiogram. From a depression standpoint, it sounds like you're doing really well with that. So, I'm, I'm really happy for you. I'm, I'm glad to see that you're in therapy and you're doing really well. I don't feel the need to start you on any medications this year, unless you feel differently.
+Patient: No, I feel the same way.
+Clinician: Okay, all right. And then for your last problem your hypertension, you know, again I, I, I think it's out of control. But we'll see, I think, you know, I'd like to see you take the lisinopril as directed, okay? Uh, I want you to record your blood pressures within the patient, you know, take your blood pressure every day. Record them to me for like, about a week, so I have to see if we have to add another agent, okay? 'cause we need to get that under better control for your heart failure to be more successful, okay?
+Patient: Okay.
+Clinician: Do you have any questions?, and I forgot. For your annual exam, you're due for a mammogram, so we have to schedule for that, as well, okay?
+Patient: Okay.
+Clinician: Okay. Do you have any questions?
+Patient: Can I take all my pills at the same time?
+Clinician: Yeah.
+Patient: 'cause I've been trying to take them at different times of the day, 'cause I didn't know if it was bad to take them all at once or I should separate them. I don't know.
+Clinician: Yeah. You can certainly take them, you know, all at the same time, as long, as yeah, they're all one scale. You can take them all at the same time. Just set an alarm-
+Patient: Okay.
+Clinician: . Some time during the day to take them, okay?
+Patient: That might help me remember better.
+Clinician: All right. That sounds good. All right, well, it's good to see you.
+Patient: Good seeing you too.
+Clinician: Hey, dragon, finalize the note.

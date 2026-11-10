@@ -1,0 +1,22 @@
+{
+  "encounterId": "aci-D2N052",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N052",
+  "split": "train",
+  "collectionMode": "aci",
+  "chiefComplaint": "right-sided back pain",
+  "secondaryComplaints": [],
+  "patient": {
+    "age": null,
+    "gender": "female"
+  },
+  "turns": 31,
+  "wordCount": 963,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

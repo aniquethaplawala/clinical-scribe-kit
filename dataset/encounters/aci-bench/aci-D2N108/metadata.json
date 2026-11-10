@@ -1,0 +1,22 @@
+{
+  "encounterId": "aci-D2N108",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N108",
+  "split": "clinicalnlp_taskB_test1",
+  "collectionMode": "aci",
+  "chiefComplaint": "right foot ulcer",
+  "secondaryComplaints": [],
+  "patient": {
+    "age": null,
+    "gender": "male"
+  },
+  "turns": 35,
+  "wordCount": 983,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

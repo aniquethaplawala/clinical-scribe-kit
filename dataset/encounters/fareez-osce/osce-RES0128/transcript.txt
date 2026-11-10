@@ -1,0 +1,85 @@
+Clinician: How can I help you?
+Patient: Hi so I brought my 6 year old son in today because yesterday during soccer practice, he he developed this pretty severe cough and he couldn't catch his breath.
+Clinician: OK, so this happened yesterday, you mentioned?
+Patient: Yeah, it happened yesterday afternoon.
+Clinician: OK, uhm so you mentioned a cough. Is it a harsh barky cough, or is it more like a muffled cough?
+Patient: I would say it's more muffled.
+Clinician: OK, and is it a dry cough or is it bringing up any phlegm?
+Patient: Dry
+Clinician: Dry OK. So no blood in the with the coughing?
+Patient: No blood.
+Clinician: And does he sound wheezy to you?
+Patient: He does, yeah, he's still sounding a little bit wheezy now. It's it's better than last night. He was a bit more wheezy last night.
+Clinician: OK. Uhm how about shorter breath? Does he sound short of breath at all?
+Patient: No, that that's gotten a bit better, that resolved about an hour. Like after he stopped playing but he was, he was short of breath yesterday.
+Clinician: OK, and have you tried anything for his cough, for his shortness of breath or wheezing?
+Patient: No, we haven't
+Clinician: No OK. Does he have a fever at all?
+Patient: No, he doesn't mention anything about feeling hot or or or having chills either.
+Clinician: No OK, and any rashes that you've noticed?
+Patient: No
+Clinician: No, weight loss over the past few weeks?
+Patient: No, he's been gaining weight well.
+Clinician: OK good, has he had a stuffy nose or runny nose?
+Patient: Well, sometimes he will get a runny nose. He takes like Reactin or Claritin or some sort of allergy pill for that sometimes, but that's usually like the changing of seasons that will happen more often.
+Clinician: OK OK. Does he have any allergies?
+Patient: Yeah, to mostly environmental triggers. I'm not sure if the specific things are, but I just know it gets worse. Maybe in the spring, springtime?
+Clinician: OK. And does he have asthma?
+Patient: He's never been diagnosed, but he has had uhm or his sister has asthma.
+Clinician: OK, OK. And has he? Have you noticed any changes in his vision or hearing?
+Patient: No.
+Clinician: No, OK. How about change in his smell or taste?
+Patient: No
+Clinician: No, how about like does he seem like he has any chest pain?
+Patient: No, he hasn't mentioned anything like that.
+Clinician: Any dizziness or fainting spells?
+Patient: No
+Clinician: No, confusion or memory loss?
+Patient: No.
+Clinician: OK, Uhm how about confusion or sorry you said no headaches?
+Patient: No headaches.
+Clinician: No, OK, any joint pains, muscle aches?
+Patient: No.
+Clinician: OK, and how about changes to his bowel movements?
+Patient: No, everything's been normal there.
+Clinician: OK, how about nausea or vomiting?
+Patient: Nothing like that.
+Clinician: OK, OK, so you mentioned he has asthma. He might have asthma. He was never formally diagnosed. Does is he otherwise healthy or does he have any longstanding medical conditions?
+Patient: He's been healthy. Yeah, I know he did have like he would get some itchy skin when he was a bit when he was like a baby, but he hasn't needed any creams for that for a long time.
+Clinician: OK so he might have something like eczema, you think?
+Patient: Yeah, yeah I think he did.
+Clinician: OK, OK and is he on any medications right now?
+Patient: No, he doesn't take anything right now.
+Clinician: OK, Uhm during his mom's pregnancy with him, were there any complications?
+Patient: No, she was uhm healthy and he was born at term with a normal weight and able to go home relatively quickly, so there weren't any concerns.
+Clinician: OK, that's good and was he healthy like after birth?
+Patient: Yeah, so he's he's done well. There weren't really any concerns with development or or growth, and he's doing well in school.
+Clinician: OK, OK, good. How about uhm so was he a full term baby and was it a vaginal delivery?
+Patient: Yes. Yes for both
+Clinician: OK, any complications during the delivery?
+Patient: No,
+Clinician: OK, and he didn't need any hospitalizations like right after birth as an as a newborn?
+Patient: No
+Clinician: No, OK good. Uhm Is he up to date with all his immunizations?
+Patient: He is, yeah
+Clinician: OK. And you mentioned that he may have some seasonal allergies. Any other allergies that you know of?
+Patient: Not that I know of.
+Clinician: No, OK. You mentioned that his sister has asthma. Any other lung conditions or heart conditions that run in the family?
+Patient: No, nothing like that.
+Clinician: No, OK. OK. Uhm and does anyone at home smoke?
+Patient: No
+Clinician: No OK. Any old carpets? Does mold, asbestos, anything like that at home?
+Patient: We we took out the carpets and stuff when his sister was diagnosed with asthma, so it's good from that perspective.
+Clinician: OK, good, and who lives at home with him?
+Patient: So it's myself, his mom and then his sister.
+Clinician: OK, OK, any pets at home?
+Patient: He's got a fish.
+Clinician: A fish, OK. And has he has come into contact with anyone sick recently?
+Patient: No, I don't think so. I mean when at school, they've been pretty diligent with I mean covid and everything right now, so I think he's been OK.
+Clinician: Ok, uhm has he traveled anywhere recently?
+Patient: No.
+Clinician: No, OK. OK, those are all the questions that I had for you today. Did you have any questions of your own for me?
+Patient: Yeah, I was just wondering if if my son had asthma as well and if like you need a prescription for inhalers.
+Clinician: Yeah, so we're gonna since he's never been diagnosed before, we're gonna do some investigations for him just to start so we can do, we can start by doing a pulmonary function test for him to see what his lung activity is like uhm so we'll start there and then we'll also, because you're saying he's short of breath, we'll take his oxygen saturation as well, and maybe even do some like some basic blood work for him, and if it turns out he has asthma, which in this case I do strongly suspect, we'll prescribe him some bronchodilators like a short acting beta agonist as well as an inhaled corticosteroid because his symptoms do seem somewhat severe this time around. And then I should also mention because some of his symptoms overlap with that of COVID, he will also get a covid swab and you should hear back about that in 24 to 48 hours. How does that sound?
+Patient: That sounds good, thank you.
+Clinician: Alright great, thank you.

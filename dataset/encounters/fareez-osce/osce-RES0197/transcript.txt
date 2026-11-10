@@ -1,0 +1,81 @@
+Clinician: What brings you in here today?
+Patient: Yeah, hi, I'm so I have been very wheezy for the past week um and I'm also like consistently coughing all the time and it's not getting any better. Um I do have asthma and I think it's it's acting up.
+Clinician: OK, and how long have you had asthma for?
+Patient: Since I was like 5.
+Clinician: OK, and are you using any puffers?
+Patient: Yes, so I am on a short acting. As well as an inhaled cortico steroid. And I only take the short acting like when I have the symptoms
+Clinician: OK. And so how how long have you been symptoms worsening for?
+Patient: For the past week I would say.
+Clinician: OK, and how how often have you used the ventilin?
+Patient: The ventilin that I use is almost every day like a couple times a day.
+Clinician: OK, so would you say more than 10 times?
+Patient: Yes.
+Clinician: OK. And have you had to do you have y to miss any school or anything like that over the past week?
+Patient: I missed two days.
+Clinician: Two days, OK. And are you just getting daytime symptoms or are you waking up from sleep or not being able to sleep because of your symptoms?
+Patient: I woke up twice last week.
+Clinician: OK. OK, so yeah, definitely seems like your symptoms are really acting upon and so you're getting some wheezing and you say you're also getting a cough.
+Patient: Yes, that's right,
+Clinician: OK. And what kind of things would you be doing that you get these symptoms? Is it mostly exertion or is it exposure to dust or any other environmental factors?
+Patient: Uh, but, it's mostly exertion, but things like cold air can trigger it too.
+Clinician: OK, I see. OK, any have you been exposed to any new environments where there is, you know, dusty carpets, mold, new animals, anything like that?
+Patient: Uh no nothing like that.
+Clinician: OK, OK, and how would you describe the cough? Is it wet or dry?
+Patient: It's dry.
+Clinician: OK, and. And how about the wheezing? Are you getting it like frequently every time you have an episode, or just sometimes?
+Patient: I I'm getting an on and off, but basically every time I cough after that I'll be wheezy for a little bit.
+Clinician: OK. OK, and are you having any other symptoms like sore throat, runny nose, shortness of breath, anything like that?
+Patient: No, nothing like that.
+Clinician: OK, and any blood in your sputum at all?
+Patient: No, no blood.
+Clinician: OK, OK and has the ventilin been helping at all? Or do you find that it's less effective?
+Patient: Ventilin um it's been helping temporarily, but it definitely doesn't help as much as it used to.
+Clinician: OK, um. And have you traveled at all recently or been in touch with anyone who's been sick?
+Patient: Uhm, no, nothing like that.
+Clinician: OK. And, and any headaches? Nausea or vomiting?
+Patient: He no, nothing like that.
+Clinician: Nothing like that OK, any dizziness or fainting?
+Patient: No.
+Clinician: No OK, any fevers or chills?
+Patient: No.
+Clinician: No. Any fatigue?
+Patient: Um a little bit because I haven't been sleeping too well.
+Clinician: OK, any? Sensation of chest pain or racing of your heart?
+Patient: No.
+Clinician: No. OK. Any changes in your bowel movements?
+Patient: Uh no.
+Clinician: Any changes in your appetite or weight?
+Patient: No.
+Clinician: No, any changes in your sense of smell or taste?
+Patient: No
+Clinician: OK, OK. An other than asthma since you were five an do you have any other medical conditions at all? OK, do you take so you take the ventilin and then do you take the inhaled cortico steroid puffer as well?
+Patient: I do.
+Clinician: OK and you take that daily?
+Patient: Um yes.
+Clinician: Any other medications that you take?
+Patient: No, just some multi vitamins. That's about it.
+Clinician: OK, any allergies to any medications that you know?
+Patient: Not to medication I’m allergic to like strawberries and Kiwis.
+Clinician: OK, and what kind of reaction do you get?
+Patient: I just break out in hives.
+Clinician: OK, and have you been previously hospitalized for any reason?
+Patient: No.
+Clinician: OK, any past surgeries?
+Patient: Ah nope.
+Clinician: OK and currently like who do you live with?
+Patient: I love with both my parents and two of my siblings.
+Clinician: OK, and are any of them sick at all?
+Patient: No everyones pretty healthy.
+Clinician: OK. And. So currently right now you're 16. This is an age where sometimes your peers or yourself might experiment with alcohol, smoking or recreational drugs. Have you have you tried anything at all?
+Patient: No, I haven’t.
+Clinician: OK. Do you have any friends or peers that have tried alcohol or recreational drugs?
+Patient: I don't think so.
+Clinician: OK, and in terms of just your home environment school. Do you feel safe or do you find yourself feeling unsafe or having been bullied at all?
+Patient: Oh, I'm pretty, I feel pretty safe.
+Clinician: OK, that's good. And any family history of any heart or lung conditions at all ?
+Patient: No.
+Clinician: No. OK, so yeah, those are all the questions I had for you today. Do you have any questions?
+Patient: Yeah, So what can I do about These these symptoms? Should I continue taking my puffers?
+Clinician: Yeah, So what we'll have to do is re assess. So right now we will need to alleviate some of your symptoms so we will get you get you some ventilin and you mate will do like a full physical examination and get your oxygen saturation and everything an you might need some cortico  steroids as well and then we'll talk about changing your regiment for your puffers as well and whether or not we need to add something else into your therapy, so we'll do a full physical examination and then go on from there. Does that sound good?
+Patient: Yeah, that sounds great. Thank you.
+Clinician: You're welcome.

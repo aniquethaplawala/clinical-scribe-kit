@@ -1,0 +1,450 @@
+{
+  "encounterId": "osce-RES0129",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "What brings you in?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I just bringing my son in today because he's had this cough that's been going on for a few days now and for these past two days, I've noticed that he's been just tugging at his ear more as well."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so you said the runny nose started two days ago?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, yeah he had a cough yeah cough and runny nose started about yeah 2-3 days ago"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, the runny nose, what color is the discharge?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Pretty clear and watery"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and the coughing is it dry, or is it bringing up any phlegm?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's been dry."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "It's been dry OK. And does it sound harsh?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not really,"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't know. It sounds kinda like a typical cough."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, has he lost his sense of taste or smell?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "He's been a bit more irritable and not eating as much but I'm not sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, how about changes in his vision or hearing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Any fevers?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, I don't think so. But he, we haven't checked and he's been, yeah, as I said, kinda, a little bit irritable."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any weight loss recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm no, he's been gaining weight. Actually, sorry, I think it. Yeah, he has had a fever. The fever. Yeah the fever started like yesterday."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Oh OK, did you take his temperature?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, my my wife just texted me and told me that she checked it, checked it and said it was over 38."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Oh OK. Yeah, we'll definitely take a temperature here as well just to make sure. Has he had any rashes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No,"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No rashes OK. And how about shortness of breath or wheezing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I haven't heard that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, OK. And then have you actually taken a look into his ears?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I haven't. He has just been tugging at the right one."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Is he itching it at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh yeah, I guess just kind of like really rubbing it around the outside and pulling on the lobe a little bit."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any discharge? Oh sorry go ahead"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sorry I'm just gonna say yeah he's been kind of fussy and pointing at it and no discharge from the ear."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No discharge, OK. Does it look swollen?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, the outside of the ear looks normal."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, OK, and how have his bowel movements been?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That's been normal, ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Normal. Any changes in his urine?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, it's been normal."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Nausea or vomiting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nope."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "uhm headaches?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I don't think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, how about dizziness or fainting spells?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, any confusion or memory loss?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I don't think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No OK, is he an otherwise healthy child?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, he he is. I mean he, uhm about six months ago he had uhm croup I think but he recovered quickly from that and he didn't need to be hospitalized or anything."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and his mother's pregnancy with him, was it complicated in any way?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "She had gestational diabetes, but it was diet controlled and she's healthy now from that perspective."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, OK, that's good. Uhm and then was he born at term?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "He was yeah he was born over like 38 weeks I think"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Oh OK, good and was it a C-section or a vaginal delivery?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhh vaginal."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any complications during the delivery?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhh no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, OK, how about uhm after birth? Was he hospitalized for any reason?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, he wasn't. He was able to go home."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, that's good. Uhm and has he been developing normally in terms of his motor movements, like behavior wise, social wise, like is he on par with his peers in terms of milestones?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah he is. Yeah, everything's been normal that way and he's been growing well too."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, good. growing while gaining weight well, OK, is he on any medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, he's not."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Is he up to date with all his immunizations?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "He is, yeah, we've been following along with with that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, does he have any allergies?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, Ok. Any family history of lung or heart conditions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No OK. Does anyone at home smoke?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm I do but not like in the house or anything like that, usually just well, it will always be either outside or when I'm at work."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK OK, any old carpet, dust, mold, asbestos, anything like that in your home?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No. OK. Who does he live with?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So yeah, he lives with me. It's just me and my wife."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Any pets at home?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "We have a a dog."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Has he been in contact with anyone sick recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh. Not that I can think of."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK is he in like daycare?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no my wife's been, been looking looking after him at home. She's the primary caregiver, well while I'm at work."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any trouble recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, OK. Well, those are all the questions that I had for you today. Did you have any questions of your own?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhh no, just was wondering what what might be going on?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, for sure, so right now it sounds like a viral picture. It sounds like he has a cold and possibly an ear infection. I'd have to take a look into his ear to be able to tell more uhm because some of his symptoms overlap with those of covid we'll probably do a swab and you should hear back in about 24 to 48 hours. Uhm and so after I take a look into his ears, we can do one of a couple of things, so if his tympanic membrane looks like it's been perforated, or if there's pus in there, then we'll prescribe him a 10 day course of antibiotics, and if I see like middle ear effusion or his tympanic membranes bulging, and he seems really sick like he has a high fever, what she does, I will again prescribe him 10 days of antibiotics. And if he has a middle ear effusion or a bulging tympanic membrane, just one of those two, and he doesn't seem to be too sick, we can reassess him in 24 to 48 hours. Uhm An antibiotic that we usually prescribe is amoxicillin. Uhh how does that sound?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That sounds really good. Thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, no worries. Take care."
+    }
+  ]
+}

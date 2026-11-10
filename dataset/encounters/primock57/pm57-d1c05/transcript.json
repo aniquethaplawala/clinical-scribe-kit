@@ -1,0 +1,596 @@
+{
+  "encounterId": "pm57-d1c05",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 2.1,
+      "end": 10.12,
+      "text": "Hello? [inaudible] . Good morning, Tim. Um, how can I help you this morning?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 11.89,
+      "end": 23.85,
+      "text": "Um, so I'm Having some, some pain, uh, in my tummy, like the lower part of my tummy. Um and I've just been feeling, quite, hot and sweaty."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 19.35,
+      "end": 27.86,
+      "text": "OK. Right, I'm sorry to hear that. When, when did your symptoms all start?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 29.27,
+      "end": 30.81,
+      "text": "About two days ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 30.99,
+      "end": 34.86,
+      "text": "OK. And whereabouts in your tummy is the pain, exactly?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 36.27,
+      "end": 41.72,
+      "text": "Uh, like below my belly button, it's like quite, sore when I press on it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 41.59,
+      "end": 45.58,
+      "text": "OK. Did the pain come on quite suddenly, or was it more gradual?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 47.36,
+      "end": 52.94,
+      "text": "[inaudible] , it hasn't been, it's more gradual and it's just, it is getting a bit worse now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 52.54,
+      "end": 56.9,
+      "text": "OK, OK. And can you describe the pain to me?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 57.78,
+      "end": 70.59,
+      "text": "Uh, it's kind of like a, a, I guess a burning pain. Uh, and it's just right there yeah, in that spot, like uh, that's mostly where I'm feeling it. It hasn't spread anywhere else."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 70.2,
+      "end": 72.68,
+      "text": "Just in, just below your belly button you uh, mentioned."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 73.39,
+      "end": 74.13,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 73.9,
+      "end": 77.68,
+      "text": "OK. Um, and is the pain constant, or does it come and go?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 79.1,
+      "end": 91.36,
+      "text": "It's pretty constant, it's like getting worse. Um, it's not like, I [inaudible] , I can still move and walk around. Uh, I mean I'm still kind of functioning, it's just uh, I'm aware of it [inaudible] time."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 89.83,
+      "end": 99.03,
+      "text": "[inaudible] . Mm-hmm. OK. Um, and with the pain have you noticed any other symptoms, at all? So, for example, let's, let's focus first on your bowels. Are your bowels working OK?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 99.19,
+      "end": 104.65,
+      "text": "Yeah, I had a bit of constipation, but that's better, now. That was like, since last week."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 104.49,
+      "end": 108.93,
+      "text": "OK. So you've got no other symptoms, like diarrhea or loose stools?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 109.77,
+      "end": 113.41,
+      "text": "No, I'm [inaudible] , I'm, my bowel movements are normal now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 110.53,
+      "end": 116.84,
+      "text": "No. OK. And, what about your waterworks? Are you passing urine OK?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 117.44,
+      "end": 143.3,
+      "text": "Yeah, I'm fine, that's fine, that's. I did notice that I was a little, the urine was a little pink, in colour. But I haven't like, it hasn't really been burning, specifically or hurting when I pee and uh. And I did notice I was going to the, I was peeing more, regularly, but I have been drinking lots of fluids. So I wasn't sure, um, I wasn't sure, um, like [inaudible] you know, if that was related to the pain."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 139.32,
+      "end": 148.36,
+      "text": "Mm. And when you mentioned pink urine, do you, was there any blood at all in your urine? Or was it difficult to say?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 148.53,
+      "end": 150.91,
+      "text": "I can't say, I mean maybe."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 151.32,
+      "end": 156.16,
+      "text": "OK, alright. But otherwise, it doesn't hurt, uh, or or or sting, when you pass urine?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 156.45,
+      "end": 163.56,
+      "text": "And I haven't noticed that it really burns or anything like that. Um, just that I'm, peeing more than [inaudible] , more regularly."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 159.28,
+      "end": 172.91,
+      "text": "OK. OK. Um, OK. And um, moving on to [inaudible] other symptoms, have you noticed any vomiting, or feeling nauseous at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 173.19,
+      "end": 176.9,
+      "text": "Just a little nauseous, um, but no vomiting."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 176.78,
+      "end": 179.48,
+      "text": "No vomiting. Any temperatures or fevers?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 180.35,
+      "end": 185.27,
+      "text": "I haven't [inaudible] , I felt a bit hot and sweaty, but I haven't really measured it, so I can't really say."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 185.52,
+      "end": 199.83,
+      "text": "OK, fine. Um, uh, uh, and Kim, have to ask um, uh [inaudible] all all all [inaudible] patients. This this question is about your cycle, if you don't mind me asking. Um, are you currently um, are you currently sexually active?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 195.44,
+      "end": 211.46,
+      "text": "Yes. Uh, yeah I've, I have had the same partner, I am, we were last sexually active about four days ago. Um, my last STD screen was normal, which was about six months ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 211.31,
+      "end": 214.26,
+      "text": "OK. So you've had no other partner since then."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 214.33,
+      "end": 215.99,
+      "text": "No, the [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 215.95,
+      "end": 220.78,
+      "text": "OK. Um, uh, and do you use any contraception at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 221.31,
+      "end": 225.52,
+      "text": "Uh, I'm, on the Implanon. I had the Implanon inserted about a year ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 225.35,
+      "end": 228.92,
+      "text": "At the moment, OK, fine. Um, are you still having periods?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 230.36,
+      "end": 231.47,
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 231.44,
+      "end": 232.89,
+      "text": "When was your last period?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 233.64,
+      "end": 238.56,
+      "text": "Uh, my last period was about, three weeks ago. I mean, two weeks ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 238.41,
+      "end": 247.06,
+      "text": "Two week scare, OK. So, is there any chance you could be pregnant? I know you've got an implement in there, but is there any chance you could potentially be pregnant? It's something for us to think about [inaudible]"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 246.46,
+      "end": 259.28,
+      "text": "Well, we don't use any other barrier, method so, we just use the [inaudible] , I just have the Implanon and the same partner. Um. Theoretically, if the Implanon, hasn't been working then I could be pregnant, but I don't suspect [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 258.13,
+      "end": 290.48,
+      "text": "Yeah, OK. Well it's something for us to think about. Um, uh, maybe worth taking a pregnancy test later on, just to confirm that. Um OK. And, and so, just to summarize so far, if you don't mind, it's really for the last couple of days, it's tummy pain that's really affected you, mainly lower down towards your belly button. It's quite burning, you said. It's getting worse. Um, you noticed some pink urine. Um, but no burning or stinging pain when you pass urine. Your bowels are working OK. You've felt a little bit nauseous, um, and feeling hot and sweaty. Have I got that all right?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 290.57,
+      "end": 292.65,
+      "text": "Yeah, that sounds, very accurate."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 292.34,
+      "end": 297.22,
+      "text": "Is there anything else, perhaps, that you feel like you should share with me at this stage, anything that might be important?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 297.65,
+      "end": 302.01,
+      "text": "I don't think so, I think I've, you [inaudible] , we've covered everything that's really bothering me."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 301.73,
+      "end": 309.19,
+      "text": "Yeah, OK. Um, tell me, tell me a bit more about your um, medical history otherwise. Are you normally fit and well?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 309.99,
+      "end": 323.11,
+      "text": "Yeah, [inaudible] , well, I haven't had any, surgical, I don't have any surgical history. I don't have any previous, I haven't had any operations before, or, and I'm not on any other medication, I just have the Implanon."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 323.14,
+      "end": 327.84,
+      "text": "OK. Um, have you had anything like this before in the past? Any similar symptoms?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 328.58,
+      "end": 331.17,
+      "text": "I've never [inaudible] , I've never had these symptoms before."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 331.1,
+      "end": 344.21,
+      "text": "No, OK. Um Fine. Um, any other family history I should be aware of? Anything relevant, family, uh related to bowels, maybe related to [inaudible] history?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 344.51,
+      "end": 346.8,
+      "text": "No, not that [inaudible] , not that I'm aware of, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 346.62,
+      "end": 352.1,
+      "text": "OK. Alright. Um, and socially, just tell me a bit more about your home situation. Who's at home with you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 352.71,
+      "end": 359.21,
+      "text": "Uh, I live in a share house, and with two other, two other room-mates."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 359.82,
+      "end": 363.84,
+      "text": "OK. Um, and uh, are you currently working?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 364.86,
+      "end": 367.35,
+      "text": "Yeah, I currently, I am currently [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 367.21,
+      "end": 368.31,
+      "text": "What do you do for work?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 370.12,
+      "end": 371.74,
+      "text": "I am an accountant."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 371.7,
+      "end": 379.03,
+      "text": "OK. Um [inaudible] OK. Um, Do you smoke at all, Kim?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 379.79,
+      "end": 380.46,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 380.48,
+      "end": 382.76,
+      "text": "No. And do you drink much in the way of alcohol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 384.05,
+      "end": 392.46,
+      "text": "Uh [inaudible] , socially I drink, but uh, I don't think more, more than normal. [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 389.39,
+      "end": 403.59,
+      "text": "No, OK. OK. Um, just before I go to the examination, I just want to go through just some few screening questions if that's OK, yes or no. Uh, we've, we've covered the majority of them already. Uh, but I just want to make sure I'm not missing anything else."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 399.19,
+      "end": 399.94,
+      "text": "All right."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 403.59,
+      "end": 409.41,
+      "text": "Um, how's your, [inaudible] how's your chest? How's your breathing? Um, any [inaudible]"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 408.8,
+      "end": 415.5,
+      "text": "I don't feel short of breath uh, or, I'm not having any problems, or I don't have a cough or anything that's [inaudible] , worrying me."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 414.55,
+      "end": 420.13,
+      "text": "[inaudible] OK. Any uh, funny heartbeats or rhythms, palpitations?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 421.18,
+      "end": 422.43,
+      "text": "Not that it, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 422.32,
+      "end": 425.82,
+      "text": "OK. Any headaches? Any problems with your vision?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 426.98,
+      "end": 427.71,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 427.61,
+      "end": 470.44,
+      "text": "No, OK. Alright. Um, Fine, OK. Um, So really just uh, moving on, um, And so based, based on your story really, uh, uh Kim it's, it's [inaudible] it's difficult. [inaudible] it's it's um, you know you've got some tummy pain. You don't exactly know what's causing it. It could be a few different things that could be causing your pain. Could just be a, you know, could just be a urine infection, for example. Could just be something related to your gut. Um, could just be something related to your, you know, a pregnancy-related cause. Um, and so it's probably worth doing some tests initially. to try and rule out um, what's going on here. Um, which I can organize for you today."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 471.22,
+      "end": 472.13,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 471.68,
+      "end": 492.79,
+      "text": "Um, and basically those tests, we, we'll have a better idea in terms of how we should proceed. But certainly, it [inaudible] if it's been going on for the last couple of days, um, Uh, you know, it's probably maybe worth empirically treating you for a maybe urine infection. And, so it's an [inaudible]"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 491.16,
+      "end": 497.44,
+      "text": "[inaudible] . Yeah, I [inaudible] , can we do that instead of me, going for tests, and then seeing how that goes?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 497.18,
+      "end": 529.86,
+      "text": "Yeah, absolutely. So, um I think it's certainly worth, you know covering you with some antibiotics today. Uh, but i still want you to bear in mind, you know, have a pregnancy test done to make sure we're not missing anything else here. And, um, and I want you to kind of really come back and see me in a few days time, if your symptoms are not getting any better, or indeed if they're getting worse. So, things to look out for would be, you know, worsening tummy pain, um, if you're feeling really hot or sweaty, your temperature's not coming down um, vomiting et cetera. Does that make sense?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 530.24,
+      "end": 532.39,
+      "text": "Yeah, I think I'm happy with that plan."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 532.58,
+      "end": 552.32,
+      "text": "OK. Um, you can try just regular painkillers, uh, Paracetamol would be advisable. Um, make sure you drink plenty of fluids. You can try some cranberry juice as well, which uh, can sometimes help with your urine symptoms. Um, take the antibiotics, uh, and give me a call, you know, if you are worried about anything else."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 553.69,
+      "end": 559.42,
+      "text": "Uh, sure. That sounds great. Thank you very much. Um, should I just collect the script at my pharmacy?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 559.06,
+      "end": 568.09,
+      "text": "Yeah, if I send it straight to your pharmacy, start the antibiotics today, something called Trimethoprim. Um, you can take two tablets, uh, [inaudible] one tablet twice a day for three days."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 564.0,
+      "end": 570.52,
+      "text": "OK. OK, [inaudible] , that sounds great."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 568.59,
+      "end": 571.5,
+      "text": "Uh, [inaudible] , let's see how you get on."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 571.71,
+      "end": 573.26,
+      "text": "OK. Thank you very much."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 572.96,
+      "end": 574.21,
+      "text": "Great. All the best!"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 574.52,
+      "end": 575.22,
+      "text": "Bye."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 575.01,
+      "end": 576.18,
+      "text": "Bye bye."
+    }
+  ]
+}

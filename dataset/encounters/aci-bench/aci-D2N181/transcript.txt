@@ -1,0 +1,65 @@
+Clinician: Michelle King, date of birth 01/05/1986, mrnq27631. New patient visit for acid reflux. Past medical history of anxiety and seasonal allergies. Hello, are you mrs. King?
+Patient: I am.
+Clinician: I'm dr. Phillips. Very nice to meet you.
+Patient: You as well.
+Clinician: How can I help you today?
+Patient: Well, my primary doctor, dr. Scott, he referred me here.
+Clinician: Okay.
+Patient: I've just got really bad acid reflux.
+Clinician: Okay. Can you tell me more about it?
+Patient: Yeah. Though I mean I... Right now, I take 40 milligrams of omeprazole twice a day. Some days, it is fine, but others are just really bad.
+Clinician: What do you feel?
+Patient: It feels like burning.
+Clinician: In your chest?
+Patient: Yes, in my chest and also in my throat.
+Clinician: In your throat and chest. All right. Any difficulty with swallowing? Feels like food or liquids kinda get stuck?
+Patient: No.
+Clinician: Okay. That's good. Any abdominal pain?
+Patient: No, not really.
+Clinician: Nausea or vomiting, changes in bowel movements?
+Patient: No.
+Clinician: Constipation, diarrhea, rectal bleeding?
+Patient: Nope.
+Clinician: Okay. Very good. And how long have you had this problem?
+Patient: I've had acid reflux since I was around 12, but it has gotten worse over the past few years.
+Clinician: Okay. And how long have you been on the omeprazole?
+Patient: On the way, it is now I think about a year.
+Clinician: Okay. Do you find that it's done anything for you in the past?
+Patient: I mean, I can tell it's helped because some days, I'll be fine, and then some days, I eat something and it feels terrible.
+Clinician: Are there any things that make your symptoms worse that you can pinpoint, like food choices or stress?
+Patient: Sure. Probably stress and food choices sometimes.
+Clinician: Okay. What things bother you?
+Patient: Spicy foods, um, so I try not to eat them too often, but sometimes even drinking a soda can cause it.
+Clinician: We do know that caffeine and caffeinated beverages will do that, even sodas. Um, even just the carbonation can cause that. How about tomato-based products or citrus products?
+Patient: Yeah, sometimes, but I still eat them.
+Clinician: Okay. It's reassuring that you aren't having any difficulty swallowing, though. How's your weight been? Pretty stable?
+Patient: I'd say pretty stable, although I haven't had much of an appetite for the past two months. I have been under a lot of work stress.
+Clinician: What do you do for work?
+Patient: I'm a paralegal.
+Clinician: Okay. And any family history of gi issues?
+Patient: Um, my grandmother had esophageal cancer.
+Clinician: On your mom or dad's side?
+Patient: Mom's side. And my mom had some issues like acid reflux, and she was taking some medication that coats the lining of your stomach.
+Clinician: Okay. Have you ever had an upper endoscopy?
+Patient: I think maybe when I was younger.
+Clinician: But not in the last 10 years?
+Patient: No.
+Clinician: Have you ever tried any medication other than omeprazole?
+Patient: Um, at one point I was on omeprazole and ranititine -dine. It did help. But other than that, those are the only medications I have taken.
+Clinician: Okay. Have a seat here, and let me listen to your heart and lungs, and then we can talk about a plan for you.
+Patient: Okay.
+Clinician: So normal physical exam per my new patient template, except for well-healed abdominal surgical scars noted. What's the surgical scar here on your abdomen from?
+Patient: I always forget about that surgery. I had it when I was a baby. My mom said my intestines were twisted, so I had to have surgery when I was around one month old.
+Clinician: Hm, gotcha. Okay. So let's talk about what you have going on. From what you've told me, it sounds like you've had a several-year history of gerd, which is the medical term for acid reflux. And recently your symptoms have been poorly controlled with the omeprazole, 40 milligrams twice daily. You've been having heartburn despite taking this medication, correct?
+Patient: Yes.
+Clinician: And you've identified trigger foods like spicy foods, carbonated bev- beverages, citrus, and tomato-based foods, but you haven't cut these foods out of your diet completely yet. So the first thing I'd try is changing your diet because these foods can exacerbate your gerd, even though you're taking the ppi.
+Patient: Okay, yeah, I could definitely do a better job of avoiding those foods.
+Clinician: Great. So stress is another trigger that we need to address. High stress can cause worsening of your symptoms.
+Patient: Yeah, stress and anxiety are definitely big problems for me.
+Clinician: So working on that may help with your gerd. Additionally, we can consider trying a different ppi since the only one you've tried up to this point is omeprazole. If you're okay with this, we can switch your omeprazole to nexium.
+Patient: That's fine with me. I'm definitely open to trying whatever.
+Clinician: Perfect. I will send a prescription for nexium 40 milligrams twice daily to your pharmacy on file. I'll also recommend that you have a procedure called a egd, or upper endoscopy, to look for potential causes of the gerd. We'd sedate you and then pass a small camera through your mouth, down your throat, through your stomach, and end in the small intestines. We'd look for any ulcers or signs of precancerous or cancerous conditions that we can take biopsies at the same time if we see anything.
+Patient: Okay. Can I schedule that today?
+Clinician: Yeah. You can get scheduled at checkout desk. I'll have you follow up with me in the office for the egd so we can discuss the results and talk about how you're doing with the dietary, stress, and medication changes. How does all of that sound?
+Patient: That sounds good.
+Clinician: Perfect. I will walk you to the checkout desk. Be sure to call my office and let me know if anything changes or if you have problems before your egd and follow-up appointment. Please insert the procedure paragraph in the plan. I suspect that she likely has gerd with underlying functional etiology as well. Reassuringly, she has no unintentional weight loss and denies any dysphagia. If her egd is normal and her symptoms pers- persist despite a trial of nexium, we can consider a trial of protonix and obtain a ph-impedance study. This will allow us to rule out abnormal acid reflux exposure and to decipher between a functional etiology and hypersensitivity.

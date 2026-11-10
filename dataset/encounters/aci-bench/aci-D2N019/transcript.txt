@@ -1,0 +1,45 @@
+Clinician: Hi ms. Hernandez, dr. Fisher, how are you?
+Patient: Hi dr. Fisher. I'm doing okay except for my elbow here.
+Clinician: All right. So it's your right elbow?
+Patient: It's my right elbow, yes.
+Clinician: Okay. Hey dragon, ms. Hernandez is a 48-year-old female here for a right elbow. So, tell me what happened.
+Patient: Well, I was, um, moving to a new home-
+Clinician: Okay.
+Patient: And I was, um, moving boxes from the truck into the house and I lifted a box up and then I felt like this popping-
+Clinician: Hmm.
+Patient: And this strain as I was lifting it up onto the shelf.
+Clinician: Okay. And when- when did this happen?
+Patient: This was just yesterday.
+Clinician: All right. And have you tried anything for it? I mean...
+Patient: I put ice on it. And I've been taking ibuprofen, but it still hurts at lot.
+Clinician: Okay, what makes it better or worse?
+Patient: The ice, when I have it on, is better.
+Clinician: Okay.
+Patient: But, um, as soon as, you know, I take it off then it starts throbbing and hurting again.
+Clinician: All right. Uh, let's review your past medical history. Uh... Looks like you've got a history of anaphylaxis, is that correct?
+Patient: Yes. Yes, I do. Yeah.
+Clinician: Do you take any medications for it?
+Patient: Um, ep-... Just an epipen.
+Clinician: Just epipen for anaphylaxis when you need it. Um, and what surgeries have you had before?
+Patient: Yeah, so carotid. Yeah-
+Clinician: . Yeah, no, uh, your, uh, neck surgery. All right. Well let's, uh, examine you here for a second. So it's your, uh, this elbow right here?
+Patient: Yeah.
+Clinician: And is it hurt-... Tender right around that area?
+Patient: Yes, it is.
+Clinician: Okay. Can you flex it or can you bend it?
+Patient: It hurts when I do that, yeah.
+Clinician: All right. And go ahead and straighten out as much as you can.
+Patient: That's about it.
+Clinician: All right.
+Patient: Yeah.
+Clinician: So there's some swelling there. And how about, uh, can you move your fingers okay? Does that hurt?
+Patient: No, that's fine.
+Clinician: How about right over here?
+Patient: Uh, no that's fine. Yeah.
+Clinician: Okay. So on exam you've got some tenderness over your lateral epicondyle. Uh, you have some swelling there and some redness. Uh, you have some pain with flexion, extension of your elbow as well. Uh, and you have some pain on the dorsal aspect of your- of your forearm as well. Okay? So let's look at your x-rays. Hey dragon, show me the x-rays. All right. Your x-ray of your elbow- It looks like, I mean, the bones are lined up properly. There's no fracture- . It, uh, there's a little bit of swelling there on the lateral elbow but I don't see any fracture, so that's good. So, looking at the x-ray and looking at your exam, uh, my diagnosis here would be lateral epicondylitis, and this is basically inflammation of this area where this tendon in- inserts. And probably that happened when you were moving those boxes. So we'll try some motrin, uh, about 800 milligrams every six hours. Uh, I'll give you a sling for comfort, just so you can use it if- if it's causing a lot of pain.
+Patient: Hmm.
+Clinician: And it should get better, uh, in about, you know, in a couple of days it should be improved. And if it doesn't get better, give us a call and we'll see you some time next week. Okay? So we'll give you a sling, we'll give you the motrin, I'll give you about, uh, 30, uh, uh, 30, uh, uh, medications for that. Uh, do you have any questions?
+Patient: No, no. Thank you.
+Clinician: Hey dragon, order the medications and the procedures. All right, why don't you come with me and we'll get you signed out?
+Patient: Okay, sounds good.
+Clinician: Hey dragon, finalize the report.

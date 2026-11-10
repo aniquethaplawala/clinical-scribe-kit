@@ -1,0 +1,526 @@
+{
+  "encounterId": "pm57-d3c01",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 4.43,
+      "end": 7.26,
+      "text": "Hi. Hello."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 7.38,
+      "end": 9.11,
+      "text": "Hi, hi I'm Maria."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 9.58,
+      "end": 14.89,
+      "text": "Hello, I'm Doctor Jacob and welcome to Babylon. How are you doing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 15.59,
+      "end": 20.26,
+      "text": "I'm all right, thank you. Well I feel a little weird today, to be honest."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 20.09,
+      "end": 25.65,
+      "text": "Yeah, so just before we [inaudible] we start, is it all right if you could confirm your full name for me please?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 26.05,
+      "end": 28.88,
+      "text": "Yes. Maria Trabalotsa."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 28.87,
+      "end": 31.16,
+      "text": "OK, day and your date of birth?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 31.79,
+      "end": 36.23,
+      "text": "That is the first of October, ninety-nine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 36.42,
+      "end": 39.86,
+      "text": "OK, and your email address for me please?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 40.56,
+      "end": 45.21,
+      "text": "Yes, M Traba at Gmail dot com."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 45.64,
+      "end": 52.04,
+      "text": "OK, and just to confirm that you're in a secure location and we can have a confidential conversation?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 52.96,
+      "end": 55.29,
+      "text": "Yes I think I am, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 55.12,
+      "end": 65.95,
+      "text": "Good, right, you've mentioned in [inaudible] in, in your patient notes that you're having some [inaudible] sort of lip swelling, and you after you had a sandwich. Is that correct?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 66.5,
+      "end": 91.33,
+      "text": "Yeah that is, well, I don't think, I don't think it was, it it wasn't a sandwich but it was, it was something with prawn so. Basically, I, I sometimes go with my friends to, to this place called [inaudible] . And, we, we regularly have like usually I have like a normal vegetarian soup or something."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 91.04,
+      "end": 91.73,
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 91.33,
+      "end": 95.81,
+      "text": "And yeah, and, then I wanted to try something new."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 95.39,
+      "end": 96.24,
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 95.81,
+      "end": 107.97,
+      "text": "Um, so what happened was, I, I ordered a prawn soup it it's it it's called [inaudible] it's like a soup, I ordered a prawn one this time."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 107.6,
+      "end": 108.33,
+      "text": "Yeah."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 107.97,
+      "end": 116.76,
+      "text": "And, yeah and then my feel [inaudible] like my lips started feeling a little weird just in the in the corner sort of on the left first."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 116.25,
+      "end": 117.01,
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 116.76,
+      "end": 138.09,
+      "text": "And then, I don't know and then, we went back we had little bit of chat, of banter I wasn't really, paying attention. Uh, now I feel the that there is a swelling, there is like a swelling on my, on my upper lip and it's kind of getting bigger. I don't know what to do."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 131.28,
+      "end": 142.77,
+      "text": "Yeah. Right. All right. So when did you have the prawn soup? What time?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 143.95,
+      "end": 149.81,
+      "text": "That was, that must have been just after work, so maybe like around seven."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 150.04,
+      "end": 155.91,
+      "text": "OK, around seven o'clock, and um how long did it take to develop the swelling?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 156.91,
+      "end": 166.47,
+      "text": "Well I wasn't really paying attention so, it must have been like, must have been like, I don't know half an hour maybe."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 166.14,
+      "end": 168.99,
+      "text": "OK in half an hour you developed the swelling yeah?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 169.21,
+      "end": 170.28,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 170.44,
+      "end": 173.12,
+      "text": "OK, and it's getting bigger and bigger?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 174.02,
+      "end": 182.21,
+      "text": "Yeah it's it it [inaudible] still feel it like, really pumping blood and it's kinda getting bigger it feels like it's getting worse."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 180.89,
+      "end": 193.89,
+      "text": "[inaudible] OK. So, just a few more questions. Um, so you mentioned about your swelling of your lips. Is there any feeling of swelling in in your throat, like your throat is closing up, any feeling like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 194.39,
+      "end": 199.89,
+      "text": "Yeah actually, I, I feel like I can't breathe that well right now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 199.8,
+      "end": 205.18,
+      "text": "OK. And do you feel like, like your chest is tight?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 207.05,
+      "end": 216.63,
+      "text": "And I don't know if it's the chest it just generally feels a little difficult, but yeah it might be, I'm not sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 212.73,
+      "end": 227.93,
+      "text": "OK. OK, right. And just a few [inaudible] have you ever these [inaudible] any kind of lip swelling in the past? After eating any food?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 228.53,
+      "end": 239.09,
+      "text": "Yeah, well, maybe, I remember like a year ago. A year ago I was, out with my friends."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 238.61,
+      "end": 239.35,
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 239.4,
+      "end": 251.59,
+      "text": "And I think we went like, to a late night kinda Chinese place, and I remember that I was quite drunk to be honest."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 251.08,
+      "end": 251.96,
+      "text": "Sure, OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 251.59,
+      "end": 270.01,
+      "text": "And I remember that after like having that very late. I've woke up the next morning quite swollen up and had also I, felt really bad and quite difficult breathing, but I don't know what it was I had it was like a curry or something I think."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 261.1,
+      "end": 278.2,
+      "text": "OK. Right. OK. Uh, and what did you take at that time? Did you use anything like antihistamine or anything, when you had that last time?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 278.68,
+      "end": 287.32,
+      "text": "But I generally have asthma so, I took I, I take, ohh what's it called? Salbutamol inhalers?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 286.99,
+      "end": 287.76,
+      "text": "Yeah."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 288.35,
+      "end": 293.92,
+      "text": "Yeah, so I do take that regularly but I've always taken it. I generally have asthma."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 293.76,
+      "end": 300.29,
+      "text": "And any other inhalers? Is it just the Salbutamol that you use? Any other brown inhalers?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 301.36,
+      "end": 305.48,
+      "text": "Ohh I, no I don't think so, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 304.54,
+      "end": 315.5,
+      "text": "[inaudible] OK right and um so, do you use antihistamines like [inaudible] Cetirizine, Loratadine, Piriton, any of those, kind of things?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 316.58,
+      "end": 326.98,
+      "text": "Hmm, no. I, I got no I do sometimes but I don't know which ones, but I have a peanut allergy as well, like always had it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 324.63,
+      "end": 327.55,
+      "text": "Yeah. Yeah."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 326.98,
+      "end": 332.32,
+      "text": "I, think I do get antihistamines for that but I'm not sure which ones."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 332.19,
+      "end": 338.83,
+      "text": "And any [inaudible] point because you had peanut allergy, any time you have to ever use like an injection?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 340.97,
+      "end": 349.35,
+      "text": "When I was a kid I think I remember my mom told me about it, but I don't know what it was 'cause I was small and I've changed doctors since."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 349.98,
+      "end": 356.84,
+      "text": "Right, so has your mum ever said that you had to go to hospital because you had an severe allergic reaction?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 357.19,
+      "end": 369.3,
+      "text": "Yeah is that well I was like six or something I, I, I think. Ohh sorry, the swelling is getting, ohh my god ohh, yeah I think when I was six."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 365.55,
+      "end": 370.73,
+      "text": "Oh. You all right? Are you OK now?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 371.86,
+      "end": 375.53,
+      "text": "Ohh, I feel a little dizzy right now to be honest, ohh."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 371.92,
+      "end": 381.72,
+      "text": "Are you [inaudible] . You're feeling dizzy. OK, right do you have any kind of, uh, antihistamines with you at the moment?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 384.25,
+      "end": 387.6,
+      "text": "[inaudible] No, I don't think I have no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 386.6,
+      "end": 423.71,
+      "text": "OK, right OK, so. Right, uh, all right I, I'm really a bit worried about you at the moment, Maria. [inaudible] Um I think we need to call an ambulance, because, um, from what history you've been telling me. It sounds like you could be going into what we say an a, an anaphylactic reaction. That's when your throat and your chest, you know closes in and you might need an injection like what your mum's. Um, you know what your mum told you as you were a young child. OK, all right so is there any, anyone with you at the moment or are you alone?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 423.8,
+      "end": 426.21,
+      "text": "I'm alone at the moment, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 425.25,
+      "end": 435.37,
+      "text": "Ohh no so hang on the line, while I'll call the ambulance OK, and I'll send them right to you, OK and [inaudible] ."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 434.17,
+      "end": 439.62,
+      "text": "Hey ohh somebody just came, somebody just came yes, I'm not alone any more. Thank."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 438.75,
+      "end": 459.04,
+      "text": "All right, OK somebody just came. So just call the [inaudible] ambulance make sure that person's with you till the ambulance comes, yeah. Uh and [inaudible] because we are worried about an anaphylactic reaction so you need go straight away. Could you ask the person whether they have any antihistamines around, in the interim, while we're waiting."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 459.23,
+      "end": 464.47,
+      "text": "Yes, uh Mum, Mum do we have any antihistamines around? Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 464.23,
+      "end": 481.15,
+      "text": "Yes K. Do that straight away and if mum can call. Mum, if you can call the [inaudible] uh nine nine [inaudible] , nine nine nine yeah, and say that your there is a suspected anaphylactic reaction and they need to come straight away. OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 464.47,
+      "end": 483.7,
+      "text": "Ohh yeah yeah we do [inaudible] . Yes she said she will yes, yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 482.9,
+      "end": 487.58,
+      "text": "All right, so straight away take the antihistamines in the meantime all right."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 487.47,
+      "end": 490.28,
+      "text": "OK, OK. Yes, thank [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 488.46,
+      "end": 498.78,
+      "text": "And [inaudible] after you come out from the hospital [inaudible] do give us a ring back we might need to sort you out, um, with your injections and things like that OK?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 498.3,
+      "end": 502.6,
+      "text": "Yes, yes will do, yes, thank [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 501.49,
+      "end": 504.51,
+      "text": "All [inaudible] . OK then, take care."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 504.78,
+      "end": 507.71,
+      "text": "Thank you very much thank bye bye."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 505.74,
+      "end": 507.67,
+      "text": "Bye bye, bye. [inaudible]"
+    }
+  ]
+}

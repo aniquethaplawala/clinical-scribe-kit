@@ -1,0 +1,31 @@
+Clinician: Hey Elijah how are you
+Patient: I'm doing okay
+Clinician: So I see here that your primary care provider sent you over it looks like you were doing some yard work yesterday and dropped a landscape brick on your foot can what so what's going on with your right foot today
+Patient: It's a little sore today but you know I hurt my foot before but this is the first time where I'm actually being seen for it
+Clinician: Okay so you say you've injured your right foot before tell me a little bit about that injury
+Patient: Twenty years ago I broke my ankle I had to put in a cast but that seems to be okay but you know sometimes it'll give me trouble once in a while it feels a little sore it swells up at times
+Clinician: Okay
+Patient: And my other ankle too is sore sometimes and I've had surgery for that too and you know one of those things where you know it might give out once in a while but I'm not sure that's related to what the you know break dropping on my foot but you know either way my foot's a little sore
+Clinician: Okay alright so when you dropped that brick on your foot were you able to get up and keep working or did you have to get off your you know not stop weightbearing and and get off that foot can you tell me a little bit about after the traumatic incident
+Patient: I you know it was a little sore I called a few names you know god damn why is this in my foot but you know I kept working putting it around a little bit but now it's got swollen so I got to see my doctor he told me I had to go see you here I am so tell me what's going on with it
+Clinician: So what have you been doing for the pain since the initial insult
+Patient: Lucken it up
+Clinician: Okay have you taken any medications safe for example tylenol or ibuprofen for the pain
+Patient: No I feel like taking the medicine
+Clinician: Okay and then just out of curiosity you said you were doing some landscaping have you been over to landscapes warehouse new here in town my wife and I were just over there this last weekend and picked up a whole bunch of stuff you had a chance to make it over there yet
+Patient: No not yet I heard about it though I might have to make a trip once my foot heals
+Clinician: Alright that sounds good now just out of curiosity can you rate your pain for me right now zero being none ten being the worst pain you've ever been in your life
+Patient: Eleven out of ten
+Clinician: Okay and then have you experienced any numbness or tingling of that foot since the incident
+Patient: Yeah the whole foot is numb
+Clinician: Okay
+Patient: But been now for a long time
+Clinician: Okay I'm gon na do a quick physical exam now your vitals look good and I would like to do a focused exam of your right foot the there is some bruising on the bottom part of your foot and on the top part as well and I do appreciate the associated swelling and I also recognize that you do have tenderness to palpation for midfoot now for your neurovascular exam of your right foot your capillary refill is brisk in less than three seconds I do note a strong bounding dorsalis pedis pulse with motor and sensation is intact for that foot I also like to call out the fact that it matches bilaterally which is important I'm gon na go ahead and review the diagnostic imaging results so we did a x-ray of that right foot and I do notice dorsal displacement of the base of the second metatarsal with a three millimeter separation of the first and second metatarsal bases and presence of bony fragments so let me tell you a little bit about my assessment and plan now your right foot pain is due to a lisfranc fracture which is a fracture to your second metatarsal bone and the top of your foot this is where the metatarsals meet those cuboids okay so it where the bones come together in your foot now there are a lot of ligaments in your foot so I do want to order an mri just to assess if there is any injuries to those ligaments now based on your exam and looking at the x-ray you're most likely going to need surgery now the reason why this is important is if we have poor bone alignment or ligament healing you can this can lead to losing the arch in your foot you could becoming flat-footed and also developing arthritis now what's gon na be key here is the surgery is going to allow those bones and ligaments to heal properly we are going to put them back into place using plates and screws now the key thing is going to be it's going to be outpatient surgery so it's going to be same day I'll see you in the morning and then you'll be discharged home that evening and we will do a follow-up I wan na see you in twenty four hours post procedure but then I'll see you again in two weeks you're gon na be in a cast and I'm gon na have you use crutches you're not gon na be able to weight-bear on that foot for six to eight weeks what we'll do is we'll advance your ambulating gradually based on how you heal and based on how you tolerate the procedure I know I have covered a lot of material quickly but this is really gon na be the best course of action for you to have a good outcome now do you have any questions come answers concerns before I have the nurse come in finish the paperwork and get you set up for your procedure which we are going to do tomorrow if you're agreeable to that
+Patient: What about putting in a cast can I just stay in the cast
+Clinician: You could but what we found is the best outcome is aligning those bones with plates and screws to make sure that they heal properly so you have the best outcome possible
+Patient: So if the surgery is going to be tomorrow when am I going to get my mri
+Clinician: So what what we will do is the good news is we have an outpatient mri facility downstairs and I'm going to send the order down and we'll get you your mri this afternoon
+Patient: Can I think about it and we have some time
+Clinician: Sure
+Patient: Okay
+Clinician: Alright thanks Elijah

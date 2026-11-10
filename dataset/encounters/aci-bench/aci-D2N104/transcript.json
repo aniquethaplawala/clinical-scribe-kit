@@ -1,0 +1,180 @@
+{
+  "encounterId": "aci-D2N104",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Judy Gomez, mrn 869723. Date of birth, 5, 7, 1961. She's in office today for ongoing management of psoriatic arthritis. Hello, Judy, how are you doing today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm doing good, thank you. How are you?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I'm great, thanks. So how have you been since the last time? I know the last time we were talking about decreasing your prednisone dose, correct?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes. I'm just on one now and that seems to be enough."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Aw, that's great to hear."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, there were a couple days there I took an extra one, just because there was a little extra pain in my feet. And I do have a desk job, so when I have a day off where I'm moving around a lot they do tend to hurt a bit more."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. How many times did you do that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, it wasn't often, maybe once a week."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. So it sounds like we're still on track for discontinuing the prednisone. We'll do that today and you can let me know how it goes on your next visit. And how about the methotrexate, do you think that helped with your joint pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, definitely. Because I went to get my covid shots, um, but from the letter I got about it, it said that it could interfere with the vaccine, you know, reduce the efficacy. So I didn't take it on the week that I got the first shot."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And what happened?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I felt absolutely horrible until I took it again a week later."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I'm sorry to hear that. And- and what did you do about the second dose?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well, I called into the hotline because I was in so much pain with the first one. And they said, \" no, just go ahead and take it, \" so I did."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. That's good then. We do have to keep an eye out on it since it's a high-risk medication. Do you have an appointment to get your blood drawn for the next time?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, they didn't give me one."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. So we can do that for you too. Uhm, so what questions do you have for me, Judy?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well, I just wanted to know why I was getting all these bruises here, so like when I bump myself. I don't know where they're coming from."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. That's probably from the prednisone, it can increase bruising."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay. I didn't know that. Um, I don't even feel it when it happens, they just show up."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah. Unfortunately that can happen, but we're working on discontinuing that so let's see if the bruises do go away."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay. That sounds good, thanks."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, Judy, please, um, sit up here and I'll take a look. Shoes and socks off please."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "All right."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. Let me see here. Okay. So where is it hurting? In your joints right here?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, a little. Also in my feet joints as well."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And how about when you bend the knee like this?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well, it hurt before we increased the methotrexate, but it's doing pretty good now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, good. Can you flex your toes please? Good range of motion. Also ridges in nails, that's from the psoriasis."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah. They've been like that for a long time now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right, uhm, ms Gomez, it looks like we're moving along with your treatment nicely. We'll stop your prednisone and continue with the methotrexate. Make sure to stop by the front desk and make an appointment for the blood work, and I'll see you in three months."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "All right. It sounds good. Thank you so much, it was great to see you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "It was great seeing you too. Thank you."
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "encounterId": "aci-D2N051",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hi Jeremy how are you"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm really good thank you how are you"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I'm okay the the medical assistant told me that you had this ulcer on your foot that's been there for a couple of weeks"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Going away"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah it's been there gosh it's like six or so weeks right now and it's and it's on my right foot and it's just yeah it's just not going away I'm not sure if it maybe even gotten a little worse from when I first noticed it"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and how long did you say it's going on for"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Probably about"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Six eight weeks maybe"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay and do you have any pain in your foot no no no pain at all okay now I know that you're a diabetic and you are on some insulin have your sugars been running okay yeah they have been running"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You know on the most part they seem to be running a little higher than normal"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Your sugars are running higher than normal okay do you recall what your last hemoglobin a1c was was it above nine"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes it it it definitely was higher than nine"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright now what do you think caused this ulcer were you wearing some tight fitting shoes or did you have some trauma to your foot or"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I was you know I think initially I'm you know I was out in the backyard you know kind of you know doing some work and you know I know I you know I could've stepped on a nail or you know there was some other work but you know I'm always outside so I don't know if that kind of led to anything or caused anything"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright and have you had any fever or chills"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No no no fever or chills you know I kinda you know get headaches pretty often I don't know if that you know I don't know if that's a stress or but you know always have like the tension headaches in the front"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and do you have do you have neuropathy where you get like numbing and tingling in your feet"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Occasionally yeah occasionally especially when it's like colder outside"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mm-hmm kinda feels like it takes a little longer to"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Warm up but yeah I kinda have some sensation in in all my extremities"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright and then are you are you a smoker or did you smoke"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I did back you know kind of years ago I did but yeah I haven't smoked anything in in good number of years"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright when did you stop smoking"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Couple years ago maybe four or so years ago"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright and how many packs a day would you smoke"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Gosh back then yeah was at least two"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright how many years did you smoke for like twenty"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah at least twenty yeah twenty plus years"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright now any other symptoms do you have any problems when you walk down the street do you get any pain in your calves at all when you walk"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No no no no pain you know just kind of you know it's just I know that it's there"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and you said you're active you're out in the yard and things like that do you go on long walks at all or no"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No no you know it's you know I just kinda feel like I've been just trying to take it easy lately"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "But yeah most most of the stuff I've been doing is just kind of hanging around the house"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright so we talked a little bit about your diabetes let's talk about your heart disease now your heart disease you had a heart attack in twenty eighteen we put a stent into your right coronary artery you're still taking your medications for that you're still on your aspirin"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I am yes yeah I do the baby aspirin every day"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright and any chest pain or shortness of breath or anything like that no no yeah no nothing more than yeah I wouldn't attribute anything"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay and do you have a podiatrist for your yearly foot exams"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No I I I don't okay alright alright well let's go ahead I wan na just do a quick physical exam I'm just gon na be calling out some of my exam findings so your vital signs here in the office you don't have any fever so that's good your blood pressure is great it's like one twenty seven over eighty and your heart rate is nice and slow in the sixties on your neck exam I don't appreciate any jugular venous distention or any carotid bruits on your lung exam your lungs are clear to auscultation bilaterally on your heart exam you do have a two out of six systolic ejection murmur heard at the left base and on your lower extremity exam I don't appreciate any palpable dorsalis pedis or posterior tibial pulses there is a two by three centimeter ulcerated lesion on the right lateral foot near the fifth metacarpal metatarsophalangeal joint there is no associated cellulitis does it hurt when I press here"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "There is no pain to palpation of the right foot there is associated granulation tissue and some slight purulent discharge from the wound okay so what does all that mean that just means that you have this ulcer that's you know fairly sizable with I think we need to do some good wound care on it let's talk a little bit about my assessment and plan so you know I you have a nonhealing ulcer of your right foot so we need to do some studies on you to see if you have an adequate blood supply to heal this foot wound and since you since you probably don't because of your diabetes you're here in a vascular surgeon's office we may have to go ahead and talk about being able to open up some of your arteries to improve the blood supply to your foot so that might mean getting a stent to one of your arteries in your legs to open up the blood supply it might mean mean that we might have to do some bypass surgery to to improve the blood supply to your foot in order to heal that that wound I do think that you'll be able to heal it I don't think that we need to do anything drastic I want you to continue with your aspirin because that will help"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Any questions"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah I mean is this do we have to do any more tests or anything what are you we're gon na do an arterial ultrasound I'm going to go ahead and order an arterial ultrasound of your lower extremities to see what the blood supply is like and then I'm gon na go ahead and order a podiatry consult because I want them to see this wound and improve the wound care that you're doing and then for your next problem your diabetes I wan na go ahead and talk to your primary care physician we need to get your diabetes better controlled because that impacts your wound healing as well okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Sure understood alright and for your last issue your coronary artery disease continue with your statin and I will talk to your cardiologist in case you need a procedure to see if you're cleared from a medical standpoint okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay perfect"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Perfect thank you so much"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay bye"
+    }
+  ]
+}

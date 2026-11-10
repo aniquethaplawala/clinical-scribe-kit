@@ -1,0 +1,22 @@
+{
+  "encounterId": "aci-D2N106",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N106",
+  "split": "clinicalnlp_taskB_test1",
+  "collectionMode": "aci",
+  "chiefComplaint": "Allergic asthma",
+  "secondaryComplaints": [],
+  "patient": {
+    "age": null,
+    "gender": "male"
+  },
+  "turns": 63,
+  "wordCount": 759,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

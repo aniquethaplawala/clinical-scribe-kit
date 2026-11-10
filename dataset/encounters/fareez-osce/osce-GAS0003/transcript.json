@@ -1,0 +1,450 @@
+{
+  "encounterId": "osce-GAS0003",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "What brings you in here today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah hi, I'm I I have a pain in my belly. It started a couple hours ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and where exactly in your belly do you have this pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's mostly up here on the right side."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "The right side, OK and can you describe what kind of pain is it? Is it like a dull pain or sharp pain, an aching pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Oh I guess it's a, it's an aching pain I'd say. It kind of just, um, it would initially just come and go, but now it's just it's staying. It's not going away."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and so it's in the right area and does it travel anywhere elsewhere besides on from the right side?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And on a scale of 1 to 10, one being the least amount of pain you felt in your life, and 10 being the worst, how much would you rate it right now?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's about to a 10, an 8 maybe."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "An 8, OK and so just to clarify, when did it start?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "About 8 hours ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "8 hours ago, OK. And were you doing anything before? Like, did you have a meal or how were you sleeping before it woke you up, what was going on before you had the pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I was just about to go to sleep. I wasn't doing anything in particular at the time."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And has it been getting worse since it first started?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Oh yeah, definitely it would come and go, but now for the past I'd say five to six hours, it's been constant, just there all the time."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And have you had any similar pain like this in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, uh I I have the same pain that sort of comes and goes after I eat. Usually after I've had something like a something fatty, something from outdoors, maybe like a burger or fries or something. I initially thought it was indigestion, but I don't I don't know what's going on now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and does it, does anything make it better or worse or anything that you've tried?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well, I guess eating sometimes makes it worse, um, but I don't I don't think there's anything that's making it better."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you tried any medications at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I tried Tylenol but that didn't do anything."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And besides, uh, the pain that you're having, do you have any nausea and vomiting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I am a little nauseous, but no, I didn't, haven't had I haven't vomited yet, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and have you been having any fevers?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't think so. I haven't checked. I don't feel feverish."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any sweats or like chills?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No,  I don't think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any changes in your bowel movements like constipation, diarrhea?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Have you traveled anywhere recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I haven't."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you been feeling at all, very tired, not your usual self, fatigued?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well the pain is making it difficult for me to do things, um, but I I guess I'm not, uh a little fatigued  maybe."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Um, have you been having any changes in your urinary patterns?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No? Any changes in your skin and you rashes, any yellowing of your skin?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nothing that I've noticed, no, I don't think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Any changes in your urine color?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you noticed blood in your stools at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I have not, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and how about your appetite, has this changed at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well, I guess because it's this thing happens usually happens after I eat, I think I've been eating less than usual, just because I don't, I don't want to, you know, I don't like the pain."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any significant weight loss recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any recent infections recently at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, and otherwise are you, do you have any other medical conditions like diabetes, high blood pressure or anything else?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I do have diabetes but that's about it I think."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And you take anything for your diabetes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I take metformin."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, um do you take any other medications at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I don't, sorry, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No worries. Do you have any allergies to any medications, any environmental allergies?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No no, no, I don't."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And have you been hospitalized in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no I haven't ever. I've been very uh healthy. No hospitalizations."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any past surgeries?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I got my wisdom teeth removed when I was a teenager."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Have you been in contact with anyone who has been ill recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I don't think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Hmm, and in terms of your family history, has anyone had any cancers or um any err um IBD like Crohn's disease or ulcerative colitis?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, not that I know of."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And anything that runs in the family at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "My dad had a heart attack when he was in his 60s. But that's it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And um, currently right now do you work?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Oh no, I'm I'm laid off because of COVID."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And currently, what is your home situation like?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "What do you mean?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So do you live in an apartment, house and do you live with anyone?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I I I live in an apartment, I live alone."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, and in terms of your daily routine, do you feel that you get enough exercise? Do you go outside for walks or runs or anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I usually go out for a run, especially when it's a little bit warmer, which it now is."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And do you do you drink alcohol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, sometimes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How much would you say you drink in an average week?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "One to two drinks a day."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and what do you usually drink?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'll just drink a glass of wine at night, just helps me relax."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And do you smoke cigarettes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And do you use any recreational drugs like marijuana?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I don't."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Alright, so um, that's all the questions I have and just to clarify, does your pain come and go, or is it constant?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, so initially it would come and go, but now, so for the first 2 hours it would come and go. And when I would have this pain when I was eating, it would come and go. But over the past six hours it's just been constant."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Alright."
+    }
+  ]
+}

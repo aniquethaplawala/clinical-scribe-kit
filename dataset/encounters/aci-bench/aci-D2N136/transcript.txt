@@ -1,0 +1,45 @@
+Clinician: Hi Janet, how are you?
+Patient: Good, how are you?
+Clinician: I'm good. Uh, are you ready to get started?
+Patient: Yes.
+Clinician: Okay. So, Janet is a 33-year-old female, here for some, some joint paint. What, what joint's been bothering you, Janet?
+Patient: It's been mostly, um, my knees, actually. I've been doing more stair type workouts, which I thought was, you know, building muscle, uh, on my knees and supposed to help.
+Clinician: Mm-hmm.
+Patient: But in turn it, it really hasn't, so my knees have been really bothering me.
+Clinician: Okay. All right. And is it one knee versus the other? Or both equally?
+Patient: It's both equally.
+Clinician: Okay. And have you been having any other joint pain like, elbows or shoulder, or anything like that?
+Patient: No, but I, I should mention that like, I had a rotator cuff repair about two years ago.
+Clinician: Mm-hmm.
+Patient: Um, but I haven't had any problems since that point.
+Clinician: Okay, and what shoulder was that?
+Patient: That was my right shoulder.
+Clinician: Okay, all right. And, um, any pins and needles in your feet at all? Any swelling in your legs?
+Patient: Uh, no, nothing like that.
+Clinician: Okay.
+Patient: Um, but it would be something though I look out for often, just because I have diabetes.
+Clinician: Okay, and your blood sugars have been under control?
+Patient: Yes, they have been.
+Clinician: Okay. And have you had any fever or chills?
+Patient: No, nothing like that.
+Clinician: Okay. Any nausea or vomiting, chest pains, shortness of breath?
+Patient: No, but I do have high blood pressure, um, but I, I monitor that and I've been taking medication for that, and that hasn't elevated, um, in any way since the joint pain.
+Clinician: Okay. All right. So, yeah, I see on here that you do take norvasc, five mg a day and you've been taking that every day-
+Patient: Yes.
+Clinician: Okay. Um, and, um, so let's go ahead and do a quick physical exam on you. So, hey dragon, show me the blood pressure. Your blood pressure's actually pretty high today, so you might be a little nervous here, which is not uncommon.
+Patient: Yeah.
+Clinician: Um, so, looking at you, your, your neck is nice and soft, there's no enlarged thyroid. Your heart has a regular rate and rhythm. Your lungs are clear. Your abdomen is nice and soft, but looking at your knees, on your left knee you do have a slight erythema and edema. There is a small efusion present over your left knee. Um, you have some decrease flexion and extension of your knee, but your strength in your lower extremities is good. Uh, so let's go ahead and look at some of your results. I know that we did some x-rays when you came in.
+Patient: Yeah.
+Clinician: Hey dragon, show me the left knee x-ray. Okay, so looking at this, this is an, this is a normal x-ray of your left knee, so you may just have a little bit of a strain going on in your, in your knees there.
+Patient: Okay.
+Clinician: Uh, let's look at some of your labs, 'cause I know that you have the diabetes. Hey dragon, show me the labs. So, here your white blood cell count is not elevated, so I'm not concerned about an infection or anything like that. Um, hey dragon, show me the diabetes' labs. Okay and, and your a1c is a little elevated, but it's not, it's not terrible, so I think for right now we'll just continue you on the current regimen. Um, so my plan from you, for you in terms of the joint pain, um, I'd like to go ahead and, you know, we'll just send some autoimmune labs to work, work up your left knee pain and, uh, we'll work for you to do some physical therapy and I'd like to go ahead and give you anti-inflammatory medication to help with the pain. Does that sound okay?
+Patient: That sounds great.
+Clinician: Okay. Hey dragon, order meloxicam 15 mg once a day. Hey dragon, order a physical therapy referral. Hey dragon, order an autoimmune profile. And then from a hypertension standpoint you, because your blood pressure is a little elevated today, I'd like you to continue to monitor it at home and, you know, send me a report in the next couple of weeks sh-, you know, giving me the, the blood pressure reportings. Do you have a blood pressure cuff at home?
+Patient: Yes, I do.
+Clinician: Okay. And then, um, we'll go ahead and order a lipid profile for you. Hey dragon, order a lipid profile. And then for, from a diabetes standpoint let's go ahead and, uh, continue you on your metformin 500 mg twice a day. Okay?
+Patient: Okay.
+Clinician: Do you have any questions?
+Patient: No, that's it.
+Clinician: Okay. The nurse will be in soon. It was good to see you.
+Patient: Nice seeing you too.
+Clinician: Hey dragon, finalize the note.

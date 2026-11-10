@@ -1,0 +1,17 @@
+{
+  "encounterId": "osce-MSK0019",
+  "source": "Simulated patient-physician medical interviews (Fareez et al.)",
+  "sourceUrl": "https://doi.org/10.6084/m9.figshare.c.5545842.v1",
+  "license": "CC0-1.0",
+  "citation": "fareez2022dataset",
+  "originalId": "MSK0019",
+  "setting": "simulated OSCE interview (Canada)",
+  "category": "Musculoskeletal",
+  "audioSource": "figshare Data.zip: Audio Recordings/MSK0019.mp3",
+  "turns": 107,
+  "wordCount": 1393,
+  "hasReferenceNote": false,
+  "audioInRepo": false,
+  "hasAudio": true,
+  "simulated": true
+}

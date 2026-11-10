@@ -1,0 +1,42 @@
+Clinician: Hello mrs. Lee, I see you're here for back pain.
+Patient: Yes.
+Clinician: Hey dragon, I'm seeing mrs. Lee today for, uh, back pain. She's a 40-year-old female. So can you tell me what happened to you?
+Patient: Yes. I was at a birthday party and it was surprise party. So we were all like crunched behind and hiding. And when the person came in we all jumped out, and then I fell down the little stair and I rammed my back into the railing of the s-, uh, staircase.
+Clinician: So it was a surprise for you too?
+Patient: Yes it was.
+Clinician: Very good. Okay. So, um, did it hurt because you hit it, or did you twist? What happened when you?
+Patient: I think it was my motion-
+Clinician: Okay.
+Patient: . Of jumping up, or something.
+Clinician: Okay.
+Patient: And maybe a twisting.
+Clinician: Okay. Any pain shooting down your legs at all?
+Patient: No.
+Clinician: Is it on one side or the other of your back?
+Patient: Um, it's more on the right.
+Clinician: On the right. Is there anything that makes it better or worse?
+Patient: Uh, if I'm lying flat it hurts a little more, and any twisting motion for sure.
+Clinician: Okay. All right. And do you have any history or any back problems before?
+Patient: I did. I had a fusion done.
+Clinician: Okay, yeah that lumbar fusion. Um, let's take an x-ray. Hey. Or let's look at an x-ray. Hey dragon, show me the latest x-ray. Okay, we can see where you had your fusion, t4 here on the x-ray. But I don't see anything that looks, um, significantly abnormal. It doesn't appear to have any compression fractures or anything like that. So, it's essentially, except for the fusion, a normal exam. Let me do your exam for you here. Can I have you stand up please? Does it hurt when I twist you that way?
+Patient: Yes.
+Clinician: Okay. You can sit back down. If I lift your leg here, does that bother you?
+Patient: No.
+Clinician: How 'bout when I lift this leg?
+Patient: No.
+Clinician: Any pain shooting down your legs when I do that?
+Patient: No.
+Clinician: Okay. And can you feel me touching down here.
+Patient: Yes.
+Clinician: Okay, great. So, you had a injury to your back when you were twisting at the birthday party. You don't really have any pain or numbness down your legs. You have some stiffness with rotation, um, but you don't have any evidence of a, um, what we would call a pinched nerved or radiculopathy. So, I think you basically have a strain of your lower back. Um, have you been taking any medications?
+Patient: Just some ibuprofen.
+Clinician: Okay. And do you have any other, um, medical problems?
+Patient: Um I take medication for anxiety.
+Clinician: Okay. And that's all? Okay. Um, so what we're gon na do is I'm gon na give you, um, just continue the motrin at 800mg, three times a day, with food. I want you to use some ice and heat, alternating on your back. But I do want you walking.
+Patient: Okay.
+Clinician: Um, and, uh, this should sort of take care of itself after a few days. If it's not, or it's getting worse, I want you to come back and see me over the next week.
+Patient: Okay.
+Clinician: Does that sound good?
+Patient: It does.
+Clinician: Okay, dragon. Hey dragon, go ahead and order the medications and procedures and close out the note. Come on I'll bring you out to check out.
+Patient: Thank you.

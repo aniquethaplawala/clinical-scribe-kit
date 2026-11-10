@@ -1,0 +1,230 @@
+{
+  "encounterId": "aci-D2N091",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hi Jerry, how are you doing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hi, good to see you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Good to see you as well. Um, so I know that the nurse told you about Dax. I'd like to tell Dax about you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Jerry is a 54 year old male with a past medical history, significant for osteoporosis and multiple sclerosis who presents for an annual exam. So Jerry, what's been going on since the last time I saw you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, we have been traveling all over the country. It's been kind of a stressful summer. Kinda adjusting to everything in the fall and so far it's been good, but ah, lack of sleep, it's been really getting to me."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. And have you taken anything for the insomnia. Have you tried any strategies for it."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I've tried everything from melatonin to meditation to, uh, t- stretching out every morning when I get up. Nothing really seems to help though."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. In terms of your osteoporosis, I know we have you on fosamax, any issues with your joints, any issues like-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No broken bones recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, nothing like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And then in terms of your multiple sclerosis, when was the last time you saw the neurologist?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, about six months ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and you're taking the medication?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And any issues with that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "None whatsoever."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And any additional weakness? I know you were having some issues with your right leg, but that seems to have improved or?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes a lingering issue with my knee surgery. But other than that it's been fine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Pretty, pretty strong, n- nothing, nothing out of the ordinary."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right, well I know you did a review of systems sheet when you checked in."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And you were endorsing that insomnia. Any other issues, chest pain, shortness of breath, anything?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. Well lets go ahead and do a quick physical exam."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey dragon, show me the vital signs. So your vital signs here in the office they look really good. I'm just going to listen to your heart and lungs and let you know what I find."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. On physical examination everything looks good. You know your lungs are nice and clear. Your heart sounds good. You know you do have some weakness of your lower extremities. The right is about 4 out of 5, the left is about 3 out of 5. But you reflexes are really good so I'm, I'm encouraged by that. And you do have some, you know, arthritic changes of the right knee."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, so let's go over some of your results, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey dragon, show me the right knee x-ray. And here's the x-ray of your right knee, which shows some changes from arthritis, but otherwise that looks good. So let's talk a little bit about my assessment and plan. From an osteoporosis standpoint, we'll go ahead and order, you know, re- continue on the fosamax. Do you need a refill on that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Actually I do."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey dragon, order a refill of fosamax 1 tab per week, 11 refills. And then in t-, for your second problem, your multiple sclerosis I want you to go ahead and continue to see the neurologist and continue on those medications. And let me know if you need anything from that standpoint, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You got it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any questions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not at this point, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, great. Hey dragon, finalize the note."
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "encounterId": "aci-D2N010",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hi Keith, how are you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Ah, not too good. My blood sugar isn't under control."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And, uh, so Keith is a 58-year-old male here for evaluation of high blood sugar. So, what happened? Ha- have you just been taking your blood sugars at home and noticed that they're really high? Or?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I've been taking them at home and I feel like they've been creeping up slightly."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have-... What have they been running, in like the 200's or 300's?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "300's."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "They've been running in the 300's? And tell me about your diet. Have you been eating anything to spark-... Spike them up?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "To be honest my diet hasn't changed much."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Have you-... Go ahead."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Actually it hasn't changed at all. Much of the same."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and what do you con- consider the same? Are you eating lots of sugar? Like, teas and coffees and-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't take sugar with my tea."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, all right. And how about, um, like any added sugars into any kind of processed foods or anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, I think most of my sugars come from fruit."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "From what?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Fruit."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Fruit, okay."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. Um, and have you been feeling sick recently? Have you had any fever or chills?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, I have not."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Body aches, joint pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, a bit of joint pain."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Multiple joints, or just one joint?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, my knee. Uh, sorry, right knee to be more exact."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Your right knee?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And what happened?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Ah, to be honest, nothing much. I just noticed it when you said it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, all right. Um, and how about any nausea or vomiting or belly pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, I was nauseous a couple of days back but, uh, that's just because I was sitting in the back of a car. I hate that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. And no burning when you urinate or anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not at all."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. So, um... You know, I know that you've had this reflux in the past. How are you doing with that? Are you still having a lot of reflux symptoms or do you feel like it's better since we've put you on the protonix?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I think it's a bit better. Uh, I don't get up at night anymore with reflux and that's always a good thing."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, all right. And I know you have this history of congestive heart failure. Have you noticed any recent, uh, weight gain or fluid retention?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, not really."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No? Okay. Um, and any problems sleeping while laying flat?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, I- I prefer to sleep on my side so I can't really say."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, but even then, you're flat."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yup, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. And I know that we had an issue with your right rotator cuff, is that okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's surprisingly good now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, all right. All right, well let's go ahead and we'll do a quick physical exam. So... Feeling your neck, I do feel like your thyroid's a bit enlarged here. Um, your heart is nice and regular. Your lungs are clear. Your abdomen, um, is nice and soft. Your right knee shows that you have some erythema and- and an insect bite with associated fluctuants. And, um, you have some lower extremity edema on the right hand side. So let's go ahead and look at some of your results. I know the nurse had reported these things and we ordered some labs on you before you came in. Hey dragon, show me the vital signs. Okay, well your- your vital signs look good, which is good. Hey dragon, show me the lyme titer. Okay, so, you know, your lyme titer is a little elevated, so I think we'll have to go ahead and- and look into that a little bit, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Makes sense."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "That can certainly cause your blood sugar to be elevated. Um, hey dragon, uh, show me the rapid strep. And you also have, uh, positive for strep. So I think we have some reasons as to why your blood sugar is so high. So my impression of you, you know, you have this hyperglycemia, which is probably related to some infections going on in your body. Um, from a- a- a rapid strep standpoint we're gon na go ahead and treat you with penicillin or, I'm sorry, amoxicillin, 500 milligrams, three times a day. Uh, make sure you take it all, even if you start feeling better, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "For sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey dragon, order amoxicillin, 500 milligrams, three times a day for 10 days. Um... Okay. And from..., and from all-... A positive lyme titer aspect, we should go ahead and order a western blot, just pcr to see if you have any, um, to see if it's actually acute lyme, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Um, hey dragon, order a western blot pcr for lyme. Okay. All right. Well we'll go ahead and, um, the nurse will come in soon and she'll set you up with these tests, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah. You said lyme. Is that related to lyme disease?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yes it is, yeah."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You're certain I don't have alpha-gal syndrome though, right? I'm terrified of that one."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have what?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Alpha-gal syndrome, the one where a tick bites you and you get an allergic reaction to meat."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, I don't think so. Have you eaten meat over the last couple of days?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I have."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Well I-... It's, you know, your blood sugar's elevated so you might be having an inflammatory response to that, but we'll go ahead and order some tests to look into it, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That sounds good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. Call me if anything happens, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Definitely."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. Hey dragon, finalize the note."
+    }
+  ]
+}

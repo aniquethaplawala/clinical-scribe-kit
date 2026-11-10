@@ -1,0 +1,445 @@
+{
+  "encounterId": "osce-RES0109",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "What brings you in?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hi, I've just had a runny nose and a cough for the past uh week."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, um so for the past week you said, did the cough start first, or the runny nose?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh it started with the cough. I usually don't come in when I have symptoms like this uh, but I've just been, uhm, I just heard of someone who passed away due to Covid and I'm just like very scared and I just decided to come in."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, for sure that's understandable. Um With the cough, is it a dry cough or are you bringing up some phlegm?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um it's mostly a dry cough"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Dry cough. OK, um and is it persistent or does it come and go?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It comes and goes. It does get better when I um take um like over the counter medications for for um like the antitussive pills."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK yeah yeah. Um and does anything make it worse like the cold air or certain times of the day or like when you're laying down?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um the cold air does make it a little bit uh worse."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And have you experienced something like this in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh yeah, I usually I do get a cold um couple times a year."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK yeah, that makes sense. Um and any shortness of breath?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um no, no I don't think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, any wheeziness?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Chest pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, how about a stuffy nose?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I do have a stuffy nose."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, when your nose does run, do you notice that it's like uh yellow in colour or red?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, OK, so it's clear?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's clear, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any changes in your vision or hearing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Smell or taste?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um I I can't smell as as much, but I think maybe it's just because my nose is so stuffy, but also that made me a little bit concerned about Covid, but no problems with taste."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, good any weight loss recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um I've been trying to lose weight, but nothing unintentional I guess."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK yeah, and then any fevers?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No fevers huh, OK. Any like excessive fatigue?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I am tired but not, I guess it's not too bad."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah OK, and how about like rashes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I haven't noticed any."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No rashes, OK. Um any uh, sorry, I asked you if you had chest pain, uh do you ever feel like your heart's racing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, OK. Any changes to your bowel movements?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, um nausea or vomiting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, OK. Uhm how about headaches?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Fainting spells or dizziness?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Joint pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Just my body feels a little achy, but."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No like specific joint pains."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and then any uh major illnesses that are longstanding?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um I don't know does depression count? I do have depression."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, yeah, for sure. How, when were you diagnosed with depression?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh when I was 15 years old."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "15, OK. Um are you on any medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm I'm on Prozac."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Prozac, OK. And when were you diagnosed uh, prescribed that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um I've just been on different medications uh over the past few years. Um this one seems to be working well. I started this about a year ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK good good, any allergies?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Are you up to date with all your immunizations?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mhmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um any family history of lung or heart disease?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, just um high cholesterol."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Um how about smoking, do you smoke?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um any other recreational drugs like marijuana?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um yeah, sometimes. I'll just have a joint um maybe um two or three times a week."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, OK. And is that for like medical purposes or just like recreationally?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh just you know just to relax."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, sure. Um alcohol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, OK. And have you been around any sick people recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um I went to I went grocery shopping and and someone near me was coughing. I was still like six, you know, I was away from them but, I don't like, yeah, I don't know."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, for sure. I think that you're, it's fair that you're concerned about that. And how about travel to anywhere?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I haven't traveled anywhere."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, OK. OK, well those are all the questions I had for you. Did you have any questions of your own?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, OK. So we'll do a covid swab anyways today because your, some of your symptoms do overlap with that of Covid and you should hear back in about 24 to 48 hours. But in the meantime you should self isolate for 14 days."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um but it I think it does really sound like you have a common cold um so just like another viral illness, um so just treat it supportively you know um keep yourself hydrated, if you feel like you're getting a fever, take like Tylenol. Um if you have like pain like a headache or like sinus pressure or something you can take again an Advil or Tylenol. Um And if your symptoms worsen, or if you have any neurological symptoms, then you should see the ER um right away."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, OK sounds good."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Great."
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "encounterId": "aci-D2N005",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey, ms. Hill. Nice to see you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hi, dr. James, good to see you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey, dragon, I'm seeing ms. Hill. She's a 41-year-old female, and what brings you in today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, I am having a lot of pain at the end of my right middle finger."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "What did you do?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "A little embarrassing. Um, I got rear-ended, slow motor, uh, vehicle accident, and I got really angry with the person who hit me, so I went to flip him the bird, but I was a little too enthusiastic. And I hit the ceiling of the car."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. When did this happen?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, it was saturday, so about four, five days ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Five days ago. What were you doing? Were you, like, stopped at a stoplight? A stop sign?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes. So I was stopped at a four-way stop, and it was not my turn to go. There were other cars going, and the person behind me just wasn't watching. I think they were texting and rear-ended me."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How much damage to your car?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, not too much. The, the trunk crumpled up a little bit."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And no other injuries? Just the finger?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Just the middle finger."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So you would've escaped this accident without any injuries?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes. Uh, I'm not proud."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Um, so four days of right middle finger pain-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": ". After a motor vehicle accident."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. Um, let's look at your x-ray. Hey, dragon, show me the last x-ray. So what I'm seeing here is on the tip of this middle finger, you actually have a fracture. So you have a distal phalanx fracture in the middle finger. Very..."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Great."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Very interesting. Let me check it out. Um, so does it hurt when I push right here?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And does that hurt?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Very much so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "What about down here?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. So generally, your exam is normal other than you've got tenderness over your distal phalanx of your right middle finger. Um, so your diagnosis is distal phalanx fracture of the middle finger or the third finger. And I'm gon na put you on a little bit of pain medicine just to help, just, like, two days' worth. Okay, so tramadol, 50 milligrams, every six hours as needed for pain. I'm gon na dispense eight of those."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And then, um, I'm gon na put you in a finger splint and have you come back in two weeks to get a follow-up x-ray. Any questions for me?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes. So I'm taking digoxin for afib. Will the tramadol be okay with that?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "It will be okay. So you have atrial fibrillation."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You take digoxin. All right. Any other questions for me?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, that's it. Thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You're welcome. Hey, dragon, go ahead and finalize the recording, and, uh, come with me. We'll get you checked out."
+    }
+  ]
+}

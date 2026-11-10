@@ -1,0 +1,21 @@
+{
+  "encounterId": "pm57-d3c04",
+  "source": "PriMock57",
+  "sourceUrl": "https://github.com/babylonhealth/primock57",
+  "license": "CC-BY-4.0",
+  "citation": "korfiatis2022primock57",
+  "originalId": "day3_consultation04",
+  "setting": "primary care (UK, remote consultation)",
+  "chiefComplaint": "my chest feels very tight",
+  "durationSeconds": 431.9,
+  "audio": {
+    "doctor": "https://media.githubusercontent.com/media/babylonhealth/primock57/main/audio/day3_consultation04_doctor.wav",
+    "patient": "https://media.githubusercontent.com/media/babylonhealth/primock57/main/audio/day3_consultation04_patient.wav"
+  },
+  "turns": 80,
+  "wordCount": 1134,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": true,
+  "simulated": true
+}

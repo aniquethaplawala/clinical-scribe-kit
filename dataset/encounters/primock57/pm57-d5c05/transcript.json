@@ -1,0 +1,722 @@
+{
+  "encounterId": "pm57-d5c05",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 1.24,
+      "end": 11.86,
+      "text": "Hi there, I'm Doctor Smith from Babylon. Hi. Can you just confirm your name, date of birth and your address, please?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 8.45,
+      "end": 15.62,
+      "text": "Yes. [inaudible] Italy. And,"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 16.34,
+      "end": 22.96,
+      "text": "I see, sounds a bit [inaudible] . Um. Are you in a private place so you can have a consultation today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 23.82,
+      "end": 24.51,
+      "text": "Sorry?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 24.59,
+      "end": 27.87,
+      "text": "Are you in a private place so you can have a consultation today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 28.43,
+      "end": 29.36,
+      "text": "Uh, yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 28.5,
+      "end": 30.81,
+      "text": "What can I do for you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 31.66,
+      "end": 38.61,
+      "text": "So, I have had a [inaudible] pain in my lower tummy the last two days. I feel kind of hot and sweaty."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 39.15,
+      "end": 42.25,
+      "text": "OK. And any pain like this in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 43.32,
+      "end": 45.28,
+      "text": "Uh, not yet, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 45.38,
+      "end": 48.12,
+      "text": "OK, can you just describe to me whereabouts it is?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 49.73,
+      "end": 52.25,
+      "text": "Um, so, I don't, what, sorry?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 52.87,
+      "end": 56.95,
+      "text": "Can you describe to me whereabouts the pain is? Is it, is it."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 55.92,
+      "end": 57.69,
+      "text": "So it's my lower tummy."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 57.63,
+      "end": 60.82,
+      "text": "Yeah. Is it in the middle or to one side?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 61.58,
+      "end": 64.23,
+      "text": "Uh, not, um, with a needle."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 64.85,
+      "end": 72.19,
+      "text": "In the middle, OK. And any other symptoms along that, with that? Have you had any nausea or any vomiting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 72.66,
+      "end": 76.65,
+      "text": "Uh, no. I'm just a bit nausea but no vomiting."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 76.64,
+      "end": 82.29,
+      "text": "OK. Any change in your bowel habit recently, or any diarrhoea? Constipation?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 82.8,
+      "end": 92.01,
+      "text": "Uh, I had been constipated in, like, in the last, um, last week, but now it's fine. And, yeah, like [inaudible]"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 90.28,
+      "end": 93.08,
+      "text": "[inaudible] to the toilet?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 93.39,
+      "end": 93.91,
+      "text": "Sorry?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 93.74,
+      "end": 95.68,
+      "text": "When did you last go to the toilet?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 96.28,
+      "end": 98.15,
+      "text": "Uh, like two hours ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 97.96,
+      "end": 99.36,
+      "text": "And was it normal?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 99.63,
+      "end": 100.23,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 100.3,
+      "end": 102.27,
+      "text": "Any blood in the stool?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 103.16,
+      "end": 112.69,
+      "text": "Um, so there was some, like, slight, uh, blood in the urine, but, like, [inaudible] it was a little bit pink but."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 112.64,
+      "end": 115.88,
+      "text": "OK. And has this ever happened in the past before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 116.96,
+      "end": 118.38,
+      "text": "Um, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 119.29,
+      "end": 122.01,
+      "text": "Right. Any pain when you pass water?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 122.98,
+      "end": 124.68,
+      "text": "Uh, no, that's fine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 124.71,
+      "end": 127.18,
+      "text": "Are you having to go more often than normal?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 128.03,
+      "end": 132.89,
+      "text": "Uh, yeah, a little bit, but I wasn't drinking a lot in these days."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 133.76,
+      "end": 135.89,
+      "text": "Are you more thirsty than normal?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 136.42,
+      "end": 137.31,
+      "text": "Uh, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 139.04,
+      "end": 143.32,
+      "text": "And you said you felt hot and cold. Have you measured your temperature?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 143.8,
+      "end": 148.3,
+      "text": "Uh, yes, I measured it but it's fine, like, around thirty seven."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 147.09,
+      "end": 152.51,
+      "text": "What was it? Thirty seven. Have you measured it at any other time when it's been raised?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 149.71,
+      "end": 153.81,
+      "text": "Yeah. Sorry?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 153.61,
+      "end": 156.73,
+      "text": "Have you measured it at any other time when it's been raised?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 156.51,
+      "end": 160.43,
+      "text": "Um, no, no, I just measured, like, one hour ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 160.68,
+      "end": 170.55,
+      "text": "OK, that's fine. And, are you getting any pain higher up in your stomach? Any acid coming up into your throat or anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 169.21,
+      "end": 174.22,
+      "text": "No, no, [inaudible] but like just a bit of nausea but not vomiting."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 174.46,
+      "end": 178.35,
+      "text": "OK. And any other discharge below?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 179.08,
+      "end": 180.08,
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 180.69,
+      "end": 184.19,
+      "text": "OK. Um, and have you been abroad recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 185.13,
+      "end": 186.83,
+      "text": "Um, no, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 187.0,
+      "end": 189.68,
+      "text": "No. And no similar problems to this before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 190.99,
+      "end": 191.51,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 191.44,
+      "end": 194.4,
+      "text": "Have you had any other medical problems in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 195.26,
+      "end": 203.43,
+      "text": "Um, no, no, nothing sore. I mean, depends what, like, normal stuff like cold, flu."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 203.12,
+      "end": 208.65,
+      "text": "OK, nothing [inaudible] significant. Any allergies to medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 208.83,
+      "end": 211.82,
+      "text": "Uh, yes, amoxycillin."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 212.63,
+      "end": 215.21,
+      "text": "OK. Do you take any regular medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 215.91,
+      "end": 216.65,
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 216.33,
+      "end": 218.34,
+      "text": "Any over the counter medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 218.51,
+      "end": 228.02,
+      "text": "No. I have had the just, the, uh, internal [inaudible] uh, contraceptive implant, but like, for one year, now, no more."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 229.39,
+      "end": 234.13,
+      "text": "OK. Um, and do you have regular periods?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 235.11,
+      "end": 236.11,
+      "text": "Uh, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 237.38,
+      "end": 241.31,
+      "text": "Any bleeding in between periods or after intercourse?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 241.98,
+      "end": 244.34,
+      "text": "Um, no, no, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 244.65,
+      "end": 245.45,
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 245.39,
+      "end": 247.76,
+      "text": "Just like [inaudible]"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 247.96,
+      "end": 253.8,
+      "text": "Right. Um, and you haven't felt shivery or sweaty? You said you had felt a bit sweaty."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 254.01,
+      "end": 256.16,
+      "text": "Yeah. [inaudible] , yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 255.88,
+      "end": 260.01,
+      "text": "OK. And any, any back pain or strong smell to the urine?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 261.04,
+      "end": 266.53,
+      "text": "Uh, no back pain. No, I typically don't suffer from back pain, so, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 267.0,
+      "end": 271.68,
+      "text": "Right, OK. Anyone in your family had any medical problems before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 272.09,
+      "end": 284.66,
+      "text": "Uh, so, [inaudible] actually my mom had the breast cancer. Uh, but, again, not so important. I mean, just, like, the beginning it was [inaudible] , uh, cured in time."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 276.31,
+      "end": 286.58,
+      "text": "OK. OK. And who do you live with at home?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 287.62,
+      "end": 289.07,
+      "text": "Um, sorry?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 289.11,
+      "end": 290.75,
+      "text": "Who do you live with at home?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 291.44,
+      "end": 293.27,
+      "text": "Uh, with my parents."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 293.53,
+      "end": 296.52,
+      "text": "And, do you smoke [inaudible] or drink alcohol regularly?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 297.18,
+      "end": 298.42,
+      "text": "Uh, yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 298.45,
+      "end": 300.15,
+      "text": "How much in a normal week?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 300.58,
+      "end": 306.99,
+      "text": "Uh, so, I don't smoke. I drink, I [inaudible] . Four times per week."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 307.06,
+      "end": 308.2,
+      "text": "And how much?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 308.98,
+      "end": 314.01,
+      "text": "Uh, yeah, a beer [inaudible] like, per time, let's say. [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 315.81,
+      "end": 317.08,
+      "text": "What per time?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 317.51,
+      "end": 319.03,
+      "text": "Uh, let's say a beer."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 319.03,
+      "end": 319.92,
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 320.03,
+      "end": 322.72,
+      "text": "Four times a week on average, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 322.37,
+      "end": 330.05,
+      "text": "Right, OK. Um, so, it, it may be possible that you might be having an infection in the urine."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 330.75,
+      "end": 331.55,
+      "text": "Uh-huh."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 331.44,
+      "end": 337.74,
+      "text": "If you feel like you're, you're going, you're having a little bit of difficulty when you're passing urine."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 338.21,
+      "end": 338.89,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 339.77,
+      "end": 364.37,
+      "text": "Um, it might be worth taking a three day course of antibiotics. To clear that. Um, but, if the pain is getting worse, or you have a high temperature or back pain or develop any new symptoms, we feel like it's not getting better, then, um, we should speak to you again, because we might need to see you face-to-face for an examination."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 346.4,
+      "end": 366.53,
+      "text": "Uh-huh. Uh-huh, OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 366.3,
+      "end": 370.34,
+      "text": "Um, have you allocated a pharmacy with Babylon?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 371.17,
+      "end": 372.57,
+      "text": "Uh, yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 373.26,
+      "end": 378.75,
+      "text": "OK. So, are you happy to take a course of antibiotics, if I send it through to the pharmacy?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 379.27,
+      "end": 382.49,
+      "text": "Uh, yeah, that's fine. If it helps, yeah. OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 382.54,
+      "end": 391.67,
+      "text": "OK, so I can do that for you. Start taking them as soon as you get them, it's just twice a day for three days. Um, if your pain's getting worse,"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 388.48,
+      "end": 389.22,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 392.42,
+      "end": 398.2,
+      "text": "um, or you've got new symptoms, just contact us straightaway, or if you're getting a recurrence of the same problem again."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 398.49,
+      "end": 402.12,
+      "text": "Uh-huh, OK. Sure. OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 400.45,
+      "end": 403.93,
+      "text": "OK? Alright then, have you got any other questions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 404.17,
+      "end": 409.08,
+      "text": "Uh, no, that's fine. Yeah. Thank you. Thank you. Bye."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 405.8,
+      "end": 408.26,
+      "text": "OK, thanks a lot. Bye."
+    }
+  ]
+}

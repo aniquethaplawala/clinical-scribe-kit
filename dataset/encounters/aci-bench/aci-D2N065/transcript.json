@@ -1,0 +1,220 @@
+{
+  "encounterId": "aci-D2N065",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey Anna good to see you today so I'm looking here in my notes says you have you're coming in today for some right ankle pain after a fall so can you tell me what happened how did you fall"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah so I was taking out the trash last night and I ended up slipping on a patch of ice like and then when I fell I heard this pop and it just hurts"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay so have you been able to walk on it at all or is it you know"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "At first no like my friend who was visiting thankfully had to help me get into the house and I you know and now I'm able to put like a little bit of weight on it but I'm I I'm still limping"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay well you know that's not good we'll we'll hopefully we can get you fixed up here so how much how much pain have you been in on a scale of one to ten with ten being the worst pain you ever felt"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's it's more like so when I first fell it was pretty bad but now it's it's at like a six you know like it's uncomfortable"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and how would you describe that pain is it a constant pain or is it only when you move the ankle"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's it's constant it's like a throbbing pain you know and like when I touch it it feels kinda warm"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright yeah but yeah I can feel it here so it does feel a little bit warm so I said you've been in a little bit of pain so have you taken anything for it"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well like last night I iced it and I kept it elevated you know I also took some ibuprofen last night and this morning"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright has the ibuprofen helped at all"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not really"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright so I just want to know I know some of my patients they have like bad ankles where they hurt the ankles all the time but have you ever injured this ankle before"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So you know in high school I used to play a lot of soccer but and and like I had other injuries but I've never injured like this particular ankle before but because I used to play like all the time I knew what I was supposed to do but this is I also knew that it was it was time to come in"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay yeah yeah definitely if you if you can't walk on it we definitely good thing that you came in today and we were able to see you so have you experienced any numbness in your foot at all"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No no numbness and I don't think I've had like any tingling or anything like that"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay that that's good yeah it sounds like you have sensation there so yeah that that's really good so let me do a quick physical exam on you so I reviewed your vitals your blood pressure was one twenty over eighty which is good your heart rate your spo2 was ninety eight percent which is good that means you're you're getting all of your oxygen and so let me go ahead and look at your ankle real quick so when I press here does that hurt"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright what about here"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay so looking at your ankle and your right ankle exam on the skin there is ecchymosis so you have that bruising which you can see of the lateral"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Malleolus"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Malleolus associated with swelling there is tenderness to palpation of the anterior laterally in the soft tissue there is no laxity on the anterior drawer and inversion stress there is no bony tenderness on palpation of the foot on your neurovascular exam of your right foot there your capillary refill is less than three seconds strong dorsalis pedis pulse and your sensation is intact to light touch alright so we did get an x-ray of your ankle before you came in and luckily it's there is no fractures no bony abnormalities which is really good so let me talk a little bit about my assessment and plan for you so for your right ankle pain your symptoms your symptoms are consistent with a right ankle sprain have you sprained your ankle before most times people do the athletics play soccer it happens every so often but have you done that before"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No I don't think so"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay well you're one of the lucky ones some of my my patients that play sports they sprain their ankle seems like every other week so good for you so for that that that ankle sprain I just want to keep I want you to keep your leg elevated when you're seated and I want you to continue to ice it you can ice it let's say five times a day for twenty minutes at a time just to help that swelling go down I'm gon na give you an air cast to help you stabilize the ankle so keep it from moving and then I'll give you crutches and so I want you to stay off that leg for about one to two days and then you can start walking on it as tolerated tolerated so how does that sound"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's alright"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright so do you have any questions for me"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah like how long do you think it's gon na take for me to heal"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I mean it should take a a couple of days I mean I think in a day or two you will be able to walk on it but still think it will be sore for the next couple of weeks you know your ankle sprain seems to be not the worst but it's kinda you know medium grade ankle sprain so as I would say about two to three weeks you should be back to normal you will see some of that bruising go away"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah okay can I get a doctor's note"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No because you need to go back to work because you work on the computer not running so"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Fine"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah you can't get a doctor's note so if you if I write a note I'm gon na tell your boss that you have to go to work"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay thanks"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So I I wouldn't do that but yeah but otherwise if if if you continue to have pain after this week if you feel like it's not getting better please feel free to contact the office and we can get you back in and possibly do an mri if we you know need to"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Alright"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Anything else"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No that's it"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright thanks"
+    }
+  ]
+}

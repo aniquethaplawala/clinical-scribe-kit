@@ -1,0 +1,24 @@
+{
+  "encounterId": "aci-D2N116",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N116",
+  "split": "clinicalnlp_taskB_test1",
+  "collectionMode": "aci",
+  "chiefComplaint": "Right shoulder pain",
+  "secondaryComplaints": [
+    "Foot pain"
+  ],
+  "patient": {
+    "age": null,
+    "gender": "male"
+  },
+  "turns": 36,
+  "wordCount": 1006,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

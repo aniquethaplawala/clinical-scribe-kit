@@ -1,0 +1,265 @@
+{
+  "encounterId": "aci-D2N036",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey George how are you today I understand you're here for some numbness and tingling in your fingers and some pain in your wrist"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Right my right wrist and hand has been bothering me probably for a few months now with pain and numbness"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and you said that's been ongoing for several months do you know what caused this type of pain or is it just something that started slowly or"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It just kinda started on it's own it I notice it mostly at night"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sometimes it will I'll wake up and my hands asleep and I got ta shake it out"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Shake it out and okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And then some"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "What kind of work do you do"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I do yard work"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yard work"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Landscaping landscaping"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Landscaping okay so a lot of raking a lot of digging so a lot of repetitive type movements"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah it's pretty heavy labor but it's yeah the same thing day in and day out"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay okay just a couple questions for you you did say that you have the pain at night in that and you have to you get that numbness into the hand is it in all the fingers"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah it seems to happen to all my fingers but I notice it more in my thumb and pointer finger"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay okay and anything into that little into your fifth finger your little finger any numbness there at times no"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sometimes yeah it seems like it's numb too"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay what about your right hand any problems with that hand"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No I don't seem to have any problems with my right hand so far it's just mostly my left"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay okay good and just a couple you know do you how do you have many or do you drink often do you have you know many any alcohol consumption"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I drink usually a a beer or two on fridays and saturdays on the weekends"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and do you have any evidence of any anybody ever said that you had some rheumatoid arthritis in your hand or wrist anything like that"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No nobody say anything like that so I mean"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay okay good so let me go ahead and do a physical exam here real quick and you know I'm gon na quickly just listen to your heart and lungs okay that's good I'd like you to squeeze I'm gon na hold your hands here and I'd like you to squeeze both hands"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You seem a little bit weaker on that left hand is that what you've noticed"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I I I experienced some weakness in my left hand"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay do you you find that you're dropping things when you're picking it up is it to that level or"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I drop things mostly because I have a hard time feeling it"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay okay good and so you you do have a a grip strength is less on the left and I just wan na touch your fingers here on the on the right side you can feel me touching all the fingers on the right"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I can I can say you touch me but it feels a little more weird on the thumb side than my pointer finger side"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay okay and I wan na turn your wrist over here and turn your hand over and I'm gon na go ahead and tap on the right wrist on the back here does that do anything when I do that"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I still I feel a little jolt or a zing in my finger tips"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and then when I do that on the left side"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah same thing"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Same thing okay so you do have a bilateral positive tinel's sign so so here's here's where I'm at I think your your diagnosis is beginning to have some bilateral carpal tunnel syndrome usually we see that with repetitive actions such as the landscaping the heavy labor and you you know your your clinical exam and and history sound like it's a carpal tunnel syndrome I do want to order so where are we gon na go from here I would like to order a a study it's called an emg where it it measures some of that electrical impulses down into your fingers we will follow up with that but as far as your treatment so the treatment for carpal tunnel syndrome is really some activity modification now I know you are a landscaper is there any way that you could be work to have some lighter work during the time"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I suppose I could try to pass it off to some of my other employes and delegate"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay that would be good so that's I I just want you to kinda eliminate that the active repetitive motions that you're doing all the time just for a couple weeks I'm also gon na give you a wrist splint to wear and that should help and I'd like you to take ibuprofen six hundred milligrams every six hours and then I wan na see you back here in the office in two weeks and in that two week period I think we're gon na see if there's need for any other intervention if I need to do more diagnostic testing or if there is a possibly looking at a surgical intervention to release that pressure that's on the nerves in that hand does that sound like a a good plan for you"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah it sounds like a good first start"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay okay so I I just just off off the record here what kind of what do what do you specialize in landscaping is your company do"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mostly like yard work and maintenance flower beds not really designing just up keep"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay yeah I'm looking for a landscape designer I need somebody to put in some elaborate walkways back through the backyard so yeah we can do stuff like that I mean if you have an idea what you want I think that's easy"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You know if you're looking for like some"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Backyard elasis rehab remodel that's I mean I suppose we could do we haven't done things like that in a while because we're busy enough with just the up key but it's something to explore"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay yeah I may have to keep that in mind because I do wan na do some of that so let's listen I'm gon na get my my nurse in here to discharge you do you have any other questions for me before we end this"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No I think it's all clear I appreciate it"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay take care and I'll look forward to see you in two weeks"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Very good appreciate your time"
+    }
+  ]
+}

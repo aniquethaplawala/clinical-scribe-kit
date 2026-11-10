@@ -1,0 +1,22 @@
+{
+  "encounterId": "aci-D2N165",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N165",
+  "split": "clinicalnlp_taskC_test2",
+  "collectionMode": "aci",
+  "chiefComplaint": "Bilateral knee pain",
+  "secondaryComplaints": [],
+  "patient": {
+    "age": null,
+    "gender": "female"
+  },
+  "turns": 44,
+  "wordCount": 1054,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

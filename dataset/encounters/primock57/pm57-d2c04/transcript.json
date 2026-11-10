@@ -1,0 +1,694 @@
+{
+  "encounterId": "pm57-d2c04",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 1.1,
+      "end": 2.52,
+      "text": "Hi there. Good morning."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 2.69,
+      "end": 3.65,
+      "text": "Hello."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 3.91,
+      "end": 7.16,
+      "text": "Um, I'm Doctor Deen Mirza from GP at Hand. Nice to see you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 7.38,
+      "end": 8.62,
+      "text": "Lovely to meet you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 8.8,
+      "end": 12.64,
+      "text": "OK. So, before we start your appointment. Can I please confirm your full name and date of birth?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 13.25,
+      "end": 23.6,
+      "text": "Uh my name is, Tracy Chapman, and, um, my date of birth is. God [inaudible] . [inaudible] , I'm forty five."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 20.85,
+      "end": 27.38,
+      "text": "Just tell me how old you are. [inaudible] , OK. Uh, and could you just confirm the first line of your address, and your postcode?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 28.13,
+      "end": 34.9,
+      "text": "Uh, fifteen Babylon Street. Um, W six five [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 34.11,
+      "end": 38.91,
+      "text": "That's great, OK, thank you. Um, are you in a private place where you're OK to speak at the moment?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 39.2,
+      "end": 39.83,
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 39.98,
+      "end": 44.95,
+      "text": "OK, fantastic. All right, so tell me what's been going on. You said you're, a bit short of breath. Is that right?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 45.37,
+      "end": 56.39,
+      "text": "Yeah, yeah, feeling very sort of breathless recently. Um, [inaudible] like, I don't know, whenever I like breathe deeply, I, it sort of catches in, in the, right-hand side of my back."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 56.68,
+      "end": 60.34,
+      "text": "Right, OK, OK. And how long has this been going on for now?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 61.34,
+      "end": 63.27,
+      "text": "Just, just today really."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 63.8,
+      "end": 68.32,
+      "text": "Right, OK. Any other symptoms at the same time, uh, that you've had this pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 69.38,
+      "end": 78.32,
+      "text": "Um, well I've had a [inaudible] , I've got a bit of slight fever, um, and, and, uh, well like, I coughed up a bit of blood on, on two occasions."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 78.74,
+      "end": 79.6,
+      "text": "Right, OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 79.04,
+      "end": 80.55,
+      "text": "[inaudible] what that means."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 80.59,
+      "end": 88.11,
+      "text": "OK, all right. [inaudible] , well it might, it might all be connected then. Um, and um, yesterday, before this, all of this, were you completely fine?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 88.99,
+      "end": 97.06,
+      "text": "Um, yeah, yeah, kind of, I [inaudible] , I, I can sort of feel my heart beating, but [inaudible] , other than that, no, sort of fine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 97.37,
+      "end": 103.28,
+      "text": "OK. So you can feel your heart kind of, um, beating a little bit, bit faster, do you think than normal? Is that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 103.14,
+      "end": 110.91,
+      "text": "[inaudible] , I don't know I can just sort of feel it, more [inaudible] , you know. Um, but I've, I've also, I've been feeling a bit, like a bit tired at work."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 104.35,
+      "end": 106.37,
+      "text": "OK. Sure."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 110.91,
+      "end": 123.67,
+      "text": "Haven't really been, like exercising has been a bit difficult, because I've been feeling tired. Um, and, [inaudible] , yeah performing, [inaudible] , performing daily activities has, has been a bit harder than usual."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 122.72,
+      "end": 130.61,
+      "text": "[inaudible] . OK, all right. [inaudible] , and um, how long has that been for? The tiredness and, you know, [inaudible] , not wanting to exercise and."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 131.38,
+      "end": 135.57,
+      "text": "Um, [inaudible] , only after, only for a couple of weeks or so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 135.49,
+      "end": 146.26,
+      "text": "Couple of weeks, OK. And then, and the last day or so that's when you get the cough and the pain in the side? And you've cough [inaudible] blood, OK, all right. Um, you said you felt a bit warm. [inaudible] , have you measured your temperature at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 141.19,
+      "end": 152.04,
+      "text": "Yep. Um, with the back of my, my hand, yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 150.36,
+      "end": 158.01,
+      "text": "[inaudible] just [inaudible] with that, OK, fair enough, all right. Um, OK. And now, can I just ask? Um, do you smoke at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 158.61,
+      "end": 159.57,
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 159.8,
+      "end": 161.56,
+      "text": "OK. What do you work as?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 162.24,
+      "end": 165.38,
+      "text": "Um, I work in an office, just a, desk job."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 165.54,
+      "end": 168.83,
+      "text": "OK, all right. And, um, do you live alone?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 169.44,
+      "end": 170.44,
+      "text": "Uh, yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 170.42,
+      "end": 172.52,
+      "text": "Yeah. In a flat or a house?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 172.77,
+      "end": 173.62,
+      "text": "Flat."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 173.64,
+      "end": 175.32,
+      "text": "OK. Do you have any pets?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 175.71,
+      "end": 176.49,
+      "text": "Cat."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 176.56,
+      "end": 182.12,
+      "text": "A cat, OK. Um, uh, uh, are you on, any medication at all? Regular medication?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 182.41,
+      "end": 186.87,
+      "text": "Uh, yeah, um, [inaudible] , Methotrexate, Methotrexate, that's."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 186.73,
+      "end": 189.81,
+      "text": "Methotrexate. OK. [inaudible] , what are you on that for?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 190.68,
+      "end": 193.11,
+      "text": "Um, I've, I've got SLE."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 193.28,
+      "end": 197.72,
+      "text": "SLE, OK. Do you have any other [inaudible] , diagnoses? Any other illnesses at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 198.06,
+      "end": 198.8,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 199.27,
+      "end": 202.78,
+      "text": "Right, OK. Um, and do you have any allergies to any medication?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 203.14,
+      "end": 203.87,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 204.09,
+      "end": 205.64,
+      "text": "Any other allergies at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 206.36,
+      "end": 206.96,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 207.58,
+      "end": 212.91,
+      "text": "OK. So, um, you're on, you're taking Methotrexate at the moment. When was the last time you had Methotrexate?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 213.45,
+      "end": 214.48,
+      "text": "Uh, this morning."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 215.2,
+      "end": 247.81,
+      "text": "Ohh, you had it this morning. OK, ohh right, all right. OK. Um [inaudible] , um, couple of things I'd like to do in order to try and um, get an idea of how, unwell you are. OK. Um, the first thing I'd like to do, is to try and measure your pulse. So, what, the way we're gonna do this, is that, if you're, if I can get you to try and locate the pulse in your wrist. [inaudible] . Not everyone can do this, so don't worry if you can't. But if you, if you can tell me whether you can feel the regular pulse. It's just under the thumb. If you put two fingers up and down like that, you might be able to feel the pulse."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 248.07,
+      "end": 248.95,
+      "text": "I've got it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 248.84,
+      "end": 250.73,
+      "text": "You got it, OK. Are you sure?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 250.82,
+      "end": 251.42,
+      "text": "Yep."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 251.56,
+      "end": 266.03,
+      "text": "All right. So what I'm going to do, is I'm going to tell you when to start counting, and when to stop counting OK. So I'll just get my stopwatch up. OK. So if you can, um, you've still got the pulse?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 266.56,
+      "end": 267.24,
+      "text": "Yep."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 267.22,
+      "end": 270.87,
+      "text": "OK. So if you can start counting, now please."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 271.47,
+      "end": 279.57,
+      "text": "One, two, three. Five, six, [inaudible] , eight, [inaudible] , ten, [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 281.01,
+      "end": 325.13,
+      "text": "If you can stop now, [inaudible] . That, I think that was about eleven or twelve. Um, so that would make your heart rate about, sixty six to seventy four, that's, that's OK, good. Fantastic. And the next thing I'd like you to try and do, OK. Um, it depends on the lighting, so it may not be possible. But the next thing I'd like you to try and do is just, to get you to squeeze the tip of your finger. And then let me see how quickly the redness come back. OK, so if you can see what I'm doing now. My finger's come, right behind the screen, I'm squeezing it, OK. [inaudible] , just watch me first, it's all right, just watch me first. Yeah, I'm, I'm squeezing it. And then you can see, that, it goes, pale and then it goes back to the normal red colour, OK. So if I can get you just to put your finger up to the, your camera. And then with the other hand, just try and squeeze it, and see[inaudible] ."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 324.03,
+      "end": 326.26,
+      "text": "You look like you've got very good circulation."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 329.01,
+      "end": 340.62,
+      "text": "OK, perfect, that's great. Thank you so much. The last thing I'd like to do, is I'd like [inaudible] , to [inaudible] , try and have a look down your throat. OK. Are, are you doing this consultation via, um, a phone or a [inaudible] , laptop?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 340.91,
+      "end": 341.5,
+      "text": "Phone."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 342.02,
+      "end": 342.87,
+      "text": "A phone?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 342.31,
+      "end": 345.44,
+      "text": "[inaudible] rested it on my laptop, so I think we're good to go."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 346.98,
+      "end": 348.3,
+      "text": "[inaudible] , sorry, say that again."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 348.66,
+      "end": 350.82,
+      "text": "Got it rested the laptop but I can."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 349.89,
+      "end": 359.34,
+      "text": "OK, [inaudible] , OK. So if you, if you, um, position your device up above your head, put your head back, mouth open wide, and let me see if I can have a [inaudible] . That's, fantastic. And say ah."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 359.63,
+      "end": 362.03,
+      "text": "Ah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 362.09,
+      "end": 363.94,
+      "text": "Perfect. Thank you for that. Excellent."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 364.02,
+      "end": 364.77,
+      "text": "Lovely."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 364.5,
+      "end": 375.28,
+      "text": "OK. Last thing, is if I can get you to feel inside your neck. Just on the sides here, OK, um, by your Adam's apple. Tell me whether you can feel any enlarged glands or not."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 376.23,
+      "end": 378.44,
+      "text": "No, they feel pretty normal to me."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 377.06,
+      "end": 379.12,
+      "text": "[inaudible] . OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 379.64,
+      "end": 380.34,
+      "text": "I think."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 380.05,
+      "end": 387.91,
+      "text": "All right. Um. Now, um, uh, [inaudible] . Sorry, I've forgotten your name."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 388.81,
+      "end": 390.93,
+      "text": "Um, Doris."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 390.79,
+      "end": 441.89,
+      "text": "Doris, OK Doris. Um, so, so Doris, um, what, what I think we need to do, is um. This sounds like you might have a chest infection. OK. If you're coughing up blood, and you're feeling your heart racing. Um. Uh, I think, you need to be examined today, someone needs to listen to your chest. And, um, maybe check your blood pressure as well, check that, you're stable. I have to say examining you now, from what limited, examination I could do online. You're, everything does seem to be OK, in terms of, you, you don't seem acutely unstable. However, if you've got, this kind of pain, um, when taking a deep breath in and you're coughing up blood. We do, do, we do need to assess you to figure out whether you have a Pneumonia or chest infection. And um, that would involve someone listening to your chest with a stethoscope, and you may need um, an antibiotic. Uh, there's one thing I need to ask you. Have you been, on any long-haul flight recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 442.66,
+      "end": 444.52,
+      "text": "No, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 443.76,
+      "end": 448.24,
+      "text": "No, OK. Have you ever had any clots in your legs, or clots in your lung? Blood clots?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 448.6,
+      "end": 450.08,
+      "text": "Not that I know of, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 449.81,
+      "end": 451.78,
+      "text": "No, OK. Anyone in the family have that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 452.53,
+      "end": 453.22,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 453.34,
+      "end": 475.45,
+      "text": "No, OK. All right. Um, what I think we'll do is um, we'll arrange for you to get reviewed in a clinic today. OK. Um, I would like someone to listen to your chest, and check your blood pressure. And to, to recheck your pulse as well. Just make sure, and check your temperature, make sure all those parameters are OK. You may well need an antibiotic, OK. Um, do you have any allergies to any antibiotics?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 475.38,
+      "end": 476.1,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 476.03,
+      "end": 500.51,
+      "text": "No, OK. Um, I, I'm not, I'm gonna, not, I'm not going to prescribe anything for you now, because I think you need to have that, basic assessment first. Um, before we proceed to the next step. But the, that's what I would predict the next step might be. Um, I'm going to leave the number in the notes for this appointment, for you to ring our support team. And then, they will, book you in for a face-to-face appointment with one of our GPs today. And then, they'll do that assessment, and then we'll take it from there, OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 497.44,
+      "end": 502.78,
+      "text": "OK. But we don't think I'm dying of lung cancer."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 503.62,
+      "end": 529.07,
+      "text": "Um, uh, given the, the way in which you uh, have presented now. Just one day, with a fever and, this slight pain, [inaudible] , concurrent with the, the blood in the, the, the flem. That's not usually how lung cancer is presented. It's more insidious, over a longer period of time, with other symptoms. Um, however, we might need to get some investigations to exclude that. It depends on the examination finding, when we see you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 529.41,
+      "end": 530.28,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 530.32,
+      "end": 532.34,
+      "text": "All right. [inaudible] , are you worried about lung cancer?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 532.59,
+      "end": 538.53,
+      "text": "Well you know, you start coughing up blood and you think you're, gonna, die of lung cancer, so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 536.95,
+      "end": 541.52,
+      "text": "[inaudible] . Sure, of course yeah. So, just remind me how old you are again. I'm sorry."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 541.64,
+      "end": 542.64,
+      "text": "Forty five."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 542.54,
+      "end": 554.6,
+      "text": "Forty five, OK. It's something we do need to be cognisant of, OK. Um, and, we may end up having to do a follow-up chest X-ray, if things don't settle down. But at the moment, it, it seems more like a chest infection, rather than a lung cancer."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 554.96,
+      "end": 556.11,
+      "text": "That's good to know."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 556.07,
+      "end": 571.58,
+      "text": "Yeah, that, that is good to know, yeah, so that's, 'cause that's easier to treat. But we still need to make sure that things are OK because, chest infections can become nasty as well. It can lead to infection inside the body, [inaudible] , we want to avoid that as well. So, let's get you checked out today, and hopefully we can put your mind to rest, and get you on the right course of treatment."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 563.9,
+      "end": 573.41,
+      "text": "Yep. Perfect. Thank you very much."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 573.24,
+      "end": 576.84,
+      "text": "All right, you're welcome. All right, take care then. All the best. Bye."
+    }
+  ]
+}

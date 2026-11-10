@@ -1,0 +1,285 @@
+{
+  "encounterId": "osce-RES0142",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Uh, what can I do for you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hi um, yeah so I, I just came here today um, because I've just been feeling um, like I have this really sore throat for the last uh, week, and I've also been getting some chills over the last few nights as well. Um, so yeah, I just came to check it out."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, okay, and um, when did uh, so your sore throat started um, a week ago. What about um, the chills?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, chills, I've been feeling them over the last few nights um, and I've also just been feeling very tired and um, over the last whole week as well."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, um, have you had any difficulties swallowing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, yeah, I definitely feel like uh, I do get some pain ones following, but it may be just with the sore throat."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And um, have you had, uh, have you had any headaches?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no headaches."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any uh, stuffy nose or runny nose?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No um, sinus congestion?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, what about uh, cough?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, no, not, not, no cough really. I've also noticed, also like the back of my throat, when I look in the mirror, is like just very red and like angry looking."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And um, any difficulties breathing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any um, pain in your chest?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, do you feel like your heart is racing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any changes in your bowel movements, or your urinary, or any urinary concerns?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No belly pain or muscle aches?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, um, so uh, are you um, do you have any medical conditions that you've been diagnosed with?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I've been pretty healthy all my life."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any medications that you've been on?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any allergies?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No allergies."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and um, any medical conditions that run in the family?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, I think um, my mom has diabetes, but that's about it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And um, who do you currently live with? Or do you live alone?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I live with uh, my mom."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Anyone else at the house?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, it's just us two."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, um, and any um, recent exposures to anyone who might be sick."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um my, my boyfriend, he kind of had similar symptoms, I would say a few weeks ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, and um, did he, did he get um, did he see a doctor?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, he didn't want to go to the doctor, and it kind of just resolved, like he, it went away on its own."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, alright. Um, and do you um, do you drink?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Just on the weekends maybe, uh, some wine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And what about um, marijuana?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um just socially, like right now there's no parties, but like when I'm at parties."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, what about alcohol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, yeah, so just uh, socially again."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Oh, yeah."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Right now, with my mom drinking every now and then."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I see, okay. Um, alright, well that's all the questions I had, and uh, sorry one more. Have you been up to date with your immunizations so far?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I've been having all my immunizations. Uh, I also feel like, so with a sore throat, I also have some um, pain on the sides, like on my, on my neck. Like I almost feel like some lumps on both sides."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Oh, I see, I see. Okay, okay. Um, so I guess I, at this point I would like to maybe have it, examine you, just have a look inside your throat, maybe feel your neck for those lumps, and uh, then decide what to do from there. Um, given your symptoms, um, this could be a viral infection, or um, it could be a bacterial infection caused by um, bacteria called, or I guess, strep, strep throat. It could also be uh, mono. Um, but I'll uh, I'll have a look, we'll do the rapid strep test and uh, based on those results, we'll decide what to do. If it is strep, you might require antibiotics. If not, if it's mono and if we can do maybe a blood test for that, you might have to um, not engage in, in physical activity um, or exercise, vigorous activity, or like sports for the next couple of weeks or months as, as that can be, uh, as that can cause problems if you get hit in the, in your belly. It could cause your spleen to rupture and sometimes your spleen become very big if you do have mono, but we'll discuss all of that a little bit more after we do uh, the strep test. We'll also check your temperature, um, and see um, how you're doing. Have you been taking anything to help yourself, to help soothe your sore throat?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, just some lozenges."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, so just continue uh, just drinking water and taking lozenges just to um, provide some comfort for yourself, and we'll do the test, then we can chat a bit more after."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, sounds good, thank you so much."
+    }
+  ]
+}

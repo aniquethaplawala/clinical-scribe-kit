@@ -1,0 +1,25 @@
+{
+  "encounterId": "aci-D2N051",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N051",
+  "split": "train",
+  "collectionMode": "aci",
+  "chiefComplaint": "Right foot ulcer",
+  "secondaryComplaints": [
+    "Diabetes",
+    "Coronary artery disease"
+  ],
+  "patient": {
+    "age": null,
+    "gender": "male"
+  },
+  "turns": 51,
+  "wordCount": 1256,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

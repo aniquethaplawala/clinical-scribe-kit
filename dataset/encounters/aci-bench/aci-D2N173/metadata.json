@@ -1,0 +1,26 @@
+{
+  "encounterId": "aci-D2N173",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N173",
+  "split": "clef_taskC_test3",
+  "collectionMode": "virtassist",
+  "chiefComplaint": "upper respiratory infection",
+  "secondaryComplaints": [
+    "coronary artery bypass grafting",
+    "hyperlipidemia",
+    "ocd"
+  ],
+  "patient": {
+    "age": 57,
+    "gender": "male"
+  },
+  "turns": 49,
+  "wordCount": 744,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

@@ -1,0 +1,131 @@
+Clinician: Can we just begin with what brings you in here today?
+Patient: Yeah, so I've been pretty breathless for the past six days and it's it's just worse. I have to stop from, I had to stop so many times walking here from my car.
+Clinician: OK, and when did this first start?
+Patient: Six days ago.
+Clinician: And did it start like gradually or was it all of a sudden?
+Patient: Bah, pretty sudden actually.
+Clinician: OK, and were you doing anything before it first happened?
+Patient: No. Just work and spending some time at home.
+Clinician: OK, and so you're having the shortness of breath, but are you having any like coughing at all?
+Patient: Oh yeah, a lot of coughing too, yeah.
+Clinician: OK, and is it a dry cough or a wet cough?
+Patient: Um, so I've noticed this weird rusty colored sputum and I've noticed that like a couple times a day.
+Clinician: And did your cough started around the same time as when your shortness of breath started?
+Patient: Uhm, yeah, I'd say so.
+Clinician: OK, so around six days?
+Patient: Yeah around there.
+Clinician: And has it been constant like I've been constantly having a shortness of breath every day with the coughing? Or does it come and go?
+Patient: Um? It's pretty constant now.
+Clinician: OK, and do you find that it's been getting worse at all?
+Patient: Uhm, yeah, I'd say it's getting, I'd say it's getting worse.
+Clinician: OK, and is that both the coughing and the shortness of breath or one or the other?
+Patient: It's, it's both.
+Clinician: It's both OK.
+Patient: Yeah.
+Clinician: And do you remember if you were doing something at the time when the shortness of breath first started? Have you recently had any infections or anything like that previously?
+Patient: I don't know bout an infection. Um, but I guess I have been feeling a little feverish. I haven't taken my temperature, but I've been feeling you know, kind of cold.
+Clinician: OK. And when you feel the breathlessness, how long does it usually last for?
+Patient: Um, it's kind of hard to say, it's it's always their baseline, but it gets worse when I when I walk or when I exert myself.
+Clinician: OK. And besides like the exertion, does it get worse with any when you're near pollen, when you're outside in the cold, anything like that?
+Patient: Um? It gets worse when when no no, I wouldn't say that no, no.
+Clinician: OK. And is it worse in the morning or at night?
+Patient: It it doesn't matter.
+Clinician: It is there all the time?
+Patient: Yeah.
+Clinician: OK. And is there anything that makes it go away or I mean or anything you've tried that makes it better?
+Patient: Well, I guess I've tried some taking some Tylenol and that's helping my like regulating my temperature.
+Clinician: OK. And have you ever noticed any blood in the cough?
+Patient: It's rusty colored, but I don't know if that's blood.
+Clinician: OK, but you've never actually coughed up uhm red blood.
+Patient: No.
+Clinician: OK. And. Is there anything that makes your symptoms worse besides exertion?
+Patient: Uh, no.
+Clinician: OK. And do you notice, having any wheezing or any other breathing sounds?
+Patient: I notice some wheezing. Yeah, it's it's, it's not that much though.
+Clinician: OK. Before this, before the six days, have you ever experienced anything similar?
+Patient: Uh, no.
+Clinician: No, OK. Have you traveled outside of the country at all recently?
+Patient: Uh, no.
+Clinician: Yeah, OK. Do you have any other symptoms, like a sore throat, runny nose, chest pain, anything like that?
+Patient: I do have this sharp chest pain that gets worse with coughing.
+Clinician: OK and is is that always there or is it just when you're coughing a lot?
+Patient: I guess when I'm coughing a lot.
+Clinician: And that starts six days ago too as well. Or is that?
+Patient: Yeah.
+Clinician: OK. And do you ever feel any kind of is it so you said, mention it was sharp, but do you ever feel like increased pressure in your chest? Anything like that?
+Patient: Uh, no.
+Clinician: And how would you rate this pain when it occurs from a scale of 1 being the least amount of pain you've felt in your life, and 10 being the worst?
+Patient: The sharp chest pain? I'd say maybe like a 7.
+Clinician: OK, and does it go away on its own or does it spread to different areas of your body at all?
+Patient: It just starts gradually going away at when I stop coughing.
+Clinician: OK. Have you experienced any kind of headaches with nausea or vomiting?
+Patient: Uhm, no.
+Clinician: OK. So you mentioned you had some chills, but you don't know if you had a fever.
+Patient: Mhmm.
+Clinician: OK. Have you experienced any kind of dizziness or fainting spells?
+Patient: Uh, no.
+Clinician: OK. And have you been in contact with anyone who has been ill recently?
+Patient: Not that I know of, no.
+Clinician: OK. Have you experienced any night sweats?
+Patient: I feel chilly at night, but I don't, maybe, yeah.
+Clinician: OK, any significant weight loss recently?
+Patient: No.
+Clinician: And have you noticed any kind of symptoms like your heart is racing? Or anything like that?
+Patient: No.
+Clinician: OK. Have you experienced any changes in your bowel movements at all like in constipation or diarrhea?
+Patient: No.
+Clinician: Any changes in your urinary patterns?
+Patient: Um, no.
+Clinician: Any issues with your sleep or appetite at all?
+Patient: Uhm, no.
+Clinician: OK. Have you had any recent infections like a cold or anything like that recently?
+Patient: Um, I guess I had a runny nose a few days before.
+Clinician: OK.
+Patient: Yeah.
+Clinician: Have you at all been exposed to anyone with tuberculosis in the past?
+Patient: No.
+Clinician: Any exposure at your workplace or at home to any fumes or dust in pets or animals?
+Patient: Ah, well I have birds, but I've had them for awhile.
+Clinician: OK. How long have you had the birds for?
+Patient: Ah about three years.
+Clinician: OK, and no, they haven't caused you any issues before?
+Patient: No.
+Clinician: OK. And do you have any allergies that you know of?
+Patient: No allergies.
+Clinician: OK. Any past medical conditions, like high blood pressure, diabetes, asthma?
+Patient: No.
+Clinician: Any previous surgeries?
+Patient: No, none.
+Clinician: OK. Any hospitalizations for any reason?
+Patient: No.
+Clinician: OK, are you on any medications currently?
+Patient: No. D" And do you have any family history of any medical conditions like cancers or heart attacks or any lung issues? No.
+Clinician: OK. And currently, do you work?
+Patient: I do. The place I work is very crowded and it's not the best conditions to work in, and there's an air conditioner, which I think is broken. It's quite humid, it's never been checked. Yeah.
+Clinician: And how long have you been working there?
+Patient: For the past year.
+Clinician: OK. And where do you live currently? Do you live in a house or an apartment?
+Patient: Uhm, I have a small apartment, also not in the greatest location.
+Clinician: OK, do you have any exposure to mold or excessive dust in your household?
+Patient: Um, maybe, ah it's a very badly kept apartment, so it's possible.
+Clinician: OK, do you have any potential exposure to asbestos in your house or at work?
+Patient: I mean, yeah, probably. Both buildings are very, very old. I doubt they're being maintained.
+Clinician: OK. And do you currently smoke at all?
+Patient: I smoke 10 cigarettes a day.
+Clinician: OK, and how long have you been smoking for?
+Patient: Um, since I was 20.
+Clinician: OK. And do you use any recreational drugs like marijuana?
+Patient: I smoke a little cannabis sometimes.
+Clinician: And how often, would you say you smoke in an average week?
+Patient: Maybe about 5 milligrams.
+Clinician: OK. And do you drink alcohol?
+Patient: I do, but not a lot.
+Clinician: How much would you say you drink in a week?
+Patient: Ah, maybe 5 drinks?
+Clinician: OK. And in terms of your daily routine, do you think you get enough exercise?
+Patient: Probably not.
+Clinician: OK. Uhm, and how about your diet? Do you get 3 meals a day or is it well balanced?
+Patient: I eat a lot of fast food and junk food.
+Clinician: OK. Alright, is there any other questions or concerns that you had for us today?
+Patient: No.
+Clinician: OK. So yeah, based on what we discussed today, it seems that you may have an upper respiratory tract infection. The other things on differential would be a COPD exacerbation due to your significant smoking history. So we will do some investigations ti figure out what this is, and then perhaps can give you antibiotics or other medications to help you, unless it's a viral infection.

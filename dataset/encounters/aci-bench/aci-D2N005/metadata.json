@@ -1,0 +1,24 @@
+{
+  "encounterId": "aci-D2N005",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N005",
+  "split": "train",
+  "collectionMode": "virtassist",
+  "chiefComplaint": "right middle finger pain",
+  "secondaryComplaints": [
+    "atrial fibrillation"
+  ],
+  "patient": {
+    "age": 41,
+    "gender": "female"
+  },
+  "turns": 37,
+  "wordCount": 470,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

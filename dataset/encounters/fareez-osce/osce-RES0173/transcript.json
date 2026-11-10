@@ -1,0 +1,505 @@
+{
+  "encounterId": "osce-RES0173",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How may I help you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm I'm here because I, I've oddly been feeling really short of breath and have a fever or and a cough."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, when did the shortness of breath start and are you short of breath now?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It started about uh, I guess I could start yesterday. And a little bit, but it's getting better."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Started yesterday, OK, well I'm glad, it's getting better. When did the cough start?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It started around the same time."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, it is it. A dry cough or or wet cough?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's a dry cough."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, is it? Is this cough new or if you had a cough before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, it's it's kind of new."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, have you brought up any, I know you said its been but have you brought up any blood?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and have you had any wheezing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And you mentioned a fever as well. Have you checked your your temperature today or yesterday?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, it was at 38 last night."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Are you feeling feverish today as well?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, a little bit."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and uh. So have you had any any infectious symptoms, like runny or red eyes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How about a runny nose or feeling congested?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no, it's just a cough."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Cough? OK. And what what, were you around any triggers yesterday or like around any anything that was out of the normal for you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I got a notice that this happens to me every time I go to my boyfriend's place, so I started dating, I started dating someone new about six months ago and every time I go to his place, a couple hours later I just like develop these symptoms, just kind of odd. I thought that I was just getting a cold. But now that it's happened like three times, I'm thinking maybe you have some sort of an allergy like maybe,  I don't know. Maybe it's like yeah, I'm just allergic to something. Maybe his plants or something. I don't know."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and it does this happen each time that you go go to his house?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, yeah, yeah. Kind of almost yeah, that's like you haven't like. I haven't been to his place very often because of the pandemic. But yeah, every time I go kinda feel really crappy after."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I see OK and, uh, are there any other environments you can think of where this happens or have these symptoms happen at any other point?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I don't think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And have you had a sore throat?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How about any losses of smell or or taste?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and have you had any chest pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no. I haven't."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "K, and have you had any nausea or vomiting"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, and any abdominal pain or diarrhea?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any urinary problems like painful urination or frequency?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you had any muscle aches or body pains?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, yeah. Just act different feeling achy and kinda tired these past well like 12 to 14 hours."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I see OK, so it has been kind of like all over or there are particular muscles sore or our body part?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, it's it's like all over."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and you've been fatigued as well?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Oh yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Have you had any headaches?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any skin changes or rashes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright. And then how about any night sweats or chills? I know you mentioned fevers."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I've just been feeling hot."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, I mean, how was your weight been over the last several months? Is it like have you lost weight or gaining weight or is up in the same?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Kind of in the same."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And uh, in the past, have you been diagnosed with any medical conditions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I'm pretty healthy."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, you see. Yeah, you haven't had asthma in the past or or anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any allergies to medications you're aware of or or environmental things like or dust or pollen?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No no. Which is why I was kind of surprised. I'm usually fine and I spend a lot of time outdoors so, I don't know. Yeah, I was surprised when this happened when I went to his place."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, did you ever get these kind of symptoms if you are like yeah or around smoke or or anything like that, you could maybe be inhaling or or even if you are outside in the cold?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and you get seasonal symptoms like throughout the year you get like itchy runny eyes or like. Like a runny nose?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no. That hasn't happened to me."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and do you take any medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I just take a birth control pill."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And when, how long have you been on that for?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "About three years."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And any prior surgeries or hospitalizations?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Oh no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, and can you tell me a little bit about where you're living currently and two you're living with?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I live alone, uh? I have an apartment next to the University."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and any potential for being around anybody who's been sick like your boyfriend or his family or or anywhere else?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I've just been visiting him and I just go grocery shopping. I've just I've been doing schooling online. Yeah, I don't think so. I'm usually very careful, I'm not. Yeah, I'm not maintaining social distancing with my boyfriend. He's in my social circle, but yeah, other than that no one I think yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Ok. And have you traveled anywhere?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright then are you currently working or going to school?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm going to school."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, cool and uh. And are you currently sexually active?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yep."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and are you using birth control. Are you using condoms?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yep. OK, any concern for any sexually transmitted infection at this time? No. No, I'm very careful."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK? And do you smoke cigarettes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you drink alcohol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sometimes if, like during like parties and stuff, but I haven't really been drinking much 'cause there's nothing going on."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK yeah I see. And uh do use any recreational drugs?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, then umm in the family is there a history of any lung problems or any any heart problems?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um just high blood pressure. My mom and dad have it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And so I wanted to ask about the boyfriend's house as well. Is there any pets in the home there?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Oh yeah. Yeah, he has this cute little parrot. And he also has a cat."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and do you have any pets at your house?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no I don't."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Oh, OK. So that I think that was everything that I wanted to ask on on history today, was there anything else I forgot to mention or you wanted to to bring up?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't think so, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so it sounds like there's potentially could be caused by an allergen such as which could be   from an animal like a parrot or a cat that is causing just a reaction and it's bringing these symptoms on like called hypersensitivity pneumonitis, but also we can't rule out asthma as well as being a trigger of kind of the cough and shortness of breath is being around allergens as well, so we'll order pulmonary function test, and maybe some, uh, uh, imaging and chest x-ray and we will go from there."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Great, thank you."
+    }
+  ]
+}

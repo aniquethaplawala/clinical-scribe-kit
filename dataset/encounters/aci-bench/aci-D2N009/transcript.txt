@@ -1,0 +1,61 @@
+Clinician: Hi, Bryan. How are you?
+Patient: I'm doing well. I'm a little sore.
+Clinician: Yeah?
+Patient: Yeah.
+Clinician: All right, well, I know the nurse told you about Dax. I'd like to tell Dax a little bit about you, okay?
+Patient: That's fine.
+Clinician: So Bryan is a 55-year-old male with a past medical history significant for prior discectomy, who presents with back pain. So, Bryan, what happened to your back?
+Patient: You... My wife made me push a, uh, refrigerator out through the other room, and when I was helping to move it, I felt something in my back on the lower right side.
+Clinician: Okay, on the lower right side of this back?
+Patient: Yes.
+Clinician: Okay. Those wives, always making you do stuff.
+Patient: Yes.
+Clinician: And what day did this happen on? How long ago?
+Patient: Uh, this was about five days ago.
+Clinician: Five days ago.
+Patient: And, you know, I have that history of discectomy.
+Clinician: Yeah.
+Patient: And I'm just worried that something happened.
+Clinician: Okay. All right. And, and what have you taken for the pain?
+Patient: Um, I have, uh, been taking ibuprofen. Uh, and I tried once tylenol and ibuprofen at the same time, and that gave me some relief.
+Clinician: Okay. All right. And have you had any symptoms like pain in your legs or numbing or tingling?
+Patient: Um, no, nothing significant like that.
+Clinician: Okay, just the pain in your back.
+Patient: Just the pain in the back. It hurts to bend over.
+Clinician: Okay, and any problems with your bladder or your bowels?
+Patient: No, no.
+Clinician: I know the nurse said to review a symptom sheet when you checked in.
+Patient: Mm-hmm.
+Clinician: And I know that you were endorsing the back pain. Any other symptoms? Chest pain? Shortness of breath? Abdominal pain?
+Patient: No.
+Clinician: Nausea? Vomiting?
+Patient: No other symptoms.
+Clinician: Okay. All right. Well, let's go ahead and do a quick physical exam. Hey, dragon, show me the vital signs. So your vital signs here in the office look really good. You don't have a fever. Your blood pressure's nice and controlled. So that... That's good. I'm just gon na check out your back and your heart and your lungs, okay?
+Patient: Okay.
+Clinician: Okay, so on physical examination, you know, your heart sounds great. There's... It's a regular rate and rhythm. Your lungs are nice and clear. On your back exam, you do have some pain to palpation of the right lumbar spine, uh, in the paraspinal muscles along with decreased flexion and extension of the back, and you have a positive straight leg on the right. Or positive straight leg raise on the right, uh, but your strength is good bilaterally in your lower extremities. So that means that I think that you've injured your back.
+Patient: Okay.
+Clinician: Uh, but, you know, I think it's something that we can, we can fix, okay?
+Patient: Okay, you don't think there's anything wrong with the... Where I had the surgery before.
+Clinician: I don't think so.
+Patient: Okay.
+Clinician: Let's took at some of your results. Hey, dragon, show me the back x-ray. So this is an x-ray of your lumbar spine. You know, there's good bony, bony alignment. I don't see any fracture or anything like that. So that's a good sign. Um, hey, dragon. Show me the labs. And your labs here all look good, so I'm, I'm happy to see that. Uh, so let's talk a little bit about my assessment and my plan for you, okay?
+Patient: Okay.
+Clinician: So I... My assessment for your first problem, your back pain. I think you have a lumbar strain. I don't think that anything else is going on, but I wan na go ahead and order an mri-
+Patient: Okay.
+Clinician: Just to be sure.
+Patient: Okay.
+Clinician: Okay? And then I'm gon na prescribe you some meloxicam 15 milligrams once a day along with some ultram, 50 milligrams every four hours as needed, okay?
+Patient: Okay.
+Clinician: Um, and then we'll go ahead and refer you to some physical therapy once we get the mri results back, okay?
+Patient: Should I continue to take the tylenol and the ibuprofen?
+Clinician: You can stop the ibuprofen.
+Patient: Okay.
+Clinician: You can take tylenol if you want.
+Patient: Okay.
+Clinician: You know to call me if, if you need anything.
+Patient: Okay.
+Clinician: Okay?
+Patient: Okay.
+Clinician: Any questions, uh, Bryan?
+Patient: No, no questions.
+Clinician: Okay. Hey, dragon, finalize the note.

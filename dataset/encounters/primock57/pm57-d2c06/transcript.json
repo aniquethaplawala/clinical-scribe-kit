@@ -1,0 +1,631 @@
+{
+  "encounterId": "pm57-d2c06",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 1.04,
+      "end": 1.58,
+      "text": "Hello."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 1.63,
+      "end": 4.73,
+      "text": "Hi there. I'm Doctor Deen Mirza from Babylon. Good morning."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 5.1,
+      "end": 7.2,
+      "text": "Good morning. Hi, [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 5.97,
+      "end": 14.83,
+      "text": "Good morning. [inaudible] . [inaudible] , sorry, [inaudible] , before we start. Could I get your full name and date of birth? Is that possible? Yes, it's, [inaudible] ."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 12.42,
+      "end": 24.15,
+      "text": "Yeah, sure. Um, my name is John Doe. Um, and I am twenty seven years old. Um, so, I was born in nineteen ninety one, um, seventeenth of November."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 24.25,
+      "end": 29.3,
+      "text": "That's perfect, thank you for that. Are you, um, John, are you in a private place where you're OK to speak at the moment?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 29.57,
+      "end": 30.98,
+      "text": "Yeah, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 30.39,
+      "end": 36.32,
+      "text": "[inaudible] , perfect, thank you for that. OK. So, tell me what the problem is. You've been having some difficulty breathing. Is that correct?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 35.66,
+      "end": 66.32,
+      "text": "[inaudible] , yeah, exactly. I've, I'm [inaudible] , kind of struggling to breathe at the moment. I, I got stung by a wasp, um, recently. Well, I'm not sure whether it's kind of bitten or stung. Um, but I, uh, I'm feeling like slightly anxious that, uh, there's a bit of, I've got a bit of a, a rash on my arm where, i got stung. Um, and, I've, kind of. But yeah, as I say, I've got this difficulty breathing and potentially, um, there's a bit of swelling in my lips. My tongue feels a bit weird."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 66.55,
+      "end": 70.71,
+      "text": "Right, OK. So, when did this bee sting or bee bite occur?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 71.31,
+      "end": 73.79,
+      "text": "Um, it was, just a few minutes ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 74.82,
+      "end": 84.27,
+      "text": "Right, OK. Um, and, your, your lips don't seem swollen to me right now, but, do they, which. Can you show me with your finger where you feel it's swollen?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 84.48,
+      "end": 92.29,
+      "text": "Yeah, it's just kind of on the right-hand side. Um, and it, and it's just a bit sore, maybe it hasn't kind of [inaudible] , fully swollen up yet."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 90.86,
+      "end": 95.88,
+      "text": "Sure. Sure, OK. Uh, you said you've been having some difficulty breathing."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 96.19,
+      "end": 96.68,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 97.1,
+      "end": 106.09,
+      "text": "Your breathing seems all right to me right now. Um, the reason why I'm, clarifying is, because we have to decide whether this is a, an acute emergency. Whether I need to send you in to hospital straight away."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 101.13,
+      "end": 101.62,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 106.09,
+      "end": 113.28,
+      "text": "Or whether we, more time to ask questions, OK. So um, [inaudible] , do you feel like you've got difficulty breathing right now, this minute, as we speak?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 106.38,
+      "end": 123.07,
+      "text": "Right. I, I, I [inaudible] , I don't, feel like it's [inaudible] , like particularly acute, but i'm just kind of a bit anxious that it might get a bit worse. I don't, I just wanted to speak to someone."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 120.27,
+      "end": 133.51,
+      "text": "Sure, sure. [inaudible] . Sure. No you, uh, you did the right thing and I, and I can understand it [inaudible] , it is quite anxiety provoking, OK. All right. Can I just double-check? Before we carry on asking other questions. Have you got history of anaphylaxis?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 133.89,
+      "end": 136.32,
+      "text": "Uh, not that I know of."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 136.06,
+      "end": 138.79,
+      "text": "No, OK. Have you ever been given an EpiPen?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 139.58,
+      "end": 141.26,
+      "text": "Uh, I haven't no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 141.0,
+      "end": 150.69,
+      "text": "No, OK, all right. Let, let's, um, take a step back now. So, in terms of the bee sting, it was a [inaudible] . Did you see a bee or you're, you're just [inaudible] , um, assuming it was a bee?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 151.35,
+      "end": 160.76,
+      "text": "Um, I, [inaudible] , I, I find it difficult to tell the difference between a bee and a wasp, but um, [inaudible] , yeah it was one of the two."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 157.3,
+      "end": 165.55,
+      "text": "[inaudible] . One of the two. [inaudible] , OK. And, um, the area of your body that it stung. Where was it? Did you say it was your arm?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 165.96,
+      "end": 167.39,
+      "text": "Yeah, it was on my arm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 167.91,
+      "end": 170.23,
+      "text": "All right. And you've got a rash there. Can I have a look?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 170.86,
+      "end": 175.07,
+      "text": "Uh, yeah sure. Um, it's just, just there."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 175.27,
+      "end": 180.28,
+      "text": "OK, all right. That looks OK to me right now. [inaudible] , does it look red to you at the moment?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 178.36,
+      "end": 189.04,
+      "text": "Mm-hmm. It's, it's slightly red, yeah and, and kind of there's, a bit of a, like a hole there, where I think that the wasp, stung me."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 187.64,
+      "end": 196.71,
+      "text": "Yeah, yeah, yeah. The puncture mark, yeah, OK, all right. Um, now, is, is there any swelling, around that area, that you can see? I, I couldn't see any."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 197.73,
+      "end": 208.41,
+      "text": "Uh, [inaudible] . Not particularly. I, I guess it's just a bit kind of blotchy, uh, and a bit of a rash. It doesn't feel like, particularly swollen. Um."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 207.65,
+      "end": 218.13,
+      "text": "Sure. OK, all right.Um, now, have you taken any medication? It's probably a [inaudible] , you probably haven't, 'cause it was a few minutes ago. But have you? Is [inaudible] . [inaudible] , not taken [inaudible] , any [inaudible] , antihistamines or anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 218.39,
+      "end": 221.36,
+      "text": "Not at the, not at the moment, no. Nothing, nothing yet."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 221.79,
+      "end": 229.15,
+      "text": "OK. [inaudible] , now, um, if I can just go back. Do you have any history of any [inaudible] , any, kind of illnesses at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 229.79,
+      "end": 234.58,
+      "text": "Um, I've, I've had eczema before. Um."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 234.35,
+      "end": 236.22,
+      "text": "OK, [inaudible] ."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 235.23,
+      "end": 239.67,
+      "text": "[inaudible] , that's kind of the, the major thing, nothing, nothing really."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 239.05,
+      "end": 242.51,
+      "text": "[inaudible] , OK. Have you, got a history of any allergies to anything?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 242.91,
+      "end": 244.74,
+      "text": "Uh, I'm allergic to penicillin."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 245.36,
+      "end": 253.87,
+      "text": "All right, good. Um, and in your family, is there any history of any illnesses, or, any history of any kind of acute [inaudible] reactions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 252.71,
+      "end": 259.03,
+      "text": "Um, not that I think is, particularly relevant, no. I don't have, I don't have any."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 259.51,
+      "end": 265.67,
+      "text": "Right. [inaudible] , and, um, do you have allergies to any kind of, cats, or dogs, or pets, or anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 266.29,
+      "end": 270.87,
+      "text": "Uh, not that I know of, I've [inaudible] , yeah, I've been around dogs and cats, [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 270.0,
+      "end": 273.31,
+      "text": "Yeah. [inaudible] , and you've got no food allergies as far as you're aware?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 273.52,
+      "end": 273.97,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 274.91,
+      "end": 281.55,
+      "text": "OK. Um, can I ask? Do you suffer from anxiety or panic attacks, or anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 282.69,
+      "end": 285.58,
+      "text": "Uh, yeah, uh, sometimes, occasionally."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 286.08,
+      "end": 288.71,
+      "text": "Right, OK. Have you ever been on medication for that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 289.71,
+      "end": 290.94,
+      "text": "Um, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 292.05,
+      "end": 292.39,
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 292.1,
+      "end": 292.61,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 293.67,
+      "end": 303.92,
+      "text": "Um, great. Now, um, I need to ask a few questions, maybe not directly related to this, but just, it's for, for general information purposes. So, um, [inaudible] , are you working at the moment?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 304.41,
+      "end": 305.09,
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 305.29,
+      "end": 306.37,
+      "text": "What do you work as?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 307.2,
+      "end": 311.8,
+      "text": "Uh, I am a, uh, computer scientist."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 312.45,
+      "end": 315.37,
+      "text": "OK. And, um, [inaudible] , you living alone?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 315.71,
+      "end": 316.53,
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 317.03,
+      "end": 318.93,
+      "text": "OK. Do you have any pets at home?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 319.58,
+      "end": 321.6,
+      "text": "Um, I have a cat, at home."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 321.24,
+      "end": 338.51,
+      "text": "A cat. OK, great. What I'd like to do now. If that's OK John? Is, I'd like to have a look inside your mouth, OK. Um, one of the things that, um, we'd be worried about if, someone's going to have an acute allergic reaction. Is to see whether there's any swelling, of the lips, or the tissues inside the mouth, or the."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 328.7,
+      "end": 338.68,
+      "text": "Yep. Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 338.51,
+      "end": 361.94,
+      "text": "Soft tissues of the airway. And, um, I can, I've got a fairly good view of your lips, but I'd like maybe if you can, bring your device closer to your mouth, and then put your head back, mouth open wide. Sit somewhere where there's good lighting. And I just wanna have a look inside the throat, if that's OK? Perfect, OK, great. Now, um, um, can, can I just get you to do it again? And, just say ah, this time."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 360.01,
+      "end": 363.93,
+      "text": "Yup. Ah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 364.09,
+      "end": 412.85,
+      "text": "OK, fantastic, brilliant. OK. Um. Uh, John. Based on, um, how you look. How you're talking to me, and how you're breathing, and the appearance, and your wrist. Um, I don't feel that you're having [inaudible] , a, an, an, a life-threatening, uh, allergic reaction. Now it's very normal, to have, a rash, when you have some kind of insect bite. It's uh, it's a localised, um, uh, inflammatory reaction, that um, is normal and that [inaudible] , immediate reaction, that redness, and that maybe slight swelling, is usually temporary. What we're worried about, is when someone has, um, compromise of their breathing. So you mentioned, breathing difficulties and you mentioned swelling of your lip. Thankfully I can't see any of that right now."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 413.12,
+      "end": 413.61,
+      "text": "Right."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 413.38,
+      "end": 464.01,
+      "text": "[inaudible] , but that's, the most, urgent and most pressing thing that we'd be watching out for. Given that it hasn't happened, initially, it's unlikely to happen later. OK we, so we have like a [inaudible] , stage one and stage two reaction, for these types of bites. And, usually if you're gonna have the reaction, it will happen straight away. So, [inaudible] , we may be coming out of the danger zone now, it's um. But I'm just going to warn you about what those signs and symptoms are, in case it happens. So for example. You would have, swelling of the lips, difficulty breathing. You might have something called stridor, which is an inspiratory sound that you, when you're trying, trying to breathe. It makes like a rasping sound, like this. OK. [inaudible] . Thankfully, you don't have anything like that right now. It seems to me like this is a localised allergic reaction. However, if anything changes, if anything deteriorates. Either make an appointment with us, or go straight to A and E."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 458.04,
+      "end": 458.47,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 464.01,
+      "end": 485.56,
+      "text": "Um, uh, and in some cases, if it's, if it's, uh, progressing rapidly, it's better to go straight to A and E, rather than to, wait for a booked appointment with us, OK. What I'd like you to do now, is I'd like you to try and take some antihistamines. So you can buy them over the counter. You can get Piriton or Chlorphenamine, and you can take one tablet, four milligrams, um, up to about six times a day. OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 477.23,
+      "end": 477.63,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 485.56,
+      "end": 511.38,
+      "text": "Or you can just take a one-a-day one, whichever is your preference, that's, that's absolutely fine, there's no, no issue. That should be enough to control this. Um, if, the redness in your arm spreads, and you, it feels hot, or you, you know, you have signs of any localised infection. We may need to think about other treatments, like an antibiotic. And like I said if anything deteriorates, in terms of your breathing, that's urgent and we need to process that, [inaudible] , action needs to be taken urgently."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 506.97,
+      "end": 507.44,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 512.16,
+      "end": 516.72,
+      "text": "Did you have any other, um, queries or was there anything else that you're worried about?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 512.31,
+      "end": 530.28,
+      "text": "OK. Uh, no, I think, I think that kind of, that makes me feel a bit better. I guess, can I get that um, can I get the, uh, so the antihistamine from any shop, or like does it [inaudible] pharmacy?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 528.11,
+      "end": 547.63,
+      "text": "Yeah, that's, that's over the, yeah [inaudible] , over the counter. You don't need to, any chemist, will have it, you don't need a prescription for that. Yeah, it's probably cheaper to buy it over the counter actually, than to get it via prescription. OK. Um, now, um, uh, on the basis of what you've told me, I don't think you need any allergy testing. I think this is just a [inaudible] , a straightforward localised reaction to a, an insect bite."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 538.67,
+      "end": 539.28,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 547.63,
+      "end": 563.18,
+      "text": "However, if it was to happen that, you know, this, you're, you're having these kind of reactions on a regular basis or other, [inaudible] , non-specific rashes. We might need to think about blood testing, I don't think we're at, at that moment yet. OK. So uh, but [inaudible] , that's something to bear in mind in case this, becomes a recurrent pattern."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 559.25,
+      "end": 564.42,
+      "text": "OK. OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 564.04,
+      "end": 574.36,
+      "text": "OK then, so, we'll leave it like that for now, OK. I'm gonna leave a link to some information about anaphylactic reactions, just for you to read about it. I don't want you to panic, but just for you to be aware what [inaudible] symptoms are."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 567.04,
+      "end": 573.46,
+      "text": "Great. Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 574.36,
+      "end": 582.63,
+      "text": "If those kind of things happen, get back to us. If you're feeling worried, just have a lower threshold for [inaudible] , having a chat with us, sometimes a chat is all you need to calm things down."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 583.4,
+      "end": 585.49,
+      "text": "OK, great. Yeah, that makes sense."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 585.61,
+      "end": 590.95,
+      "text": "All right then John, OK. Uh, well we'll leave it like that, [inaudible] , come back to us if you have any further issues."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 591.32,
+      "end": 593.04,
+      "text": "OK. Thanks. I appreciate your time."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 593.33,
+      "end": 595.21,
+      "text": "My pleasure. All right, take care then. All the best."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 595.83,
+      "end": 597.05,
+      "text": "Bye bye, bye."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 596.49,
+      "end": 597.01,
+      "text": "Bye bye."
+    }
+  ]
+}

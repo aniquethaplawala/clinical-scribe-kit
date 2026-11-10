@@ -1,0 +1,75 @@
+Clinician: Dictating on Donald Clark. Date of birth, 03/04/1937. Chief complaint is left arm pain. Hello, how are you?
+Patient: Good morning.
+Clinician: It's nice to meet you. I'm dr. Miller.
+Patient: It's nice to meet you as well.
+Clinician: So, I hear you are having pain this arm. Is that correct?
+Patient: That's correct.
+Clinician: Okay. And it seems like it's worse at night?
+Patient: Well, right now the hand is.
+Clinician: Mm-hmm.
+Patient: And the thing started about two weeks ago. I woke up about two o'clock in the morning and it was just hurting something awful.
+Clinician: Uh-.
+Patient: And then I laid some ice on it and it finally did ease up.
+Clinician: Okay, that's good.
+Patient: So I got up, I sat on the side of the bed and held my arm down, thinking it would, like, help the circulation, but it didn't.
+Clinician: Okay, I see.
+Patient: And so, after a while, when it eased off, maybe about four, five am, I laid back down and it didn't start up again.
+Clinician: Mm-hmm, okay.
+Patient: Um. I went back to sleep but for several nights this happened, like, over and over. So, I finally went to see the doctor, and I don't really recall her name.
+Clinician: Okay. Yeah, I think I know who you're talking about, though.
+Patient: Um, she's the one who sent me to you, so, I, I would, I would think so. But when I went to her after the third time it happened and she checked me out, she said it was most likely coming from a pinched nerve.
+Clinician: Probably. Uh, do you notice that moving your neck or turning your head seems to bother your arm?
+Patient: Uh, no.
+Clinician: Okay. Is moving your shoulder uncomfortable at all?
+Patient: No.
+Clinician: And do you notice it at other times besides during the night?
+Patient: Um, some days. If it bothers me at night, then the day following, it usually will bother me some.
+Clinician: Okay. And do you just notice it in the hand, or does it seem to be going down the whole arm?
+Patient: Well, it starts there and goes all the way down the arm.
+Clinician: Okay. Have you noticed any weakness in your hand at all?
+Patient: Uh, yes.
+Clinician: Okay. Like, in terms of gripping things?
+Patient: Yeah.
+Clinician: Okay.
+Patient: Uh, this finger, I hurt it some time ago as well.
+Clinician: Really?
+Patient: Yeah. It doesn't work properly. Or, it works very rarely.
+Clinician: Gotcha. And did I hear that she gave you some prednisone and some oral steroids, or?
+Patient: Uh, well, she gave me some numbing medicine. It helped a little bit. The other two were a neck pill and gabapentin. Uh, you should have my full list in your notes, though. Since then it hasn't really bothered me at night. Also, just so you know, I am a va and I'm one percent disabled from this leg, um, issues from my knees down to my feet.
+Clinician: Okay. Is it neuropathy?
+Patient: Uh, yep.
+Clinician: Gotcha. That is good to know. All right, well, let's go ahead and take a look.
+Patient: Okay.
+Clinician: All right. So, to start, I'm gon na have you do something for me. Uh, just go ahead and tilt your chin as far as you can down to your chest. Okay, good. And now, go the other way, tilting your chin up as far as you can. Now, does that seem to bother you at all? Okay. And now, come back to normal, just look and turn your head as far as you can that way. Great. And now, as far as you can towards that wall. Uh, does that seem to bother you at all?
+Patient: No. Well, actually, I do feel a little strain.
+Clinician: Okay. So, you feel it in the neck a little bit?
+Patient: Yeah, just a little strain.
+Clinician: Okay. Uh, now squeeze my fingers as hard as you can with both hands. Great. Now, hold your arms like this.
+Patient: Okay.
+Clinician: And I'm going to try to strain your arms and try to keep them as stiff as you can. Don't let me strain it. Okay, good. Good. Now, when I, I'm just touching your hands like this. Does it seem to feel about the same in both hands?
+Patient: Uh, yes.
+Clinician: Okay. All right. So, I do agree with betty. Uh, more than likely, this seems like it would be coming from your neck. That's the most common reason that causes what, what you're experiencing. And I looked at an x-ray of your neck, and you do seem to have a lot of arthritis there, and there does seem to be potential for a disc to be pushing on a nerve. And now, what I don't have is an mri, which would show me, uh, kind of exactly where the nerve roots are getting pinched off.
+Patient: I see.
+Clinician: So, gabapentin can help a little bit with the nerve pain, and what I would like to do is potentially set you up for an epidural. And what that is is it, it's a focused anti-inflammatory medicine, excuse me, that works behind the nerve roops that, nerve roots that we are thinking might be getting squished off. It can often help alleviate your symptoms, and I do need to get an mri of your neck. Um, I know we have had one of your lower back, but I need one of your neck to see exactly where the roots are getting pinched off. So, what I can do is tentatively set you up for an epidural, but before you do that, we do need to get that mri so I can see right where I need to put the medicine for your epidural. Uh, what do you think of that?
+Patient: I think that sounds good to me.
+Clinician: Okay, good. And just to confirm, do you take any blood thinners? I don't think I saw any on your medicine list.
+Patient: Uh, no, I don't.
+Clinician: Okay, good. And what I would have you do is continue with the gabapentin. Um, are you taking 300 or 100?
+Patient: Um, not sure. My lady friend helps me handle this stuff.
+Clinician: Okay.
+Patient: I am taking eliquis, though.
+Clinician: Okay. Um, so whatever you are doing you can just keep doing it, and I'm going to set you up for the epidural and imaging study, um, just so I know right where to put the medicine. And I will follow up with you after s- um, that's in. We can do the shot, just to make sure your arm is feeling better. Sound good?
+Patient: Sounds good. For the last couple of nights, though, my neck has not been bothering me.
+Clinician: Okay. S- um, so, presumably what's happening, then, is when you're sleeping your neck is kind of gets off-tilt, uh, kilter, and it compresses the nerve roots there. Now, if you think you're doing fine, we could hold off, but at the very la- least, I'd like to update that mri of yours and see what's going on, because probably this is something that will likely flare up again.
+Patient: Yeah, it, it has been for the last week, so, I understand.
+Clinician: Okay. All right. Well, do you want to do that work-up and do the epidural, or do you think you're doing fine and you want to wait?
+Patient: Well, my hand is still bothering me.
+Clinician: Okay. So, you're saying your neck is not bothering you but the hand is. Okay. So then, let's just stick with the plan. Mri of the neck, so we can see where the nerve roots may be compressed, that's giving your hand the issue. And then, we're going to set you up with the epidural.
+Patient: Okay. Sounds good.
+Clinician: All right. So, keep going with the gabapentin. I will order the imaging of your neck, and the shot will hopefully help some with those symptoms in your hand, and then we'll follow up afterwards.
+Patient: All right. Is the mri today?
+Clinician: Um, you probably can't do it today, but let me talk with roy and see how soon we can get it done. Just give me a quick minute, and then roy will come in and get things scheduled as soon as we can.
+Patient: All right.
+Clinician: All right. Well, it was nice meeting you, my friend.
+Patient: You as well. Thank you.
+Clinician: Physical exam, elderly white gentleman presents in a wheelchair. No apparent distress. Per the template, down through neuro- neurologic. One plus bilateral biceps. Triceps brachioradialis. Reflexes bilateral all negative. Follow up and take out the lower extremities. Gait not assessed today. Strength and sensation is per the template. Uh, upper and lower extremities. Musculoskeletal, he is non-tender over his cervical spine. He does have mildly restricted cervical exte- extension. Right and left lateral rotation which is symmetric, which gives him mild lateral neck pain but no radi- radicular pain. Spurling's maneuver is benign. Paragraph, diagnostics. Cervical x-ray 6421. Cervical x-ray reveals significant disc degeneration at c56, and to a lower extent c45 and c34. Significant lower lumbar facet arthropathy c67 and c7-t1 is difficult to visualize in the current x-rays. Paragraph, impression. Number one, left upper extremity neuropathy suspicious for cervical radicularopathy. Possible contribution of peripheral neuropathy. Number two, neck pain in the setting of arthritis disc degeneration. Paragraph, plan. I suspect that this is a flare of cervical radicularopathy. I'm going to set him up for a cervical mri, and we'll tentatively plan for a left c7-t1 epidural afterwards, although the exact location will be pending the mri results. He'll continue his home exercise program as well as twice a day gabapentin. We'll follow up with him afterwards to determine his level of relief. He denies any blood thinners.

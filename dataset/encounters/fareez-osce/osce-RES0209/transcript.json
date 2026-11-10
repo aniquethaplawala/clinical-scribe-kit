@@ -1,0 +1,455 @@
+{
+  "encounterId": "osce-RES0209",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So what brings you in?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "OK, I'm so I have been coughing a lot over the past week or so. And it's been pretty dry, but I've been coughing like almost nonstop throughout the day, and I'm feeling very short of breath, and my bronchodilator helps, but I found I'm using it a lot now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, how long have you know that you have asthma for?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I was diagnosed when I was eight."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You're 10 now."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That's right."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So you're using your bronchodilator more. This is the one that you use, kind of as needed?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK and then do you have one that you take every day no matter what?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm? No, I don't have that one."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. You just have the one that you take is needed. Do you take any other medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no I don't take anything else."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Just the one is it a it's a puffer?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and you're using it more than normal, so how often were you normally using it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um I was only using it like I don't know. Maybe once every two weeks or so. Not very often. But now I'm using it like almost everyday like five six times a week."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any are you? Does it usually turned out that you need it like during certain times like say when you're exercising or when it's cold?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um I find I use it more, both like when it when it's right after I like, run around after gym during recess. Um and yeah, the cold also makes it worse."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any other triggers that you can think of?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no other triggers."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Normally get more in certain seasons?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I. I guess no, no big changes there. I find the cold air makes it worse like winter makes it worse or like. Yeah, maybe also the spring spring with like pollen and stuff like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so you have allergies too?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I think, so I haven't ever been like formally diagnosed."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, I see I see. Yeah, that would make sense. No. OK, uh, so you say you've had more coughing lately, is that right? You said the last two weeks. Or the last week"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Last two weeks."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Last two weeks. Is your cough and a dry cough?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you been bringing up gunk OK. Dry cough? Have you noticed any wheezing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Oh yeah, I've been wheezing a lot, actually."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, uh and that's uh. Do you use your bronchodilator every time that you're wheezing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "When it gets really bad, like when I get so easy that I find it hard to breathe."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so you're getting Wheezy even more times than then you're having to use your bronchodilator."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, that's right."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Are you having any symptoms at night time?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, how they don't happen as much as my daytime symptoms, but I been having it maybe like every other day or like you know, every two days or so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And when you have these so when you have these episodes, you're copping your wheezy. Do you feel like you're having a hard time breathing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yep, that's right."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you feel it gets tight in your chest?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. OK, have you had any any colds lately? Or any infections? ."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um no, no, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "K, does anyone that lives with you or anyone that you're around often, has anyone been sick?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Could you have been in contact with anyone that sick even outside of your house?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you traveled anywhere?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you lost any of your sense of taste or smell?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you had any fevers?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Any any? Nausea or vomiting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any belly pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "We just ask those questions because sometimes these things can happen with an infection or after an infection and we just want to make sure that that's not, you know what's happening right now. We probably will do a covid swab just because of the times that we're living in right now, but I just want to ask you a few more questions before I go talk to the doctor. So do you have besides your asthma, do you have any health problems?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Oh no, no no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And you said, besides the bronchodilator, you're not taking any medications."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And you think you might have allergies in the spring? Do you have allergies to anything else that you know?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no, not that I know of."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, does anyone else in your family have asthma?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I think my sister has asthma too."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Anyone in your family have any other breathing problems?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Anyone else in the family have any allergies?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no, I don't think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. OK, sounds good and you live at home did you say live with your parents and your sister?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yep, that's right."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Cool. Are you currently going to school online or in person?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh both We do half days."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. How are you finding that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, it's been OK. It's it's different, but it's been working out OK so far."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Cool not to have to get out of your PJS some days."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, that's true."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, did do you guys have any pets in the home?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No pets, we have just like well I guess we have goldfish."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Oh, OK. Those are cool pets. Does anyone in the house smoke?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. OK, I think that's all my questions that I had for you today. What do you like to do for fun?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Oh I'm I like playing games online with my friends and and before covid we used to get together and have movie nights and play sports together."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "It sounds really cool. Hopefully we can get this figured out for you so you don't have any, you don't have to use your your medications every time you play sports 'cause that's no fun. And"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You should be able to enjoy that. So, so we're going to try to get this sorted out for you. I'm gonna go talk to the doctor and tell him everything or her everything that you said and yeah we’ll come back and see you shortly, hopefully maybe all you need is a little change to your medications and maybe it will be better be able to better control your asthma."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, that sounds great. Thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Thanks talking with me and we'll see you soon."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "OK, great thanks."
+    }
+  ]
+}

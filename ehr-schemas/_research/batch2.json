@@ -1,0 +1,310 @@
+{
+  "researchedOn": "2026-11-10",
+  "notes": "Fields set to null are unverified from public sources. 'thirdPartySource' marks claims that come only from non-vendor sites and still need vendor confirmation.",
+  "top10Check": {
+    "verdict": "Mostly reasonable. Every vendor on the list appears in either the KLAS acute-care top 5 (Epic, Oracle Health, MEDITECH, TruBridge) or the Definitive Healthcare ambulatory top 10 (Epic, eClinicalWorks, athenahealth, Oracle Cerner, NextGen, ModMed, Veradigm, Practice Fusion [Veradigm-owned], Nextech, Greenway). The clear omission is Altera Digital Health (Sunrise, Paragon, TouchWorks). It is #5 in KLAS acute share (2.9% of hospitals) and owns TouchWorks, which Allscripts sold to Constellation/Harris in 2022, so TouchWorks no longer belongs under Veradigm. Greenway is the weakest member: #10 ambulatory at 2.2%, with no acute presence.",
+    "source": "KLAS US Acute Care EHR Market Share 2026 (2025 data), as reported by Fierce Healthcare: https://www.fiercehealthcare.com/health-tech/epic-continues-grow-ehr-market-share-it-makes-gains-small-health-systems ; Definitive Healthcare top ambulatory EHRs (accessed Oct 2025): https://www.definitivehc.com/blog/top-ambulatory-ehr-systems",
+    "acuteShareKLAS2025": {"Epic": "43.7%", "Oracle Health": "21.9%", "MEDITECH": "14.7%", "TruBridge": "7.6%", "Altera Digital Health": "2.9%"},
+    "ambulatoryShareDefinitiveOct2025": {"Epic": "19.5%", "eClinicalWorks": "11.9%", "athenahealth": "6.9%", "Oracle Cerner": "5.4%", "NextGen Healthcare": "4.2%", "ModMed": "3.6%", "Veradigm": "3.1%", "Practice Fusion": "3.1%", "Nextech": "2.3%", "Greenway Health": "2.2%"},
+    "suggestedSwaps": [
+      {"replace": "greenway", "with": "Altera Digital Health (Sunrise / Paragon / TouchWorks)", "reason": "#5 acute EHR per KLAS and current owner of TouchWorks. Greenway is last in the ambulatory top 10 at 2.2%. Optional: Greenway is still a defensible #10 for ambulatory."},
+      {"correction": "veradigm", "detail": "Scope the Veradigm entry to Veradigm EHR (Professional EHR lineage) and Practice Fusion. TouchWorks went to N. Harris/Constellation in May 2022 (now Altera). Source: https://www.beckershospitalreview.com/ehrs/allscripts-completes-sale-of-hospital-business-segment.html"}
+    ]
+  },
+  "ehrs": [
+    {
+      "key": "nextgen",
+      "vendor": {
+        "officialName": "NextGen Healthcare, Inc.",
+        "products": ["NextGen Enterprise EHR (NGE, current certified version 'Enterprise 8')", "NextGen Enterprise PM", "NextGen Office (formerly MediTouch, small practices)", "NextGen Mobile"],
+        "segment": "ambulatory",
+        "marketPosition": "#5 ambulatory EHR vendor by installs (3,510 installs, 4.2% share) per Definitive Healthcare, accessed Oct 2025.",
+        "marketPositionSource": "https://www.definitivehc.com/blog/top-ambulatory-ehr-systems"
+      },
+      "developerProgram": {
+        "name": "NextGen API Developer Program (Patient Access API Program, Open Access Developer Program, API Distributor Program) + NextGen API Marketplace",
+        "url": "https://www.nextgen.com/developer-program",
+        "marketplaceUrl": "https://www.nextgen.com/marketplace",
+        "access": "Third-party vendors join the API Distributor Program by filling in the API Onboarding form (https://www.nextgen.com/api-on-boarding) and signing API Terms of Service. You get full Enterprise API docs after onboarding. 'There's no charge to develop an API application or use our platform which includes API sandboxes', but the Distributor Program 'may have associated fees based on the scope of data needs'. Fees can depend on 'read-only' vs 'read and write'. GET routes for certified technology carry no charge. Open Access is free but limited to NextGen clients. Patient Access API is free.",
+        "sandboxFree": "Development and sandbox free. Production fees variable (API Distributor).",
+        "sandboxUrl": null,
+        "sources": ["https://www.nextgen.com/developer-program", "https://www.nextgen.com/api/regulatory-nge"]
+      },
+      "fhir": {
+        "versions": ["R4 (USCDI v3 routes, NGE 8.3.1+; earlier versions fall back to USCDI v1)", "DSTU2 (retiring 31 Dec 2026)"],
+        "usCoreVersion": null,
+        "baseUrl": "https://fhir.nextgen.com/nge/prod/fhir-api-r4/fhir/r4/",
+        "baseUrlDstu2": "https://fhir.nextgen.com/nge/prod/fhir-api/fhir/dstu2/",
+        "nextgenOfficeBaseUrl": "https://fhir.meditouchehr.com/api/fhir/r4 (bulk: https://fhir.meditouchehr.com/api/bulkfhir/r4)",
+        "smart": {"ehrLaunch": null, "standaloneLaunch": "Patient Access OAuth2 authorize/token under .../nge/prod/patient-oauth/ (patient standalone)", "backendServices": "NextGen Office lists a Bulk FHIR R4 API. NGE backend services unverified."},
+        "oncG10Certified": true,
+        "certificationDetail": "NextGen Enterprise EHR 'Enterprise 8', certificate 15.04.04.2054.Next.80.12.1.250602, certified 2 June 2025, modules include (g)(2-7, 9-10).",
+        "readOnly": "Patient Access APIs are described as 'Read-Only'. NGE FHIR write support not documented publicly.",
+        "sources": ["https://www.nextgen.com/patient-access-api", "https://nextgen.com/certifications", "https://www.nextgen.com/api"]
+      },
+      "noteWriteBack": {
+        "supported": "unverified",
+        "viaFhir": false,
+        "mechanism": "Proprietary NextGen Enterprise API. NextGen's API hub says Enterprise APIs support 'Read and Write' transactions across EHR and PM data, but the route-level docs (and any note/document POST route) only come after onboarding. No public FHIR DocumentReference create.",
+        "endpoint": null,
+        "requiredFields": null,
+        "quote": "Fees... potentially based on... Application data transaction types, i.e. if the application will have \"read-only\" vs. \"read and write\" capabilities when integrated with NextGen Healthcare Client databases.",
+        "quoteUrl": "https://www.nextgen.com/api/regulatory-nge"
+      },
+      "discreteWriteBack": {
+        "Condition": null, "AllergyIntolerance": null, "MedicationStatement": null, "MedicationRequest": null, "Observation": null, "ServiceRequest": null,
+        "note": "Unverified. Write routes exist under the proprietary Enterprise API, but they are not publicly listed. FHIR APIs are read (GET)."
+      },
+      "proprietaryApis": [
+        {"name": "NextGen Enterprise API (REST)", "detail": "Read and write across EHR/PM. Auth via Global Service Account (GSA) or the External Application Launcher (user-level, NGE 5.9.2+). Some routes needing provider-level permissions are not available under GSA.", "source": "https://www.nextgen.com/api/regulatory-nge"},
+        {"name": "Enterprise API base URL (third-party)", "detail": "https://nativeapi.nextgen.com/nge/prod/nge-api/api/ appears in a third-party SDK (Bitfount). Not confirmed by NextGen.", "thirdPartySource": "https://docs.bitfount.com/api/bitfount/externals/ehr/nextgen/api"}
+      ],
+      "noteStructureConventions": "Template-driven encounter documentation in NGE. Notes are generated from the SOAP template with the 'Generate Notes' option and linked to the encounter. Encounter notes also live under Patient Chart > Encounters > Notes in PM.",
+      "noteStructureSources": ["https://docs.nextgen.com/en-US/nextgenc2ae-adaptive-content-engine-help-enterprise-8-3241458/generate-note-associated-with-the-encounter-255531", "https://docs.nextgen.com/en-US/help-guide-for-nextgenc2ae-enterprise-pm-8-3269693/add-or-modify-an-encounter-note-400359"],
+      "ambientScribeIntegrations": [
+        {"name": "NextGen Ambient Assist (native)", "detail": "NextGen's own ambient scribe for NGE (via NextGen Mobile) and NextGen Office. Only source found is a third-party vendor blog. Not verified on nextgen.com in this pass.", "thirdPartySource": "https://www.sully.ai/blog/how-to-add-an-ai-scribe-to-nextgen-ehr"}
+      ],
+      "sources": [
+        "https://www.nextgen.com/api", "https://www.nextgen.com/patient-access-api", "https://www.nextgen.com/developer-program", "https://www.nextgen.com/api/regulatory-nge", "https://nextgen.com/certifications", "https://www.definitivehc.com/blog/top-ambulatory-ehr-systems", "https://docs.nextgen.com/en-US/nextgenc2ae-adaptive-content-engine-help-enterprise-8-3241458/generate-note-associated-with-the-encounter-255531", "https://docs.bitfount.com/api/bitfount/externals/ehr/nextgen/api"
+      ]
+    },
+    {
+      "key": "veradigm",
+      "vendor": {
+        "officialName": "Veradigm Inc. (formerly Allscripts Healthcare Solutions; renamed 1 Jan 2023)",
+        "products": ["Veradigm EHR (certified version 26)", "Practice Fusion EHR", "Veradigm Practice Management", "Veradigm ePrescribe", "Veradigm FollowMyHealth"],
+        "productsCaveat": "TouchWorks is NOT a Veradigm product anymore. Allscripts sold Sunrise, Paragon, TouchWorks, Opal and dbMotion to N. Harris Computer (Constellation) in May 2022. That business is now Altera Digital Health. Whether 'Veradigm EHR' maps to the former Professional EHR is unverified: secondary sources disagree.",
+        "segment": "ambulatory",
+        "marketPosition": "#7 ambulatory EHR vendor (2,580 installs, 3.1%), plus Practice Fusion at #8 (2,563, 3.1%) per Definitive Healthcare, Oct 2025.",
+        "marketPositionSource": "https://www.definitivehc.com/blog/top-ambulatory-ehr-systems"
+      },
+      "developerProgram": {
+        "name": "Veradigm Developer Program / Veradigm Connect",
+        "url": "https://developer.veradigm.com/",
+        "access": "Sign up for free at developer.veradigm.com, accept the User Agreement, and you get credentials 'to get access to Veradigm and Altera FHIR-enabled APIs and start testing in our sandboxes'. Register the app (Patient / Provider / System). Clients then license it in the Veradigm License Management Portal. Unity (read/write) reportedly needs a paid Integrator subscription: third-party claim, unverified.",
+        "sandboxFree": true,
+        "sandboxUrl": "https://developer.allscripts.com/content/fhir/FHIRSandboxes_index.html (sandbox credentials emailed after account validation)",
+        "sources": ["https://developer.veradigm.com/content/fhir/ProcessOverview_index.html", "https://ibl.ai/developer/connectors/veradigm"]
+      },
+      "fhir": {
+        "versions": ["R4 (current)", "DSTU2 (unsupported since 1 Jun 2025, not switched off)"],
+        "usCoreVersion": null,
+        "baseUrl": null,
+        "baseUrlNote": "Per-organization endpoints are listed in the Veradigm Endpoint Directory (https://developer.veradigm.com/Fhir/EndpointDirectory). '/fhir' endpoints are for product users, '/open' endpoints are for patient apps.",
+        "smart": {"ehrLaunch": "Yes: 'SMART launch' documented. FHIR R4 SSO needs Veradigm EHR 24.5+. Earlier versions use Unity for app launch.", "standaloneLaunch": "Yes, for product users and patients", "backendServices": "System app type with a JWKS URL for backend authentication", "spec": "SMART App Launch 2.0.0 + OpenID Connect Core 1.0"},
+        "oncG10Certified": null,
+        "certificationDetail": "Veradigm says Veradigm EHR 26, Practice Fusion EHR, ePrescribe and FollowMyHealth are listed on CHPL. (g)(10) inclusion not confirmed on CHPL in this pass.",
+        "readOnly": "Yes. 'The Veradigm and Altera FHIR API is limited to read-only access and not write-backs.'",
+        "sources": ["https://developer.veradigm.com/Fhir/Introduction", "https://developer.veradigm.com/content/fhir/ProcessOverview_index.html", "https://veradigm.com/legal/onc-reg-compliance/"]
+      },
+      "noteWriteBack": {
+        "supported": "yes-proprietary (details unverified)",
+        "viaFhir": false,
+        "mechanism": "Not possible via FHIR (read-only). Veradigm points write use cases to the Unity API. Unity actions for documents and notes (SaveDocumentImage, SaveNote) show up only in community client libraries, not in public Veradigm docs.",
+        "endpoint": null,
+        "requiredFields": null,
+        "quote": "The Veradigm and Altera FHIR API is limited to read-only access and not write-backs. For application developers seeking deeper integration with Veradigm and Altera EHRs, Veradigm Connect offers the bidirectional Unity API, enabling both reads and writes.",
+        "quoteUrl": "https://developer.veradigm.com/content/fhir/ProcessOverview_index.html",
+        "thirdPartySources": ["https://rubydoc.info/gems/allscripts_api/0.5.0/AllscriptsApi/Documents/DocumentMethods", "https://pypi.tcis.de/data/web/json/touchworks"]
+      },
+      "discreteWriteBack": {
+        "Condition": "read-only via FHIR", "AllergyIntolerance": "read-only via FHIR", "MedicationStatement": "read-only via FHIR", "MedicationRequest": "read-only via FHIR", "Observation": "read-only via FHIR", "ServiceRequest": "read-only via FHIR",
+        "note": "Applies to all FHIR resources. Writes go through Unity only. Which Unity actions write which data types is unverified publicly.",
+        "source": "https://developer.veradigm.com/content/fhir/ProcessOverview_index.html"
+      },
+      "proprietaryApis": [
+        {"name": "Unity API (Veradigm Connect)", "detail": "Bidirectional read/write API for Veradigm and Altera EHRs, required for Veradigm Practice Management demographics, appointments and financials. Action-based SOAP/REST dispatch per third-party docs.", "source": "https://developer.veradigm.com/content/fhir/ProcessOverview_index.html", "actionsSeenInThirdPartyCode": ["SaveDocumentImage", "SaveNote"]}
+      ],
+      "noteStructureConventions": null,
+      "noteStructureConventionsNote": "Unverified. The Nov 2025 ambient release mentions coded diagnoses saved into the 'Assessment & Plan', which suggests a sectioned visit note.",
+      "ambientScribeIntegrations": [
+        {"name": "Veradigm ambient scribe (native, built with AvodahMed)", "detail": "Launched for small and independent practices (piloted Sep-Oct, generally available 1 Nov, likely 2024). Enhanced 17 Nov 2025 with ICD-10 suggestions saved as coded entries in Assessment & Plan, multilingual capture, and protocol-based care plan suggestions.", "sources": ["https://www.fiercehealthcare.com/ai-and-machine-learning/veradigm-launches-ai-scribe-small-and-independent-practices", "https://investor.veradigm.com/node/25591"]}
+      ],
+      "sources": [
+        "https://developer.veradigm.com/Fhir/Introduction", "https://developer.veradigm.com/content/fhir/ProcessOverview_index.html", "https://developer.allscripts.com/content/fhir/FHIRSandboxes_index.html", "https://veradigm.com/legal/onc-reg-compliance/", "https://www.definitivehc.com/blog/top-ambulatory-ehr-systems", "https://www.beckershospitalreview.com/ehrs/allscripts-completes-sale-of-hospital-business-segment.html", "https://www.businesswire.com/news/home/20220302006045/en/Allscripts-to-Sell-the-Net-Assets-of-Its-Hospitals-Large-Physician-Practices-Business-Segment-to-Constellation-Software", "https://investor.veradigm.com/node/25591", "https://www.fiercehealthcare.com/ai-and-machine-learning/veradigm-launches-ai-scribe-small-and-independent-practices", "https://ibl.ai/developer/connectors/veradigm", "https://rubydoc.info/gems/allscripts_api/0.5.0/AllscriptsApi/Documents/DocumentMethods"
+      ]
+    },
+    {
+      "key": "greenway",
+      "vendor": {
+        "officialName": "Greenway Health, LLC",
+        "products": ["Intergy", "Prime Suite", "Greenway Patient Portal", "SmartHub", "Greenway Clinical Assist"],
+        "segment": "ambulatory",
+        "marketPosition": "#10 ambulatory EHR vendor (1,846 installs, 2.2%) per Definitive Healthcare, Oct 2025.",
+        "marketPositionSource": "https://www.definitivehc.com/blog/top-ambulatory-ehr-systems"
+      },
+      "developerProgram": {
+        "name": "Greenway Health Developer Platform + App Gallery (catalog of SMART-on-FHIR apps)",
+        "url": "https://developers.greenwayhealth.com/developer-platform/docs",
+        "access": "Docs are public with no login. Register on the Developer Platform to publish SMART apps to the App Gallery. GAPI offers free account registration. Backend (system) access needs explicit permission from the site. Greenway notifies both the site and the developer when access is provisioned.",
+        "sandboxFree": null,
+        "sandboxUrl": null,
+        "sandboxNote": "'At this time, we do not have a sandbox environment available for developers.' (FAQ). Getting-started page: 'A public sandbox will be available soon.' A staging host appears in examples: https://fhir-api.fhirstaging.aws.greenwayhealth.com/fhir/R4/[TENANT_ID]",
+        "sources": ["https://developers.greenwayhealth.com/developer-platform/docs/frequently-asked-questions-for-developers", "https://developers.greenwayhealth.com/developer-platform/reference/getting-started-1", "https://developers.greenwayhealth.com/developer-platform/docs/gapi"]
+      },
+      "fhir": {
+        "versions": ["R4"],
+        "usCoreVersion": null,
+        "baseUrl": "https://fhir-api.fhirprod.aws.greenwayhealth.com/fhir/R4/{TENANT_ID}",
+        "minimumProductVersions": "Intergy, Prime Suite, Patient Portal, SmartHub v22 for HTI-1",
+        "smart": {"ehrLaunch": null, "standaloneLaunch": "OAuth2 with Greenway Identity credentials (patients and EHR users)", "backendServices": "Yes, needs explicit site permission", "pkce": "Mandatory for all SMART apps (HTI-1)"},
+        "oncG10Certified": null,
+        "certificationDetail": "FHIR API ties to Cures requirements. Specific CHPL (g)(10) listing not confirmed in this pass.",
+        "readOnly": "Yes. 'Currently, our FHIR ecosystem does not support the writeback feature.' Writeback is on the roadmap with no ETA.",
+        "sources": ["https://developers.greenwayhealth.com/developer-platform/reference/getting-started-1", "https://developers.greenwayhealth.com/developer-platform/reference/minimum-product-requirements", "https://developers.greenwayhealth.com/developer-platform/docs/api-an-overview", "https://developers.greenwayhealth.com/developer-platform/docs/frequently-asked-questions-for-developers"]
+      },
+      "noteWriteBack": {
+        "supported": "not via FHIR. GAPI write possible but note endpoint unverified.",
+        "viaFhir": false,
+        "mechanism": "FHIR R4 is read-only. The proprietary GAPI 'supports both reads and writes across clinical and financial data elements', with separate calls and data structures per EHR product (Intergy vs Prime Suite). No public note/document endpoint names found.",
+        "endpoint": null,
+        "requiredFields": null,
+        "quote": "Currently, our FHIR ecosystem does not support the writeback feature.",
+        "quoteUrl": "https://developers.greenwayhealth.com/developer-platform/docs/frequently-asked-questions-for-developers"
+      },
+      "discreteWriteBack": {
+        "Condition": "read-only via FHIR", "AllergyIntolerance": "read-only via FHIR", "MedicationStatement": "read-only via FHIR", "MedicationRequest": "read-only via FHIR", "Observation": "read-only via FHIR", "ServiceRequest": "read-only via FHIR",
+        "note": "The current FHIR API does not support create, update or delete. GAPI write coverage per resource is unverified.",
+        "source": "https://developers.greenwayhealth.com/developer-platform/docs/api-an-overview"
+      },
+      "proprietaryApis": [
+        {"name": "GAPI (Greenway API)", "detail": "Proprietary read/write API with product-specific calls for Intergy and Prime Suite. Free account registration, then an API key plus authorization token. Endpoint names are not public.", "source": "https://developers.greenwayhealth.com/developer-platform/docs/gapi"}
+      ],
+      "noteStructureConventions": null,
+      "ambientScribeIntegrations": [
+        {"name": "Greenway Clinical Assist (powered by Nabla)", "detail": "Announced 9 Apr 2024. Integrates Nabla's ambient AI with Prime Suite and Intergy. Nov 2025 brochure: works natively with Intergy, with direct EHR integration for Intergy and Prime Suite.", "sources": ["https://hitconsultant.net/2024/04/09/greenway-nabla-partner-to-launch-ambient-ai-assistant-greenway-clinical-assist", "https://www.greenwayhealth.com/sites/default/files/files/2025-11/Greenway-Clinical-Assist-Brochure.pdf"]}
+      ],
+      "sources": [
+        "https://developers.greenwayhealth.com/developer-platform/docs", "https://developers.greenwayhealth.com/developer-platform/docs/api-an-overview", "https://developers.greenwayhealth.com/developer-platform/docs/frequently-asked-questions-for-developers", "https://developers.greenwayhealth.com/developer-platform/reference/getting-started-1", "https://developers.greenwayhealth.com/developer-platform/reference/minimum-product-requirements", "https://developers.greenwayhealth.com/developer-platform/docs/gapi", "https://www.definitivehc.com/blog/top-ambulatory-ehr-systems", "https://hitconsultant.net/2024/04/09/greenway-nabla-partner-to-launch-ambient-ai-assistant-greenway-clinical-assist", "https://www.greenwayhealth.com/sites/default/files/files/2025-11/Greenway-Clinical-Assist-Brochure.pdf"
+      ]
+    },
+    {
+      "key": "modmed",
+      "vendor": {
+        "officialName": "Modernizing Medicine, Inc. (ModMed)",
+        "products": ["EMA (Electronic Medical Assistant) EHR", "gGastro", "ModMed Practice Management (MMPM)", "ModMed Scribe"],
+        "segment": "specialty",
+        "segmentDetail": "Specialty ambulatory (dermatology, ophthalmology, orthopedics, gastroenterology, etc.)",
+        "marketPosition": "#6 ambulatory EHR vendor (2,987 installs, 3.6%) per Definitive Healthcare, Oct 2025.",
+        "marketPositionSource": "https://www.definitivehc.com/blog/top-ambulatory-ehr-systems"
+      },
+      "developerProgram": {
+        "name": "ModMed API Portal (Certified FHIR API + EMA Proprietary API) / ModMed synapSYS Marketplace",
+        "url": "https://portal.api.modmed.com",
+        "access": "Certified FHIR API: vendor registration ('Become a ModMed Certified FHIR API Vendor'). ModMed currently offers access at no cost (technical support may cost extra). EMA Proprietary API: vendors request developer tools through the synapSYS developers page or synapsys@modmed.com. The portal publishes a shared public-sandbox x-api-key and sample token.",
+        "sandboxFree": true,
+        "sandboxUrl": "https://stage.ema-api.com/ema-dev/firm/apiportal/ema (EMA Proprietary API public sandbox)",
+        "sources": ["https://portal.api.modmed.com/docs/ema-proprietary-api", "https://portal.api.modmed.com/reference/post_fhir-v2-documentreference.md", "https://portal.api.modmed.com/reference/authentication-2"]
+      },
+      "fhir": {
+        "versions": ["R4 (Certified API)", "EMA Proprietary API is FHIR R4-style under /fhir/v2"],
+        "usCoreVersion": null,
+        "usCoreNote": "Portal says the Certified API maps EMA and gGastro to US Core profiles. Version not stated.",
+        "baseUrl": "https://{firm}.mmi.prod.fhir.ema-api.com/fhir/r4",
+        "baseUrlDemo": "https://fhirmp.mmi.prod.fhir.ema-api.com/fhir/r4 (production demonstration endpoint)",
+        "endpointDirectory": "https://mm-fhir-endpoint-display.prod.fhir.ema-api.com/",
+        "smart": {"ehrLaunch": null, "standaloneLaunch": "Yes: SMART App Launch authorization_code with PKCE. Scopes include launch/patient, fhirUser, offline_access.", "backendServices": "Yes: client_credentials for Bulk FHIR"},
+        "oncG10Certified": true,
+        "certificationDetail": "ModMed calls it its 'Certified (ONC) FHIR API' for EMA and gGastro. CHPL listing ID not confirmed in this pass.",
+        "readOnly": "Certified API: yes. All resource scopes are '.rs' (read/search).",
+        "sources": ["https://portal.api.modmed.com/reference/get_metadata.md", "https://portal.api.modmed.com/reference"]
+      },
+      "noteWriteBack": {
+        "supported": true,
+        "viaFhir": "Yes, through the EMA Proprietary API (FHIR R4-style /fhir/v2), not the certified API",
+        "mechanism": "Two routes. (1) POST /fhir/v2/Composition ('Create Composition', Transcription section): narrative text lands in the EMA visit note. (2) POST /fhir/v2/DocumentReference ('Upload document from S3 URL to EMA'): attaches a file (e.g. PDF) to the chart and encounter.",
+        "endpoint": "POST {base}/fhir/v2/Composition ; POST {base}/fhir/v2/DocumentReference  (sandbox base https://stage.ema-api.com/ema-dev/firm/apiportal/ema)",
+        "auth": "Authorization: Bearer <OAuth2 JWT> (client_credentials recommended; legacy password grant being sunset) + x-api-key header on every call",
+        "requiredFields": {
+          "Composition": "From the doc example (the schema marks no required fields): resourceType=Composition, status=preliminary, type LOINC 11488-4 (Consult note), category LOINC LP173421-1 (Report), subject Patient/{id}, encounter Encounter/{id}, author [Practitioner/{id}], date, title, section[]: LOINC 18776-5 (Plan of treatment) for note text, LOINC 69730-0 (Instructions) for transcriptionist notes. Content-Type application/fhir+json.",
+          "DocumentReference": "From the doc example: status=current, type.text = MIME type (e.g. application/pdf), category.coding from the EMA ValueSet/document-category (e.g. 1804 'Results - Radiology'), subject.reference Patient, content[].attachment.url = presigned S3 URL (example expiry 300 s), attachment.size/title/creation, context.encounter[].reference, identifier (system 'filename'). No update endpoint."
+        },
+        "quote": "Composition example: Plan of treatment section text goes into the Additional Visit Note section if there is a visit in progress, otherwise into the Chart Note. Instructions section goes into the transcriptionist notes. (Paraphrased from the example. Exact text is on the page.)",
+        "quoteUrl": "https://portal.api.modmed.com/reference/post_fhir-v2-composition.md",
+        "documentReferenceUrl": "https://portal.api.modmed.com/reference/post_fhir-v2-documentreference.md"
+      },
+      "discreteWriteBack": {
+        "Condition": "write (create + update) via EMA Proprietary API: POST/PUT /fhir/v2/Condition",
+        "AllergyIntolerance": "write (create + update) via EMA Proprietary API: POST/PUT /fhir/v2/AllergyIntolerance",
+        "MedicationStatement": "write (create + update) via EMA Proprietary API: POST/PUT /fhir/v2/MedicationStatement",
+        "MedicationRequest": null,
+        "Procedure": "write (create) via EMA Proprietary API: POST /fhir/v2/Procedure",
+        "Observation": "read-only (Certified API only, not in the proprietary API)",
+        "ServiceRequest": "read-only (GET only in the proprietary API)",
+        "DiagnosticReport": "read-only",
+        "FamilyMemberHistory": "read-only",
+        "Task": "write (create + update)",
+        "Appointment": "write (create + update)",
+        "Patient": "write (create + update)",
+        "ChargeItem": "write (create)",
+        "note": "Certified FHIR API is read/search only for every resource.",
+        "source": "https://portal.api.modmed.com/reference"
+      },
+      "proprietaryApis": [
+        {"name": "EMA Proprietary API", "detail": "FHIR R4-style /fhir/v2 resources for EMA EHR and MMPM, used by synapSYS Marketplace vendors. Writable: Patient, Practitioner, Organization, Coverage, Appointment, DocumentReference (create), MedicationStatement, AllergyIntolerance, Condition, Procedure, ChargeItem, Task, Composition (create).", "source": "https://portal.api.modmed.com/reference"}
+      ],
+      "noteStructureConventions": "EMA visit notes have named sections. The Composition API routes narrative into the 'Additional Visit Note' section when a visit is in progress, or into a 'Chart Note' when there is none. Transcriptionist notes are a separate section. Document uploads are classified by an EMA document-category ValueSet.",
+      "noteStructureSources": ["https://portal.api.modmed.com/reference/post_fhir-v2-composition.md", "https://portal.api.modmed.com/reference/post_fhir-v2-documentreference.md"],
+      "ambientScribeIntegrations": [
+        {"name": "ModMed Scribe (native, built into EMA)", "detail": "Announced Nov 2024. Dermatology-specific version announced 6 Mar 2025. Scribe 2.0 launched Nov 2025.", "sources": ["https://www.modmed.com/press-release/modmed-announces-next-evolution-in-healthcare-innovation-with-ai-powered-modmed-scribe-and-more/", "https://www.modmed.com/press-release/modmed-unveils-dermatology-specific-ai-with-modmed-scribe/", "https://www.modmed.com/resources/ai/modmed-scribe"]}
+      ],
+      "sources": [
+        "https://portal.api.modmed.com", "https://portal.api.modmed.com/reference", "https://portal.api.modmed.com/docs/ema-proprietary-api", "https://portal.api.modmed.com/reference/post_fhir-v2-composition.md", "https://portal.api.modmed.com/reference/post_fhir-v2-documentreference.md", "https://portal.api.modmed.com/reference/get_metadata.md", "https://portal.api.modmed.com/reference/authentication-2", "https://www.definitivehc.com/blog/top-ambulatory-ehr-systems", "https://www.modmed.com/press-release/modmed-unveils-dermatology-specific-ai-with-modmed-scribe/", "https://www.modmed.com/resources/ai/modmed-scribe"
+      ]
+    },
+    {
+      "key": "trubridge",
+      "vendor": {
+        "officialName": "TruBridge, Inc. (formerly CPSI / Computer Programs and Systems, Inc.)",
+        "products": ["TruBridge EHR (formerly Evident Thrive; Thrive naming per third-party source only)", "TruBridge Notes", "MyCareCorner patient portal", "TruBridge FHIR API"],
+        "segment": "acute",
+        "segmentDetail": "Rural and community hospitals, with integrated clinic/ambulatory",
+        "marketPosition": "#4 US acute-care EHR by hospital count (7.6% of hospitals, 2.4% of beds) in KLAS 2025 data. Net gain of 2 hospitals in 2025.",
+        "marketPositionSource": "https://www.fiercehealthcare.com/health-tech/epic-continues-grow-ehr-market-share-it-makes-gains-small-health-systems"
+      },
+      "developerProgram": {
+        "name": "TruBridge FHIR Developer Portal",
+        "url": "https://fhir-developer.plt.trubridge.com/",
+        "access": null,
+        "accessNote": "Portal content would not render in this pass. Registration process and fees unverified. The FHIR API is open to client facilities that take part in Promoting Interoperability and have MyCareCorner configured.",
+        "sandboxFree": null,
+        "sandboxUrl": null,
+        "sources": ["https://trubridge.com/wp-content/uploads/2026/06/TruBridge-FHIR-API.pdf", "https://trubridge.com/fhir-api/"]
+      },
+      "fhir": {
+        "versions": ["R4"],
+        "usCoreVersion": null,
+        "uscdi": "USCDI v3",
+        "baseUrl": null,
+        "smart": {"ehrLaunch": null, "standaloneLaunch": "Patient standalone with MyCareCorner credentials", "backendServices": null, "providerAccess": "trubridge.com lists 'Provider Access' and 'Enterprise Data Integration' use cases"},
+        "oncG10Certified": true,
+        "certificationDetail": "Certified for 170.315(g)(7), (g)(9) and (g)(10) per trubridge.com. CHPL ID not confirmed.",
+        "readOnly": "Yes. 'TruBridge FHIR API makes patient clinical data available for read only access via FHIR API access.' Data syncs from the EHR into a separate FHIR repository through a near-real-time queue.",
+        "sources": ["https://trubridge.com/wp-content/uploads/2026/06/TruBridge-FHIR-API.pdf", "https://trubridge.com/fhir-api/"]
+      },
+      "noteWriteBack": {
+        "supported": false,
+        "viaFhir": false,
+        "mechanism": "No public write API found. The FHIR API is read-only and served from a downstream repository. The only documented note write-back is TruBridge's own native Microsoft Dragon Copilot integration, launched from TruBridge Notes, with notes syncing back automatically. That is a vendor partnership, not a public API.",
+        "endpoint": null,
+        "requiredFields": null,
+        "quote": "TruBridge FHIR API makes patient clinical data available for read only access via FHIR* API access.",
+        "quoteUrl": "https://trubridge.com/wp-content/uploads/2026/06/TruBridge-FHIR-API.pdf"
+      },
+      "discreteWriteBack": {
+        "Condition": "read-only", "AllergyIntolerance": "read-only", "MedicationStatement": "read-only", "MedicationRequest": "read-only", "Observation": "read-only", "ServiceRequest": "read-only",
+        "note": "The whole FHIR API is read-only per the TruBridge fact sheet. No public proprietary write API found (HL7v2 interfaces may exist but are unverified).",
+        "source": "https://trubridge.com/wp-content/uploads/2026/06/TruBridge-FHIR-API.pdf"
+      },
+      "proprietaryApis": [],
+      "noteStructureConventions": "Notes are written in the 'TruBridge Notes' application. Ambient output becomes 'note templates tailored to each provider's style'. Section structure unverified.",
+      "noteStructureSources": ["https://trubridge.com/solutions/ambient-listening-technology/"],
+      "ambientScribeIntegrations": [
+        {"name": "Microsoft Dragon Copilot (native integration, sold by TruBridge)", "detail": "Launch from TruBridge Notes with the patient in context. Notes sync back to the EHR automatically. First announced deployment: Artesia General Hospital, 24 Mar 2026.", "sources": ["https://trubridge.com/solutions/ambient-listening-technology/", "https://www.businesswire.com/news/home/20260324363211/en/"]}
+      ],
+      "sources": [
+        "https://trubridge.com/wp-content/uploads/2026/06/TruBridge-FHIR-API.pdf", "https://trubridge.com/fhir-api/", "https://fhir-developer.plt.trubridge.com/", "https://trubridge.com/solutions/ambient-listening-technology/", "https://www.businesswire.com/news/home/20260324363211/en/", "https://www.fiercehealthcare.com/health-tech/epic-continues-grow-ehr-market-share-it-makes-gains-small-health-systems", "https://marketplace.aviahealth.com/product/79374/trubridge/competitors/alternatives"
+      ]
+    }
+  ]
+}

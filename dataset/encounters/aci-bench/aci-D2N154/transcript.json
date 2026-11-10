@@ -1,0 +1,275 @@
+{
+  "encounterId": "aci-D2N154",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hi Dennis how are you today"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Good"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So what what brings you into the office I don't believe I have ever seen you before here"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "The I'm training for a triathlon and the back of my heel hurts typically after a workout or when I first get up in the morning it will really hurt in the back of my heel all the way up into my calf"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay now tell me a little bit about this triathlon training what do you are you are you running far are you tell me kind of how you work out for that today"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I I will run about ten klometers"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "In the morning at lunchtime I try to get on the bike for about forty five minutes to an hour"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And then in the evening I go to the aquatic center and I jump in the pool and swim for about another thirty minutes to an hour"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Wow that's that's a that's an aggressive campaign to get there so really hope you get that triathlon in so you're how many days a week does this occur that you're training"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I I do that five days a week on the weekends I kinda alternate between you know a long run and a long bike don't really do a long swim but"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I I just swimming on those other five days and I take one day off"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay on your running days or when you do the running tell me a little bit about your stretching routine do you are you aggressive stretchers you do not stretch at all I know people that do both"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I don't I don't stretch at all I don't have time for that"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and I'm assuming that with the bicycle either you don't really work the lower legs to get them stretched out you just jump on and go correct"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah you know I you know when I first start off I go slow until I'm warmed up and then I"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay tell me a little bit about the pain is you said it it's after the activity but it you when you first wake up in the morning it it's it's there also"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah when I first get out of bed it's just it just feels really tight and almost like it's tearing and I after I been walking around for about ten or fifteen minutes it eases up a little bit but if if I ever sit down for any extended period of time and then try to get back up it's really sore again"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Or"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No go ahead go ahead"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Or after a lot of activity it'll get sore too"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay okay I'm sure this is impacting that ability to to really focus on your training uh as you're going with that with that type of a pain so lem me go ahead and let's let's take a look at your your and your lower extremities here and yeah okay so roll up your pants yeah okay good now does your left leg hurt at all do you get that severe pain or is it mainly on the right"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No it's mainly just on the right"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay okay so I'm gon na just hold your leg here and I want you to take your your foot and ankle and I want you to go ahead and just pull your your toes up towards you does that create some pain when you do that"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah a little bit"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "A little bit okay now I'm just gon na hold your foot up and I want you to push against me and does that hurt"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah that hurts a little bit too"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah okay okay roll over here on my my stretcher for me and I want you to dangle your your feet over the edge and what I wan na do is I just wan na I'm gon na squeeze your left calf first and when I do that does that hurt on your left side"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And I'm gon na squeeze on the right side anything there"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay okay well that's good your your thompson test is negative that's a really good finding and I just wan na continue pressing here on your right from your heel when I squeeze your heel does that cause significant pain at all"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah okay and if I come up a little bit further as I I run up that achilles tendon does that hurt"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That's real tender"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah okay okay great not great so yeah go ahead and sit up for me so Dennis my diagnosis is achilles tendinitis and it's really from overuse when we see this frequently when somebody starts to you know get in and train aggressively for an event I'm unfortunately I'm gon na have to ask you to stop training for a a week or two I know that's concerning but I really want this to heal before we move into that next phase I didn't ask you about medication but I'm assuming whatever you were doing wasn't working significantly so what I'd like you to do is take some ibuprofen or advil that's the same medication and I want you to take three tablets every six hours and that's really an anti-inflammatory see if we can eliminate some of that tendinitis type pain that you're getting that inflammation around that achilles tendon I'm gon na also order a couple physical therapy visits and the reason for that is I'd like you to get some strength and stretching understanding I think it's important for you especially here at the beginning is to get some of that real stretching knowledge in and learn how to stretch those muscles before you start these activities and they are gon na help strengthen your your lower extremities also and I want you to come back to me within you know a week to ten days following your first couple physical therapy appointments so I can monitor how you're doing I see no reason for an x-ray at this point but if this continues we're gon na you know if you're still having pain ten days in significant pain without change modification of your activity then we may have to look at more aggressive treatment plans how does that sound for you"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sounds good"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay hey did you happen to catch that pittsburgh pang one hockey game last night"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No I I was watching the track meet"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "My gosh the the pang ones are on fire you know they beat up on new york seven to two I mean the hockey's just an amazing sport I I just do you guy do you do a lot of hockey down there in town here"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Used to when I lived in detroit"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Oh"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hockey town but not so much anymore"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No yeah detroit is a hockey town yeah the red wings okay well I'm gon na go ahead and I'll send my nurse in and go ahead and get you discharged and like I said I'd like to see you back here in seven to ten days after that first physical therapy appointment I've got a great phenomenal office staff you just call in once that gets scheduled they will get you in to that next available appointment so take care and I will talk to you later"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Thanks"
+    }
+  ]
+}

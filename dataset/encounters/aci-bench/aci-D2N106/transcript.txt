@@ -1,0 +1,63 @@
+Clinician: Hey charles I'm using this cool new recording device to help me with my documentation is that okay with you
+Patient: Sure
+Clinician: Awesome how are you doing today
+Patient: Well I could be better you know I moved out in the city
+Clinician: About two years ago bought this big plot of land
+Patient: Oh
+Clinician: I love it lots of deer round awesome
+Patient: You be hunter
+Clinician: Huge hunter I love hunter yeah
+Patient: I have a refrigerator full of venison at home
+Clinician: Do you
+Patient: Mm-hmm
+Clinician: You want to carry share sure yeah we can switch
+Patient: Nice but so the thing is I have noticed that for some reason my breathing
+Clinician: Isn't what it used to be
+Patient: Sure
+Clinician: Yeah it's you know I I seem to catch my breath a lot more than I used to and I consider myself to be pretty healthy
+Patient: You look pretty healthy
+Clinician: Thanks so do you thank you you you're feeling short of breath
+Patient: Yes
+Clinician: Okay is there you know is there any other symptoms that you have with that I get like you know mid shortness of breath suddenly for some reason I'm not quite sure why
+Patient: Hmmm
+Clinician: Eyes they're water doesn't make very much sense to me
+Patient: Mm-hmm
+Clinician: I always think it's allergies
+Patient: Okay
+Clinician: Mostly could be
+Patient: I have a dog that eyes water like that she always gets eyebugers
+Clinician: Yeah I get eyebugers too
+Patient: Uh
+Clinician: Crazy uh the last time it happened I went to the urgent care and they gave me a nebulizer that helped
+Patient: They prescribed me an inhaler that I use now when I feel the symptoms coming on
+Clinician: Okay great do you ever notice a rash with any of this
+Patient: No
+Clinician: Do you have any nausea vomiting
+Patient: No
+Clinician: Besides when you go out heavy drinking right
+Patient: I mean I diarrhea quite a bit once I go out
+Clinician: I understand that
+Patient: Heavy drinking
+Clinician: Yeah do you ever get lip or throat swelling
+Patient: No
+Clinician: Have you ever had any issues with allergies in the past
+Patient: No
+Clinician: Hmmm what situations do you notice the symptoms come on when is it when you're near your cat or outside the house
+Patient: I have noticed them in all three situations
+Clinician: Hmmm
+Patient: In the house when the cat isn't around and outside as well
+Clinician: Hmmm yeah I'm not a big cat person
+Patient: No neither
+Clinician: Do you do you have any symptoms now well which is
+Patient: No
+Clinician: No no travels and no symptoms right now
+Patient: Mm-hmm
+Clinician: Okay Okay alright so I'm gon na do a physical exam for you right now your vital signs look good your pulse is okay and yeah your pulse ox is normal so that's good you don't appear in any distress you may be might be a little bit nervous to come in and see me but looks pretty good I do not appreciate any rash on your body there is no angioedema which is just swelling of your lips like you mentioned no audible stridor which is a bad noise in your airway when it gets swollen so that's good news if you just want to take a deep breath listening to your lungs on your lungs exam I do appreciate some faint expiratory wheezing bilaterally in all lung fields so I know you had a chest x-ray when you came in I'm looking at that chest x-ray right now and your pulmonary function test and they were both normal so let's talk a little bit about what I think is going on for your first problem you have newly diagnosed allergic asthma so I want you to continue the albuterol inhaler I don't want you to wait until your symptoms flare up or are bad take it as soon as you start to feel any symptoms at all I'm gon na prescribe something else called singulair ten milligrams you might have seen some commercials for it
+Patient: Hmmm
+Clinician: You take that once daily and that's gon na help decrease the occurrences of your asthma
+Patient: Hmmm
+Clinician: I also am gon na proceed with allergy testing have you ever had an allergy test before
+Patient: No
+Clinician: Okay we'll start with skin testing and we'll see if we can target what the triggers in hopes in hopes that we can avoid any any other management and this can be successful if we can't figure out what it is from that we'll have to discuss more testing in your blood and do immunotherapy so I wan na see you next week to schedule the skin testing do you have any questions for me
+Patient: Should I come my cats
+Clinician: Yes

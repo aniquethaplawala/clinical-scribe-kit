@@ -1,0 +1,220 @@
+{
+  "encounterId": "aci-D2N144",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Tyler Nelson, date of birth: 3, 6, 1949, mrn, 385729. He is here today for ongoing management of rheumatoid arthritis. Last time he was here, he received a steroid injection in his right knee. Hello mr. Nelson, how are you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, about the same as last time. My knee is still swollen."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "That was your right knee, correct? I take it the injection didn't help?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It did, maybe for a couple of weeks."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "That's it? And is it still painful?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, it's pretty painful, and now the whole leg is getting swollen."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, what would you say your pain level is?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I mean, right now it's about a 3 or so, but, typically on a normal day it's around 6."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and its been swollen like that for how long now?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Since I was last here a couple weeks after that. So about, maybe two months now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, but before it was just the knee?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, the whole thing wasn't swollen like this, but I tried to wear compression socks a lot of the time, but it hasn't been helping."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, okay, so that hasn't been working for you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I mean, it helps to some degree, but it's still swollen, especially around the knee."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hmm. Has it been keeping you from doing things during the day?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well, I slowed down a little bit, and I found a few things too fast. But when it really hurts, is when I've been sitting for a while, and then I have to try and get up. I'm so stiff getting up I have to use a cane to get my bearings. I mean, after a little bit, it loosens up, but that first getting up is real difficult."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, I can see, that makes sense. Have you been taking your medication regularly? Your on xeljanz right?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, the xr, I think its, uhm, 11 milligrams a day? Yeah, but I'm taking it everyday, and I'm also taking celebrex which I started maybe 2 months ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yes, the 200mgs daily. How's that working for you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Pretty good, up until it started swelling again."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, well come sit over here, and if you could take of your socks and shoes, and we'll take a look at your knee. And just to let you know, I have a service now that writes my note about the visit, so you'll hear me call things out and describe what I see fully."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, gotcha."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Right, so let's check your leg. Can you straighten it, and does it hurt?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, when I try to straighten it all the way it does."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, range of motion slightly diminished. I'm going to press here, okay? And how about here, hmm, I see some pitting around the knee and ankle. Normal capillary refill in the toes. Does any of this area hurt?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, just kinda sore, like an old bruise?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So, I can feel that the knee is hot, and that means there's something going on, like some inflammation. So we can give you another steroid injection for that. I also want to get an x-ray of that knee, so we can see where all the swelling is coming from."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah. Let's do it. Sounds go to me."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and did we set up physical therapy for you last time you were here?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, that was some years ago, but that was the other knee."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. So I think we'll set that up for you now. We'll also do an x-ray on that knee. I can send you for a physical therapy, and if nothing is helping, then we really might need to get a surgery consult to see what we can do with that knee."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, sounds like a plan."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right, so for today we'll go ahead and we'll give you the steroid shot. I'll try to see if I can get a little bit of fluid out before I do give you the injection. There might be no fluid, but I'll see if I can get anything out regardless."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay. And that's a procedure you're going to do right now?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yep. Once we're done talking here, and as far as the edema in your legs, uh, we'll take an x-ray to look for the cause, but there is a lot you can do as well. The compression socks are a good start. Um, and also, do you eat a lot of salt?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I mean, um, I mean I love my salty snacks."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Well, salt does have a tendency to make your body hold on to water, reducing your salt intake could help with some of the swelling. You can also prop your feet up any time you get a chance, especially at night. And have you talked to your private care doctor about this at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I figured I would just come here first."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. So I think, try some of those things out first, and if it doesn't help, definitely make an appointment with them, also, as you know, xeljanz is a high-risk medication, so we need to check your cmp levels every couple of months. So this time your levels are good, but do make sure to make an appointment for the blood work for next time."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "All right. I can do that. Thank you so much doc."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yes, of course. Well let me go ahead and get supplies and we'll get to work on your knee. Fluid aspiration and steroid injection procedure. The risks, benefits, and alternatives were explained. The risks of steroid injection were explained, including, but not limited to: hypopigmentation, soft tissue atrophy, tendon ruptures, and transient hypoglycemia among others. Verbal consent was attained. The right knee was, uh, um, accessed through the lateral approach with 3 milliliters of initially clear fluid, then bloo- blood tinged fluid. Then the right knee was prepped in a standard-fashion. The right knee was injected with 80 milligrams of triamcinolone, and one milliliter of lidocaine. The procedure was tolerated well, with no complications. Post-procedure instructions were given. Patient will follow up with his pcp. Thank you."
+    }
+  ]
+}

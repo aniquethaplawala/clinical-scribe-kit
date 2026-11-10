@@ -1,0 +1,555 @@
+{
+  "encounterId": "osce-RES0183",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How may I help you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hi there, I brought in my here because he's been barking, well not barking, he's had this cough that sounds like a barking cough and he's having a really hard time taking in a deep breath and money does it sounds, it sounds harsh."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and when did the cough start?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It started about two days ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, is it a dry cough or wet cough?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It sounds pretty dry, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, so so there's been no sputum and no no hemoptysis?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And it it does, the cough happen at any particular time of day?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, I mean no, well, actually mostly at night, but also it happens throughout the day. Umm, but yeah, more so at night."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And, uh, has there been any shortness of breath or difficulty breathing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no shortness of breath or difficulty breathing. It just sounds harsh when he does take a deep breath in."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Uh, and any changes to, uh, to the voice or, uhm, yeah, like this is saying does he sound any different like a hot potato voice?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, no. It doesn't sound like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And uh, uhm, that you mentioned umm, oh sorry, has he had any changes to the sound of his breathing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "The sound of his breathing. It sounds like it sounds harsh when he takes a deep breath in."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. So that sounds like he's having some stridor. Has he been having any wheezing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You mean like when he exhales?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Uh, yeah."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, it's more when he inhales that I hear it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. OK. And has he had any eye redness or any eye discharge?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, no, I haven't noticed anything like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Is the other a runny nose?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, has he had a sore throat?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No sore throat."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and have you had a chance to look in his mouth, has he had any, like any redness or any swelling in the back of his mouth?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I took a look. It doesn't look swollen."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And, uh, no shortness of breath I think you said?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, no shortness of breath."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And has he had a sore throat?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and any changes to his sense of smell or sense of taste?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, not that I've noticed."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And how has his appetite been?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not as great as it usually is, but he's still eating."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. How is his like mood and behaviour been?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, he's been a little bit more fussy than usual."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And eating less as well?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "He's been eating less, but not like much less. I still try to get something in him."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, well, that's good. And has he had any chest pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, no, I don't think so. He hasn't complained of it or anything to make me think that he has any chest pain."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And has he had any fainting, or mentioned that he's dizzy at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, does he have any headaches?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't think so. He hasn't complained of that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Any ear pain or or ear discharge? P. Uh, no. OK. Does he have any abdominal pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Does he have any diarrhea or constipation?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any blood in the stool?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and any skin rashes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, not that I've noticed."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, has he mentioned anything about muscle aches or joint pains?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Ah no, he hasn't."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And is he had any nausea or vomiting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And has he been diagnosed with any medical conditions in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no, he's been a pretty healthy child."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And sorry, just to go back and just summarize the symptoms overall, so he's had a \"barky\" cough that started two days ago, as well as some stridor or some noise on inhalation. And, and this reminds me, has he had any fevers or chills?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, he has had a fever. Actually it was 38.7 yesterday."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and any night sweats?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, hasn't seemed sweaty at night, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And has he had any weight loss in the last, several months?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And you said he hasn't been diagnosed with any medical conditions before, but so, has he had any reasons to be hospitalized or or any surgeries?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, it's been a pretty healthy child."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, that's great, and any allergies that you're aware of?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, I think he's allergic to penicillin."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, what's the reaction?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, he just gets a rash."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And  are his immunizations up to date?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, and currently who is he living with?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Ah, he lives with his, both his parents and his older sister."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and has anybody in the family been sick, or is he been around anybody who's been sick?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, everyone's been pretty healthy."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Has there been any travel recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no ones traveled recently."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and anybody smoke in the home?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, then any concerns for him being exposed to any forms of physical or emotional or verbal abuse or any violence in the home?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Oh no, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And is he like going to daycare or who is the primary caregiver at home?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, it's usually his, his mom, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And were there any complications throughout pregnancy, such as gestational diabetes or high blood pressure?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, and any complications with delivery and was it vaginal or C-section?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It was vaginal and no, no no complications."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, and up to this point, as you better meeting is milestones for like talking, walking and and things like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, that's right."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and uh, any concerns for his vision or hearing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and has he been growing normally?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, he's had all his milestones."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Excellent, OK. And are there any conditions in the family such as heart or lung disease?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Oh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. How about ah, asthma or things like allergic rhinitis and allergies?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Uhm, so I I think that was all the questions that I wanted to ask today on history. Was there anything else that I maybe forgot to ask about or or that you wanted to mention?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no, that was kind of it. What should I do for him?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Uhm, so it's it sounds like the most likely diagnosis now is something called Croup or laryngeal tracheal bronchitis, which is basically a viral infection of the upper respiratory tract areas, and so it can cause had a barky cough and stridor and fever. And so, if so, it's really supportive care and unless he decompensate's and becomes really short of breath and worse, in which case we could, the treatment would be steroids and uhm, possibly utilizing other other things as well, depending on his symptoms, but usually it will be steroids and maybe some oxygen as well. But if he stays relatively stable, then it's mostly supportive care, just making sure he's hydrated as much as possible, you could use like humidified air. Sometimes like a hot shower. That sort of thing can maybe help relieve the cough at night."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "But umm, that's about it."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "We'll, so, we'll so we'll just observe for now."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "OK, that sounds good. Thank you."
+    }
+  ]
+}

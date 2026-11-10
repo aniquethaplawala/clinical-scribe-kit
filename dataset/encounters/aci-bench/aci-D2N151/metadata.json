@@ -1,0 +1,25 @@
+{
+  "encounterId": "aci-D2N151",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N151",
+  "split": "clinicalnlp_taskC_test2",
+  "collectionMode": "aci",
+  "chiefComplaint": "right elbow pain",
+  "secondaryComplaints": [
+    "hypertension",
+    "diabetes type 2"
+  ],
+  "patient": {
+    "age": null,
+    "gender": "female"
+  },
+  "turns": 87,
+  "wordCount": 2432,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

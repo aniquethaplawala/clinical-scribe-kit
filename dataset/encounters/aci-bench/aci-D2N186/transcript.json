@@ -1,0 +1,330 @@
+{
+  "encounterId": "aci-D2N186",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey Sean nice to see you I heard you that you have some back pain"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah it's nice to see you too it's been a while"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah yeah you know I had some back surgery and for some reason I always had lower"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Left back pain when was your back surgery"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It was in november of two thousand twenty"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Was that long ago"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Wow what happened what did they do microdiscectomy my disk broke off and just wrapped around and connected to my spinal thecal sac sounds horrible it's not the poop sac though"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That's good to know what kind of symptoms did you have with that horrible pain down my leg in my back just horrible awful things that you can think of"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Horrible nerve pain it sounds like"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I think so"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay did they give you any meds for that they did I was highly highly dosed up on gabapentin"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Was that hard to withdraw from"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah it was terrible sounds like yeah there is certainly take too much of that and then stop suddenly you can definitely have some some issues okay so you have left side low back pain"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Does anything make it better or worse so my beautiful significant other always tells me to stretch and it always works"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "She sounds smart"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah she is so stretching helps okay what about any physical activities do they make it worse"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "A lot of bending over"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Honestly it it just happens"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You know randomly"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Randomly okay so it hurt on the right side as well or just the left"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Depends on the day"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Is it right around where you had surgery"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Generally"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay did you try icing"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hmmm did you try any pain meds"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yep"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "What kind of pain meds did you"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Ibuprofen eight hundred milligrams a day"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "It's quite a high dose okay let me do a quick physical exam on your back here if you bend forward does that hurt"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not right now but normally it would"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay so no pain with flexion how about if you stand back up"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay no pain with extension either does it hurt while you're just standing here"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay so pain when you're weightbearing does it hurt when I push right here on the left side"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Pain with palpation to the left side around the l5 how about on the right side"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No pain with palpation to the right side okay I'm just gon na push down on your feet can you push back up on my hands"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright dorsiflexion is normal looks like that you have normal range of motion so that's good any pain down your legs"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Great no nerve pain alright so we took an x-ray when you came in it looks like you don't have any fractures or anything on the spinal bone that's good you can see where you had surgery it looks like everything has healed properly there so that's good news so what I think you did is you have a a muscle pull there from having a misalignment in your spine so what I'm gon na do is I'll prescribe some physical therapy for you you have great physical therapy here at the va so you can just come right to our physical therapist and that should help have you have you been there before"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How do you feel about it"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I really go to the dentist"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Got it okay so I'm also gon na prescribe you some meloxicam instead of the ibuprofen that might help a little bit more with some of the pain management"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Is there any chance I can get some vicodin"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Lem me check your record quick for for pain management it's kind of a strong drug for vicodin and we don't really like to prescribe that unless it's totally necessary so why don't we start with the meloxicam and I also write a referral to pain management and they can talk to you a little bit about some of your pain and maybe not using narcotics to manage it"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "How about some demerol"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hmmm sure I'll prescribe demerol"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Thank you"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah you're welcome any other problems going on today you want to talk about"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright well it was nice to see you today"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's always nice to see you as well"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright"
+    }
+  ]
+}

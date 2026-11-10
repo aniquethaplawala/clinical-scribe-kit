@@ -1,0 +1,79 @@
+Clinician: What brings you in here today?
+Patient: Yeah, um, so I have been, I have this cough, I'm coughing up blood so that's made me a little bit worried, um, so I thought I should come and get, get it investigated.
+Clinician: OK, yeah no definitely, that, that's definitely concerning, is, so when did this start?
+Patient: It, the coughing up blood started about a week and a half ago.
+Clinician: Mhm.
+Patient: Uhm, but it's not getting any better, and it's not stopping.
+Clinician: OK and did it start, did the cough just start, uh with, uh, blood in the cough or what, did it just start as a normal cough first?
+Patient: It started off as a normal cough first.
+Clinician: OK, and did you have any kind of production of sputum with yellow or greenish material at all?
+Patient: Uh, not really, I mean there, it's, it was a little bit yellow, but now it's just mostly blood.
+Clinician: OK  and did you have any, did you, were you in contact with anyone that was sick recently, or did you have any travel?
+Patient: I recently immigrated to Canada from India.
+Clinician: OK, and were you in contact at all when you were in India with anyone who might have had tuberculosis or was sick at all around you?
+Patient: Uh, I mean it's possible, like people get sick in my family all the time in India, so it's possible.
+Clinician: And were you at all, in India when, were you were you living in like close quarters like in a smaller space with other people at all?
+Patient: I have a big family so we all live together.
+Clinician: OK.
+Patient: Uh, so it's yeah, so there are about like ten of us.
+Clinician: OK great, so it started one, you said around one and a half weeks ago.
+Patient: Yeah, that's right.
+Clinician: OK, and is it like a constant cough? Or does it come and go?
+Patient: It's uh, it's pretty constant, well, I guess it comes and goes, it's, it's not there all the time.
+Clinician: OK, and have you had this happen before at all?
+Patient: No, never.
+Clinician: OK. Right, is there anything that makes your symptoms better or worse?
+Patient: Uhm, I don't think so, nothing that, nothing I've tried has worked.
+Clinician: OK, and do you have any other symptoms like a fever or shortness of breath, anything like that?
+Patient: I have been feeling chills and uhm, I haven't actually taken my temperature, but I feel hot, so it's possible that I have a fever.
+Clinician: OK, and do you, do you have any significant weight loss at all in the past few weeks?
+Patient: Yeah, now that you mention it, I think I've lost about ten pounds in the past month.
+Clinician: OK, and how much do you weigh?
+Patient: Right now I weigh a hundred and ten.
+Clinician: OK, so yeah, definitely, that's more than like the ten percent, yes, that is pretty significant. Have you been experiencing any night sweats?
+Patient: Yes, yeah, I've been having night sweats. I thought that was just me being hot, but I guess, I feel chilly and then I have night sweats so I probably do have a fever.
+Clinician: OK, and how about fatigue? Are you, do you feel more tired throughout the day?
+Patient: Uh, yeah, I would say so.
+Clinician: OK, and do you have any symptoms like chest pain or racing heart or anything like that?
+Patient: No, nothing like that.
+Clinician: OK, uhm, any headaches, nausea, vomiting?
+Patient: Uhm, no.
+Clinician: Any changes in your bowel movements?
+Patient: uh, nope.
+Clinician: OK, any issues with your sleep or appetite?
+Patient: No.
+Clinician: OK and, um, any exposures to fumes or dust or animals or pets?
+Patient: No.
+Clinician: OK, and uh, currently right now, have you been in contact with anyone else, do you go to work or anyone living with you right now?
+Patient: So I go to work, uhm, I'm working for an assembly line, so there are a lot of people around me and I live with two housemates.
+Clinician: OK, and anyone at work or your housemates, anyone showing any similar symptoms at all?
+Patient: No, I don't think so. I haven't asked them, but nothing I've seen.
+Clinician: OK, and previously do you have any medical conditions that you were diagnosed with?
+Patient: Nope, I'm healthy otherwise.
+Clinician: OK, any allergies?
+Patient: No, no allergies.
+Clinician: OK, any kind of loss of taste or smell?
+Patient: Uh, no, nothing like that.
+Clinician: OK, are you on any medications at all?
+Patient: Uhm, no, just some vitamins.
+Clinician: OK, and any previous hospitalizations or surgeries?
+Patient: Uh, no.
+Clinician: OK, other than that, have you had any family history of any heart or lung conditions?
+Patient: Nope, nothing like that.
+Clinician: OK, uhm, currently right now, so you live with roommates. Is it like an apartment, is it a home, like a house?
+Patient: I live in an apartment.
+Clinician: OK, uhm, do you currently smoke?
+Patient: No.
+Clinician: OK, do you drink alcohol?
+Patient: No.
+Clinician: Any recreational drugs like marijuana?
+Patient: No.
+Clinician: No, OK, alright, so those are all the questions we had. Do you have any questions or concerns?
+Patient: No, what do you think I have and is there anything I need to do right now?
+Clinician: Yeah, So what, uh, some of your symptoms are concerning, especially the coughing up blood, which is something that we always think of with tuberculosis. You don't have any history of, uh, family history of lung cancer or anything like that, so right now, especially since you just moved from India where tuberclosis is endemic, we need to make sure that we test you for tuberculosis. In the meantime though, you will need to stay in the hospital and be in an isolated room, uh, where we can filter some of the air and make sure, it's a very infective condition if you do have it so while you're getting all the tests done, you will need to stay here in an isolated room. Also, we will get some sputum smears and cultures to test for TB and we will also, I will need to, if the test comes back positive we will need to contact public health and let your contacts know as well. Lastly, we will also be getting, since you're having the hemoptysis, like coughing up blood, we will, we might also do a chest X-ray to see if you, if you have active TB.
+Patient: OK
+Clinician: So those are, those are some of the things that we'll get started with. Is that OK with you? Any questions or concerns?
+Patient: Uhm, no nothing like that, uhm do I need to isolate?
+Clinician: Yeah, so we will keep you in an isolated room right now, when you're getting all those tests. And if you do have TB, you will need to isolate, uhm, and stay away from contacts, not be at work, we will, if you do in fact have TB, which it seems likely right now, you will be started in hospital on a ,like antibiotic therapy, uh, which consists of like four different medications and people with the active TB will do have to isolate during that time period, so yeah, we'll get some of those tests done and, we'll get back to you as soon as possible.
+Patient: OK, great, thank you.
+Clinician: You're welcome.

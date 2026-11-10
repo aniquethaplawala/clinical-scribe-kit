@@ -1,0 +1,630 @@
+{
+  "encounterId": "osce-CAR0003",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "What brings you in here today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I've just been feeling breathless and it's getting worse. So I wanted to check it out."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and when did you first start feeling breathless?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "About two months ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and did it come on about like gradually through time or suddenly just happened?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I guess gradually, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And, do you feel, uh, how often do you feel breathless?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'd say it's worse when I when I walk more than 50 meters. That's kind of the main like that's kind of the main trigger, just exertion."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and were you able to walk normally more than 50 meters before two months?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, three months ago I was fine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And do you have any other symptoms like cough or chest pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I have a cough sometimes, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, but nothing like constant?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and do you have any wet cough or any productive cough or are you producing like sputum or phlegm?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I guess I'd say I have this frothy sputum."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and has your breathlessness been getting any worse at all over the last two months?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I would say so, yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and you mentioned like exertion makes it worse, but anything else like going outside or exposure to any chemicals that makes it worse?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, I don't think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and how about a positional changes? Does lying flat at all make it worse?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I would say so, yes. Yeah, I'm basically gasping for air when I lay down."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and do you ever find yourself waking up at night in the middle of the night to catch your breath?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, OK. And when do you feel the breathlessness the most? Is it more so during the day or at night?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I guess it's worse at night because I'm laying down."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Great and, in terms of how many flights of stairs you can climb before you start feeling breathless, do you have a number?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I would say like 3/4."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Three or four steps, OK. And was there anything new that happened in your life recently? Any new medical diagnosis recently? Or any travel that happened before you started having these symptoms?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and prior to two months, have you ever had any similar experiences?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Prior to 2 months? No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And, does anything make it better? Like any positional changes makes the breathlessness go away?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I guess when I I'm not laying down or when I'm laying down, I try to add pillows, stack pillows so that it gets better."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and are you having any other symptoms like sore throat, runny nose, chest pain, dizziness, anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Have you recently traveled outside of the country?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you recently had any surgeries?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No recent surgeries, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any headache nausea or vomiting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any fevers or chills or night sweats."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Do you feel increasingly fatigued throughout the day?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, I would say so, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And any changes in your bowel movements at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and any chest pain at all within the last two months?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no chest pain."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Any swelling in your in your legs, ankles, or in your hands and arms?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "There is some swelling."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and uh, where do you, where are you getting this swelling?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Around my legs."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and how when did you first notice this?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Around the same time actually two months ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Have you noticed any kind of fevers at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Have you been in contact with anyone that has been ill recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and have you been coughing up any blood at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any weight loss?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any night sweats or chills?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, apart from the breathlessness when laying down, any other issues with your sleep?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any changes in your appetite?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nope."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you had any recent infections like a cold at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any exposure to tuberculosis in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not that I know of."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any exposure to fumes or dust within your home or work environment?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any animals or pets in the house?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and in terms of your past medical history, has anyone told you that you have anything like COPD or any cardiovascular issues like high blood pressure, cholesterol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um so, yeah, so I have high blood pressure, diabetes and high cholesterol."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and do you take any medications for this?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yep, so I take aspirin, ramipril and simvastatin."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and have you ever had any chest pain or heart attack in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, actually I had a heart attack four years ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and do you remember what they did for your heart attack?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Something like a stent or something."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and since then you've been on these medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and after they managed your heart attack, have you ever had similar symptoms to when you had your heart attack?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "nothing like that? OK. Do you have any allergies to any medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any environmental allergies?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and have you previously had any surgeries in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, I guess the stenting."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Just the stenting? And apart from that, have you had any other previous hospitalizations?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and any family history of any cancers or heart attacks?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, my father died of a heart attack when he was 60."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And currently do you work at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I do, um, I work as a cashier."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And has the shortness of breath been affecting your daily routine at home or at work at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I would say so. It's been hard to make it to work and then standing around all day or if I have to go help out with something and exert myself too much, I get short of breath."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And at home, do you currently live with anyone or do you live by yourself?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I live by myself."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and do you live in an apartment or house?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I live in an apartment."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and are there any exposures like dust or mold or asbestos in your home environment?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And currently do you smoke?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not right now. I used to smoke. I used to smoke 10 a day for like 40 years."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and do you use any recreational drugs like marijuana?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Any alcohol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And in terms of your daily routine, do you feel that you get 3 meals a day, a well balanced diet?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I wouldn't say well balanced. I'm trying to eat healthier but doesn't always happen."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and how about exercise? Do you find that your exercise levels or activity levels have gone down in the last two months?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Alright, is there any other questions or concerns that you have or something I may have missed to ask you today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I don't think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so based on what we talked about from your swelling as well as breathlessness while laying down and your past history of a heart attack and high cholesterol, it may be likely with the medications you are on as well as your history, that you might be having what's called congestive heart failure. So we will need to do further investigations to determine if that is what it is and if we need to get you on something like lasix or a diuretic to get rid of some of the fluid that's building up in your body, which may be caused by heart failure. So we'll do some investigations and then go from there."
+    }
+  ]
+}

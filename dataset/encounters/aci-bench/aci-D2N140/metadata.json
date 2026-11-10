@@ -1,0 +1,24 @@
+{
+  "encounterId": "aci-D2N140",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N140",
+  "split": "clinicalnlp_taskC_test2",
+  "collectionMode": "virtscribe",
+  "chiefComplaint": "IBS",
+  "secondaryComplaints": [
+    "nausea, vomiting"
+  ],
+  "patient": {
+    "age": 32,
+    "gender": "female "
+  },
+  "turns": 59,
+  "wordCount": 1380,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

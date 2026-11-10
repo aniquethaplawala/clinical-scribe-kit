@@ -1,0 +1,470 @@
+{
+  "encounterId": "osce-RES0028",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Can you just tell me what brings you in here today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, my chest is really hurting."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and where where does it hurt exactly?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's hard to say the exact location, but more on the left side of my chest."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and is it like what kind of pain is it? Is it like a dull aching pain, or is it as sharp or stabbing pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "The pain is. It's stabbing, but also it feels really really tight in my chest."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and if you're to rate it on a scale of zero to 10, zero being the least amount of pain you felt in your life and 10 being the worst, how much would you rate it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I think at 6."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Six, OK. And when did it start?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It started this morning just right after I got out of bed."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so you weren't doing anything like you weren't doing any activities, you just woke up from sleep?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I got outta bed. I was just trying to get dressed and all of a sudden I got this tightness and and stabbing pain on the left side of my chest."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, approximately how many hours ago was that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I I would say about. Six hours ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and has it been as a pain getting worse at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, it's it's getting worse."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "It's getting worse, OK. And have you had any similar sort of pain in the past before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um nothing like this before."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, OK. And is the pain going anywhere else or is it just staying in your chest?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "The pain is just in my chest."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And does anything that you do make it feel better?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sitting up tends to make it feel a bit better."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and does anything you do make it get, make the pain get worse?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It gets worse every time I breathe in."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and what kind of pain do you get when you breathe in?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's a sharp stabbing pain."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK and apart from the pain, are you having any other symptoms like a cough or shortness of breath and anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, with the pain, I'm having a hard time breathing."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. OK, I just have a few other questions. Uh, have you recently had any kind of trauma or injury to your chest at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you traveled at all recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I was in in Italy for the past three weeks actually, just got back last night."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And have you been experiencing any kind of nausea or vomiting, or fever or chills?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No. No nausea or vomiting. I did take my temperature, no. Sorry I did not take my temperature, but I've been having chills the last few days."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, uh, and uh, yeah, just curious have you been having any kind of swelling at all in your feet or ankles?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Ah, my legs felt a bit swollen on the way back on the airplane, but they tend to swell so I didn't think anything of it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK so they have swollen up before but you saw them swollen this time as well?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And have you been feeling at all fatigued at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I've been really tired with all of the traveling, so I think maybe I'm just jet lagged."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you noticed that all your heart racing, like any palpitations?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, since this morning it's felt like my heart is is racing."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you noticed any skin changes at all? Any rashes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No rashes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you noticed any cough, coughing at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I've had a cough since last week, but it feels much worse today."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and has there been any kind of green slimy mucus in your cough at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, it's been a dry cough."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Dry cough, OK. and have you noticed at all coughing up blood?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No blood."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And have you recently had any infections in the last month?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, a couple of weeks ago I had a runny nose and sore throat and a little bit of a headache but. I feel better from that now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and to just go away by itself, or did you have to take any medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It just went away on its own"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Have you been feeling any kind of dizziness at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I have a little bit of yeah, um dizziness when I when the pain gets really bad."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and I know you mentioned some swelling in your legs and your ankles, but have has any of your legs been hurting at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "My left leg hurts really bad right now, but my entire body has been achy these past few days."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and then you're right, like do you know where it hurts?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um. I think just like in the calf."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "In the calf, OK. OK, and do you have any past medical history any like hypertension that like diabetes? So any conditions that you've been diagnosed with?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I I'm healthy."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any allergies to medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No allergies."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, do you take any birth control or multi vitamins?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I take a daily birth control pill and also a daily multi vitamin."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and how long have you been on the birth control pill?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, for two years."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any hospitalizations recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um none that I can think of."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any ill Contacts?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any surgeries in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No surgeries."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, in your family, has anyone had any conditions like has anyone passed away from a heart attack any cancers, anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No cancer, but my mother died of a heart attack when she was 43. And my grandma also had a heart attack when she when she was younger. I wanna say in her 50s but I don't exactly remember how old."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And currently right now, where do you live? Do you live in like a house, apartment?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I live in an apartment by myself."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and do you currently work?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I'm in charge of um a retail store as a manager there."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK and do drink?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sometimes on weekends or if I'm socializing with friends, but not very often."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and do you use any recreational drugs like marijuana?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Never."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and do you smoke?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, I smoke about 2 packs of cigarettes per day. And I've been smoking since I was 12."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Alright and in terms of your daily routine like do you get any exercise?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, not really. Life's a bit too busy and hectic right now right now, unfortunately."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And how about your diet like what is your regular diet look like?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "A lot of fast food. I know I could work on that, but again, with the busy lifestyle we tend to eat a lot of fried foods and fatty foods. I know I could do better."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Great thank you."
+    }
+  ]
+}

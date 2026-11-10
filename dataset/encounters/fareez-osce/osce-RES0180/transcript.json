@@ -1,0 +1,420 @@
+{
+  "encounterId": "osce-RES0180",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "What brings you in?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hi I umm, so I started to have this cough that started like 2 days ago and also these last couple of days I've just had this headache and feeling really achy all over."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, I'm sorry you said it started a day, two days ago?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, it's more like one to two days. All of this is kind of started. I think the the cough started 1st and then the headache and achiness has come after. I felt a bit feverish as well. I haven't checked my temperature but I, I felt feverish."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. The cough, is it dry, or are you bringing up any phlegm?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's pretty dry."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Dry, OK, so no blood and no sputum?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No blood or sputum."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, do you feel short of breath?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No thats I haven't been short of breath."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, how about wheezing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No wheezing."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And any chest pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I haven't had any chest pains."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, alright. And the headache one to 10, 10 being the worst head, worst pain you've ever been in. How bad was it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'd say a four. It's just been kind of there the whole, so it's really annoying. I've tried some Tylenol and it's taken a little bit off the the I mean the edge off a little bit, but it's just been kinda there still."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And is it a throbbing kind of pain or is it a dull, achy pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's a kind of a dull, achy pain."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Uhm, alright and where is it located?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh kind of in the front of uh I have my over my head and on both sides as well."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, OK. Any feelings of feeling like your heart's racing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I haven't felt like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any dizziness or fainting spells?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I haven't had anything like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Confusion or memory loss?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and any neck pain or stiffness?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, running or stuffy nose?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, my, I haven't had anything like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Sore throat?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, OK, how about that loss of smell or taste?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh yeah I have actually. Yeah, I have."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, both?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, both it's uh, I've actually yeah, I notice that in the last day, it's kind of weird. I didn't even think of it until you until you asked there."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "But yeah, I have haven't really noticed being able to smell or taste."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any changes in your vision or hearing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Weight loss?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No weight loss, I've been, that's been stable. I wish."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK and you mentioned you might have had a fever so we'll check your temperature today as well. Any fatigue?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, not really. That's been OK, but been achey, so certainly doing less."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Any rashes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No rashes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any changes to your bowel movements?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, that, everything has been normal there. I haven't had any diarrhea or no blood in the stool."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Any nausea or vomiting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No nausea or vomiting."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Changes to your appetite?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I've been, less interested in food for sure. I think I've been been, been, had a decreased appetite."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Changes in your urine?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I haven't had any any pain or any anything changing to my urinary habits."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Are you otherwise healthy? Do you have any longstanding medical conditions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, I I do have high blood pressure and high cholesterol and I take a statin as well as a what is it, an ACE inhibitor, I think, for the blood pressure, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and are you up to date with your immunizations?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, I am yes I think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, OK. Alright, and are you allergic to anything?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I don't think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, OK. Alright, and any family history of lung or heart conditions."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, umm, alright. Do you smoke?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, OK. Any other recreational drugs?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Do you drink alcohol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, sometimes I'll have a glass of wine on the weekend or something like that, but that will just be one or two, maybe with dinner."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And have you been in contact with anyone sick recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I I don't think so. I mean, I've been working from well, some days I've had to go into the office for work, but I've been mostly just working from, from home."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. OK. Uhm and where do you live right now?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So I live in a house downtown in the city here and I live with my wife and our two sons."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any are they, they're ok, they're all healthy?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, yeah they they, they uh, well my son actually had a cough and a sore throat I think like last week or something like that but it just went it went away."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Uhm, and do you have any old carpets? Asbestos, mold, anything like that in your home?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, OK. Uhm alright, I think those are all the questions that I had for you. Did you have any questions of your own for myself?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I was just well worried about Covid and was just wondering what I should do."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, for sure. So we are, you're a lot of your symptoms do overlap with those of Covid, so we are going to take a swab today and you should hear back in about 24 to 48 hours, but you should isolate for 14 days. And that includes from family family members if possible. Uhm, and basically just keep an eye on your symptoms. If they get worse, or you're having like neurological symptoms, you should seek help from the ER, but otherwise keep yourself hydrated, eat well. If you have a humidifier in the basement, use it, and for your fevers you can take antipyretics like Tylenol. And just it's it's just a lot of supportive care. How does that sound and obviously like if your symptoms aren't going away after like a few weeks, call us back and it could be something like bacterial, in which case we can give you some antibiotics."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "OK yeah, that sounds great. Thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, no problem."
+    }
+  ]
+}

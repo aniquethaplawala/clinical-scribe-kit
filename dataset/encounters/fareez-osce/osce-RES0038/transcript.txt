@@ -1,0 +1,113 @@
+Clinician: So what brings you here today at the family clinic?
+Patient: I haven't been coughing these last two weeks since I got back from Mexico. I think I got sick there.
+Clinician: OK, so just the last couple weeks you've been coughing?
+Patient: Yeah, ever since I got back from Mexico it's been yeah so about about two weeks.
+Clinician: OK. And is your cough for a wet cough or dry cough?
+Patient: It's dry and I'm not bringing up any any sputum.
+Clinician: OK, and are you coughing up any blood at all?
+Patient: No blood.
+Clinician: No, OK. And is the cough constant or does it come and go?
+Patient: It, it comes and goes. I would say sometimes it can be worse. Yeah, depending on on what I'm what I'm doing. I guess if I'm exercising or if it's if it's really cold outside, it might get worse.
+Clinician: OK. And do you feel that it's been getting worse at all, your cough?
+Patient: Uh, not really, I think it's about the same.
+Clinician: OK, and anything that you did when you were in Mexico that might you think might have caused your cough?
+Patient: Uh, I don't know, maybe I, I was drinking a little bit too much and partying a little bit too much so might have got sick while I was there.
+Clinician: I see. Did you have any cold symptoms like runny nose, sore throat? Um, any anything like that when you were there or after you came back?
+Patient: No, sometimes my eyes can get a little itchy, but no runny nose or sore throat.
+Clinician: OK, have you had any previous episodes that are similar to how you're feeling now?
+Patient: Uh, maybe years ago when I like when I was in elementary school, but nothing for the last few years.
+Clinician: OK, and how often are you coughing? Let's say in an average day?
+Patient: Um, it's uh, it's pretty variable. I would say, so if I'm exercising it will it'll throw me into a coughing fit and and sometimes it's really bugging me at night too it'll affect me. It's impairing my sleep.
+Clinician: OK, and so exercise makes it worse. Anything that you do that helps you relieve the cough?
+Patient: Uhm, I actually I tried my sons inhaler and it seemed to actually help, but one of the days I just couldn't seem to stop the cough and I wanted to sleep so I gave it a try and it it seemed to actually help with the cough.
+Clinician: OK, and so your son has inhalers, does he have asthma?
+Patient: Yeah he does. Yeah he was diagnosed with asthma a couple of years ago.
+Clinician: OK, and have you previously been diagnosed with asthma?
+Patient: Ah I think if they've said it before when I was young, but I haven't had any symptoms for for for years.
+Clinician: OK, and besides the cough, do you have any other symptoms, like any cold symptoms of runny nose, sore throat right now, or even like any chest pain?
+Patient: No, nothing like that.
+Clinician: OK. And do you have any symptoms like a headache or nausea or vomiting?
+Patient: Uh, nope. No headache, nausea or vomiting.
+Clinician: OK. Is your cough at all worse during the day or at night? Or does it just is at around the same throughout the day?
+Patient: I think the coughs worse at night.
+Clinician: OK. And do you ever feel that you're short of breath at all?
+Patient: Well, yeah, so it affects me if I'm outside and that that's actually usually when my eyes will get itchy too.
+Clinician: OK. And have you had any eczema in the past?
+Patient: Uh, yeah I had, I had eczema when I was I was younger. I think that was in it when I was in elementary school as well.
+Clinician: OK. Have you had any fevers or chills recently?
+Patient: No.
+Clinician: Any night sweats?
+Patient: No.
+Clinician: Have you been feeling increasingly tired throughout the day?
+Patient: Ah no, my energy's been been good I just get short of breath or or have these coughing fits if I, if I exert myself.
+Clinician: OK, have you noticed any swelling in your feet or hands?
+Patient: No.
+Clinician: Any dizziness?
+Patient: No dizziness.
+Clinician: Do you ever feel your heart is racing when you get like these thumping like heart palpitations?
+Patient: Uh, nothing like that.
+Clinician: OK, and you said no chest pain, right?
+Patient: No chest pain.
+Clinician: OK. Have you noticed any changes in your bowel movements? Any constipation or diarrhea?
+Patient: No diarrhea.
+Clinician: OK. Any changes in your urinary patterns?
+Patient: No, everything's been normal.
+Clinician: OK, so you mentioned like the coughs been keeping you up at night. How, how often are you waking up at night? Is it pretty frequent?
+Patient: I would say about two or three nights a week over these last two weeks. It's been, it's been getting worse.
+Clinician: OK. And have you noticed any changes in your weight at all?
+Patient: My weight's been about the same.
+Clinician: OK, any changes in your appetite?
+Patient: No, been eating well.
+Clinician: OK. Any recent exposures to anyone with tuberculosis that you know of?
+Patient: No.
+Clinician: No, OK. Have you lost your sense of taste or smell recently?
+Patient: Neither of those.
+Clinician: OK. And have you been exposed to any fumes or dust in your surrounding area, or do you have any pets or animals at home?
+Patient: Um, yeah, we have a, uh, two cats. And, but nothing at work.
+Clinician: OK. And how long you've had those cats for?
+Patient: We've had them for for almost a year.
+Clinician: OK. And other than eczema and remote history of perhaps asthma when you were younger, any other medical conditions like diabetes or high blood pressure that you've been diagnosed with?
+Patient: No, I've been healthy that way.
+Clinician: OK. Any medications that you are on currently?
+Patient: Uh, no medications.
+Clinician: OK, do you know of any allergies to any environmental exposures or any medications at all?
+Patient: Uhm yeah, I think I have, I'm allergic to pollen and some other environmental and allergies as well.
+Clinician: OK, and when you cough, have you ever noticed like wheezing noises at all?
+Patient: Uh occasionally yeah, there, though I do notice a wheeze.
+Clinician: OK. And have you ever been hospitalized before?
+Patient: No, I haven't.
+Clinician: Ok, any previous surgeries?
+Patient: No surgeries.
+Clinician: OK. And has anyone around you been ill recently?
+Patient: Everybody's been healthy.
+Clinician: OK. And do you have any family history of cancers or anything related to the lungs at all?
+Patient: Uh, no. I mean, my sister had eczema as well, but that's it.
+Clinician: OK, that's it. OK, uh, any heart attacks in your family? Any other medical conditions?
+Patient: Uh, no. Everyone's healthy.
+Clinician: OK and currently what is your living situation like?
+Patient: Yeah, so I live in an apartment nearby with my boyfriend.
+Clinician: OK, and has there been any, have you moved there recently or how long have you lived there for?
+Patient: Uh we've lived there for about four years now.
+Clinician: Four years, OK. And has anything changed recently? Has there been any mold or new carpets that you guys got anything new in the house?
+Patient: Uhm, I don't, I don't think so.
+Clinician: OK. And do you currently work?
+Patient: Yeah, I work as a a school teacher.
+Clinician: OK. And do you smoke at all?
+Patient: No, I don't.
+Clinician: Have you ever smoked?
+Patient: I did, yeah I, I smoked a pack a day up until just about a month ago. I made, it was a New Year's resolution to quit.
+Clinician: Oh wow, well congratulations, that's it's definitely very difficult to quit. And if you need at all, any help at all with your transition at all, we can always bring it up in any appointment.
+Patient: OK, thank you.
+Clinician: Yeah. And in terms of recreational drugs, do you use marijuana or cocaine or any other recreational drugs?
+Patient: Um, yeah, maybe I'll I'll smoke like one or two joints a week.
+Clinician: OK. And do you drink alcohol?
+Patient: Uh, yeah, maybe a bottle of wine on the weekends.
+Clinician: OK. Uhm, so you go through like around a bottle every week?
+Patient: Yeah, I would say about a bottle of wine on throughout the week, but usually don't really have any during the week, I'll usually, I guess, split the bottle between between Friday to Sunday sort of thing.
+Clinician: OK. And in terms of exercise, do you find that you're getting adequate exercise throughout the week?
+Patient: I tried to, I tried to run and go for walks but always trying to be a little bit more active.
+Clinician: OK. Alright, so yeah those are all the questions I had for you today. Um, do you have any other questions for me?
+Patient: Uhm, nope, that was it.
+Clinician: OK, so based on what we talked about, it seems that based on your past history and the coughing that you're having right now, one of the things that we definitely want to look at is if you do in fact have asthma. Um, it can also be like viral upper respiratory tract infection, but we will do some pulmonary function tests for you and see if the bronchodilators just like you use the inhaler from your son if that helps helps you with your symptoms and then we can go from there.
+Patient: That sounds great. Thank you.
+Clinician: You're welcome. Well, take care.

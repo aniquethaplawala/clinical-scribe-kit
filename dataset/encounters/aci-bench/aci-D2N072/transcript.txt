@@ -1,0 +1,48 @@
+Clinician: Hi, ms. Brooks. I'm dr. Baker. How are you?
+Patient: Hi, dr. Baker.
+Clinician: Is your, is your right finger hurting?
+Patient: Yes.
+Clinician: Okay. Hey, dragon, uh, Sharon Brooks is a 48 year old female here for right finger pain. All right. So, tell me what happened.
+Patient: Well, I was skiing over the weekend-
+Clinician: Okay.
+Patient: . And as I was, um, coming down the hill, I tried moguls, which jumping over those big hills, I tend to get my strap caught on my finger-
+Patient: . And it kind of bent it back a bit.
+Clinician: Okay.
+Patient: Yeah.
+Clinician: And when did this happen?
+Patient: It happened, uh... That was sunday.
+Clinician: Okay. And have you tried anything for this or anything made it better or worse?
+Patient: I tried, um, putting ice on it.
+Clinician: Okay.
+Patient: Uh, and then I- I've been taking ibuprofen, but it's still very painful.
+Clinician: Okay. And, uh, is it worse when you bend it? Or anything make it... So, just wh-
+Patient: Yeah, movement.
+Clinician: Okay.
+Patient: Yes.
+Clinician: Okay. So, it sounds like you were skiing about four about days ago and you went over a mogul and got it hyper extended or got it bent backwards a little bit,? Okay. Do you have any other past medical history at all?
+Patient: Um, I have been suffering from constipation recently.
+Clinician: Okay. All right. And do you take... What medicines do you take for constipation?
+Patient: Um, I've just been taking, um, mel- um...
+Clinician: Miralax?
+Patient: Miralax. That's it.
+Clinician: Okay. Miralax is sufficient.
+Patient: Miralax. Yes.
+Clinician: And any surgeries in the past?
+Patient: I did have my appendix taken out when I was 18.
+Clinician: Okay. Let's do your exam. Uh, so, it's this finger right here. And does it hurt here on your, on this joint up here?
+Patient: No.
+Clinician: Okay. And how'bout right there? No?
+Patient: No.
+Clinician: Right here?
+Patient: That hurts.
+Clinician: All right. Uh, can you bend your finger for me?
+Patient: Yeah.
+Clinician: All right. And how about extend it? All right. And can you touch your thumb with it?
+Patient: Yes.
+Clinician: All right. So, on exam, you do have some tenderness over your distal phalanx, which is the tip of your finger. There is, uh, some tenderness over that joint itself. I don't feel any tenderness over your proximal joint or your metacarpophalangeal joint, which is right above your knuckle. Uh, you have some pain flexion as well. So, let's look at your x-rays. Hey, dragon, show me the x-rays. All right. So, on this x-ray. Everything looks normal right now. Uh, I don't see any fractures. Everything lines up pretty well. Uh, so, your x-ray looks normal with no fractures. So, based on the x-ray and your exam, you have some tenderness right here. I think you've got a little contusion right here. There's no fracture on the tip of your finger. Uh, so, the diagnosis would be a right hand, uh, index finger contusion on the tip of your finger, okay? So, I would recommend we get you a s- uh, aluminum foam splint and we'll get you some motrin. Uh, we'll give you 600 milligrams every six hours and we'll take that for about a week. And if it doesn't get better, why don't you call us and come back at that point?
+Patient: Okay.
+Clinician: Okay. Do you have any questions?
+Patient: No. I think that sounds good.
+Clinician: Okay. Hey, dragon, order the medication and procedures we discussed. All right. And why don't you come with me and we'll get you signed out.
+Patient: Okay. Thank you.
+Clinician: All right. Finalize report, dragon.

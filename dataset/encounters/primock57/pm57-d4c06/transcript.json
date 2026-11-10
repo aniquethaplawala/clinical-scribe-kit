@@ -1,0 +1,729 @@
+{
+  "encounterId": "pm57-d4c06",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 1.12,
+      "end": 4.24,
+      "text": "Ah. Hello."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 7.95,
+      "end": 8.78,
+      "text": "Hello."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 8.92,
+      "end": 17.44,
+      "text": "Hi, uh, my name is Doctor Kumar. I'm one of the GPs here. Can I just get you to confirm your name and date of birth for me, please?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 18.33,
+      "end": 21.76,
+      "text": "Uh, yeah, I'm Maria. Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 22.35,
+      "end": 23.27,
+      "text": "Date of birth?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 24.69,
+      "end": 25.39,
+      "text": "Sorry?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 24.77,
+      "end": 26.78,
+      "text": "[inaudible] And your date of birth?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 27.4,
+      "end": 33.38,
+      "text": "Um, twenty second uh, of March, of um, ninety."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 33.67,
+      "end": 35.03,
+      "text": "Again, how can I help today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 36.44,
+      "end": 62.64,
+      "text": "Um, so, I'm having like a really, really strong headache. I don't know what is happening. I'm, quite concerned. So, it started in the morning. Um, I feel like um, uh, dizzy. Uh, my vision is a little bit blurred. Um, like, [inaudible] it's, it's really painful, and I'm getting really concerned. Especially because I'm having like these, uh, changes in the vision."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 64.07,
+      "end": 69.41,
+      "text": "OK. So, [inaudible] it started this morning, was it a sudden onset headache, did it come on suddenly?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 69.76,
+      "end": 70.99,
+      "text": "Yeah, yeah, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 71.22,
+      "end": 79.31,
+      "text": "OK. And did it come on really bad or did it start off, uh, [inaudible] like a slight headache and build up to a, a severe headache?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 79.73,
+      "end": 82.64,
+      "text": "Uh, it came like, kind of suddenly."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 83.79,
+      "end": 89.96,
+      "text": "And if [inaudible] , if ten is the worst pain you've ever felt in your life, how bad would you say the pain was between one and ten?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 90.91,
+      "end": 102.04,
+      "text": "Well, I had the kidney stone, so let's say that that's ten. Um, I have now, [inaudible] , maybe five, well, six, six probably."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 101.97,
+      "end": 103.27,
+      "text": "It's not ten. Great!"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 102.8,
+      "end": 106.93,
+      "text": "But, it's more about me being really concerned, because this is very weird."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 108.41,
+      "end": 111.31,
+      "text": "OK. No, that's fine. Have you ever had a headache before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 113.74,
+      "end": 114.51,
+      "text": "Sorry?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 114.22,
+      "end": 117.46,
+      "text": "Have you ever had a headache like this in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 118.71,
+      "end": 121.65,
+      "text": "Um, well not, really."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 122.09,
+      "end": 123.99,
+      "text": "OK. So, it's a first [inaudible] ."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 122.74,
+      "end": 127.92,
+      "text": "Like this, I, yeah, like this, no, definitely. It's something new."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 128.06,
+      "end": 135.2,
+      "text": "OK. OK. If you had to say where uh, uh, across the head, uh, the headache is, is it across the front, around the back?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 136.54,
+      "end": 140.76,
+      "text": "It's in uh, one side, uh, the left side, only."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 140.91,
+      "end": 143.78,
+      "text": "And tell me what visual problems are you getting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 144.56,
+      "end": 151.6,
+      "text": "My vision is quite blurred. Um, it, it's, it's really weird, like some zigzag lines."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 151.56,
+      "end": 152.27,
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 152.1,
+      "end": 155.25,
+      "text": "Kind of. I don't know how to describe it properly."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 155.3,
+      "end": 159.2,
+      "text": "OK. And, um, have you tried any painkillers for this already?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 159.98,
+      "end": 165.44,
+      "text": "Yeah, I tried Paracetemol, but uh, didn't work. To be honest, I feel exactly the same."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 165.62,
+      "end": 172.1,
+      "text": "OK. Um, OK. Um, what time did you take the paracetamol? How long ago was it you'd taken it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 172.77,
+      "end": 181.49,
+      "text": "Uh, well, uh, the headache started like four year, four hours ago. So, I would say like, maybe three hours ago, because I couldn't stand it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 181.51,
+      "end": 185.76,
+      "text": "OK. Um, and your visual problem is still ongoing now?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 187.4,
+      "end": 207.82,
+      "text": "Yeah, yeah, yeah. I feel a little bit, a little bit better. [inaudible] , I cannot stand screens. Um, but, yeah, definitely. And, when I move, like the thing is that if I, if I leave bed, I start to feel like, even worse if I move. So, I just want to have my hay, my head like really, uh, not moving."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 207.82,
+      "end": 214.03,
+      "text": "OK. OK, Um, so, what about, [inaudible] , have you felt sort of nauseous or like you want to vomit?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 214.9,
+      "end": 229.97,
+      "text": "Ohh yeah. Ohh, I forgot to mention, definitely, I vomit twice. Actually, as soon as the, the headache started, I also vomited. So, initially, I thought it was something that I ate, but then the headache started to be really bad, and I still feel nausea."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 229.95,
+      "end": 230.66,
+      "text": "Still feel."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 229.97,
+      "end": 233.53,
+      "text": "To be honest, I'm about to vomit, very soon, I think."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 233.4,
+      "end": 238.98,
+      "text": "All right. OK. You've mentioned, in the past, you've had kidney stones, any other medical problems?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 240.34,
+      "end": 241.18,
+      "text": "Sorry?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 241.18,
+      "end": 247.73,
+      "text": "Uh, you've mentioned that in the past, you've had kidney stones. Have you had any other medical problems in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 245.39,
+      "end": 264.79,
+      "text": "Yes. Uh, so, uh, uh, not actually. Uh, my mother has migraines. I'm not sure if that's relevant? And uh, also, I have hypothyroidism in the family. So, it might be. I don't know, uh, I've, I don't know."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 264.68,
+      "end": 266.64,
+      "text": "[inaudible] , what else do you have in the family?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 269.16,
+      "end": 273.57,
+      "text": "I think we are losing connection. Sorry, I, I think we lost connection."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 274.94,
+      "end": 282.66,
+      "text": "Ohh, can you still hear me? Ohh, it's gone. You can hear me. Um, you said, you mentioned your mother has migraines. What else do you have in the family?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 276.79,
+      "end": 284.1,
+      "text": "Yeah. Yeah, yeah. Hypothyroidism."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 284.21,
+      "end": 285.22,
+      "text": "Hyperthyroid"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 284.58,
+      "end": 287.18,
+      "text": "[inaudible] . She also has Hypothyroidism."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 287.23,
+      "end": 292.52,
+      "text": "OK. Bye. OK. Um, and no other relevant family history?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 292.98,
+      "end": 295.43,
+      "text": "Uh, no, not that I'm aware."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 295.44,
+      "end": 298.23,
+      "text": "And do you take any regular medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 299.15,
+      "end": 300.92,
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 301.4,
+      "end": 303.63,
+      "text": "Are you allergic to any medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 304.28,
+      "end": 307.86,
+      "text": "Not that I'm aware, uh. Yeah, not that I'm aware."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 307.95,
+      "end": 310.17,
+      "text": "OK. Is there any chance you could be pregnant?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 311.15,
+      "end": 313.12,
+      "text": "Uh, I really doubt it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 314.99,
+      "end": 326.08,
+      "text": "Fine. And so, you're not allergic to any medications. Fine from. And what, what were you thinking might be going on? I know you seemed quite worried about it. Was there anything in particular you were worried about?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 327.15,
+      "end": 349.6,
+      "text": "Well, I'm a little bit hypochondriac. So, I feel that this can be some kind of brain tumour, tumour or something? Because, I'm like this is, [inaudible] , really, the pain is so horrible that, or maybe a stroke. I don't know, it's, it's just like you know, you hear so many stories. That, you definitely start wonder, if i should go to A and E urgently, because [inaudible] , I might really have something serious."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 349.36,
+      "end": 358.96,
+      "text": "OK. OK, fine. Um, now just, uh, another, uh, question, have you noticed any weakness in your arms or legs, anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 360.12,
+      "end": 362.24,
+      "text": "No, no [inaudible] , no, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 362.09,
+      "end": 369.16,
+      "text": "Uh, and when you're walking, you're able to walk fine in a straight line or is your, your uh walk, are you walking a bit funny?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 369.33,
+      "end": 370.93,
+      "text": "Uh, not really."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 371.18,
+      "end": 371.97,
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 372.39,
+      "end": 375.63,
+      "text": "It's really about the head. That's why I find it very weird."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 375.41,
+      "end": 387.82,
+      "text": "OK. So, just, just to clarify what, what you said [inaudible] . This morning, uh, you woke up and then later on in the, in the morning, about four hours ago, you've developed a headache? Um, [inaudible] on the left side of the head?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 385.07,
+      "end": 388.79,
+      "text": "Yep. Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 388.56,
+      "end": 391.24,
+      "text": "Left side of the head, is it [inaudible] behind the eye?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 389.46,
+      "end": 393.08,
+      "text": "Exactly. Sorry?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 392.85,
+      "end": 395.79,
+      "text": "Is it behind the eye? Is that where the pain is?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 396.25,
+      "end": 405.46,
+      "text": "Uh, no, no it's, ugh, I don't know how to describe it. But it's, just like, [inaudible] , kind of."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 402.56,
+      "end": 421.46,
+      "text": "Um, you've [inaudible] . OK. That's fine. You've noticed that your vision is blurry, there's funny lines, you feel a bit nauseous, you vomited twice. Um, and, uh, you feeling dizzy as well, but your, you've got no neurological symptoms. You're walking fine."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 415.12,
+      "end": 415.99,
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 421.46,
+      "end": 426.33,
+      "text": "Um, and, and you've taken paracetamol and it hasn't helped. Is that all? OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 424.69,
+      "end": 425.52,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 426.33,
+      "end": 432.68,
+      "text": "So, it sounds like what you're suffering from is what's known as a migraine. Is that something you've heard of before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 426.63,
+      "end": 435.96,
+      "text": "Yeah. Uh. Uh, no, it's the first time."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 435.98,
+      "end": 436.91,
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 436.39,
+      "end": 452.78,
+      "text": "But, to be honest, I'm very familiar with the disease, because my mother has it, so. Uh, well, but I never had it, and I thought that the onset of migraine will be, you know, in much, uh, early ages. So, that's why I'm not sure, if migraine makes sense. [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 451.82,
+      "end": 482.58,
+      "text": "OK. So, um, usually with, with migraines they can present at different times in people's lives, so, sometimes they can present as a child, sometimes they can present when they're older. Um, and sometimes they can present, you know, even postmenopausally. So, there's different, there's different ways you can get migraines. Uh, and the reason why this sounds like migraines is because it's on one side of the head. [inaudible] typical of a migraine, you've got blurry vision, again which is very typical, with the nausea and vomiting, that's also typical of a migraine."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 474.95,
+      "end": 475.77,
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 482.58,
+      "end": 502.46,
+      "text": "Now, um, uh, [inaudible] obviously, if the [inaudible] headache is really severe, and I'll suggest some medications you can try, if that doesn't work, we would want to see you, um, as soon as possible, to do like a full neurological exam as well. [inaudible] to make sure that, you know, there's, you know, when we do a more specific examination that, um, everything all seems fine."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 495.22,
+      "end": 496.61,
+      "text": "Ohh, that's great."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 502.46,
+      "end": 510.72,
+      "text": "Um, I [inaudible] I would recommend in the time between now and when we can see you, uh, if you take some medications, maybe something like ibuprofen?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 507.35,
+      "end": 520.03,
+      "text": "Yeah. OK. So, and, uh, you're, you're saying that if this is a migraine, and if I try that medication. This should go away, kind of, today?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 519.97,
+      "end": 538.67,
+      "text": "So, yes, a migraine, yeah, no, you know, even sooner than that, we can look at maybe half an hour to forty minutes, depending on what your response to it is, for some people, Uh, whatever medications they take the migraine doesn't improve, um, and they can last from anywhere from four hours to seventy two hours, migraines can last. Um, but [inaudible] ."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 538.1,
+      "end": 541.0,
+      "text": "Ugh. OK. That doesn't sound good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 541.38,
+      "end": 555.24,
+      "text": "No. So, what, there's lots of medication treatments so, there's, it can be ibuprofen with an anti-sickness, um, so and [inaudible] , which you can get from the pharmacy. Um, and you also to drink, uh, sugary and carbonated drinks, something like Coke."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 555.6,
+      "end": 556.48,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 556.2,
+      "end": 569.5,
+      "text": "For the three of them is, uh, is a good sort of cocktail to start them, then we can go up the treatment ladder, you can get specific migraine relief medication. And that should be something to try between now and when we see you to do the, um, to do the assessment."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 564.63,
+      "end": 571.29,
+      "text": "OK. OK. Sounds."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 570.45,
+      "end": 574.19,
+      "text": "[inaudible] assessment to where we can see you today at some point."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 574.53,
+      "end": 575.42,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 575.48,
+      "end": 584.94,
+      "text": "And, but however, if you do take these medications and, you know, by the time your appointment time comes in and you feel much better in yourself, you can cancel it, um, you can give us a call and cancel it."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 585.18,
+      "end": 588.73,
+      "text": "OK, sounds good, yeah. Sounds, sounds a good plan."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 586.68,
+      "end": 590.38,
+      "text": "OK. Uh, any, any questions for me?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 590.5,
+      "end": 593.66,
+      "text": "Uh, no, thank you very much. You were very helpful."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 593.49,
+      "end": 598.43,
+      "text": "All right. OK. Um, any, any further problems between now and your appointment, please do let us know."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 599.3,
+      "end": 601.5,
+      "text": "OK, yeah. Thank you very much."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 601.32,
+      "end": 602.32,
+      "text": "OK. Bye."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 604.03,
+      "end": 604.97,
+      "text": "Should I disconnect?"
+    }
+  ]
+}

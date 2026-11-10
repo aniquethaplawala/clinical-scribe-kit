@@ -1,0 +1,54 @@
+Clinician: Karen is a 34 -year-old female with a history of chronic migraines and hypertension who is here today with abdominal pain so hi there Karen it's nice to see you again listen I'm sorry you're not feeling well and you've got abdominal pain like to talk about that in some detail with you but hey I wan na use this new cool app that's gon na help me focus on you a bit more in this visit would that be okay with you
+Patient: Sure that's fine
+Clinician: Okay great so so Karen tell me about your abdominal pain what's been happening
+Patient: Well it started about ten days ago with just some mild discomfort in on my right side and it seems to be getting worse over the last couple of days especially
+Clinician: Okay and how bad would you say the pain is like it's a zero to ten on a scale today
+Patient: Yeah it it waxes and wanes in severity it it's in general probably around a four or a five but sometimes it gets up as high as a seven or eight
+Clinician: Okay is there anything that you notice that makes that pain worse or better like rest or movement or eating or anything else
+Patient: It's usually a little worse after a meal
+Clinician: Hmmm okay
+Patient: In the morning before I've eaten it's it's not too bad but during the day after a meal it gets worse
+Clinician: Okay alright and do you notice that pain radiates anywhere or moves you know any or anywhere
+Patient: It's pretty low it might radiate a little bit to the left but otherwise it's pretty localized to the right side
+Clinician: Okay and have you had any nausea or vomiting along with the pain
+Patient: I've had some nausea and a little bit of heartburn but no vomiting
+Clinician: Okay and and this is this is this is worse with you said worse worse with meals and is there anything else anything else that that makes it worse
+Patient: It is a little tender if I if I press on it and certain positions seem to make it a little worse when I'm most when it's the highest
+Clinician: Okay
+Patient: Pain
+Clinician: Okay sure any pain with urination or any blood in your urine
+Patient: No no urinary symptoms
+Clinician: Okay and how about any diarrhea and any of that or blood in your stool no
+Patient: No change in bowels
+Clinician: Okay alright and so would you say that your appetite has been normal or decreased or any different
+Patient: Well since I'm a little nauseated I'm not quite as hungry and I feel just kind of a little overall a little more fatigued over the last week
+Clinician: Okay okay you didn't overeat you know during the super bowl last weekend did you that was I know probably lots of junk food floating around if your house is anything like mine
+Patient: Well once the packers are out of the playoffs I don't watch the super bowl so nothing I haven't eaten anything unusual
+Clinician: Okay well that's good that's good and and no no travel I know you're a big big travel travel fan you know I remember you telling me about your trip to europe last summer that sounded amazing have you been traveling outside of the country again recently
+Patient: Not recently just back to wisconsin but no unusual travel or other exposures
+Clinician: Okay alright great and okay so so tell me about your migraines how have they been are you still taking the sumatriptan you know as needed when when you developed migraine you have have you had a migraine recently
+Patient: I have not usually they are responsive to just excedrin migraine I use the sumatriptan when I need to if it if it doesn't respond to the over the counter analgesic
+Clinician: Okay
+Patient: So
+Clinician: Okay
+Patient: It's it's been it they've been pretty rare
+Clinician: Okay okay great yeah you've learned a lot about it and and the treatments including the the term analgesic and all of that that's pretty impressive you've been you've been through the ringer I think with with those so okay and so you're taking excedrin when you get a migraine and then sort of would you say maybe for breakthrough migraines or worse migraines you'd take a sumatriptan occasionally
+Patient: Yeah
+Clinician: Okay got it and how about your blood pressure how has that been running at home are you checking your blood pressures daily still and how how your how how have your blood pressures been
+Patient: I have not been checking them daily I I probably check it about two or three times a week
+Clinician: Hmmm
+Patient: And they're pretty good the upper number is usually around in the one twenties or low one thirties and the lower number usually in the seventies
+Clinician: Okay okay not not too bad it does look like you're a little bit elevated today I I maybe I'm just making you nervous though so I hope not so are you but you're still on lisinopril twenty milligrams per day correct it looks like you might be running low do you need a refill of that
+Patient: Yeah actually I was going to ask you about that if I could get a refill that would be great
+Clinician: Sure we can do that and so okay but you are still taking that twenty milligrams per day correct
+Patient: Correct
+Clinician: Okay and alright fair enough so so let's go ahead and and examine you now Karen so on your physical exam pretty normal and and unremarkable for the most part on your on your heart exam I do hear that grade three out of six systolic ejection murmur that you've still got that's unchanged from prior exam that just means I hear some heart sounds you know as I'm listening to your heart there I'm not too concerned about that we'll watch that otherwise normal cardiovascular exam and then your your abdominal exam gastrointestinal exam you have some tenderness in the right upper quadrant I would say mild to moderate tenderness and now if you take a deep breath does that and I press here does that hurt you
+Patient: Yes
+Clinician: Okay yeah you have I would call an equivocal murphy's sign in the right upper quadrant on your abdominal examination as well the rest of your abdomen is soft and no significant tenderness you have no tenderness in the right lower quadrant with deep palpation and you have no cva tenderness on your back exam as well and so we will talk about about that I am a little bit concerned about the tenderness that that I find on your abdominal exam the remainder of your exam Karen is pretty normal and unremarkable and and so that's good let's let's talk about my assessment and your plan so first of all for your first problem of abdominal pain you you do seem to have acute abdominal pain with right upper quadrant tenderness that I'm concerned maybe a sign of some gallstones or possibly even an infection in your gallbladder so I'm gon na order some blood tests and an ultrasound today I'm gon na order a cbc chem twelve urinalysis a pregnancy test and also right upper quadrant ultrasound and so we will we will get those tests done right away I'm gon na keep you here we'll see how those look fortunately we've got the facilities for those and if we need to send you to the emergency department based on those results we will I don't want you to eat anything right now okay in case we find something that might require surgery alright unlikely but it's possible and then okay you know Karen I meant to ask you on your history one thing by chance have you had a fever along with this abdominal pain
+Patient: I've had some chills but no documented fevers
+Clinician: Okay alright alright good yeah I I see you don't have a fever today so that's that's good and so alright now for your second problem the migraine headaches you you do have a history of chronic migraines and and you have occasional bouts of of migraines nothing recent so let's continue the excedrin as needed over the counter for treatment there and then also the sumatriptan as needed for breakthrough migraine pain and I I would just encourage you to continue to avoid alcohol binges and caffeine binges and try to get enough sleep and all of that's easier said than done I know so but but that seems to be helping you now for your third problem of hypertension your blood pressure seems to be under adequate control so that's good we'll continue you on the lisinopril twenty milligrams per day and I will write you a refill prescription for that and send that to the pharmacy please continue to check your blood pressures daily so Karen how does that all sound for a plan any other questions for me
+Patient: I actually do need a refill on my sumatriptan as well
+Clinician: Okay alright sure yeah no problem so for your migraines the migraine problem I'm also gon na write you that that refill prescription for sumatriptan and anything else you can think of
+Patient: No the plan sounds good
+Clinician: Alright sounds good we'll see you back in about four weeks or so and actually I am gon na follow up on your results today before I let you go but I'll check on those and and we'll we'll see how how you do and and hopefully be able to get you home today so we'll go from there I'll I'll see you shortly
+Patient: Thank you

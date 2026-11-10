@@ -1,0 +1,540 @@
+{
+  "encounterId": "osce-RES0037",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I would just like to start with what brought you in here today to the family clinic?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, so I've been coughing for a few months now and so that's the problem."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and how many months have you been coughing for?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Just over two, I would say, and it's been I've been bringing up this yellow, greenish sputum. It's kind of gross."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and how, how much of the sputum would you say you're bringing up in an average day? Like a teaspoon? Tablespoon?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": ": Oh I see OK. I don't know, maybe a few teaspoons throughout the day."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "At first I thought I I I had a, a chest infection, but even after antibiotics from my GP, or or my family doctor, It never cleared up."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and so when did you go on the antibiotics?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Ah so this is about, uh, about a month ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mhmm."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And yeah, so I went to see my family doctor about the cough then and dad was prescribed some antibiotics. I think azithromycin and it, it still didn't, it didn't do anything."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, I see. And do you find that your cough has been getting worse since then?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, I would say the cough has been about the same."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. But how about the sputum that you're bringing up, has that increased?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, it's about the same, but it definitely I would say there's a pink tinge in the sputum now. Every once in awhile I've noticed more than than before."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And did this all start after the chest infection or did you have something like this occur before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, yeah, this all started after."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, I see. Was there anything that happened around that time? Any new environment that you were exposed to?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Ah, well, I did go to India a few months ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and how many months was that? Was that also like two months ago?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, about that, probably closer to three or four, but yeah, right around the time that that I think this, uhm cough started or just before I got back."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, I see. And how often are you coughing in a day?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Ah. a few times an hour."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Anything that makes your cough go away now you've tried?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no nothings really helped it go away."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and is it better or worse? During good morning as opposed to night?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, it's pretty, it's pretty bad all day actually and it's been impacting my sleep because I've been coughing at night too."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I see. And, um, in terms of things that make it worse, anything you do around the house or at work that makes the coughing worse?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh yeah, I guess if I'm just moving around a little bit more it might bring it on a little bit more, but it's pretty bad all day."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I see. And in terms of any other symptoms you might be having, uh, do you have any shortness of breath, runny nose, any chest pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, no, not really."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Besides the pain tinged sputum, have you ever coughed up blood, like red blood?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not anything that was really bright red. More pink."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "More pink. OK. Yeah, so you traveled to India just two months ago. Do you remember what kind of place you stayed in India? Was it a, a in a crowded place or were you by yourself?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well, I mean there is a lot of people around. Yeah, there was not a lot of room where I was was staying, so it was pretty crowded."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and was there anyone that was ill around you or any exposure to tuberculosis?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, not that I'm not aware of. I was around my family but, umm, I guess it's possible."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And once you came back did anyone else, in your family get sick? Or was it just you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Oh yeah, I spoke to my relative went when I got back and they they didn't tell me about one of my cousins there that was feeling sick."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And have you been having any fevers or chills?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I feel I feel like I've been pretty pretty hot sometimes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and how about night sweats?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, the coughs been messing with my sleep, and I've been waking up with night sweats."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And have you been having any headaches?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Ah no headaches."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any do you feel that you've lost any weight recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, maybe a few pounds, but um."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you tried to lose weight, or was that unintentional?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I, I was kind of surprised. I thought I would have gained weight 'cause I've been a bit more lazy recently, but the weight seems to be down anyway."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I see, OK. Have you noticed any wheezing sounds when you breathe out, or breathe in?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No wheezing."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And you mentioned no chest pain, right?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, no chest pain."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you noticed any kind of swelling in your legs or hands or anywhere else in your body?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No swelling."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Any bowel movement changes, any constipation or diarrhea? Any of those?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any urinary problems?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any changes in your appetite at all? Do you feel that you've lost any appetite?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um yeah, yeah maybe eating a little bit less."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And in your current environment right now, are you exposed to any fumes or dust or any animals?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, we have a dog, but um, no fumes or anything like anything like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you experienced any kind of dizziness or fainting spells?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. In terms of your past medical history, have you been diagnosed with any medical conditions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, yeah I meant, uh, high blood pressure. Type 2 diabetes and high cholesterol."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I see. And are you taking any medications for any of those?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I'm taking uhm, a few medications for blood pressure and uh, and and diabetes right now, and I think I Rosuvastatin for for the cholesterol. I'm not sure of the other ones though."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, no worries. And do you know if you're allergic to any medications or do you have any environmental allergies?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I think I I got a rash to penicillin when I was when I was younger, but that's it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any previous hospitalizations?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, nope."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any surgeries?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No surgeries."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and in your family has anyone ever had any cancers or died of a heart attack?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, my mother out a heart attack when she was 48."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And has anyone ever had anything like pulmonary fibrosis or any autoimmune conditions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm. What are those?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So pulmonary fibrosis is a condition in your lung where you start getting like these nodules."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I see."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And it can run in the family and that can cause some of the symptoms like a chronic cough. It can cause sometimes shortness of breath and it can sometimes be associated with the like some connective tissue disorders that can run in the family. Umm, any of those ring a bell?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I haven't heard of anything like that in my family."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Yeah, and other than that, where do you currently live? Do you live by yourself or with anyone else?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I live with my husband and three sons just outside of town here."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And have any of them been sick?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, everybody's been feeling well at home."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And do you work currently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no, I'm I retired."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And currently do you smoke? Cigarettes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah yeah, I smoke about a half a pack of cigarettes per day and ah, I've been trying to cut down."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and how long have you been smoking for?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Ah probably like 30 years."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I see and do you use any recreational drugs like marijuana or cocaine?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Ah, no I've never used anything like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and how about alcohol? Do you drink alcohol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, OK. Alright, so yeah those are all the questions I had for you today. Do you have any questions for me or any questions or concerns?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, not right now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so we'll be doing some investigations since you recently traveled to India, we need to make sure that you don't have tuberculosis, as that's prevalent in some parts of India. So we will do some, we might get like a chest X-Ray for that, you may have a pneumonia as well and then we'll go from there. Does that sound good?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, for sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK alright well, yeah, well, after those tests have come back, we'll see you in the next appointment for follow up."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You're welcome."
+    }
+  ]
+}

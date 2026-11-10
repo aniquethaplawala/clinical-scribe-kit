@@ -1,0 +1,150 @@
+{
+  "encounterId": "aci-D2N102",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Kelly Wood. Date of birth, february 15th, 1979. Established patient here for renal ultrasound because of hematuria. Urine dipstick today. Negative for leukocytes, nitrates, protein, ketone, bilirubin and glucose. Color yellow and clear, urobilinogen 0.2, ph 5.5 and specific gravity 1.020. There is a trace amount of blood in the urine and intact. Renal ultrasound impression. Right kidney is 10 cm in length by five centimeter wide. There are no stones, masses or hydronephrosis. The left kidney is 10.8 centimeters in length and five centimeters wide. There is a six millimeter left renal stone non-obstructing. 533 milliliters pre-void and 0 milliliters post-void. Hi, mrs. Wood. I see you're just finished your ultrasound."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, ma'am."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Well, it looks like you have one stone in the left kidney but it's not obstructing anything."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I knew it had to be a kidney stone. I passed what looked like two small stones last week after I scheduled this appointment. And then for the past six weeks, I've had a few episodes of bright red urine the color of, like, cherry kool-aid. And last week, I was constantly having to pee and it hurt something terrible."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How bad was your pain on a scale of zero to 10? Zero being no pain and 10 being worse, as you can imagine."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, at the time, I'd say an eight."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Are you having any flank pain now or tenderness in your lower back?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, after passing those stones, things have felt a lot better."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "That's good to hear. Now, it looks like you're only taking alavert 10 milligrams a day and have no drug allergies. Is that correct?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That's right."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right, let's take a look at you today. Let's use my default pe. Well, mrs. Wood, we know that the blood in your urine was due to the kidney stones. Fortunately, you passed two last week and the blood has nearly subsided. You do still have one stone in the left kidney. Since it's not obstructing or causing pain, I don't recommend any surgical intervention at this time."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'd like to know what I can do to stop getting these stones."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "As we discussed last time, the formation of kidney stones can not be attributed to a particular cause. But several factors increase the risk, such as dehydration, family history, certain foods, digestive tract disease and certain medical conditions."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I know I don't drink near the amount of water that I should. I drink more mountain dew than anything."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You should drink about half of your body weight in ounces of water a day."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So, if I weight 250 pounds, I should drink?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "That would be 125 ounces of water a day and you should avoid drinking sugary drinks like mountain dew."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay. Is there any food I shouldn't eat?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Great question. You should avoid food rich in sodium oxalate and animal protein. So that would be salty, processed food because they're high in sodium. Ideally, you should consume less than 1,000 milligrams of sodium a day and reduce the amount of beef, poultry, fish, and pork."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "What's oxalate?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "It's an organic acid found in plants, that when digested, it binds to minerals that stones are formed from. Foods like spinach, chocolate, beets, rhubarb and soy products."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well, I'll do whatever it takes to try to avoid getting these stones again."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Great. And here's a handout that you can look over. It goes over the dietary recommendations and what to avoid."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, good. I like to have things in writing to help me remember."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Perfect. Well, if you have any more questions. If you don't have any more questions, you're all set. I won't need to see you back until next year, as long as you don't have any more issues like bleeding or pain. If you do have any issues, you can always call the office sooner. And if you experience any severe pain or bright red blood in your urine, you should go to the emergency room."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "All right. Well, let's hope we don't have to do either of those and I see you next year."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yes, let's hope. Come right this way and I'll walk you to check out. Update pe abdomen. No flank pain. Anti gu. Normal vaginal exam. Primary diagnosis is hematuria. Secondary diagnosis is chronic urol... Urolithiasis. Thank you. This completes mrs. Wood encounter."
+    }
+  ]
+}

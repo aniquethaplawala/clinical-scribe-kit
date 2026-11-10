@@ -1,0 +1,505 @@
+{
+  "encounterId": "aci-D2N037",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey Dylan what's going on so I lift quite a bit of weights I try to stay in shape as much as I can I'm not like normal people I lift heavy weights and my elbow is extremely sore which elbow is it"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Actually it's both my elbows but my right elbow is hurting me the most"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and you said you lift a lot of weights"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Did you play any sports when you were younger"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No anything you can think of primarily it was basketball baseball and football"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and did your elbows hurt at that time or is this a a new injury"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's new"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "When did it start"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Probably year and a half ago"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay on both elbows about a year and a half ago"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay have you taken anything for the pain"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Ibuprofen eight hundred milligrams three times a day"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and does anything make it better or worse"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "The more I use my hands or my arms the more it hurts"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay have you tried icing"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Does that give you any relief"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright is it the inside or outside of your elbows"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Inside"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Inside okay let's just do a quick physical exam here I'll take a look at your right elbow first"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "If I bend it this way up does it hurt it's your left does that hurt"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How about this"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay so pain with both flexion and extension"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Looks like you have little bit of limited range of motion on extension not on flexion though you said it hurts right here on the inside of your elbow"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay so pain on the medial side with palpation"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright how about the outside"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No pain with palpation outside of the elbow you have do you have normal sensation in your fingers"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I think so"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay great"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Good to go"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Sensation is normal to the touch"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Pulses equal in all extremities how about the left elbow same thing if I bend it this way does that hurt"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not as much"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How about this way"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not as much"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright so little bit of pain on flexion and extension little bit of limited range of motion on extension of the arm how about if you twist like you're opening a door"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay so some pain with torsion and twisting supination what about pronation"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No pain with pronation on the right side"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Same thing on the left"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Pain with supination no pain with pronation"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Correct"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright so Dylan it took some x-rays coming in looks like you don't have any any fractures or any bony misalignment which I expect with this kind of injury I do think that what you have is medial epicondylitis which is"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Is that golfer's elbow"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yes same thing have you been golfing a lot"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well not in the past year and a half I've had this for a long time"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay also known as pictures elbow"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well I haven't been pitching either"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hmmm well in any case what I'm gon na have to do is I'm gon na send you up for mri to take another look at this"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "That will be our next step so we'll get you scheduled for the mri probably get you in pretty quick here since we're a private practice"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Thank god"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah and once you get the mri I'll know a little bit more what I'd like to do is something called a whole blood transfusion have you heard of that before"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No please tell me remind me"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah it should help with the healing of your elbow it's just a procedure we'll stick a needle in your elbow"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You do a stick needle in my elbow"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mm-hmm and help with some of the healing of your elbow"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So it's kinda like dry needling then"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not at all"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "What is it"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Is it is that that thing where like you take the blood out of like say my my thigh"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And then you literally inject it into my tendon"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yes"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That it activates the healing"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah that's exactly what it is"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Interesting cool"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Maybe I have heard about that"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "We've we've had some really good responses from other patients on it so hopefully I mean that should be a good solution for you since you've been having issues with this"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm excited"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah and we can hopefully get you scheduled for that in the next couple of weeks it's not not a major procedure and you should heal in the next two weeks so that won't be a problem especially considering that you're expecting a newborn soon we want to make sure you're all healed for that"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Wow I didn't even say that"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I read it in your chart"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Man you doctors are good"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah anything else going on today"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Just trying to figure out how you're doing"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Very good thank you"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You're welcome"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Nice to see you"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You have a good day"
+    }
+  ]
+}

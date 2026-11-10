@@ -1,0 +1,729 @@
+{
+  "encounterId": "pm57-d5c07",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 1.24,
+      "end": 3.12,
+      "text": "Hi there, it's Doctor Smith from Babylon."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 3.36,
+      "end": 4.06,
+      "text": "Hi."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 4.34,
+      "end": 7.49,
+      "text": "Hi. Can you confirm you name, date of birth and your home address, please?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 7.79,
+      "end": 13.35,
+      "text": "Uh, Sandra Bullock, uh, twentieth of February, nineteen fifty eight."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 8.43,
+      "end": 16.63,
+      "text": "Hello. [inaudible] And your home address?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 17.6,
+      "end": 22.29,
+      "text": "Uh, seven three four, [inaudible] court in St. [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 22.13,
+      "end": 26.88,
+      "text": "OK, that's fine. Uh, are you in a private place that you can have a consultation at the moment?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 27.07,
+      "end": 28.23,
+      "text": "Yeah, yeah, I am."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 28.6,
+      "end": 30.37,
+      "text": "OK, what can I do for you today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 30.94,
+      "end": 36.84,
+      "text": "Um, well, like five days ago I started having problems like a cough, and my nose is just constantly streaming."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 37.57,
+      "end": 41.52,
+      "text": "OK. And, and are you normally fit and well?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 42.13,
+      "end": 47.36,
+      "text": "Yeah, normally I'm diabetic, but other than that, like, generally pretty good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 47.51,
+      "end": 51.33,
+      "text": "Right, OK. So, just tell me about the last, did you say five days?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 51.61,
+      "end": 53.22,
+      "text": "Yeah, five days or so ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 53.17,
+      "end": 55.45,
+      "text": "OK. How about your cough at the moment?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 56.12,
+      "end": 64.56,
+      "text": "Uh, it's quite bad. It's kind of quite dry, um. I'm coughing maybe every twenty, thirty minutes or so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 64.61,
+      "end": 66.9,
+      "text": "OK, you bringing up any phlegm at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 67.75,
+      "end": 68.75,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 69.17,
+      "end": 71.3,
+      "text": "No. Any chest pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 70.24,
+      "end": 73.24,
+      "text": "No. Chest what, sorry?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 72.91,
+      "end": 74.61,
+      "text": "Any pain in your chest?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 74.84,
+      "end": 75.78,
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 75.99,
+      "end": 81.01,
+      "text": "Any difficulty breathing, feeling short of breath or any pain when you take a deep breath?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 81.42,
+      "end": 82.66,
+      "text": "No, that's all fine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 82.64,
+      "end": 85.0,
+      "text": "Have you coughed up any blood or anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 85.55,
+      "end": 86.06,
+      "text": "Nope."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 86.32,
+      "end": 92.97,
+      "text": "And what about your nose symptoms? Are you [inaudible] front of your sinuses or anything?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 89.73,
+      "end": 99.2,
+      "text": "Uh, just [inaudible] . Uh, nothing up in here but just constant streaming, like, using a million tissues."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 98.87,
+      "end": 101.49,
+      "text": "OK. And any blood coming from the nose?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 101.77,
+      "end": 103.5,
+      "text": "No, it's pretty green."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 103.86,
+      "end": 107.89,
+      "text": "Right, OK. Any other symptoms, like sore ears? Sore throat?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 108.1,
+      "end": 119.61,
+      "text": "Uh, I [inaudible] I've been feeling really hot, um, I don't know if it's fever as such, but, [inaudible] like, to touch I'm quite hot but sometimes I'm feeling really chilly, needing to be under a blanket, that sort of thing."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 119.23,
+      "end": 121.82,
+      "text": "Have you checked your temperature with a thermometer?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 122.26,
+      "end": 123.62,
+      "text": "Uhh, no, I haven't."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 123.87,
+      "end": 128.1,
+      "text": "OK. Um, and are you eating and drinking normally?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 128.88,
+      "end": 138.61,
+      "text": "Uhh, yes. Um, kind of around when it started, I had some diarrhoea, but I don't know if that was associated. But since then it's all been pretty fine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 138.8,
+      "end": 142.6,
+      "text": "OK. So, you're drinking well, holding down fluids OK?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 143.24,
+      "end": 143.79,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 143.81,
+      "end": 145.5,
+      "text": "And passing water OK?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 146.05,
+      "end": 147.1,
+      "text": "Yeah, that's fine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 146.63,
+      "end": 148.39,
+      "text": "No vomiting, diarrhoea now?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 148.66,
+      "end": 149.23,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 149.64,
+      "end": 154.37,
+      "text": "OK, that's fine. Um, any rashes that you've noticed?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 154.74,
+      "end": 157.83,
+      "text": "Rashes? Uhh, no, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 155.52,
+      "end": 160.16,
+      "text": "Yeah. Any headaches or change in your vision?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 160.42,
+      "end": 164.77,
+      "text": "No, um, I've had quite achy muscles, but that's pretty much it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 165.38,
+      "end": 169.35,
+      "text": "OK. And normally, do you have any chest problems?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 170.13,
+      "end": 171.19,
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 171.14,
+      "end": 173.97,
+      "text": "Do you ever get wheezing, short of breath?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 175.0,
+      "end": 178.88,
+      "text": "Uh, I mean, like, if I do intense exercise, then yes. But not [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 177.95,
+      "end": 185.41,
+      "text": "[inaudible] . And, do you regularly have any infections in your chest, or anything that needs treatment, normally?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 185.92,
+      "end": 191.9,
+      "text": "No, uh, I've got hypertension, um, so I'm on some drugs for that, um, but that's it, really."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 191.8,
+      "end": 195.24,
+      "text": "OK. Um, any other medical problems?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 196.79,
+      "end": 200.08,
+      "text": "Uh, just the hypertension and the diabetes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 199.83,
+      "end": 202.14,
+      "text": "OK, and what type of drugs are you on?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 202.76,
+      "end": 208.76,
+      "text": "Uh, I think something called metformin, and lisinopril I think is the other one."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 209.21,
+      "end": 211.7,
+      "text": "OK, and when did you last have your blood pressure checked?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 213.03,
+      "end": 220.51,
+      "text": "Uh, ooh, uh, [inaudible] a while ago. Um, [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 217.96,
+      "end": 221.28,
+      "text": "[inaudible] Do you know if it, do you know if it's been stable?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 221.93,
+      "end": 223.33,
+      "text": "Uh, I can't remember."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 223.24,
+      "end": 230.58,
+      "text": "OK. And with your blood, with your diabetes, have you had a blood test recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 231.47,
+      "end": 240.33,
+      "text": "Um, yeah. Like. Yeah, it was normal. It was around three weeks ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 240.81,
+      "end": 244.2,
+      "text": "OK, and do you know what dose of the lisinopril you're taking?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 244.89,
+      "end": 247.49,
+      "text": "Uh, two hundred."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 248.37,
+      "end": 256.41,
+      "text": "OK. Have you been able to pass water normally? Any increase in [inaudible] in frequency that you're passing water or any increased thirst?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 257.17,
+      "end": 259.63,
+      "text": "Uh, no, not particularly."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 259.76,
+      "end": 261.87,
+      "text": "And has your weight been stable?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 262.72,
+      "end": 263.47,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 263.48,
+      "end": 265.58,
+      "text": "What is your weight and height?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 265.86,
+      "end": 272.52,
+      "text": "Uh, my height is five foot five, and my weight is sixty five kilograms."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 272.87,
+      "end": 278.22,
+      "text": "OK. And do you smoke at all? You drink any alcohol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 278.72,
+      "end": 280.75,
+      "text": "Yes, the odd cherry."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 281.42,
+      "end": 284.12,
+      "text": "OK.Um, who do you live with at home?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 284.52,
+      "end": 286.59,
+      "text": "Uh, my partner and my dog."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 288.13,
+      "end": 289.71,
+      "text": "And do you work?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 290.28,
+      "end": 293.31,
+      "text": "Uh, yes. I'm an office manager."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 293.22,
+      "end": 301.0,
+      "text": "OK. And have you been doing anything yourself to help with the symptoms? Anything that you've bought in the chemist?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 302.02,
+      "end": 308.5,
+      "text": "Um, uh, a quite a few lemon sips. Um, they seems to be helping."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 308.58,
+      "end": 312.38,
+      "text": "Do you, what, what do you mean by quite a few? How many in, in a day do you normally take?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 312.75,
+      "end": 316.59,
+      "text": "Uh, maybe two or three. Maybe, like, at the start of the day and at the end of the day."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 316.89,
+      "end": 319.45,
+      "text": "OK. Have you noticed any improvement in that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 320.32,
+      "end": 323.72,
+      "text": "Yeah. It tends to soothe my throat a bit for when I'm going to sleep."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 324.47,
+      "end": 328.32,
+      "text": "OK. Um, do you have any allergies to anything?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 329.14,
+      "end": 333.64,
+      "text": "Uh, I sometimes suffer from some, like, hay fever. But, um, but it's not bad [inaudible]"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 332.24,
+      "end": 335.81,
+      "text": "Any [inaudible] . Any allergies to any medications at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 336.05,
+      "end": 337.61,
+      "text": "Not that I'm aware of, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 337.83,
+      "end": 358.22,
+      "text": "OK. So, what you've described to me, it sounds like you, you probably have got an infection in the chest, um, because it's, it, you know, you're obviously getting symptoms of from your nose and your chest. Um, it sounds like you might have a high temperature, it's definitely worth getting a thermometer and checking your temperature."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 358.5,
+      "end": 361.58,
+      "text": "OK. I can just get one of those at a pharmacy or something?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 361.9,
+      "end": 419.58,
+      "text": "Yeah, and most of the time, these infections are caused by viruses, so they do normally settle by themselves. But it can take, you know, a week or two, um, and you can [inaudible] persistently have the cough ongoing longer than that. Um, the important thing to do would be to take your temperature. Um, and if you feel like, if the temperature's ongoing, above thirty seven point five, thirty eight, um, and you keep spiking temperatures and that's not settling down, or your cough's getting worse, you're coughing up lots of nasty phlegm or you cough up any blood or get blood coming out your nose, um, or any shortness of breath, chest pain, then we certainly would need to speak to you again. With the diabetes you are a bit more likely to get a bacterial infection than if you didn't have the diabetes, so it's something we do need to be careful of."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 411.11,
+      "end": 424.97,
+      "text": "OK. OK. So, then we would at potentially antibiotics at that time, perhaps?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 424.75,
+      "end": 430.77,
+      "text": "Yeah, potentially. If it is, if it's not settling or the temperature's ongoing, getting worse, then we definitely need to talk to you again."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 430.93,
+      "end": 431.72,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 431.77,
+      "end": 435.02,
+      "text": "Um, have you got any other questions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 435.64,
+      "end": 438.05,
+      "text": "Um, no, that's all fine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 437.96,
+      "end": 451.29,
+      "text": "It's fine to carry on what you're doing at the moment, with the lemsip. I wouldn't take, and that, that contains paracetamol so don't take any other paracetamol containing products, um, with that at the same time."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 445.79,
+      "end": 446.33,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 451.29,
+      "end": 464.64,
+      "text": "Um, the cough syrup isn't advisable in the daytime because it's best for your body if you just keep coughing. But if you're kept up all night and you can't sleep at all, then it, it's OK to have a little bit of cough syrup, just to settle that down."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 465.35,
+      "end": 466.51,
+      "text": "OK. Cool."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 467.22,
+      "end": 483.12,
+      "text": "OK? Do you have blood sugar checking equipment? Do you check? No, OK. Well, if you make sure that you have the regular diabetes and blood pressure checkups that your GP has asked you for?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 468.56,
+      "end": 483.95,
+      "text": "Yep. I'm not at home. Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 484.32,
+      "end": 489.24,
+      "text": "OK, great. Alright then, take care. Bye."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 486.74,
+      "end": 489.18,
+      "text": "Alright. Thanks so much. Bye."
+    }
+  ]
+}

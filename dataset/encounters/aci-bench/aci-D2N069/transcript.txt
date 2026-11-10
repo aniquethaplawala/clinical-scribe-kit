@@ -1,0 +1,49 @@
+Clinician: Hi, ms. Thompson. I'm dr. Moore. How are you?
+Patient: Hi, dr. Moore.
+Clinician: Hi.
+Patient: I'm doing okay except for my knee.
+Clinician: All right, hey, dragon, ms. Thompson is a 43 year old female here for right knee pain. So tell me what happened with your knee?
+Patient: Well, I was, um, trying to change a light bulb, and I was up on a ladder and I kinda had a little bit of a stumble and kinda twisted my knee as I was trying to catch my fall.
+Clinician: Okay. And did you injure yourself any place else?
+Patient: No, no. It just seems to be the knee.
+Clinician: All right. And when did this happen?
+Patient: It was yesterday.
+Clinician: All right. And, uh, where does it hurt mostly?
+Patient: It hurts like in, in, in the inside of my knee.
+Clinician: Okay.
+Patient: Right here.
+Clinician: All right. And anything make it better or worse?
+Patient: I have been putting ice on it, uh, and I've been taking ibuprofen, but it doesn't seem to help much.
+Clinician: Okay. So it sounds like you fell a couple days ago, and you've hurt something inside of your right knee.
+Patient: Mm-hmm.
+Clinician: And you've been taking a little bit of ice, uh, putting some ice on it, and hasn't really helped and some ibuprofen. Is that right?
+Patient: That's right. Yeah.
+Clinician: Okay, let's review your past history for a second. It looks like, uh, do you have any other past medical history?
+Patient: Uh, afib.
+Clinician: Okay, and are you taking any medications for that?
+Patient: Yeah, I am. Um, begins with a d.
+Clinician: Uh, digoxin?
+Patient: That's it. Yeah, that's it.
+Clinician: Okay, all right. How about any surgeries in the past?
+Patient: I have had a nose job.
+Clinician: All right. Um, let's do your exam, okay? So is it tender... Where is it mostly tender right now?
+Patient: Right on the inside of my knee. Right here.
+Clinician: All right, so if I bend your knee forward, does that seem to hurt?
+Patient: Yes, that hurts.
+Clinician: All right, how about if I twist it a little bit that way.
+Patient: That hurts a lot.
+Clinician: Okay, okay. And how about down here? Do you feel me touch you down here?
+Patient: Yes.
+Clinician: All right. Any other pain down here in your calves?
+Patient: No.
+Clinician: No, okay. So on exam you do have some tenderness over the medial portion of your knee over the medial meniscus area. Uh, there is no, uh, there is a little bit of tenderness when I flex your, uh, when I, uh, uh, do some valgus stressing on your, on your leg. Um, you have normal sensation. So let's take a look at your x-rays.
+Patient: Okay.
+Clinician: Okay. Hey dragon, show me the x-rays. So looking at the x-ray, um, of your left knee, uh, it appears to be there's no fractures there right now. I don't see any, uh, there's a little bit of, uh, fluid, uh, but there is no, uh, there's no, um, fracture or there's no dislocation. Everything else seems to be lined up properly, okay?
+Patient: Okay.
+Clinician: So in summary after my exam, uh, looking at your knee, uh, on the x-ray and your exam, you have some tenderness over the medial meniscus, so I think you have probably an acute medial meniscus sprain right now or strain. Uh, at this point, my recommendation would be to put you in a knee brace, uh, and we'll go ahead and have you use some crutches temporarily for the next couple days. We'll have you come back in about a week and see how you're doing, and if it's not better, we'll get an mri at that time.
+Patient: Okay.
+Clinician: I'm going to recommend we give you some motrin, 800 milligrams. Uh, you can take it about every six hours, uh, with food. Uh, and we'll give you about a two week supply.
+Patient: Okay.
+Clinician: Okay. Uh, do you have any questions?
+Patient: No, I think I'm good.
+Clinician: All right. Hey, dragon, order the medications and procedures discussed, and finalize the report. Okay, come with me and we'll get you checked out.

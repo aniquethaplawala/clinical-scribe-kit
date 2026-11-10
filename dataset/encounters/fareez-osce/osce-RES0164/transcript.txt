@@ -1,0 +1,89 @@
+Clinician: What brings you in here today?
+Patient: Hey, I'm I'm the mom of, of the patient. He's he's a kid, he has had, he just had a cough and stuffy nose for the past three days.
+Clinician: OK, and so did they both start around the same time or one started before the other?
+Patient: They started the same time. He's also had like these, these, his eyes have been like kind of red and watery as well.
+Clinician: OK, and is he, what kind of cough is he having a dry cough or wet cough?
+Patient: It's a dry cough.
+Clinician: Dry cough, OK and and so with the congestion is he also having any kind of nasal drainage?
+Patient: Yeah, it's it's like watery.
+Clinician: Watery OK so now are you noticing any kind of yellow or greenish material?
+Patient: No.
+Clinician: OK, and he hasn't, is he coughing up any blood at all at any point?
+Patient: No no no.
+Clinician: And so this started just recently three days ago. Was he in contact with anyone that's been sick recently?
+Patient: I don't think so, but he has been like playing outside quite a bit. And sometimes he's just playing with the neighbours kids.
+Clinician: OK. Has this happened before?
+Patient: Yeah it has, but I guess what I'm concerned about is the rash that he has now that he's never had before.
+Clinician: OK, and where is the rash, exactly?
+Patient: It's on his face. It started this morning.
+Clinician: OK, and can you describe the rash for me like it's color, shapes, and what kind of looks like?
+Patient: Small really small dots like kind of, uhm, like I'd say like brown in color. Like brownish dark reddish.
+Clinician: OK, let's just are they just located on his face?
+Patient: Yeah, like it was on his face and it's kind of a little bit on his neck.
+Clinician: OK, uh and is he scratching at them at all?
+Patient: Yeah.
+Clinician: OK, Um, OK and so they just started today. Have you had these rashes before at all?
+Patient: No, no he hasn't.
+Clinician: OK, anything new at all that he has either eaten or any new clothing or new laundry detergent or soap, so anything at all?
+Patient: No no.
+Clinician: OK. OK, And has he had any fevers or chills anything like that?
+Patient: Uh, he has been feeling a little bit warm. I didn't really check his temperature.
+Clinician: And. And busy so, it started three days ago. Anything happened before 3 days at all that might have caused the symptoms?
+Patient: I don't think so. As I said, he has been playing around with others so could have caught something?
+Clinician: OK, And OK, any kind of ah, have you tried anything that has helped him at all? Any medications?
+Patient: Uhm? I haven't tried anything yet, no.
+Clinician: OK, and how often is he coughing? Is he coughing throughout the day or is it more so with exerting himself?
+Patient: Um, it's just kind of all through the day. It's actually gotten a little bit better. Uhm, the cough has gotten better. But what I'm concerned about is the, the rash?
+Clinician: OK cough's gotten better yeah. Does he have visit rush it so is it mainly just on his forehead or also on his cheeks?
+Patient: It's on his cheeks on his chin. It's kind of on his neck. It's kind of like this blotchy reddish, brownish like little dots. Kind of, it's not like, it's not raised, it's like flat.
+Clinician: OK, and uh. Is it kind of just a bit like a bright red rash that's kind of covering the cheeks or little little dots everywhere?
+Patient: Kind of little dots.
+Clinician: OK, any anything on his nose?
+Patient: Yeah, yeah, it's on his nose as well.
+Clinician: OK, um, OK, but no fevers, right?
+Patient: He, I guess he might have had a fever. He was feeling warm.
+Clinician: OK. And any other symptoms like shortness of breath, sore throat, anything like that?
+Patient: No, no, nothing like that.
+Clinician: OK. And otherwise, any other symptoms like just not like behavioural changes, not being himself, being more irritable at all?
+Patient: So yeah, he's just been tired. He hasn't been doing anything, he's just been lying in bed. Hasn't eaten.
+Clinician: OK. Any at all, is he having any nausea or vomiting?
+Patient: No.
+Clinician: Any diarrhea or constipation?
+Patient: No.
+Clinician: Any changes in his urination?
+Patient: No.
+Clinician: Any changes in his sleep or appetite?
+Patient: No. Well, he has been eating little less, but nothing like nothing else.
+Clinician: OK. And has he been complaining at all of any abdominal pain or anything like that?
+Patient: No.
+Clinician: OK. Otherwise that has he been healthy or if he had any medical conditions diagnosed?
+Patient: He's been healthy.
+Clinician: OK. And and any previous surgeries or hospitalizations?
+Patient: No.
+Clinician: Any medications that he takes regularly?
+Patient: No.
+Clinician: And any family history of any lung or heart conditions?
+Patient: No.
+Clinician: Concurrently, or like during your pregnancy with him, any complications at all?
+Patient: No.
+Clinician: And did, was he meeting his milestones that developmentally in terms of, also with growth and height and everything like that?
+Patient: Yeah, he seems to be doing OK come when he's doing as well as his other brother, his two brothers.
+Clinician: OK, and does he go to school at all? What grade is he in?
+Patient: He's going to school. Um, online.
+Clinician: Online right now? OK, yeah. And any issues at school at all. Any complaints that we've been told?
+Patient: No.
+Clinician: OK. Great, so, uh and how is the houses or your living situation like?
+Patient: It's, uh, things are good, so it's him, his two older brothers, my husband and me.
+Clinician: OK, and has anyone been sick recently or had similar symptoms?
+Patient: No.
+Clinician: OK. Alright. Has anyone in the family ever had any diagnosis of asthma, eczema, allergic rhinitis?
+Patient: No.
+Clinician: No, nothing like that, OK. Alright, so yeah those are all the questions I had for you today. Do you have any questions or concerns?
+Patient: No.
+Clinician: OK. So yeah, so, we'll, we'll be doing a couple we'll do a physical examination, I want to see examined with the rash looks like and there's many things that can cause a rash. There's uh viral infections that can cause some of the symptoms. The symptoms he's having mainly seen viral with a dry cough and runny nose. And then you can we have a rash as well. One thing I forgot to ask actually is is he fully immunized?
+Patient: Um, he I guess he didn't get all his immunizations done earlier. He did get them a little bit later so we came from Syria as refugees. But I I'm thinking he got all his immunizations when he, uh, came to, when we moved to Canada.
+Clinician: OK, and is he complaining of joint or muscle aches at all?
+Patient: No.
+Clinician: No, nothing like that, OK. Alright, so yeah, we'll do it like a full physical examination, and if it's more just a viral, it'll be something that we'll just have to monitor and do supportive care for. But if it's anything else we might need to do further investigations. OK, and we'll just do a COVID swab for him today as well as some of the symptoms overlap with COVID symptoms and you will get the results back in 24 hours to 48 hours and then further instruction from public health.
+Patient: Sounds great.
+Clinician: Alright, well, take care, talk to you soon.

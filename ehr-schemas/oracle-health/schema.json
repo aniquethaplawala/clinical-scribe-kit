@@ -1,0 +1,404 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Oracle Health (Cerner): encounter note extraction (Sully Text to JSON)",
+  "description": "Send a generated note as `text` with this schema to POST /v1/utils/text-to-json. `ehrNote` holds the note text shaped for Oracle Health (Cerner); the other fields are discrete data. Extract only facts written in the note; use null or [] when absent.",
+  "type": "object",
+  "properties": {
+    "ehrNote": {
+      "type": "object",
+      "description": "Oracle Health stores one document per DocumentReference.",
+      "properties": {
+        "fullNote": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Copy the entire note verbatim as plain text, keeping section headings and bullets. Return null if the note has no such content."
+        }
+      },
+      "required": [
+        "fullNote"
+      ],
+      "additionalProperties": false
+    },
+    "problems": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Problem or diagnosis exactly as named in the note."
+          },
+          "icd10Code": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "ICD-10-CM code only if it is written in the note. Never infer a code; return null otherwise."
+          },
+          "status": {
+            "type": "string",
+            "enum": [
+              "new",
+              "assessed-today",
+              "chronic-stable",
+              "resolved",
+              "history-only"
+            ],
+            "description": "new = first diagnosed today; assessed-today = existing problem addressed today; history-only = mentioned as past history and not addressed."
+          },
+          "assessment": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "The note's one-sentence assessment for this problem, or null."
+          }
+        },
+        "required": [
+          "name",
+          "icd10Code",
+          "status",
+          "assessment"
+        ],
+        "additionalProperties": false
+      },
+      "description": "Problems from Assessment and Plan, plus past history conditions marked history-only. Empty array if none."
+    },
+    "medications": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Medication name as written."
+          },
+          "dose": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Strength and amount, e.g. '20 mg'."
+          },
+          "route": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "e.g. oral, topical, inhaled, subcutaneous."
+          },
+          "frequency": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "e.g. once daily, twice daily as needed."
+          },
+          "duration": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "e.g. 5 days, or null."
+          },
+          "action": {
+            "type": "string",
+            "enum": [
+              "started",
+              "continued",
+              "dose-increased",
+              "dose-decreased",
+              "stopped",
+              "discussed-not-started",
+              "history-only"
+            ],
+            "description": "What happened to this medication at this visit according to the note."
+          }
+        },
+        "required": [
+          "name",
+          "dose",
+          "route",
+          "frequency",
+          "duration",
+          "action"
+        ],
+        "additionalProperties": false
+      },
+      "description": "Every medication the note mentions. Empty array if none."
+    },
+    "allergies": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "substance": {
+            "type": "string",
+            "description": "Allergen as written."
+          },
+          "reaction": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Reaction as written, or null."
+          },
+          "category": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "enum": [
+              "medication",
+              "food",
+              "environment",
+              "biologic",
+              null
+            ],
+            "description": "Allergen category, or null if unclear."
+          }
+        },
+        "required": [
+          "substance",
+          "reaction",
+          "category"
+        ],
+        "additionalProperties": false
+      },
+      "description": "Allergies stated in the note. Empty array if none or Not Provided. Do not include 'no known allergies' as an item."
+    },
+    "noKnownAllergies": {
+      "type": [
+        "boolean",
+        "null"
+      ],
+      "description": "true only if the note explicitly states no known allergies; false if allergies are listed; null if not discussed."
+    },
+    "vitals": {
+      "type": "object",
+      "properties": {
+        "systolicBp": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "description": "Systolic blood pressure in mmHg."
+        },
+        "diastolicBp": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "description": "Diastolic blood pressure in mmHg."
+        },
+        "heartRate": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "description": "Beats per minute."
+        },
+        "respiratoryRate": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "description": "Breaths per minute."
+        },
+        "temperature": {
+          "type": "object",
+          "properties": {
+            "value": {
+              "type": [
+                "number",
+                "null"
+              ],
+              "description": "Numeric value."
+            },
+            "unit": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "description": "Unit exactly as written, e.g. lb, kg, F, C, in, cm."
+            }
+          },
+          "required": [
+            "value",
+            "unit"
+          ],
+          "additionalProperties": false,
+          "description": "Body temperature; null value if not stated."
+        },
+        "oxygenSaturation": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "description": "SpO2 percent."
+        },
+        "weight": {
+          "type": "object",
+          "properties": {
+            "value": {
+              "type": [
+                "number",
+                "null"
+              ],
+              "description": "Numeric value."
+            },
+            "unit": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "description": "Unit exactly as written, e.g. lb, kg, F, C, in, cm."
+            }
+          },
+          "required": [
+            "value",
+            "unit"
+          ],
+          "additionalProperties": false,
+          "description": "Body weight; null value if not stated."
+        },
+        "height": {
+          "type": "object",
+          "properties": {
+            "value": {
+              "type": [
+                "number",
+                "null"
+              ],
+              "description": "Numeric value."
+            },
+            "unit": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "description": "Unit exactly as written, e.g. lb, kg, F, C, in, cm."
+            }
+          },
+          "required": [
+            "value",
+            "unit"
+          ],
+          "additionalProperties": false,
+          "description": "Body height; null value if not stated."
+        },
+        "painScore": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "description": "0-10 pain score if stated."
+        }
+      },
+      "required": [
+        "systolicBp",
+        "diastolicBp",
+        "heartRate",
+        "respiratoryRate",
+        "temperature",
+        "oxygenSaturation",
+        "weight",
+        "height",
+        "painScore"
+      ],
+      "additionalProperties": false,
+      "description": "Vital signs measured at this visit. Use null for any not stated. Do not copy prior-visit values."
+    },
+    "orders": {
+      "type": "object",
+      "properties": {
+        "labs": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "description": "Lab test name."
+          },
+          "description": "Laboratory tests ordered at this visit."
+        },
+        "imaging": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "description": "Study with body site and details."
+          },
+          "description": "Imaging ordered at this visit."
+        },
+        "referrals": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "specialty": {
+                "type": "string",
+                "description": "Specialty or service."
+              },
+              "reason": {
+                "type": [
+                  "string",
+                  "null"
+                ],
+                "description": "Reason, or null."
+              }
+            },
+            "required": [
+              "specialty",
+              "reason"
+            ],
+            "additionalProperties": false
+          },
+          "description": "Referrals made at this visit."
+        },
+        "procedures": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "description": "Procedure performed or scheduled."
+          },
+          "description": "Procedures performed today or scheduled."
+        }
+      },
+      "required": [
+        "labs",
+        "imaging",
+        "referrals",
+        "procedures"
+      ],
+      "additionalProperties": false,
+      "description": "Orders placed at this visit only. Completed results reviewed today are not orders."
+    },
+    "followUp": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Follow-up interval or date as written, or null."
+    },
+    "patientInstructions": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "description": "One instruction or education point."
+      },
+      "description": "Counseling and instructions given to the patient. Empty array if none."
+    }
+  },
+  "required": [
+    "ehrNote",
+    "problems",
+    "medications",
+    "allergies",
+    "noKnownAllergies",
+    "vitals",
+    "orders",
+    "followUp",
+    "patientInstructions"
+  ],
+  "additionalProperties": false
+}

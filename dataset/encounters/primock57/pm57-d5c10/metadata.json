@@ -1,0 +1,21 @@
+{
+  "encounterId": "pm57-d5c10",
+  "source": "PriMock57",
+  "sourceUrl": "https://github.com/babylonhealth/primock57",
+  "license": "CC-BY-4.0",
+  "citation": "korfiatis2022primock57",
+  "originalId": "day5_consultation10",
+  "setting": "primary care (UK, remote consultation)",
+  "chiefComplaint": "I have a blinding headache",
+  "durationSeconds": 585.7,
+  "audio": {
+    "doctor": "https://media.githubusercontent.com/media/babylonhealth/primock57/main/audio/day5_consultation10_doctor.wav",
+    "patient": "https://media.githubusercontent.com/media/babylonhealth/primock57/main/audio/day5_consultation10_patient.wav"
+  },
+  "turns": 109,
+  "wordCount": 1605,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": true,
+  "simulated": true
+}

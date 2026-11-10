@@ -1,0 +1,75 @@
+Clinician: Okay Michael so I see in here that you're here because you're experiencing some symptoms that your pcp was concerned about I also see that he ordered a ct so could you tell me what what started what happened why do you think you are here
+Patient: Hi doctor how are you
+Clinician: Hi I'm great thanks for asking
+Patient: Well so yeah I just happened to have gone in for my regular visit and I just explained to my pcp that you know what I've been having some back pain it's usually on the left and you know he asked some questions and he said I should come see you
+Clinician: Alright yeah back pain especially like that like was it sharp could you tell me what kind of pain it was
+Patient: Well yeah some days it was sharp some days it wasn't some days it moves some days it doesn't but it's mostly on the left
+Clinician: Okay
+Patient: That's
+Clinician: Alright
+Patient: Yeah
+Clinician: Unloving the spectrum that we have right here let's see if we can dig down and get some details well a couple of things I wan na ask have you been a bit more tired than lately
+Patient: No not recall
+Clinician: Alright how about your appetite are you hungry or or not as hungry
+Patient: I I would say about his that that's pretty much unchanged
+Clinician: Okay your appetite is unchanged alright what about your water consumption
+Patient: That I'm sorry what did you say
+Clinician: No it's fine how about your water consumption
+Patient: Yes but I've been drinking a lot more water and I do realize that I I wake up sometimes during the night to you know use the restroom to pee more than I normally do
+Clinician: Okay so we have noticed an increase in urine output okay how do you have like any normal activities are you playing any sports
+Patient: Yeah I ride I ride a bike every so often
+Clinician: Okay
+Patient: So good yeah
+Clinician: Okay and are you like watching any other sports like did you watch march madness
+Patient: No sorry
+Clinician: Be still my heart okay that's fine I'll forgive you so
+Patient: Thank you
+Clinician: Okay but how is school like are you like are are things going well like are you enjoying like your your time there
+Patient: Yeah school is actually going well gotten good grades
+Clinician: Nice
+Patient: Although my my physics teachers socks cheese
+Clinician: They usually do anybody who chooses to engage in physics for the rest of their life I question their choices it's fine okay but are you when you're like while you are at school like has anybody been sick I know like with you know covid has been going around but like have you noticed anybody like that sick all the time around you
+Patient: Sick all the time everybody is sick these days
+Clinician: Alright
+Patient: So
+Clinician: But what about at home how about your siblings are any of them sick
+Patient: Most of them are healthy yeah most of them are healthy although you know I have a brother who smokes I have told him not to smoke he doesn't listen
+Clinician: Mm-hmm
+Patient: House told not to smoke at the house but you know anyway
+Clinician: Okay so there is a smoker at home you know that does that does affect you so we might have to have a conversation with your brother and anybody else but it's good to know that people aren't sick I do see here though that you have kind of a a history of recurrent strep like you you seem to be having these sore throats a lot I think it says that you've had four in the last five months is that correct
+Patient: Yeah strep and bfs I'm not quite sure what it is just seems to come on you know I get this sore throat and fibroid I'm told I have strep
+Clinician: Okay
+Patient: Sometimes you know my doctor knows what he is doing strep everyday strep everyday but anyway if he says I have strep then I have strep
+Clinician: I okay I respect that and I'm glad that you you listen to him at the end of the day that's always a good thing alright so now that we've gotten like kind of a lot of the history out of the way I do want to do my physical exam is that okay
+Patient: Sure
+Clinician: Alright so when I look in your throat like I'm not noticing any erythema no swelling your tonsils are midline so those look good when I'm feeling here on your neck I'm not appreciating any like lymphadenopathy no cervical adenopathy and like I wan na check those things because I just wan na make sure I'm not seeing any physical signs of like any kind of strep right now right I don't want I wan na make sure you're not having an infection when I listen to your lungs I don't appreciate any wheezes rales rhonchi that means I'm not hearing funky sounds your heart sounds great no murmur no rub no gallop when I press on your back remember you told me you had that left back pain when I press on it does it hurt
+Patient: No
+Clinician: Okay alright great no tenderness on palpation when I press on your abdomen are you feeling any pain
+Patient: No
+Clinician: Alright no rebound no guarding that's great okay so based on my physical exam we are gon na have a couple conversations one that ct that your your primary care doctor the the one that you you question his judgment it is showing a couple things that we are a little concerned about it could be that these recurrent strep episodes that you've been having it looks like they are like potentially that they are caused something called glomerular nephritis right there's just some some swelling here and we have to be careful of something like that because it could lead to like kidney disease chronic kidney disease and we wan na make sure that we cut that off right so the first thing is I'm gon na refer you for your problem of glomerulonephritis I'm gon na refer you to an ent I want them to look at you and maybe consider taking out your tonsils to see if that could help with some of the recurrent strep though that you're feeling but I would like to leave that to them to make that decision for you and me we're gon na do some more like confirmations right I'm gon na order some labs I want several a lipid panel a ua a cmp a cbc a vitamin d and a tsh all of these things will give me more information about kind of like what's happening in your body right now in terms of like your hormones and you know your iron levels and to make sure that you are like getting all the nutrition that you need and that your body is operating appropriately I know that that was a lot of words but let me know what questions do you have about your care and your treatment
+Patient: How much are all these tests going to cost
+Clinician: They are going to be free ninety nine because your mom is paying for them
+Patient: Okay that's that's good to know
+Clinician: Yes
+Patient: And when do I when do I have to do those tests
+Clinician: I would prefer you to get them done as soon as possible so when you walk out of this room there is a a blood lab right next door I need you to go ahead and do some of those draws some of them I will need you to not have eaten we are gon na do them it's called fasting and you can make sure that you haven't eaten when you do but they will the lab techs will know so you will be able to knock out most of those today
+Patient: Okay and I'm not sure I will be able to do that today because I have a class right after this
+Clinician: Mm-hmm
+Patient: And right after that I have to go to work
+Clinician: Mm-hmm
+Patient: You know if I told you I'm about changing jobs did I
+Clinician: No you didn't mention that but one of the cool things about being a doctor is I can write you a note so you're gon na do it and then you can go to the class and we could figure it but like it's really cool that you're changing jobs I'm happy for you I hope you know that like it's always great to be able to make some income and make some decisions that means that you'll be able to start paying for your test soon uh
+Patient: Well yeah this new job there is no insurance and my old boss sucks so I'm hoping I'll get a new boss and you know hopefully some free food with with this ut because it's had a restaurant so we'll we'll see how that goes
+Clinician: We might have to have a conversation about the free food at the restaurant if we don't get some of these infections under control because your salt intake is about to be very important okay
+Patient: Got it
+Clinician: Alright okay so do you have any more questions before I send my nurse in
+Patient: Do I need to get a shot today
+Clinician: No shots today just stopped
+Patient: Okay and when do I have to come back for the results
+Clinician: I need you to come back in a week
+Patient: Okay can we do that over the phone by the way
+Clinician: We could if if your results are normal but if we need to have additional conversations I'm gon na need you to come back
+Patient: Excellent
+Clinician: Okay
+Patient: Thank you very much
+Clinician: No problem

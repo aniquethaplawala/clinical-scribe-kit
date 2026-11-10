@@ -1,0 +1,25 @@
+{
+  "encounterId": "aci-D2N158",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N158",
+  "split": "clinicalnlp_taskC_test2",
+  "collectionMode": "aci",
+  "chiefComplaint": "abdominal pain",
+  "secondaryComplaints": [
+    "Diabetes Type 2",
+    "Asthma"
+  ],
+  "patient": {
+    "age": null,
+    "gender": "female"
+  },
+  "turns": 39,
+  "wordCount": 1221,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

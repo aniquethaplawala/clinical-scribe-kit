@@ -1,0 +1,220 @@
+{
+  "encounterId": "aci-D2N159",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Good afternoon Alexis I understand you're having some issues with your hand"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes I sit at the keyboard all day long and recently I've been having some numbness and tingling in my right hand"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay how long has that been going on"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't know probably on and off for six months but over the last month or so it's been a little more persistent"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay okay and when does that numbness and tingling do you get a lot of pain with it first let me ask that question"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Some pain"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Some pain"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mostly when I'm actually typing on the keyboard is when I experience the pain"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "But the numbness and tingling is all the time now"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and when you get this pain what makes it better is it stopping and just resting for a while or do you take medications or try other"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I've been taking ibuprofen so ibuprofen and seem like not typing on the keyboard helps the most"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "The other thing that makes it hurt is my mouse"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Your mouth okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Wow"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah when you're moving that around okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Does this pain ever wake you up in the middle of the night or the pain or the tingling"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not affecting my sleep hmmm"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay so and you're using motrin for for ibuprofen for for the pain well let me go ahead and take a take a look here at your is it both hands or just your right hand"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mostly my right hand"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mostly your right hand okay so let's go ahead and take a look at that right hand when I bend your wrist does that cause any pain"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "It does okay and so you do have some pain on extension and if you pull your your hand wrist up towards you does that cause the pain also"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah okay so you do have pain on flexion and extension and when I touch the fingertips here now you said you had some numbness in your thumb and your index finger and a little bit in your your middle finger the other two fingers they feel okay or do you think that there is different than the other hand"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah for some reason it really is just that the thumb the pointer in the middle finger that I experience the most symptoms with"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not why that is"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay so I I want you to grip my hands here and just squeeze tight okay so you do have a a little bit of a less grip strength on the right and that's typical that we would see with this type of pain and and numbness that you have going on now I want you to turn your arm over for me and I'm gon na touch on or tap on the inside of your wrist or or forearm and when I do that I can see your face you're grimacing so that that that must cause that shooting pain yeah okay so you do have a positive tinel's sign so in Alexis what I think is going on is that you have a a carpal tunnel syndrome and we see that frequent"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I was afraid of"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah you see this frequently but people who are doing data entry spend a lot of time on keyboards or you know some a lotta manufacturing people who do a repetitive procedure again and again will get that type of pain so here is my plan I'd like to put you in a splint and it's it's it's kind of a wrist splint I would like you to wear that at night that will help with that I want you to continue with the ibuprofens but I would like you to go up to six hundred milligrams four times a day and"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "We're gon na do that now I am going to order some a a outpatient test called an emg where we look at that nerve conduction study in that wrist and that's really what's happening here is you've got some thickening in the the in the wrist and the the the membranes of the wrist that are just pressing down and just compressing some of those nerves any other questions for me for now if that test comes back positive and we'll talk about that later on your next visit if it comes back positive we may have to do we're gon na stick with conservative treatment first but we may consider some surgery where I can go in and release that impingement on your nerves through your wrist it's a simple outpatient procedure and then I think you would feel better how does that sound"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That sounds like a good plan I was hoping maybe I could get some relief with some therapy rather than having to go to surgery so I like that plan very much"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah we'll start with the the wrist splint and once I get the nerve conduction studies that will give me another idea whether or not I need to send you some physical therapy in addition or if we need to go directly to surgery but that will all hinge on that nerve conduction test do you so do you have any further questions"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No that's great thank you so much"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Thank you very much"
+    }
+  ]
+}

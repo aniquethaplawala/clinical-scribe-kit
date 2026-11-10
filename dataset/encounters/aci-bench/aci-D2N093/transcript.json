@@ -1,0 +1,350 @@
+{
+  "encounterId": "aci-D2N093",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey Lawrence. How are you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hey, good to see you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "It's good to see you too. So, I know the nurse told you about Dax."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I'd like to tell Dax a little bit about you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So, Lawrence is a 62-year-old male, with a past medical history significant for type I diabetes, congestive heart failure, depression, and reflux, who presents with complaints of shortness of breath. So Lawrence, what's been going on? Wh- what's wrong with your breathing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, I, I've noticed that I've been swelling up a little bit. I think a lot of it has to do with going to some house parties, eating some salty foods. I feel really lethargic."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. And when you get short of breath, are you short of breath when you're just sitting here? Do you feel short of breath when you're walking?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's something like walking up a flight of stairs I'll actually feel it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. Now, um, how long has this been going on for?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Probably about 10 days."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. And you said you're noticed some swelling in your legs?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "A little bit."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Do you have problems lying flat in bed?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, I'm a little uncomfortable when I wake up in the morning and I feel pretty stiff. And, and, like, it takes me a little while to adjust to walking when I get up."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. Do you ever wake up acutely short of breath at night?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, it happened once, probably about a week ago, but it hasn't happened since. So I haven't been that concerned about it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. In terms of your, your diabetes, how are you doing with that? I know you're on the insulin pump."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, are your blood sugars okay? Have you noticed a spike in them recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, I haven't. I've been pretty good about monitoring it so I... During the working week, I stay on top of that. But on saturdays or sundays we're so busy I forget to monitor it. But I haven't seen anything spike."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And I remember your affinity for chocolate bars, so..."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Guilty as charged. I love chocolate bars."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. So, in terms of your depression, how are you doing with that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, it's been a crazy year and a half. Um, I've tried some natural solutions. In the summer I did stretches outdoors every morning, which was great, but now the weather changed and, uh, you know, I've got ta find some alternatives. I'm not ready to try any medications just yet, so-"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": ". I'm open to some suggestions."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. We'll talk about that."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And then in terms of your reflux, how are you doing? I know we had you on the omeprazole."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You were making some lifestyle modifications, cutting back on your red bull and caffeine."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alcohol intake has been... How's that been?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Tough during the holiday season, but I'm, I'm better."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. And no issues with your depression? You don't want to hurt yourself or anyone else?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No. No. Absolutely not."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, all right. Well, let's go ahead. I know you did a review of system sheet when you checked in and you endorsed the shortness of breath."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any other symptoms? Chest pain, fever, chills, cough?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, belly pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Let's go ahead. I want to move on to a physical exam."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey, dragon? Show me the vital signs. So here in the office, you know, your vital signs look good. Your, your pulse ox... That's your oxygenation level... Looks good. So I'm encouraged by that with you just sitting here, okay? I'm gon na go ahead and do another, uh, just check you over. I'll let you know what I find."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. So, on your exam things look okay. So, I don't appreciate any jugular venous distension or any carotid bruits on your neck exam. On your heart exam, I do appreciate a slight 3 out of 6 systolic ejection murmur. On your lung exam, I do appreciate some crackles, bilaterally, at the bases. And on your lower extremity exam I do appreciate 1+ pitting edema. So what does all that mean? So, I do think that you're retaining some fluid. It's probably from some of the dietary indiscretion."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "But I wan na go ahead and look at some of the results, okay? I had the nurse do a chest x-ray on you before we came in, okay? Hey, dragon? Show me the test x-ray. So I reviewed the results of your chest x-ray and it looks good. There's no e- evidence of any airspace disease, but that doesn't mean that you still can't be retaining some fluid, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey, dragon? Show me the labs. And your labs look okay. You know, you don't have an elevated white blood cell count so I'm not really concerned about infection. We saw the chest x-ray, there's no pneumonia, so that's good."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So, let's talk a little bit about, you know, my assessment and my plan for you. Okay? So, for your first problem of your shortness of breath I think that you are in an acute heart failure exacerbation. I want to go ahead and, uh, put you on some lasix, 40 milligrams a day. I want you to weigh yourself every day."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "If your weight isn't going down, uh, or if it's going up I want you to call me. Certainly, if you get more short of breath at rest I want you to go ahead and call me or call 911-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": ". And go into the emergency room. You might need some intravenous diuretics."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay? For your second problem of your type I diabetes, um, let's go ahead... I wan na order a hemoglobin a1c for, um, uh, just in a, like a month or so, just to see if we have to make any adjustments. And I want you to follow up with your endocrinologist. Okay? And I also want to make sure that you have a recent eye exam. All right? Uh, for your third problem of your depression, let's go ahead and refer you to psychiatry, just for some, um, like, talk therapy to help you through that. Okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No medications. And for your fourth problem of your reflux, let's go ahead and continue you on the omeprazole, 20 milligrams a day. Do you have any questions, Lawrence?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not at this point."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Um, uh, again, I want you to call me if you have any problems with your breathing, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You got it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey, dragon? Finalize the notes..."
+    }
+  ]
+}

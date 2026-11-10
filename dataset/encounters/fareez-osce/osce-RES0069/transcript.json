@@ -1,0 +1,525 @@
+{
+  "encounterId": "osce-RES0069",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Would you mind by starting to tell me what brought you in?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, absolutely. Uhm, I don't know, I've just been feeling a little feverish, uhm, and I also have a, a bit of a sore throat."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, when..."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I just came in, I just came in to see what's going on, cause I was worried, you know, with covid going on, uhm, going everywhere."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Certainly, when did the, the sore throat start?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Last night actually."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And uhm, have you had any, uhm, problems with swallowing, like food or liquids?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I don't think so. I just had breakfast this morning and no problems there."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, uh, any like, changes that, uhm, other symptoms that you've been having with the sore throat?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I'm just feeling a little feverish."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and when did that start?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "This morning."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, did you take your temperature?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I don't have a thermometer at home."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and have you had any, any cough?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, how about any, like red eyes or runny nose?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, neither of those."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you had a headache?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, uh, and have you had any shortness of breath?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and how about any loss of taste or loss of smell?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I don't, uh, yes, I said I was eating breakfast this morning, but it just tasted really bland."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so maybe loss of taste, so you feel like your nose is really or that you're really congested?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I guess yeah, now that I think about it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, uh, and how has your appetite been?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's alright."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and so you haven't had any cough or shortness of breath, but have you noticed any wheezing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And have you had any chest pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you felt as though your hearts's been racing at all or, or beating out of your chest?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you been dizzy or lightheaded?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Have you had any nausea or vomiting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any abdominal pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you had any diarrhea or constipation?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, I'm often constipated but nothing new there."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you had any urinary problems?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, and then how about any muscle aches or, or body aches?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sort of, like I just, I found it really hard to get out of bed this morning."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. How has your energy been? Have you been, like really fatigued?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and when did, uh, you said the muscle ache started this morning, uhm, how, when did the fatigue start?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'd say this morning as well, yesterday was just like a little tickle in my throat and I thought it would just go away you know, and I woke up this morning and I just felt horrible. And the sore throat was just worse and I felt feverish and tired and I felt really crappy."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, yeah, and have you had any symptoms like this before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well yeah, I usually get a cold once a year in the fall. It does feel similar to that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "But I still wanted to be careful and come in, just in case."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "yeah, certainly. Have you had, have you been diagnosed with any medical conditions before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I have migraines."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and are you taking any medications regularly?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no, I'm not. It's not bad. I sometimes just take like, Advil whenever my headache's coming on."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Any allergies?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, nope."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And do you smoke cigarettes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I smoke, uh, two or three a day."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and have you tried to quit?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, if at any point this is something that you wanted to talk about, we, we certainly could later."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you drink alcohol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, a glass at night with dinner."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and do you use any other recreational drugs?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no, no, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and have you been around anybody who's been sick recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, oh, my, like my little granddaughter had, uhm, you know, they're always having a runny nose, right, the little ones."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mhm."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "But no, nothing, nothing else. I've just been at home for the most part."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you traveled traveled anywhere?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and, uh, does your granddaughter go to daycare? Or is she in school?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "She, she does go to daycare, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and has there been anybody else around that, that's been sick that you're living with, or you see often?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, that's about it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, I, I think, I don't think I asked this, but have you had any surgeries before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I had cataract surgery done."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and the left, right eye or right eye?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Both actually, it runs in my family. We get it pretty early on."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and are there any other conditions that run in your family like heart conditions or cancer?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Diabetes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Diabetes, OK. And who had diabetes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Lets see, my mom, my sister, my brother, yeah, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And just to, get to know you a little bit better as well. I was wondering if you could tell me a little bit about your living situation?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure, yeah, I live with uh, I live with my son and daughter and my grandson."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, uhm, and, uhm, OK, yeah, I think that's all I wanted to ask about today. Was there anything else that you wanted to tell me or maybe that I forgot to ask about?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no, I don't think so. Do you think I have covid?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "It's, it's certainly possible. It will be something we test for."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Although the symptoms that you're experiencing, with feeling or having a fever, sore throat, and not feeling well with the muscle aches and fatigue, uhm, its relatively non-specific, so as you mentioned, it could be something like the common cold, that you've experienced in the past, so we can't rule that out either at this time, but we will do some investigations including a nasal swab for covid and kind of go from there."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "OK, sounds good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right, we'll get that started."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Great."
+    }
+  ]
+}

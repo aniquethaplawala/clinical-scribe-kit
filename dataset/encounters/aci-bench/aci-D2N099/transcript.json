@@ -1,0 +1,500 @@
+{
+  "encounterId": "aci-D2N099",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "family",
+      "label": "Family member"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Next patient is Randy Gutierrez. Date of birth, 8/10/2020. Please use review of symptoms. All text to write. Physical exam, auto text uri. Hello, how are you doing today?"
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "We're okay, thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "That's good to hear. So, how many days has Randy been feeling sick?"
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Well, I would say it started around supper time last night."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Last night, okay, and what's been going on?"
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Well, he started to get a runny nose."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and is he stuffy too?"
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Yeah. Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and have you noticed, is his mucous clear right now?"
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "It is, it is right now, yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And, does he also have a cough?"
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Yes, but it's not barky."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And does he act like he has a sore throat or is he pulling on his ears?"
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Well, I know he's been pulling on his ears, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "You know, he also, he's also been going crazy rubbing at his nose too."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And, any fever you've noticed?"
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "I checked his rectal temperature and it was 100.3."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. So, a little bit of a low-grade fever there, definitely. And, how was his appetite? Did he eat last night?"
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Yes, he did. Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And how about this morning? Did he eat his breakfast?"
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Uh, this morning he ate about seven ounces from the bottle."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "And then he got another bottle, and he barely ate that. Um, I offered him cereal and he wouldn't eat that either."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "So, he varies I guess."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How is his energy? Does he seem like he wants to take more naps, or does he have pretty good energy?"
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Mmm, it seems like he's irritable."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Irritable because he isn't feeling good?"
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Yeah. He is energetic, but it seems like he can't go to sleep, like, he's fighting it really hard."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and just for the chart, is there anyone, anybody else exposed to him who has been sick?"
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Yes, his older sister's been sick."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Thank you."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "We also had a play date with my nephew, who I learned later had a sinus infection."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And what medication have you tried for him? Anything at all?"
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Um, I've been doing the saline mist in his nose."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Good, good. That's a good choice."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "I did give him tylenol really early this morning because he was warm when I took the sleeper off of him, and we had the ac on in the house, but his whole body was sweating."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I see. And, any other medications?"
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "We did put some baby vick's on his feet last night to try and help him breathe. And, I also used the humidifier."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. That's good."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Okay. Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So, there was another thing I wanted to bring up since we're here. It appears that his cradle cap has gotten a little worse. What are you using on it?"
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "I've been using the cradle cap brush, and then I use regular aveno shampoo."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Is it a dandruff shampoo?"
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "No, I don't think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, thank you. Well, let's complete his exam and then we'll talk about the next steps."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Okay, sounds good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Can you take a big breath Randy."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Where's mama?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Don't forget to breathe little one. Okay. Let's try the front too."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Yeah, it's okay buddy."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Excellent. He's doing excellent. Next let's- let's check out those ears."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Let's try to make sure you don't tip all the way over."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Dino, you're doing so good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. Ears look okay. We're going to slide you forward so you don't bump your head when I lay you down."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Hey, you're- hey you're okay. You're okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, you can go ahead and sit him back up if you like."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "All right. Thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. So, he's just kind of getting started with this, and I think we're seeing something viral right now. Often sinus infections will start out as a virus and then will become bacterial infections if left alone and doesn't go away. But, I don't think he needs any antibiotics, at least not at this point in time. Um, keep up with the fluids, rest, and I would watch him very carefully for a barking cough. If he does get a barky cough, then that tends to be a little bit more significant and a little more severe. So, if he develops a barky cough, I want you to give him a half a teaspoon of his sister's medicine. You know, I'm almost tempted to give you some of the medicine because they're probably sharing the same virus."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Actually, I will. I'll go ahead and just give you some as well."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Okay. Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "But, if he doesn't become barky, you don't have to use it. It only works for the barky cough."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Mm-hmm, got it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. We'll do the same thing with him, as long as nothing gets worse, and we'll see him back in one week. So, it won't get rid of a regular cough. He can use zarbee's, but use the dose for kids under a year of age. So, if you wan na get some of that, you can definitely try that for him, it can help out a little bit with the regular cough."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "I do have a question. Do you or do you not give honey to babies?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yes, that's a great question. You don't give honey to kids under a year, instead, you can give them agave, which is a different type of nectar. Um, now you can give honey to his older sister, that is okay, but for him, it would not be very good because his stomach acid's not good enough to break down the botulism spores. So, it'd cause him harm. Um, you should look at the package of say, honey nut cheerios. It says right on there to not give it to a baby."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Now, whether that would really hurt a baby, I am unsure, but it has real honey in it. So, no honey for him, but agave is definitely fine."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Okay. So, zarbee's for the stuffy nose."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yes, zarbee's."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "And then you said, uh, which medicine to give him just in case?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I'm gon na give him the same medicine as his sister, and just hang onto it, um, just to watch and see. If this was a monday and we had a whole week to watch, I would say to just call us if things got worse, um, but since, um, if it's gon na be the weekend, and things might worsen tonight or tomorrow night, I'd rather you have just what you need on hand."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Right, does that make sense?"
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Yeah, yeah. That makes sense."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, great. And that way you don't have to share, um, with his sister."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Right, okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And since he's about half her size, we'll do half the dose, which is a half a teaspoon."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Okay. Will this information all be in the papers?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yes. And so, if he ends up starting the medicine, just give him a half a teaspoon for five days."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, that's the only thing it won't say is, \" as needed, \" or anything like that."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Mm-hmm, understood, thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You're welcome."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "And the cradle cap?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "What I would do is use something like either head & shoulder's, or selsun blue, or nizoral ad. Now, don't get the extra strength stuff, just use the regular strength. Um, cradle cap, it's just basically a fancy way of saying dandruff. So, those shampoos will help get rid of it. It's not an immediate thing 'cause they, um, they are all dead scales, and you still have to brush them off. So, continue to use the soft brush and some baby oil, or something that will help get the scales out, and those shampoos will actually help to prevent it as well. Use it two times per week, not every day, but maybe twice a week. So, two days between shampooing, use what you normally use any other time. And then, often, within six weeks or so, you'll notice that the-the cradle cap is just, um, not coming back anymore. But, he has to be careful because it's not ph balanced for eyes. So, just make sure when you're rinsing his hair you avoid his eyes."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Okay. Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. And, if it keeps getting worse, definitely let us know."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Okay. Sounds good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Good. And, since they don't have covid-19, you can go right ahead and check out."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "Okay. And both appointments in the week?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Correct. We'll see you all then. Bye Randy, feel better."
+    },
+    {
+      "role": "family",
+      "label": "Family member",
+      "text": "All right, great. Thank you so much."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You are welcome, and have a good rest of your day."
+    }
+  ]
+}

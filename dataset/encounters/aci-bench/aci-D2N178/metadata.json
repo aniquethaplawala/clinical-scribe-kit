@@ -1,0 +1,24 @@
+{
+  "encounterId": "aci-D2N178",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N178",
+  "split": "clef_taskC_test3",
+  "collectionMode": "virtscribe",
+  "chiefComplaint": "diabetes follow up",
+  "secondaryComplaints": [
+    "urination"
+  ],
+  "patient": {
+    "age": 75,
+    "gender": "female "
+  },
+  "turns": 117,
+  "wordCount": 1279,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

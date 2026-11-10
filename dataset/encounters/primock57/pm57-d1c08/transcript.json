@@ -1,0 +1,701 @@
+{
+  "encounterId": "pm57-d1c08",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 1.34,
+      "end": 3.33,
+      "text": "OK. Ohh, OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 4.14,
+      "end": 5.19,
+      "text": "Hello?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 5.74,
+      "end": 7.14,
+      "text": "Hello, can you hear me?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 7.05,
+      "end": 12.45,
+      "text": "Hello. Uh, just before we go any further, can I confirm your name and, age please?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 12.93,
+      "end": 16.36,
+      "text": "Uh, my name's Itha, and I'm twenty six."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 16.12,
+      "end": 18.43,
+      "text": "Twenty six, OK. And how can I help you this afternoon?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 19.11,
+      "end": 29.18,
+      "text": "Um, so basically, I've been really stressed at work for the past few days. And, I've realised that I've got, really dry itchy skin."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 29.46,
+      "end": 40.52,
+      "text": "OK. Um, sorry to hear work's been so stressful. Um. Tell me more about your skin first, Lou. Tell me uh, you mentioned it's been dry and itchy. Um, whereabouts on your skin?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 41.53,
+      "end": 45.6,
+      "text": "All over my arms, um, and my hands mainly."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 45.54,
+      "end": 48.85,
+      "text": "OK. Um, and is this something you've had before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 49.67,
+      "end": 51.66,
+      "text": "Uh, no. Never had [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 52.16,
+      "end": 56.51,
+      "text": "So, uh, did it, did it come about quite suddenly, or was it more, kind of a gradual thing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 57.09,
+      "end": 58.84,
+      "text": "I think it started a few days ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 59.07,
+      "end": 78.46,
+      "text": "OK. And, has this spread anywhere else? Has it spread to your, to your chest, your legs, your face? No, OK. So apart from being dry and itchy, um, any other symptoms? Has it been sore? Has it been, uh, [inaudible] have you noticed any cracked skin?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 80.34,
+      "end": 87.76,
+      "text": "Um, so my skin's quite red, um, and I'm using coconut butter for the past few days."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 87.7,
+      "end": 89.38,
+      "text": "OK. Has that."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 88.79,
+      "end": 94.22,
+      "text": "I don't have any spots, and no fever [inaudible] , and I'm not sweating either."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 90.6,
+      "end": 101.32,
+      "text": "OK. Thank you, for mentioning all those. Um, OK. Uh, so the coconut butter hasn't helped, with the itch?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 101.13,
+      "end": 102.67,
+      "text": "No, [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 102.34,
+      "end": 106.91,
+      "text": "OK. And, uh, you mentioned work's been quite stressful. What do you do for work?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 108.35,
+      "end": 111.16,
+      "text": "Um, I work as a teacher."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 111.18,
+      "end": 115.62,
+      "text": "OK. And, uh, in what way has work been stressful?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 117.09,
+      "end": 119.5,
+      "text": "I think the kids have been really annoying these days."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 120.7,
+      "end": 122.45,
+      "text": "OK. [inaudible] ."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 121.71,
+      "end": 124.6,
+      "text": "And, I've been working really long hours."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 124.8,
+      "end": 141.65,
+      "text": "OK, all right. Well I'm sorry to hear that, and I hope it gets better. Um, going back to your skin. I mean is it anything you've done perhaps, uh, which may have triggered your symptoms? Anything you've touched or, you know, for example shower gels, soaps, fabric [inaudible] , fabric cleaners?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 140.82,
+      "end": 144.55,
+      "text": "[inaudible] , I went swimming a few days ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 144.12,
+      "end": 147.88,
+      "text": "OK. Is that the first time in your life or have you been before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 148.51,
+      "end": 150.11,
+      "text": "Uh, no, I've been before."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 150.05,
+      "end": 154.06,
+      "text": "OK. And did your symptoms start after you went swimming?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 155.19,
+      "end": 156.43,
+      "text": "Uh, yes, [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 156.27,
+      "end": 162.69,
+      "text": "OK, all right. Um, you mentioned you've had no other fevers, is that right? No fevers? No vomiting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 163.53,
+      "end": 164.66,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 164.48,
+      "end": 166.94,
+      "text": "No. How's your health otherwise?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 167.86,
+      "end": 170.53,
+      "text": "It's pretty good, yeah. I'm not on any medication."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 171.1,
+      "end": 178.33,
+      "text": "And all [inaudible] , we'll get to medication in just a second. Um, [inaudible] , do you, do you feel generally run-down? Do you feel tired?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 179.69,
+      "end": 183.03,
+      "text": "Uh, yeah, I think I have been, quite tired."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 182.91,
+      "end": 187.16,
+      "text": "OK, OK. Are you eating and drinking OK?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 188.47,
+      "end": 190.98,
+      "text": "Yeah, I've been drinking, and eating as normal."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 190.54,
+      "end": 194.26,
+      "text": "Your appetite's fine is it? OK. And your bowels, are your bowels working OK?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 195.03,
+      "end": 195.77,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 196.02,
+      "end": 199.51,
+      "text": "Uh, no, no problems with vomiting, or loose stools?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 200.3,
+      "end": 201.39,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 201.31,
+      "end": 205.35,
+      "text": "OK. And your waterworks are uh, all OK? You're passing urine OK?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 205.7,
+      "end": 206.46,
+      "text": "Yep."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 206.35,
+      "end": 213.17,
+      "text": "OK, all right. Um, so just moving on. In terms of your other medical history, is there anything else I should be aware of?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 214.61,
+      "end": 217.21,
+      "text": "I'm currently taking [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 217.4,
+      "end": 218.8,
+      "text": "Microgynon."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 219.23,
+      "end": 219.98,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 220.02,
+      "end": 221.42,
+      "text": "OK. Do you know what that is?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 221.94,
+      "end": 222.97,
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 222.72,
+      "end": 230.45,
+      "text": "OK. [inaudible] , it's a contraceptive pill Does that make sense? Is that something you're, is that, does that ring a bell now?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 230.9,
+      "end": 231.69,
+      "text": "Ohh yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 231.45,
+      "end": 235.74,
+      "text": "OK. Is there, any other medications that you take?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 236.03,
+      "end": 237.11,
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 236.74,
+      "end": 245.84,
+      "text": "No. So, in terms of your medical history, there's no, problems of skin problems in the past, things like eczema or, um, dermatitis?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 246.92,
+      "end": 249.23,
+      "text": "Uh, no, I think it might just be the weather."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 251.2,
+      "end": 254.71,
+      "text": "Sorry what was that? You think it's. The [inaudible] ."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 254.06,
+      "end": 255.68,
+      "text": "I think it might just be the weather."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 257.2,
+      "end": 258.14,
+      "text": "The weather?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 258.77,
+      "end": 264.09,
+      "text": "Yeah, [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 259.26,
+      "end": 269.97,
+      "text": "Ohh, you think the [inaudible] , OK. You think the weather, OK. OK. No that's OK, no, no problems. Well um, uh, move [inaudible] . Do you, do you suffer from allergies? Are you someone who suffers from allergies?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 270.56,
+      "end": 271.75,
+      "text": "Um."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 270.97,
+      "end": 273.56,
+      "text": "Food allergies? Medication allergies?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 273.67,
+      "end": 277.84,
+      "text": "I think, um, I might be lactose intolerant."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 277.62,
+      "end": 285.65,
+      "text": "Lactose intolerant, OK, that could be helpful to know. Um, fine. And tell me of family history, is there anything in the family that you're aware of?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 287.18,
+      "end": 293.99,
+      "text": "Um, yeah, so um, my dad has asthma, and, my mum has hayfever."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 293.98,
+      "end": 301.8,
+      "text": "Hayfever, OK. Um, fine, but any, again, any skin problems that you're aware of?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 295.69,
+      "end": 303.37,
+      "text": "Yep. Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 303.22,
+      "end": 307.52,
+      "text": "No, OK, all right. Socially, who do you live with at home?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 308.36,
+      "end": 309.49,
+      "text": "Ohh, it's just me."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 309.5,
+      "end": 310.57,
+      "text": "Live alone?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 311.06,
+      "end": 312.06,
+      "text": "Yep."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 311.7,
+      "end": 315.71,
+      "text": "And, uh, do you smoke at all? Do you, can I ask? Do you smoke? Are you a smoker?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 315.61,
+      "end": 317.53,
+      "text": "Uh, no, I don't smoke."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 317.49,
+      "end": 319.44,
+      "text": "Do you drink much in the way of alcohol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 320.07,
+      "end": 320.94,
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 321.99,
+      "end": 323.4,
+      "text": "Recreational drugs?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 323.87,
+      "end": 324.58,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 324.86,
+      "end": 327.96,
+      "text": "OK. And you said you [inaudible] , you work as a primary school teacher?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 328.4,
+      "end": 329.81,
+      "text": "Yes, that's right."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 329.0,
+      "end": 342.42,
+      "text": "Uh [inaudible] , the reason I ask is sometimes stress can be a [inaudible] , contributing factor. Um, you felt, [inaudible] you noticed yourself, find, uh, [inaudible] , life's been more stressful recently. Is that right? Do you think that might have any correlation to your symptoms?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 344.11,
+      "end": 346.8,
+      "text": "[inaudible] I don't. I certainly think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 346.52,
+      "end": 382.07,
+      "text": "OK, all right. Um, fine. Um. OK, well, normally at this stage I like to proceed to examination, but um, based on your uh, story. Um, it's difficult. I think that, you know, [inaudible] , you've, essentially the story is you've got a dry itchy rash on your, mainly your hands. you mentioned. Um and your arms which started, perhaps after swimming a few days ago. Um, but no other symptoms, you're feeling otherwise, well, no fevers, no bleeding or discharge from skin."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 375.39,
+      "end": 376.0,
+      "text": "Yep."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 382.07,
+      "end": 388.36,
+      "text": "I wonder whether you may have something called dermatitis. Um, have you heard of that condition before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 388.86,
+      "end": 389.98,
+      "text": "I have, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 390.37,
+      "end": 420.76,
+      "text": "OK. Um, great. Well I can give you a patient information leaflet about that, which gives a bit more information about the disease, but, um, it, it's something that we can readily treated. Um. With couple options, we have steroid creams I can give you, um, which will help with the inflammation. And, uh, something called emollients, which can help with the dry, dry skin. And that's something you just need to kind of paste on, uh, on to your skin, uh, [inaudible] , throughout the day for the next few days. Um, and hopefully that helps your symptoms."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 422.78,
+      "end": 424.71,
+      "text": "OK, it's cool. Thank you very much."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 424.5,
+      "end": 432.23,
+      "text": "Um, [inaudible] , you can also try antihistamines, so you can get things over the counter, Piriton, Loratadine, they can sometimes help with the itchiness."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 436.14,
+      "end": 437.5,
+      "text": "Yeah, that sounds good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 437.01,
+      "end": 453.91,
+      "text": "OK. And um, that's probably what I recommend. Paracetamol on this occasion, wouldn't be helpful. Um, uh, uh, painkillers wouldn't be helpful [inaudible] , on this occasion, but let's, let's, let's see how the next few days go. And if it's still not getting better, come back and see me next week, and we can have another look again, at your symptoms."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 454.74,
+      "end": 456.59,
+      "text": "OK, perfect. Thank you very much."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 456.51,
+      "end": 458.0,
+      "text": "Right. Do you have any questions for me?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 458.57,
+      "end": 459.57,
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 459.17,
+      "end": 461.97,
+      "text": "OK. Well, I wish you all the best. Have a good day."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 462.37,
+      "end": 464.24,
+      "text": "Well, thank you very much. Bye."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 463.38,
+      "end": 464.73,
+      "text": "Thank you. Bye bye."
+    }
+  ]
+}

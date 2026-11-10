@@ -1,0 +1,26 @@
+{
+  "encounterId": "aci-D2N089",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N089",
+  "split": "clinicalnlp_taskB_test1",
+  "collectionMode": "virtassist",
+  "chiefComplaint": "annual exam",
+  "secondaryComplaints": [
+    "RA",
+    "artrial fibrillation",
+    "reflux"
+  ],
+  "patient": {
+    "age": 52,
+    "gender": "female"
+  },
+  "turns": 43,
+  "wordCount": 976,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

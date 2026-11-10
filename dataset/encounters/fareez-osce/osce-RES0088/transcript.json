@@ -1,0 +1,515 @@
+{
+  "encounterId": "osce-RES0088",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Uh, what brings you in here today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, so my daughter, she's had this hoarse voice for the past like two or three days. It doesn't seem to be getting better. In fact, it's getting worse and she just doesn't sound like herself anymore and she's not speaking as much."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and when did this start?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "OK, so she had a cough like four days ago, and she's still coughing a little bit, but not as much as she was before, but it's more her voice that I'm concerned about. It sounds very hoarse and harsh."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and so how many days has she had the hoarse voice for?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'd say about two or three days now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Two or three days, OK. And when she was coughing, you mentioned like previously was she coughing up any sputum or was it more of a dry cough?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It was more of a dry cough"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And the cough has pretty much resolved by now?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, she still gets them once in a while, but yeah, it's pretty much gone."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and when she was coughing, did she at all bring up any kind of blood or any green or yellowish material?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, OK. Did she have any fevers at all, recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no, no fevers."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And does she have any kind of, uh, along with a hoarse voice, does she have any pain with talking?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, I think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and does she have any pain with swallowing any foods or liquids?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "She's eating and drinking ok, but I suspect there is some pain."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, So how long has she, so she has a sore throat, how long has she had that for?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "The sore throat? Uhm I would say for the past two or three days as well."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and was there anything that, so she had kind of like a cough previously, but anything else, anyone sick around her, or anything you think might have precipitated some of her symptoms?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, not that I know of. I don't think she's had any contacts with sick people recently."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Are there any, have you tried any medications over the counter, that has helped her?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, not over the counter medications, but like I tried to get her to like gargle with like salt water and all that kind of stuff, but that didn't seem to help."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And have her symptoms been just constant or do they come and go?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "They've been pretty constant."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and you think her symptoms are getting worse?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no, they've been pretty consistent, but maybe the harsh voice is getting worse."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And other than the symptoms that you've mentioned, has she had any kind of shortness of breath, wheezing, chest pain or anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and no fevers, right?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Has she traveled at all recently outside of the country or outside of the province?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and any headaches at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, any nausea or vomiting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any runny nose or congestion?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, OK. And have you had a chance to at all, look into her mouth and throat? And if you have, have you noticed any kind of redness, swelling?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I haven't looked in there too much, like, just an inspection the other day, it looked a little bit red, but I didn't see any discharge."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and have you noticed any kind of swelling around her neck, ears, like, around her lymph nodes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, I haven't actually taken a look there."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, we can do that. Other than those symptoms, has she been experiencing any kind of like fatigue or have you notice her being just very tired?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, she has seemed a little bit more tired than usual."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and right now is she going to school or is right now all like virtual? Is she at home?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, she's at home right now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and does she have any symptoms of, any chest pain at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No chest pain."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any changes in her bowel movements, any Constipation, diarrhea?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any urinary problems?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, has she been able to sleep well or does she wake up a lot more at night?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, she's been able to sleep well, yeah"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, how about her appetite?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Its been pretty normal. She's not eating as much as she used to, but she's still eating and drinking ok."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and have you noticed any kind of weight changes at all recently has she lost any weight?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and, has she had any loss of taste, of smell or sorry, loss of sense of taste or smell at all."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any muscle aches or anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any exposure to fumes, dust, animals or Pets at Home?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, has this happened at all in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, OK. Does she have any medical conditions at all that she's been diagnosed with in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, no, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any like asthma or any other conditions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any allergies that you know of?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I know she has seasonal allergies, but that's about it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and does she take any medications at all on a daily basis?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no, she just takes multi vitamins."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and currently or previously has she had any surgeries or hospitalizations?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, OK. Are there any family history of any lung or heart conditions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any cancers?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "There's some colon cancer on her dad side of the family."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and is there any, so do you remember who the person is and also like when they got diagnosed with the colon cancer?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So it was her uncle. He was diagnosed when he was forty five."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, other than that, were there any developmental challenges at all while she was growing up? Did she, was she meeting her milestones? Any concerns at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No concerns, she was meeting all her milestones from what I remember."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and uh, in terms of her pregnancy, were there any, or your pregnancy with her, were there any complications at all either during the pregnancy or after she was born? P No, no complications. And right now, where does she live, and who does she live with?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "she's at home with myself, my husband and she has one younger sibling."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK and, is everyone at home well, does anyone have any of these symptoms?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Right, so, and in terms of the home environment, does anyone smoke in the house?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No OK, alright so I think that's all the questions I had right now. Do you have any questions or concerns?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no questions, but uhm, actually, what do you think she has and how can we treat her?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, so it seems like that the hoarseness of voice and the sore throat and her symptoms mostly align with what's called laryngitis, and this is usually caused by like just a viral respiratory infection. The hoarseness of voice will usually last more than a week and up to like ten days and it should resolve on its own. But we'll definitely take a better look and do a proper physical examination, see if I see any kind of swelling, redness, or any like white streaks or exudates around her pharynx as well. So after we take a look, we'll see what we can do. It doesn't seem like, it can also be a bacterial infection, in which case we would need to give her antibiotics, but usually it's a viral infection that should go away on its own. So we would just kind of wait and see and potentially just give her voice some rest during this period, and just go on from there. Do you have any other questions or concerns?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no, that sounds great, thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You're welcome and yeah, we'll, just do a full examination and then go from there."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "OK, sounds great thanks."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You're welcome.  Take care."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You too."
+    }
+  ]
+}

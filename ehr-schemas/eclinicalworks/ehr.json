@@ -1,0 +1,20 @@
+{
+  "key": "eclinicalworks",
+  "name": "eClinicalWorks",
+  "writePath": "fhir-partial",
+  "writableResources": [
+    "Condition",
+    "AllergyIntolerance",
+    "Observation",
+    "MedicationStatement",
+    "ServiceRequest"
+  ],
+  "noteType": "progress-note",
+  "noteContentType": "application/pdf",
+  "verifiedOn": "2026-11-10",
+  "sources": [
+    "https://fhir.eclinicalworks.com/ecwopendev/documentation",
+    "https://fhir.eclinicalworks.com/ecwopendev/documentation/v3-fhir-r4-mapping",
+    "https://www.eclinicalworks.com/resources/certified-ehr-technology/"
+  ]
+}

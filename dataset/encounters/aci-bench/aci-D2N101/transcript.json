@@ -1,0 +1,400 @@
+{
+  "encounterId": "aci-D2N101",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Patient is Julia Jones, date of birth 5/16/1996. She is a new breast reduction consult. Hello, how are you doing today? I'm dr. Gonzalez. It's nice to meet you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nice to meet you, ma'am. How are you?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I'm doing good, thank you. So you're here to discuss a breast reduction, correct?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes. That's right."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Perfect. Let me just get logged in, here. Have you met with anyone before about a breast reduction?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I haven't."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And how long have you been considering this?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's probably been about six or seven years. But I mean, it's always been in the back of my mind."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Well, I perform a lot of breast reduction surgeries, pretty much every week, so it is a very common procedure."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, that's reassuring."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah. So what I wan na do first is just get a little bit of history about the sort of symptoms that you're having. And then I'll do a quick exam."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay. That sounds good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And then we'll talk more about the surgery and what it entails. And, um, at this point, who is your insurance provider?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I have blue cross blue shield. Well, actually, my husband just accepted a new job, and I will be on his plan, uh, which I believe is not going to be blue cross, but it may be changing."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. What we typically do when we do a breast reduction consult, I'll document your symptoms, symptoms, we'll take some pictures, then, um, they get sent to the insurance company. And what they'll do is decide whether it's approved, or medically necessary, or not. But we wan na make sure we send it to the right insurance. Do you know when you'll be on the new plan?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Most likely july."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. So we may just wait until july to submit for approval at that time."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So regarding your symptoms, do you experience back pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well, I've been going to the chiropractor for a few years. I do have a lotta pain here and here. But I don't know if it's all from my breasts or not. It gets painful and builds up. So I think I could attribute it to my breasts, when I'm working at my desk all day."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And in your neck and your upper back. And how long has this been going on? Would you say five years, 10 years, or even since puberty?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I would say since I was in high school."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And do you have the bra strap indentations in your shoulders? Um, I saw that you're wearing about a g cup."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes. I do get indentations, but I don't really wear a regular bra that often. I mostly were a 34 e sports bra because it's more comfortable. And the others are expensive in my size."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, I have heard that as well. And, um, have you had any children, or are you planning to have any children in the future?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I do not have any kids now. But we might plan to in the future."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And at this time, are you experiencing any numbness or tingling in the s- in the hands or any nipple pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sometimes, yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And rashes, do you get any rashes underneath your breasts? And, and it could be from sweating."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, but they are always sweaty."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And then do you feel like your activities are limited because of the size?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "There's certain things I do when I have to hold them, like working out and any jumping or running. And it hurts."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And it hurts, okay. And, and you saw a chiropractor. But what about physical therapy for your back pain? Or do you take any pain medicine for it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Y- no, but I do take a migraine medication, propranolol."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "That's okay. So let's see. I know that you have a history of breast cancer in your family. Have you had any mammograms? And how old was your mother when she had it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mom was 40. And they recommended me starting at age 30 for mammogram. I'm still... I mean, I'm 25. So I'm still a little bit young."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And otherwise, it seems like you're really healthy?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, for the most part. I lost about 10 pounds over the past few months, and I still would like to lose about 20 more pounds."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Congratulations. That's great. And then, um-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": ". So then... You're welcome. And so do you use any tobacco, drugs, or alcohol? And then, um, you said that you were going to school. What are you going to school for?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, I drink a little wine on occasion, and for school, I'm currently studying psychology."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, that's great. All right. So what we'll do is we'll go ahead and take a look. I'm gon na take a couple of measurements. And we'll kinda talk about the surgery afterwards. Um, so go ahead and stand up for me, Julia. Okay. So, looking at the measurements, it looks like one breast is a little lower than the other."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Well, thank you so much. It looks like I have all the measurements that we need. You can go ahead and cover up now."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So I think you're a great candidate for a breast reduction. When we talk about a breast reduction, what happens is that we remove the tissue out of the breast."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay. That's fine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And we would then lift them and elevate the nipple position in order to help with your back pain, neck pain, and because I'm a plastic surgeon, of course I want them to look nice as well."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Right."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So typically, when you do the breast reduction, we make an incision around the nipple straight down and then underneath. And it kinda looks like, um, an anchor below. Then straight down, and underneath, and through that incision, we're able to f- to lift the breast. And we'll take off any extra fat and breash- breast tissue. So that way it becomes smaller in size. And I noticed that you would like to be a b cup. So I do tell every patient we can make you as small as your blood supply allows. And what that means is we must move the nipple without cutting off any of its blood supply during the surgery."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay. Well, thank you for explaining that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You're welcome. And in your case, you'll probably be a small c. Um, a b cup might be a little bit small, but we'll see once I'm doing the, the procedure for you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And typically the surgery takes about three hours. You will have drains, one in each side. And that helps prevent fluid from building up in the breast. And that stays in for about a week. And then we'll remove them in the clinic. And you'll have a clear plastic tape over your incision that should help with the scars. And, um, we've seen that patients who have lighter skin, the scars will tend to be red at first. And then it takes about a year for a scar to mature in line."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay. Well, I'm not too worried about the scars."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And I do like to keep patients overnight. It's just going to be for one night in the hospital. And we just wan na make sure your pain is controlled, make sure you're not nauseated, all of that stuff. Some patients wan na go home that same day. But you know that some people get nauseated, and the last thing that I want is for you to be vomiting at home alone without the, the support here at the facility."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, yeah, that sounds good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And then about 30% of patients say that they can not breastfeed after a breast reduction, and the reason is the breast is made up of fat. And it's also made up of a gland. And the gland is what produces the milk."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And so in order to reduce the size of the breast, we have to take out both the fat and the glands. So it just depends on how much is left, whether you can breastfeed in the future. And then also, the breast will change over time. If you, um, gain weight, they will get larger, things like that."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And if you have children, they will change as well. They will enlarge, especially if you can breastfeed. But they'll go back down and will appear, um, a little bit deflated."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah. I don't know if I'm interested in breastfeeding."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Um, the hormones of pregnancy, though, will change the breasts, so that's just something to be aware of, and I tell all younger patients that."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, yeah. Absolutely."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And then typically nipple sensation is fine after a breast reduction, but there is a slight chance that you'll have an alteration in the nipple sensation or not have any sensation in the nipple. Generally the nipple is just fine unless it is a massive reduction. And it's quite normal after surgery to be a little bit bruised, and then it just takes some time for that to go away."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "But other than that, you know, most patients are very happy after the breast reduction because the symptoms of the back pain, the neck pain, you can feel relief almost immediately. So do you have any questions, Julia, about the process or anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, not really."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And, I do think you're a good candidate for it. And I think you'll benefit from it as well."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Good. I look forward to a relief."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I think you just have to do it when you are ready, when you know that you feel like it's a good time, because it is a commitment, and you will have some activity restrictions for about six weeks after surgery, uh, no heavy lifting. And I do say no driving for two to three weeks. And the drains stay in, like I said, for about a week."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay. Well, I am ready as soon as my insurance is switched over."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Well, I think from this point, if you want to, we can take photos today, while you're here. I have all the documentation now in the note about your symptoms, and that's what the insurance company is going to look for. So thank you for answering those questions. So once we have the new provider, we'll go ahead and get that submitted. And then, when they approve it, um, what the office will do, is they'll work with you on a surgery date, and then we'll meet again right before the surgery to answer any last minute questions and go over the instructions in more detail, things like that."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay. Well, I will notify the office as soon as I have the insurance information."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "That sounds great. And then we can get it all in process. And it was so nice to meet you. And catherine will be right in to get your photos. Julia Jones is a 25 year old female with symptomatic macromastia, presenting for evaluation of breast reduction. The patient has attempted nonsurgical treatments, but the minimal relief, and is an ideal candidate for bilateral reduction mammoplasty. Her minimum required resection, based on a bsa of 2.65, with the schnur scale is 1,792 grams, which should be attainable. Given her extremely large breasts and the measurements above, there is potential for using a nipple graft. Physical exam findings of breast, inspection reveals asymmetrical breasts with severe ptosis bilaterally. There is no nipple retraction or discharge bilaterally. No breast tenderness, masses, or axillary lymphadenopathy is palpable."
+    }
+  ]
+}

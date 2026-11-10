@@ -1,0 +1,21 @@
+{
+  "encounterId": "pm57-d4c02",
+  "source": "PriMock57",
+  "sourceUrl": "https://github.com/babylonhealth/primock57",
+  "license": "CC-BY-4.0",
+  "citation": "korfiatis2022primock57",
+  "originalId": "day4_consultation02",
+  "setting": "primary care (UK, remote consultation)",
+  "chiefComplaint": "I'm feeling hot and have severe headaches",
+  "durationSeconds": 502.8,
+  "audio": {
+    "doctor": "https://media.githubusercontent.com/media/babylonhealth/primock57/main/audio/day4_consultation02_doctor.wav",
+    "patient": "https://media.githubusercontent.com/media/babylonhealth/primock57/main/audio/day4_consultation02_patient.wav"
+  },
+  "turns": 134,
+  "wordCount": 1260,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": true,
+  "simulated": true
+}

@@ -1,0 +1,68 @@
+Clinician: Okay
+Patient: Good morning
+Clinician: Good morning thanks doctor doctor cooper I'm I'm you know I'm a little I'm sad to be in here but you know thanks for taking me in I appreciate it
+Patient: Sure absolutely what can I help you with today
+Clinician: So you know I've been dealing with my asthma and like I tried to join sports but it's really kind of it's getting hard you know and I I I just wonder if there's something that can be done because I really do like playing water polo
+Patient: But I'm having difficulty breathing sometimes I've had to like you know stop matches and sit on the side just to kind of like catch my breath and use my inhaler so I was wondering if there was something we could do about it
+Clinician: And then like I'm kind of a little bit worried I think my mood is getting a little a little worrisome and I I wanted to explore like what my options were
+Patient: Okay let's talk about the asthma first so what inhaler are you using now
+Clinician: I have an albuterol inhaler
+Patient: Okay and when when you're having trouble it's usually just around sports that is it keeping you up at night
+Clinician: So I don't really like wake up at night a lot typically like it's sports like you know if I'm doing anything like crazy aerobic or like running or anything I do notice that if any if I'm around smoke I do start coughing a little bit but most of the time it's sports
+Patient: Okay and can you describe a little bit for me what happens
+Clinician: I start to yeah no so I start to feel like there is like some phlegm building up in my in my throat and I start coughing like my chest gets tight I start wheezing and I just have to sit down or else I'm gon na get like lightheaded too
+Patient: Okay and then when you use your inhaler
+Clinician: Mm-hmm
+Patient: Does it does it alleviate the problem
+Clinician: So yeah it helps with that like phlegm feeling you know but I still I still have to sit down you know and like breathe and then the thing that I hate about that inhaler is I start getting like shaky is that supposed to be happening
+Patient: Yes that is unfortunately normal and a side effect with the inhaler
+Clinician: Okay
+Patient: So you use you're using two puffs of the inhaler
+Clinician: Mm-hmm
+Patient: For the symptoms
+Clinician: Yes
+Patient: And then you sit down and does it does it get better within about fifteen minutes or so
+Clinician: Yeah yeah it does but you know I had to like step out of the the pool to make that happen I'm hoping that there is something else we can do okay have you ever taken any daily medications for your asthma an inhaler or singulair or anything like that no I I just use my inhaler whenever I have an attack
+Patient: Okay so that's something we might wan na consider but how often is it happening
+Clinician: Pretty much every time I do any kind of aerobic workout
+Patient: Okay and outside of physical activity you're not having any problems
+Clinician: Yeah there's that part where like if I'm around somebody who has been smoking a lot or is currently smoking but I usually just step away I don't even like to be around them you know that makes sense
+Patient: Alright well we will look at that tell me about the mood issues you are having
+Clinician: Yeah so one of the reasons I got into like trying to get into sports is like I feel like you know you you feel a lot more energized and a lot you know happier but like lately I've just been kinda stressed out you know like I have I have like sats that I need to study for I've got like all these ap classes you know there's just it I feel like there's a lot of pressure and you know like I get it but there are times where I'm just like really down and I I don't really know what else I can do
+Patient: Okay that makes sense any any difficulty with focusing or you're having difficulty retaining information or is it more feeling sad not having motivation
+Clinician: So I think it's like a lot of sadness a lot of like you know I don't really I kinda feel like you know I don't really like want to do anything you know my friends will go out and I'll just be like I'd rather be at home I am really tired a lot too
+Patient: Okay alright well let me let me go ahead and check you out
+Clinician: Mm-hmm
+Patient: And then we can talk a little bit more
+Clinician: Okay
+Patient: I'm gon na take a listen to your heart and lungs
+Clinician: Mm-hmm
+Patient: And everything sounds good
+Clinician: Let me take a look at your eyes
+Patient: Mm-hmm and in your ears everything looks okay have you had any problems with allergies you have seasonal allergies or anything like that
+Clinician: Yeah I think so yeah
+Patient: I do see just a little bit of fluid in the ears
+Clinician: Mm-hmm
+Patient: And I'm gon na look in your mouth too
+Clinician: Okay
+Patient: And throat looks fine no tonsils
+Clinician: Mm-hmm
+Patient: Lem me go ahead and have you lay back on the table and I'll take a listen to your stomach
+Clinician: Okay
+Patient: Everything sounds okay I'm gon na feel around just to make sure everything feels normal
+Clinician: Mm-hmm
+Patient: Everything feels fine and I'm gon na check reflexes and they're all normal
+Clinician: Awesome
+Patient: It's really hard to do with actual patient so in terms of the asthma I think we could try a daily medication since it looks like you might be having a little bit of allergies maybe we can try some singulair
+Clinician: Mm-hmm
+Patient: And start with that once you are on that daily and you can continue to use the albuterol inhaler those side effects unfortunately you're right it's it's just one of the expected side effects with an albuterol inhaler I would recommend just what you're doing just sit down for a little bit after you take it
+Clinician: And we will get you started on the singulair probably within about a month you should see a difference so I will have you come back in about six weeks and follow up and see how you're doing with that
+Patient: In terms of the mood is this new for you
+Clinician: Yeah I think so like when I started this year
+Patient: And it sounds like related to school expectations and the stress with saps and all of that
+Clinician: Yeah
+Patient: Okay let's consider having you start seeing a therapist I think that would be a good place to start
+Clinician: Mm-hmm
+Patient: And we will do some screening questionnaires and and then follow up in a couple weeks on that too
+Clinician: Okay alright sounds like a plan okay
+Patient: Thank you

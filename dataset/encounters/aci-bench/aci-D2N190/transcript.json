@@ -1,0 +1,690 @@
+{
+  "encounterId": "aci-D2N190",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And good morning hi beverly"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Good morning"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "How do you see your last name"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Howard"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Howard nice to meet you"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You too"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "What can I do for you today"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Well I think I like fell off of my tandem bike with my partner and my knee has been hurting ever since and when did that happen"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Maybe like two weeks ago"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and which knee are we talking about"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "My right knee"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright and tell me exactly what happened so we were like riding together and I think he said he saw a squirrel or something like that he's a little distractible and you know like he went down so I went down I hit it on the curb like it's really kinda it was sore I gave I I took some ibuprofen and I I like washed it out and put a band-aid on it but it's it's just been like kind of hurting everyday since then so I scheduled an appointment"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay is it getting better getting worse or just kinda lingering on"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "It's it's just holding on and I tried taking like medication right I took some ibuprofen and it was fine it just like it keeps coming back and I I read on the label I'm not supposed to take that stuff for more than two weeks right"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well it all it all depends everyone's different we'll get to that"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And your knee was not bothering you at all before this normal knee"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yep"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Never okay alright what do you do for living"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Well I work in a children's hospital so I like play around I I'm a I'm a a baby rocker professionally I go into like the nicu's and I I rock some of the babies"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Gotcha what do you do outside of outside of work is biking kinda your thing"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No that was his thing and I think that's why we fell I I shouldn't trust him but most of the time I go on walks with my dog"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay have you broke up with him already or"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No I didn't know that knee injury was a reason to but now that you've told me maybe we should talk about that"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "We'll talk about that later too"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Alright so let's take a let's take a peek at your knee here"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You gon na stick it through the screen or how you're gon na do this alright"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Alright then"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I'm just I'm gon na I'm gon na grab your leg we're just gon na take it through just let it relax I'm just gon na take it through a little range of motion I'm gon na kinda poke around all different places you tell me where it hurts okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright now I'm poking I'm poking I'm poking so on the inside part here"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Is this where it hurts"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah like when you touch it it really hurts"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Right there okay tell me what's worse here or here"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "On the inside"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay so medial joint line tenderness"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Pes bursa nontender epicondyle nontender back of her knee nice and soft any pain back here"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No I don't think so"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay popliteal space is nontender how about over on this side"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No okay lateral side nontender skin she has got about a dime size little abrasions dry looks about a week week old right over the medial patella everything else looks good no scars okay how about can you straighten it out all the way I can but sometimes it like hurts a little bit like it almost like it clicks"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yep that's good though full full extension how far can you bend it"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All the way back"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay let's see"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Good good and how about the other side let me see the left knee can you bend that one all the way back too"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah that's fine"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay full full symmetric flexion no no deformities go ahead and just let it relax"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mm-hmm valgus stress medial collateral ligament intact lateral collateral ligament intact okay so little kind of little laxity posterior drawer let me see the other let me see the other knee"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm yeah so that that feels pretty much normal so she's got a about a one plus posterior drawer anterior drawer negative lachman negative good let's go ahead and just kinda bend and straighten for me"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Good patellar patella tracks fine no crepitus alright let's go back to this medial side you're tender right there is that right"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's tender on the medial joint line but actually negative mcmurray negative lateral side negative mcmurray good so pretty stable you you feel like you you're kinda shifting back a little bit on this side compared to the other side does it feel unstable when you walk does it feel like it shifts"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah sometimes"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "What's what's the worst thing that that you can do that you don't like about that knee is it walking standing sitting still getting up from a chair in and out of the car what what don't you like"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Walking up a hill like any kind of incline really hurts"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah and you're it's just you're weak are is it"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hmmm"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You actually no"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah it hurts no"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "What about you I mean are you real weak"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No I would say I'm pretty strong"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Did you go to the gym"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I go to the gym but I swim so the"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay I can't treat people like you you you you need to work harder I quit complaining okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yes sir work harder okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Do you do you play sports in in college or high school"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I did in high school"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah so and you and you still doing anything athletic now other than just rocking kids"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Just kinda you're thinking walking the dog"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah rocking kids and walking dogs and going on the occasional swim"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "On the occasional swim alright how have you been swimming since you hurt your knee"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No no I haven't would you recommend that"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well I'm not sure yet it's because we might have to do surgery on your knee here and take that leg off"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's pretty bad"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "We'll get we'll get to that too"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So did you already have x-rays of this knee today"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yes"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay do I go into that to"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Look at the x-rays do you or just stop here you can okay okay and so what would what would happen now you would you could pause it You're only cup of this"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Let's take a look at your pictures here and alright so this looks pretty just looking at it looks pretty normal looks pretty healthy you can see how I all the edges of the bones here look pretty good I don't see any bone spurs of that I don't see anything broken everything looked looks pretty good kneecap's tracking good you can see the space here there's no real space there that's actually cartilage so that looks pretty healthy and you can see the other side looks both both look the same so x-rays look I don't see anything obvious on that but looking at your knee here you may have hit that tibia bone and kinda pushed that bone back it feels to me like you may very well have sprained your or injured your posterior cruciate ligament that's what it's feeling like"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hmmm"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I'm not gon na know that for sure or if there is other things going on in there but I think getting an mri scan to look at what you may have done inside there I'm pretty suspicious though that you may have injured that ligament if that's the only thing you did very rarely is this gon na need surgery okay so this may be something we wan na get you into a brace here get you into some therapy and get all your motion back and get your strength back and then maybe check it back in a in a few weeks and see because a lot of times those ligaments can tighten back up"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's it's odd for just an isolated posterior ligament to need surgery"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "But if there's other things going on I can't tell you for sure that you didn't injure a meniscus too or maybe chipped some cartilage when that bone shifted so let's let's get an mri scan to look at that if that comes back with just a ligament like I'm suspecting hopefully this is something we can treat with some therapy and some bracing for a while and get this thing back to normal if after that couple months later or so you still have instability and still bothering you then it's possible we may have to do some surgery to fix that ligament"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Does that make sense"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah yeah so in the meantime though do you want me to still keep taking the ibuprofen yeah I think that's fine for a short if it's helping the big thing right now is we want to get your strength back and your motion back get rid of the swelling that we still see here"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So that will help with that ice ice packs a few times a day you can take the ibuprofen up to three times a day and I'll look I'll we'll look at the dose here there are some other medicines we can try that maybe don't have to take so often that may be easier"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So I can even send in a prescription for you for something that maybe just twice a day a little easier for you to take without skipping doses"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay you can just take it with breakfast and dinner"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "We'll try and see if it works better if your ibuprofen works better though go ahead and just go back to that but we can try this other prescription first"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "It's not very expensive and I can just call it into your pharmacy"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And then we can we can get the brace fitted to you today we are not gon na look at a big big custom kind of expensive brace we will just put because it may just be temporary"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm mm-hmm"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And then I will get you a referral to physical therapy something that you can do close to home or close to work"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And then maybe I could see you back here in maybe four to six weeks and recheck this"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay how often am I gon na have to go to physical therapy"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm gon na kinda leave that up to you and the and the therapist I would start with a couple visits and then we'll just really see how you progress and what you can do at home if what if you have access to some equipment or things that we need to do but I want you to go you know at least a few times so somebody can kinda keep an eye on you make sure you're doing the exercises right"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright I think that sounds good"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Did you get did you select you last night"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I did"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You yeah what do you think what do you roof for"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I so I I'm a little heart broken right now I was for the rockets and the way that these nets are crushing them it's just it's just painful"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Are you serious"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Rockets"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I live in dallas yes"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah yeah that's not that's not my problem though you have not do you not watch the bulls"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No no"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "My gosh alright we're gon na have to work on you"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay thanks"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Bye"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You got four to six weeks to get your attitude straight we'll talk about this later okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yes sir"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Alright very good any questions at all"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay so"
+    }
+  ]
+}

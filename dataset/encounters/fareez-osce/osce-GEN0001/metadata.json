@@ -1,0 +1,17 @@
+{
+  "encounterId": "osce-GEN0001",
+  "source": "Simulated patient-physician medical interviews (Fareez et al.)",
+  "sourceUrl": "https://doi.org/10.6084/m9.figshare.c.5545842.v1",
+  "license": "CC0-1.0",
+  "citation": "fareez2022dataset",
+  "originalId": "GEN0001",
+  "setting": "simulated OSCE interview (Canada)",
+  "category": "General",
+  "audioSource": "figshare Data.zip: Audio Recordings/GEN0001.mp3",
+  "turns": 77,
+  "wordCount": 1097,
+  "hasReferenceNote": false,
+  "audioInRepo": true,
+  "hasAudio": true,
+  "simulated": true
+}

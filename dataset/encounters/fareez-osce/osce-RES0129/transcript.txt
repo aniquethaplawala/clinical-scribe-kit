@@ -1,0 +1,87 @@
+Clinician: What brings you in?
+Patient: I just bringing my son in today because he's had this cough that's been going on for a few days now and for these past two days, I've noticed that he's been just tugging at his ear more as well.
+Clinician: OK, so you said the runny nose started two days ago?
+Patient: Yeah, yeah he had a cough yeah cough and runny nose started about yeah 2-3 days ago
+Clinician: Okay, the runny nose, what color is the discharge?
+Patient: Pretty clear and watery
+Clinician: OK, and the coughing is it dry, or is it bringing up any phlegm?
+Patient: It's been dry.
+Clinician: It's been dry OK. And does it sound harsh?
+Patient: Not really,
+Clinician: No?
+Patient: I don't know. It sounds kinda like a typical cough.
+Clinician: OK, has he lost his sense of taste or smell?
+Patient: He's been a bit more irritable and not eating as much but I'm not sure.
+Clinician: OK, how about changes in his vision or hearing?
+Patient: No
+Clinician: OK. Any fevers?
+Patient: Uhm, I don't think so. But he, we haven't checked and he's been, yeah, as I said, kinda, a little bit irritable.
+Clinician: OK, any weight loss recently?
+Patient: Uhm no, he's been gaining weight. Actually, sorry, I think it. Yeah, he has had a fever. The fever. Yeah the fever started like yesterday.
+Clinician: Oh OK, did you take his temperature?
+Patient: Yeah, my my wife just texted me and told me that she checked it, checked it and said it was over 38.
+Clinician: Oh OK. Yeah, we'll definitely take a temperature here as well just to make sure. Has he had any rashes?
+Patient: No,
+Clinician: No rashes OK. And how about shortness of breath or wheezing?
+Patient: No, I haven't heard that.
+Clinician: No, OK. And then have you actually taken a look into his ears?
+Patient: No, I haven't. He has just been tugging at the right one.
+Clinician: Is he itching it at all?
+Patient: Uh yeah, I guess just kind of like really rubbing it around the outside and pulling on the lobe a little bit.
+Clinician: OK, any discharge? Oh sorry go ahead
+Patient: Sorry I'm just gonna say yeah he's been kind of fussy and pointing at it and no discharge from the ear.
+Clinician: No discharge, OK. Does it look swollen?
+Patient: No, the outside of the ear looks normal.
+Clinician: OK, OK, and how have his bowel movements been?
+Patient: That's been normal, .
+Clinician: Normal. Any changes in his urine?
+Patient: No, it's been normal.
+Clinician: Nausea or vomiting?
+Patient: Nope.
+Clinician: uhm headaches?
+Patient: No, I don't think so.
+Clinician: OK, how about dizziness or fainting spells?
+Patient: No.
+Clinician: No, any confusion or memory loss?
+Patient: No, I don't think so.
+Clinician: No OK, is he an otherwise healthy child?
+Patient: Yeah, he he is. I mean he, uhm about six months ago he had uhm croup I think but he recovered quickly from that and he didn't need to be hospitalized or anything.
+Clinician: OK, and his mother's pregnancy with him, was it complicated in any way?
+Patient: She had gestational diabetes, but it was diet controlled and she's healthy now from that perspective.
+Clinician: OK, OK, that's good. Uhm and then was he born at term?
+Patient: He was yeah he was born over like 38 weeks I think
+Clinician: Oh OK, good and was it a C-section or a vaginal delivery?
+Patient: Uhh vaginal.
+Clinician: OK, any complications during the delivery?
+Patient: Uhh no.
+Clinician: No, OK, how about uhm after birth? Was he hospitalized for any reason?
+Patient: No, he wasn't. He was able to go home.
+Clinician: OK, that's good. Uhm and has he been developing normally in terms of his motor movements, like behavior wise, social wise, like is he on par with his peers in terms of milestones?
+Patient: Yeah he is. Yeah, everything's been normal that way and he's been growing well too.
+Clinician: OK, good. growing while gaining weight well, OK, is he on any medications?
+Patient: No, he's not.
+Clinician: OK. Is he up to date with all his immunizations?
+Patient: He is, yeah, we've been following along with with that.
+Clinician: OK, does he have any allergies?
+Patient: I don't think so.
+Clinician: No, Ok. Any family history of lung or heart conditions?
+Patient: Uh, no.
+Clinician: No OK. Does anyone at home smoke?
+Patient: Uhm I do but not like in the house or anything like that, usually just well, it will always be either outside or when I'm at work.
+Clinician: OK OK, any old carpet, dust, mold, asbestos, anything like that in your home?
+Patient: No.
+Clinician: No. OK. Who does he live with?
+Patient: So yeah, he lives with me. It's just me and my wife.
+Clinician: OK. Any pets at home?
+Patient: We have a a dog.
+Clinician: OK. Has he been in contact with anyone sick recently?
+Patient: Uh. Not that I can think of.
+Clinician: OK is he in like daycare?
+Patient: No, no my wife's been, been looking looking after him at home. She's the primary caregiver, well while I'm at work.
+Clinician: OK, any trouble recently?
+Patient: No no.
+Clinician: No, OK. Well, those are all the questions that I had for you today. Did you have any questions of your own?
+Patient: Uhh no, just was wondering what what might be going on?
+Clinician: Yeah, for sure, so right now it sounds like a viral picture. It sounds like he has a cold and possibly an ear infection. I'd have to take a look into his ear to be able to tell more uhm because some of his symptoms overlap with those of covid we'll probably do a swab and you should hear back in about 24 to 48 hours. Uhm and so after I take a look into his ears, we can do one of a couple of things, so if his tympanic membrane looks like it's been perforated, or if there's pus in there, then we'll prescribe him a 10 day course of antibiotics, and if I see like middle ear effusion or his tympanic membranes bulging, and he seems really sick like he has a high fever, what she does, I will again prescribe him 10 days of antibiotics. And if he has a middle ear effusion or a bulging tympanic membrane, just one of those two, and he doesn't seem to be too sick, we can reassess him in 24 to 48 hours. Uhm An antibiotic that we usually prescribe is amoxicillin. Uhh how does that sound?
+Patient: That sounds really good. Thank you.
+Clinician: OK, no worries. Take care.

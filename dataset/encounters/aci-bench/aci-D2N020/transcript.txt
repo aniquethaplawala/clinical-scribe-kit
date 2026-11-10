@@ -1,0 +1,45 @@
+Clinician: Hi, Vincent. How are you?
+Patient: I'm good. How about you?
+Clinician: I'm good. So le- are you ready to get started?
+Patient: I am.
+Clinician: Okay. Vincent is a 56-year-old male here with abnormal lab findings. So, I've heard you were in the er, Vincent, and they found that you had a low hemoglobin.
+Patient: Yup.
+Clinician: Were you having some dizziness and some lightheadedness?
+Patient: I was very lightheaded. I- I don't know. Very lightheaded.
+Clinician: Okay. And have you noticed bleeding from anywhere?
+Patient: I have not. I haven't hurt myself in quite a while. Maybe a slight nick from a knife while chopping some onions, but nothing more than that.
+Clinician: But no blood in your stools or-
+Patient: No.
+Clinician: . Anything like that?
+Patient: No.
+Clinician: Okay. And any type of weight loss or decreased appetite or night sweats? Coughs?
+Patient: Uh, s- slightly decreased appetite, but I wish I had some weight loss.
+Clinician: Um, okay. And how about any abdominal pain? Fever, chills?
+Patient: Uh, none of that.
+Clinician: Okay. All right. Um, any nausea or vomiting?
+Patient: Not really. Yeah. Maybe a bit of nausea.
+Clinician: Okay.
+Patient: I- sitting at the back of a car, that makes me nauseous at times.
+Clinician: Okay. All right. Um, well, how are you doing in terms of your knee replacement. I know you had that done last year. That's going okay?
+Patient: Mm, it seems okay. Yeah.
+Clinician: Okay. You're walking around without a problem?
+Patient: Yup, yup. Just not good enough to run yet, but everything else works just fine.
+Clinician: All right. Um, and I know a few years ago, you had, had that scare with the possible lung cancer, but then they did the biopsy and, and you've been fine.
+Patient: Yup, yup. All good.
+Clinician: Turned out to be benign.
+Patient: Yup.
+Clinician: Okay. Great. All right. Well, let's go ahead and do a quick physical exam. So looking at you, you don't appear in any distress. Your heart is regular. Your lungs sound nice and clear. You have some tenderness to the right lower quadrant to palpation of your abdomen. Your lower extremities have no edema. Um, all right. Well, let's go ahead and look at your labs, okay?
+Patient: Yup.
+Clinician: Hey, dragon, show me the hemoglobin. Yeah, so your hemoglobin is 8.2, which is quite low for somebody of your height and weight, so we'll have to look into that a, a little bit further. I know that they did the endoscopy in the emergency room. Hey, dragon, show me the endoscope results. Good. So it looks like you had some gastritis, which is just inflammation of your stomach and they also found a slight polyp, which I know that they biopsied and the results are pending at this time. Um, so, you may have had some bleeding from the gastritis. It's not usual for people to have bleeding from that. Um, okay, well, hey, dragon, show me the anemia panel. Okay. Anyway, okay. Well, Vincent, I think, you know, in terms of, my impression of you is that you've had this newfound anemia and for that, I think that we should go ahead and put you on protonix, 40 milligrams, once a day to help with the gastritis. Does that sound okay to you?
+Patient: It does. You're the doctor. I don't know what it is.
+Clinician: So that's just, uh, what we call a proton pump inhibitor which, uh, helps decrease the amount of acid secreted within your stomach.
+Patient: Got it. Makes sense.
+Clinician: Hey, hey, dragon, order protonix, 40 milligrams, once a day. And I'd like you to try to cut down on your caffeine 'cause that can also irritate your stomach. Try not to take any ibuprofen and try to cut down on any alcohol intake, okay?
+Patient: Yup, yup. The coffee's the hard part.
+Clinician: Yeah. It always is. How about one, one, one eight-ounce cup a day? Okay?
+Patient: Sure.
+Clinician: Um, and we'll go ahead and we'll see you in a couple weeks, okay?
+Patient: Sure thing.
+Clinician: I'm going through, uh, I'll also order another, uh, cbc on you. Hey, dragon, order a complete blood count. All right. The nurse will be in soon. It's, you know, settle all that. I'll see you soon.
+Patient: See you.
+Clinician: Hey, dragon, finalize the note.

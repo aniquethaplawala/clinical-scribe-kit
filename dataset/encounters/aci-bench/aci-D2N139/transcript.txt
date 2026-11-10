@@ -1,0 +1,75 @@
+Clinician: All right, new patient, Jordan Roberts. Date of birth: 3/2/1972. He's a 49 year old, uh hm, with hypertension and palpitations. Please copy forward his thyroid profile from march 1st, 2021. Hello mr. Roberts, how are you doing today?
+Patient: I'm fine, thank you.
+Clinician: Good. Good. So, I saw you were recently in the emergency room with high blood pressure and some palpitations.
+Patient: Yeah. That was back in march I think, but my girlfriend and I, we talked about it, and on that day I had a few cups of coffee, and no breakfast. So, I think it was probably more of a panic attack than anything else.
+Clinician: Yeah. Have you, uh, have you felt it again since?
+Patient: Uh, no.
+Clinician: Okay. Uh, so tell me about the blood pressure then.
+Patient: Well, I've had issues with my blood pressure since I was young.
+Clinician: Do you have a family history of this?
+Patient: Yeah. A lot of my family does have high blood pressure.
+Clinician: I see.
+Patient: Yeah, I thought it was getting better, and, uh, I have a new primary doctor, and she put me on a new medication about a month ago.
+Clinician: Uh, can you tell me which medications you're taking?
+Patient: My new med is, uh, a combo med, something 40-25.
+Clinician: Okay. Um. Yes, I see that in your chart. The benicar hct. It has hydrochlorothiazide in it.
+Patient: Yeah, that's it. My water pill I call it.
+Clinician: Okay. Are you still taking the amlodipine, 10 milligrams daily?
+Patient: Uh, yes I am.
+Clinician: That's- that's a good start on a regimen. Are you checking your blood pressure at home, and if yes, what numbers are you seeing?
+Patient: Um, every day.
+Clinician: Awesome.
+Patient: Yeah. Every morning, I take it when I get up, and it's been running at about, uh, 146 to 155 lately.
+Clinician: So you're not down in the 120s yet?
+Patient: No, not yet. Well, we're trying to get there though.
+Clinician: Okay. Uh, how are you doing with your salt intake?
+Patient: I'm trying to back off of it. I think I'm doing good with it, not eating too much.
+Clinician: Good, uh, it plays a huge part in lowering your pressure and, uh, staying away from salt is important. Um, I'll give you some information on the dash eating plan, which is the only eating plan that has been shown to lower blood pressure.
+Patient: Sounds good.
+Clinician: Are you doing any exercise?
+Patient: I do try to walk on the treadmill when I can.
+Clinician: Okay, great. Um, all right. So, let's take a look.
+Patient: All right.
+Clinician: Uh, you're gon na hear me talk throughout your exam, just so I can make sure I get everything documented.
+Patient: Okay.
+Clinician: So, use my general physical exam template. Let me take a listen to you and make sure everything sounds good.
+Patient: All right.
+Clinician: Your heart and lungs sound good, so that's great.
+Patient: Good to hear.
+Clinician: All right. Go ahead and lie down. Uh, and let me know if anywhere I press hurts.
+Patient: Nope. Nowhere.
+Clinician: All right. So, I'm gon na take a look at your ankles and feet. I'm just gon na look for some swelling.
+Patient: All right.
+Clinician: All right. It all looks good. Go ahead and sit up. So, in terms of getting that pressure down, you're on three meds that are maxed out and your blood pressure is still not down. And, the question is what do we need to do to get your- to get it down. Uh, your potassium one week ago was 4.0. Uh, has it been redone since in the last week?
+Patient: Uh, no.
+Clinician: Okay. Uh, four is good for your potassium level, some people have what is called resistant hypertension that is driven by something else in their body, uh, often it is a form, uh, hormonal response. If I were to take 10 people under the age of 50 who have high blood pressure who developed it at a young age, eight out of 10 would respond to reduced salt in their diet with a lower blood pressure. But, for the two out of 10, there is something else driving it, uh, parathyroid levels or something called your adrenal glands overproduce, um, aldosterone, which we call hyperaldosterone.
+Patient: Okay. So, is there something we can do about it?
+Clinician: Um, in these cases, there's medicine called, uh, spironolactone, that is very effective at dropping the ald- aldosterone level, and your blood pressure, and I think we should give that a try.
+Patient: All right. I mean, I'm willing to give it a try.
+Clinician: Okay. So, let's discuss the piss- the possible risk of, uh, being on hydrochlorothiazide, which is the fluid med that you're now on. And, the spironolactone. One issue is that they can affect your electrolyte balance. Um, they can also cause dehydration. So, when... So, you got ta make sure that you hydrate. If you do not hydrate, and you get dehydrated, you will know it because you will get dizzy standing up. Um, second thing is the spironolactone can raise your potassium too far, it's rare, but it can. Uh, you're starting with your potassium at four, so that gives us some room.
+Patient: All right. I guess that makes me feel a little bit better.
+Clinician: Yeah. And then the third thing is that spironolactone combined with hydrocholorozide- chlorothiazide can cause your sodium levels to go down. Now, this does not mean- mean that you need to be eating more salt, okay? But, it does mean that you will need to do blood tests in two weeks to make sure that it's okay.
+Patient: All right. No, that I can do. Um, are there any other side effects I need to worry about?
+Clinician: Uh, dizziness possibly, as well as, uh, one in 100 guys might develop tenderness in their chest, swollen breasts, or enlarged breasts. This is a rare side effect, um, called gynecomastia, and if it happens, you just cut the medication and you let me know, but it is very uncommon.
+Patient: I'll definitely let you know if that happens.
+Clinician: Okay. Uh, we'll keep working at it until your blood pressure gets better. Um, it can be tricky when your blood pressure starts to go up at a young age though, it is important to get it under control because it can lead to your heart getting bigger or enlarged. Um, same thing that happens when you lift weights and your muscles get bigger, uh, and if your heart pumps against high blood pressure, it can eventually lead to heart failure.
+Patient: I understand.
+Clinician: Yeah, so getting that under control is really important to help prevent kidney failure, strokes, and- and things like that- that you're at high risk for with high blood pressure.
+Patient: Okay.
+Clinician: Um, the american heart association has a website called heart.org, it has a lot of really good information about blood pressure to teach- to teach you about it and how to control your diet with exercise. Um, if you do your treadmill routinely for 30 minutes or so most days, that could be seven to 10 points off your blood pressure.
+Patient: Really? I didn't realize that.
+Clinician: Yeah, yeah. It's very important to be active, lower your salt, and increase your potassium. Um, the goal is to keep your salt under 2000 milligrams a day, the actual recommendation is- is 1500 milligrams per day, but most people have a hard time with that. Um, so just take a look at the website and the dash diet information. Um, that will give you a lot of tips and information to help you start learning about this stuff.
+Patient: Okay. I'll definitely check that out.
+Clinician: All right. So, we'll try the spironolactone and schedule a followup in two weeks to check your blood pressure and electrolytes. Uh, if the new med doesn't work, the next up is going to be the resistant hypertension clinic.
+Patient: All right.
+Clinician: All right. So, there they will look into secondary causes of your hypertension. They have access to newer procedure based technologies that can lower your blood pressure without medication, uh, for example, there is something called a renal, uh, denervation, uh, where they go inside the artery that feeds your kidney with almost like a little coil and heat that artery up. When they do that, they can block the nerve endings that get into your kidneys and lower your blood pressure.
+Patient: That's interesting.
+Clinician: Yeah. So, that procedure has been shown to lower blood pressure by 10 points. Um, there are of course some risks, so not everyone is a candidate. Uh, but we'll cross that road, uh, when we need to, and let's just- let's just see how you do with the addition of the medication.
+Patient: Sounds good to me.
+Clinician: All right. So, we will see you in two weeks then.
+Patient: Sounds good. Thanks doc.
+Clinician: Yeah, you're welcome. Let me know if you have any questions.
+Patient: Will do.
+Clinician: All right. Have a great day mr. Roberts.
+Patient: You too.
+Clinician: Mr. Roberts presents with resistant hypertension. He's on three meds and maximum dose. I have added spironolactone to his regiment. We will need to monitor his potassium and sodium. He will have a metabolic panel and blood pressure check in two weeks. Uh, next medication would be carvedilol, uh, which I try to avoid giving, it's potential for erectile dysfunction. I have talked to the patient about that, and the potential side effects of spironolactone, including the gynecomastia and electrolyte disturbances. If he is not controlled on spironolactone, the next step would be sending him to resistant hypertension clinic.

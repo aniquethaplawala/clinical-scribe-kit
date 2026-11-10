@@ -1,0 +1,22 @@
+{
+  "encounterId": "aci-D2N042",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N042",
+  "split": "train",
+  "collectionMode": "aci",
+  "chiefComplaint": "Right ankle pain",
+  "secondaryComplaints": [],
+  "patient": {
+    "age": null,
+    "gender": "female"
+  },
+  "turns": 39,
+  "wordCount": 878,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

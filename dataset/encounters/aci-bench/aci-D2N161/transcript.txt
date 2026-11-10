@@ -1,0 +1,35 @@
+Clinician: Patient is an 82 -year-old male with past medical history significant for hypertension and stage three chronic kidney disease who presents for hospital follow-up after an acute on chronic chf exacerbation alright hey hey Kevin how are you doing today
+Patient: Hi document well I mean I thought I was doing good but then I've been trying to watch my diet like you said and I really noticed that my ankles were swelling and then one day I got really super short of breath and I even had to call nine one one now when the paramedics got there they put me on the special mask to breathe when I got to the er the doctor in the er said my blood pressure was super high
+Clinician: Yeah okay so yeah so I saw that and I was notified that you were in the hospital for heart failure now I do see here that your blood pressure was two hundred over ninety are you have you been taking your medications
+Patient: Well I take them most times but I don't know sometimes I miss a dose or two but I really do try to take it for the most part
+Clinician: Okay well good I'm I'm glad you're trying there you do need to take them though okay consistently now you said you were watching your diet did you have some slips you said your ankles were swelling
+Patient: Well be honest with you you know I'm a big cheese man I love me some football and and we go to parties on the weekends and I mean I I can't help it I really like pizza and I love chicken wings and I know I shouldn't have them but they are good and I want to eat them when I'm with my friends
+Clinician: Man I know I I totally understand I mean I do love pizza too and I love chicken minks but I do love them with dallas cowboys not so much the cheese but everybody's got your preference but but you do have to you know you have to watch those right you can you can you can have a little pizza maybe a little chicken wings every now and then but you know when you go to a lot of parties on weekends we we have to really watch that okay
+Patient: Yeah I mean you're wrong about the cowboys but yeah I guess you're right about everything else
+Clinician: Okay thank you so tell me how are you feeling now though
+Patient: Man doc I feel good I was in the hospital a couple of days and they gave me this medicine made me go to the bathroom like nobody's business and then they gave me this water pill through my iv and I think I'm on different medications for my blood pressure now too but and I feel so much better now
+Clinician: Okay well that's good to hear so have you been watching your diet too and taking taking your pills since you've been home
+Patient: Yeah I've been doing just what they told me to do because I don't wan na go back to the hospital
+Clinician: Okay alright and we don't want you to go back to the hospital it's never a good experience so you know being in a hospital it's better to be well and be at home and watching your chiefs play now have you bought a blood pressure cuff at home I know we talked about that
+Patient: Yes ma'am I finally did what you told me to do and I ordered one and it came last week I've been checking it about every other day and my blood pressure has been really good
+Clinician: Good very good how about have you been having any shortness of breath or problems sleeping since you've been home
+Patient: Nope no shortness of breath I can get up and move around I don't have any trouble and no problem sleeping I do have a good afternoon nap
+Clinician: Good that's good you need to rest every now and then as well and now tell me have you had any chest pain
+Patient: No chest pain at all since I've been home
+Clinician: Okay alright very good alright well I'm gon na go ahead and do a quick physical exam on you here Kevin and so I'm looking at your vital signs here and your blood pressure today is actually pretty good at one twenty eight over seventy two your vital signs also look good in general your heart rate's been nice at like seventy nine so that's very nice and normal your respiratory rate is twenty six that's probably because you're talking to me here but that's that's alright and then your o2 sat is ninety nine percent so that's good and now on your neck exam there is no jugular venous distention so that's good on your heart exam I appreciate a two out of six systolic ejection murmur which I have heard this before and it's stable so we will just keep on monitoring that okay now your lungs here lem me listen okay they're clear bilaterally and let me take a look at your legs real quick here Kevin okay so your lower extremities they do show a trace of edema so that that's gon na be that we're gon na be able to help that with the water pills that you're taking okay
+Patient: Okay
+Clinician: Now I did review the results of your echocardiogram which shows a preserved ef of fifty five percent abnormal diastolic filling and also mild to moderate mitral regurgitation so what all that means let me go ahead and tell you about my assessment and plan so for your first problem of your you know congestive heart failure it sounds like this was caused by you know dietary indiscretion in an uncontrolled hypertension so what I wan na do is I want you to continue on bumex two milligrams one daily that's that water pill that you're talking about and then I want you to continue to watch your diet and also avoid salty foods I know you love your pizza and chicken wings but we are gon na have to cut back on those okay Kevin
+Patient: Alright
+Clinician: Alright now I want you to weigh yourself though everyday and then call me if you gain like three pounds in two days okay
+Patient: Okay
+Clinician: Okay now I do want you to see a nutritionist too and give you some education about what foods you can eat
+Patient: Alright sounds good
+Clinician: Alright now for your second problem of hypertension I do want you to continue on that cozaar a hundred milligrams daily and then also continue on that norvasc five milligrams once daily and I'm gon na go ahead and order a renal artery ultrasound just to be sure that we aren't missing anything we wan na make sure there's no other causes like secondary causes that that's gon na cause some problems with your with your kidney okay
+Patient: Okay
+Clinician: Alright now for your third problem your kidney disease I do want to get some more labs some more blood work to make sure that you tolerate this regimen
+Patient: Alright that sounds good
+Clinician: Okay and if do you have any other questions for me
+Patient: I don't think right now
+Clinician: Okay well then I'll see you again in three months then Kevin okay take care of yourself
+Patient: Alright thanks document
+Clinician: Alrighty bye

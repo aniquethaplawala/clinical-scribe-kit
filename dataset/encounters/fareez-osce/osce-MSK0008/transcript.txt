@@ -1,0 +1,156 @@
+Clinician: How may I help you?
+Patient: Um so I was playing soccer the other day and I got kicked in the knee and since then my knee has been hurting and it looks a little bit red and a little bit swollen on the medial aspect of my right knee.
+Clinician: OK. And. And this started right after the kick at soccer?
+Patient: Yes.
+Clinician: OK, and how many days ago was this?
+Patient: This was two days ago.
+Clinician: OK, since then, has the pain begin getting any better or worse or staying the same?
+Patient: No, it's staying the same or a little bit worse.
+Clinician: OK. Could you describe the pain? Is it sharp, achy?
+Patient: I'd say it's pretty sharp.
+Clinician: OK. Uhm and do you feel the pain radiate anywhere like down the leg or or up into the thigh?
+Patient: Um no.
+Clinician: OK, any pain in the posterior aspect of the knee or the lateral aspect?
+Patient: No.
+Clinician: OK. Um and is there anything that makes the pain worse?
+Patient: I guess if I press on that area or I try to. And. I don't know, flex or extend my knee too much.
+Clinician: OK. An anything that you've tried to make the pain better?
+Patient: Um some ice helps.
+Clinician: OK, uh. And have you noticed swelling over the area?
+Patient: Just a little bit.
+Clinician: OK, and redness as well?
+Patient: Yes.
+Clinician: OK. Uhm and what would you say the severity of the pain is a 10 being the worst pain that you've ever felt and 1 being low intensity pain.
+Patient: Um I'd give it about a 5.
+Clinician: OK, and have you had any injuries or any knee pain before?
+Patient: No.
+Clinician: OK, at the time of the injury, did you hear a pop sound or or any kind of sounds like that?
+Patient: I don't recall.
+Clinician: OK, and how about any difficulties walking or having any knee instability?
+Patient: Um a little bit only when I like try to extend or flex my knee too much.
+Clinician: OK. Um. And. Uh, um alright. So have you been experiencing any other symptoms?
+Patient: No.
+Clinician: Alright, so just to be comprehensive so I'll run through a review. So have you been, having any any headaches?
+Patient: No.
+Clinician: Any sensory changes like changes to vision, hearing, smell or taste?
+Patient: No.
+Clinician: OK, any eye symptoms or your symptoms?
+Patient: No.
+Clinician: Have you had a runny nose or sore throat?
+Patient: No.
+Clinician: Have you had a cough?
+Patient: No.
+Clinician: Any shortness of breath?
+Patient: No.
+Clinician: Have you had any wheezing?
+Patient: No.
+Clinician: Have you had any chest pain?
+Patient: No.
+Clinician: Any heart palpitations or heart racing?
+Patient: No.
+Clinician: OK. Have you had any fainting or dizziness?
+Patient: Um no.
+Clinician: Alright, have you had any nausea or vomiting?
+Patient: No.
+Clinician: Have you had any changes to your appetite like loss of appetite?
+Patient: No.
+Clinician: Have you had any weight loss unexpectedly.
+Patient: No.
+Clinician: OK, have you had any abdominal pain?
+Patient: Um no.
+Clinician: Any changes to bowel habits like diarrhea, constipation?
+Patient: No.
+Clinician: OK, have you had any urinary problems like pain or frequency?
+Patient: No.
+Clinician: Alright, and have you had any skin changes such as ra' rashes or anything like that?
+Patient: No.
+Clinician: OK, any joint pains anywhere else?
+Patient: Um no.
+Clinician: OK, and any fatigue?
+Patient: No.
+Clinician: OK, and in the past, have you had or have you been diagnosed with any medical conditions?
+Patient: Um no.
+Clinician: OK, do you have any allergies to medications?
+Patient: No, no, not that I know of.
+Clinician: Are you currently taking any medications?
+Patient: No.
+Clinician: Alright, and have you had any surgeries or hospitalizations before?
+Patient: No.
+Clinician: OK, and. Um, can you tell me a little bit about your living situation, like you you're living with and whereabouts?
+Patient: Sure, I live with both my parents and three of my siblings.
+Clinician: OK, and are you going to school?
+Patient: I am, I'm in my last year of grade 12.
+Clinician: OK. Well, that's good. How is that been going?
+Patient: It's been going OK. We've been doing part online, part in-person.
+Clinician: OK, have you been around anybody who's been sick?
+Patient: No.
+Clinician: Alright then. And you play soccer. Do you play any other sports?
+Patient: And I play football.
+Clinician: OK, cool and any injuries before to your knee or anything like that?
+Patient: Um not that in the past.
+Clinician: Alright. And do you smoke cigarettes?
+Patient: No.
+Clinician: Um do you drink alcohol?
+Patient: No.
+Clinician: OK, did you use any recreational drugs like marijuana or anything else?
+Patient: No.
+Clinician: OK, are you currently sexually active?
+Patient: I am.
+Clinician: OK, are you in a relationship?
+Patient: I am. We've been together for a year.
+Clinician: OK, is there any concern for a sexually transmitted infection?
+Patient: No, we were both tested.
+Clinician: OK, great, um and any chance that you could be pregnant?
+Patient: No.
+Clinician: OK and uh in the family, are there any musculoskeletal or neurological conditions?
+Patient: Um no.
+Clinician: OK, um. And so that I that was everything I wanted to ask on history. So for the physical exam, when inspecting the knee, are you seeing any joint effusions or joint swelling or ecchymosis or bruising?
+Patient: It looks or is that a bruise, it looks red and I would say it's a little bit swollen on the medial aspect only.
+Clinician: OK, is there any muscle atrophy?
+Patient: Um no.
+Clinician: OK, and is there any misalignment or joint deformities?
+Patient: No, not that I notice.
+Clinician: OK. And alright on gait or walking, is there any limp or antalgia?
+Patient: Um no.
+Clinician: You're able to walk normally?
+Patient: I am able to walk normally and it hurts, but I think I'm walking OK.
+Clinician: OK. Uhm and next is there any changes to temperature like the joint itself feel hot?
+Patient: No.
+Clinician: OK and are there any areas of the joint line itself of the knee that is painful to palpation?
+Patient: At just the medial part of it like the I guess where the ligament would be.
+Clinician: OK, so just let me OK, and, any pain over the patella?
+Patient: No.
+Clinician: Any pain over the tibial tuberosity or patellar tendon?
+Patient: No.
+Clinician: Any pain over your over the fibular head or the lateral part of the knee?
+Patient: No.
+Clinician: Any pain in the calf or the thigh muscles?
+Patient: No.
+Clinician: Any pain in the hamstring muscles?
+Patient: No.
+Clinician: OK, and is there any pain to a like varus stress of the knee?
+Patient: To the varus stress? I guess it would be, there will be pain if I press down in that area.
+Clinician: OK, and is there any joint yeah, the joint laxity or pain too, like a valgus stress of the knee?
+Patient: Yeah, so when I press when I do that it hurts on the medial aspect but not the lateral aspect.
+Clinician: OK. Uhm and does it feel is as though there's some like the joints opening more when you put the valgus stress?
+Patient: A little bit, yes.
+Clinician: OK. Uhm and is there any instability moving the tibia anteriorly, if you're like, pull it outwards?
+Patient: Um no.
+Clinician: And how about if you pull the tibia posteriorly, any instability?
+Patient: No.
+Clinician: OK, um and the is their full range of motion of the knee?
+Patient: Yes.
+Clinician: And full range of motion of the hip and ankle?
+Patient: Yes.
+Clinician: OK, um and do you have any like numbness, tingling or muscle weakness?
+Patient: No.
+Clinician: OK, and any sensory changes to the skin?
+Patient: No, no.
+Clinician: OK and reflexes are normal.
+Patient: Mmmm
+Clinician: OK. So I think that was everything I wanted to ask and and kind of go through on the physical exam. Did you have any other questions or anything that maybe I forgot to mention today?
+Patient: Ah no, that was it. Just what can I do about my my knee?
+Clinician: Yeah, so right now it's sounding like this could be an MCL or medial collateral ligament strain, or injury and so these types of injuries are usually treated conservatively, like with things like NSAIDs or anti-inflammatories to help that pain and swelling. If the pain depending on how severe it is, it might be useful to use maybe crutches for a day or two to try to help let the pain to subside and allow you to be able to do some physical therapy exercises like strengthening the quadriceps and hamstring muscles.
+Patient: OK.
+Clinician: But typically injuries that are lower grade will heal within two weeks and so if it's more more severe, it could take a bit longer. And although that it's most likely an MCL injury that you're describing, it could be a medial meniscal injury as well or possibly even a bursitis at the medial aspect of the knee. But the treatment to start with would be the same and maybe we will get any x-ray if things aren't improving.
+Patient: OK, that sounds good, thank you.

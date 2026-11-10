@@ -1,0 +1,330 @@
+{
+  "encounterId": "aci-D2N106",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey charles I'm using this cool new recording device to help me with my documentation is that okay with you"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Awesome how are you doing today"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well I could be better you know I moved out in the city"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "About two years ago bought this big plot of land"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Oh"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I love it lots of deer round awesome"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You be hunter"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Huge hunter I love hunter yeah"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I have a refrigerator full of venison at home"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You want to carry share sure yeah we can switch"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nice but so the thing is I have noticed that for some reason my breathing"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Isn't what it used to be"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah it's you know I I seem to catch my breath a lot more than I used to and I consider myself to be pretty healthy"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You look pretty healthy"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Thanks so do you thank you you you're feeling short of breath"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay is there you know is there any other symptoms that you have with that I get like you know mid shortness of breath suddenly for some reason I'm not quite sure why"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hmmm"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Eyes they're water doesn't make very much sense to me"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I always think it's allergies"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mostly could be"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I have a dog that eyes water like that she always gets eyebugers"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah I get eyebugers too"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Crazy uh the last time it happened I went to the urgent care and they gave me a nebulizer that helped"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "They prescribed me an inhaler that I use now when I feel the symptoms coming on"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay great do you ever notice a rash with any of this"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you have any nausea vomiting"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Besides when you go out heavy drinking right"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I mean I diarrhea quite a bit once I go out"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I understand that"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Heavy drinking"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah do you ever get lip or throat swelling"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you ever had any issues with allergies in the past"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hmmm what situations do you notice the symptoms come on when is it when you're near your cat or outside the house"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I have noticed them in all three situations"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hmmm"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "In the house when the cat isn't around and outside as well"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hmmm yeah I'm not a big cat person"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No neither"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you do you have any symptoms now well which is"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No no travels and no symptoms right now"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay Okay alright so I'm gon na do a physical exam for you right now your vital signs look good your pulse is okay and yeah your pulse ox is normal so that's good you don't appear in any distress you may be might be a little bit nervous to come in and see me but looks pretty good I do not appreciate any rash on your body there is no angioedema which is just swelling of your lips like you mentioned no audible stridor which is a bad noise in your airway when it gets swollen so that's good news if you just want to take a deep breath listening to your lungs on your lungs exam I do appreciate some faint expiratory wheezing bilaterally in all lung fields so I know you had a chest x-ray when you came in I'm looking at that chest x-ray right now and your pulmonary function test and they were both normal so let's talk a little bit about what I think is going on for your first problem you have newly diagnosed allergic asthma so I want you to continue the albuterol inhaler I don't want you to wait until your symptoms flare up or are bad take it as soon as you start to feel any symptoms at all I'm gon na prescribe something else called singulair ten milligrams you might have seen some commercials for it"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hmmm"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You take that once daily and that's gon na help decrease the occurrences of your asthma"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hmmm"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I also am gon na proceed with allergy testing have you ever had an allergy test before"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay we'll start with skin testing and we'll see if we can target what the triggers in hopes in hopes that we can avoid any any other management and this can be successful if we can't figure out what it is from that we'll have to discuss more testing in your blood and do immunotherapy so I wan na see you next week to schedule the skin testing do you have any questions for me"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Should I come my cats"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yes"
+    }
+  ]
+}

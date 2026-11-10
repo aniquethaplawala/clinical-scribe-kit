@@ -1,0 +1,59 @@
+Clinician: Next is Betty Hill, uh, date of birth is 2/21/1968. She has a past medical history of uterine fibroids and anemia. She's a new patient with a referral from the er of esophagitis. Um, I reviewed our records from the er, including the normal cardiac workup, and we're about to go in and see her now. Good morning. You miss Hill?
+Patient: Good morning. Yes. That's me.
+Clinician: Hey, I'm dr. Sanders. It's nice to meet you.
+Patient: Nice to meet you too.
+Clinician: So tell me about what brings you in today?
+Patient: Well, I really needed to see you three months... Three months ago, but this was your first available appointment. When I called to make the appointment, I was having chest pains, but it stopped after four days, and I haven't had any since then.
+Clinician: Okay. When did these four days of chest pain occur?
+Patient: Um, early october.
+Clinician: Of 2020, correct?
+Patient: Yes.
+Clinician: Okay. Can you think of anything that might have caused the chest pain? Did you wake up with it?
+Patient: No. It just it randomly. I tolerated it for four days but then had to go to the emergency room because nothing I did relieved it. They did a bunch of testing and didn't find anything.
+Clinician: Okay. Can you point to the area of your chest where the pain was located?
+Patient: Well, it was here in the center of my chest, right behind my breastbone. It felt like I was having a heart attack. The pain was really sharp.
+Clinician: Did they prescribe you any medications in the er?
+Patient: No. They ran an ekg and did blood tests, but like I said, everything was normal.
+Clinician: Okay. I see.
+Patient: They thought it was something to do with the gi system, so that's why they referred me here.
+Clinician: Interesting. Uh, do you remember having any heartburn or indigestion at, at the time?
+Patient: Uh, maybe. I don't think I've ever had heartburn, so I'm not sure what that feels like.
+Clinician: Was the pain worse with eating or exercise?
+Patient: Yes. With eating.
+Clinician: Okay. Any difficulty swallowing?
+Patient: Mm-hmm. I did.
+Clinician: Okay. And that's also resolved since the initial episode three months ago?
+Patient: Yes. Thankfully. The chest pain and swallowing problem got better about three days after I went to the er. But I just feel like there's something wrong.
+Clinician: Okay. So how has your weight been.
+Patient: I've been trying to lose weight.
+Clinician: That's good. Any in-... Issues with abdominal pain?
+Patient: Uh, no.
+Clinician: Okay. Good. And how about your bowel movements; are they okay?
+Patient: They're normal.
+Clinician: All right. Are you aware of any family history of gi problems?
+Patient: I don't think so.
+Clinician: Have had you had any surgeries on your abdomen, or gall bladder, or appendix?
+Patient: Yes. They took my gall bladder out several years ago.
+Clinician: Okay. If you wan na lay down here on the table for me and lets take a look at you.
+Patient: Okay.
+Clinician: So when I push on your lower belly, do you have any pain, or does it feel tender?
+Patient: No.
+Clinician: Okay. How about up here in your upper abdomen?
+Patient: Yes. It, it hurts a little.
+Clinician: Okay. And even when I press lightly like this?
+Patient: Yes. Uh, just a little uncomfortable.
+Clinician: Okay. Does it hurt more when I press over here on the left or over here on the right? Or is it about the same?
+Patient: I'd say it's about the same.
+Clinician: Okay. So we'll say you have some mild tenderness to light palpation in the upper abdominal quadrants, but everything on your exam looks normal and looks good.
+Patient: Okay. Good.
+Clinician: So let's talk about your symptoms real quick. Obviously, with the chest discomfort, we worry about heart issues, but I'm reassured that those were ruled out with all the testing they did in the er. Um, other potential causes could be anxiety, esophagitis, which is irritation of the esophagus. But typically with these, um... But typically, these cause the pain that would last for a long time rather than that isolated incident like you had. Um, it's also possible that you had intense heartburn for a few days.
+Patient: Well, since you mention anxiety, I was going through a really stressful job transition right around the time this happened.
+Clinician: Okay. That's good to know. So stress from this could be, um... Could be, uh... Could be very well have contributed to your condition.
+Patient: Okay.
+Clinician: So we could do an, uh, egd or upper endoscopy to take a look at your esophagus and stomach. This would allow us to look for esophagitis. But your symptoms occurred three months ago and you haven't had any additional episodes, so likely if it were esophagitis, it's already healed by the point... By this point, and we wouldn't be able to see anything. The other option is just to continue to monitor, uh, for any additional symptoms at which point we could do the egd. Uh, with you being asymptomatic for so long right now, I'm comfortable with that option. But what do you think?
+Patient: I'd like to hold off on the egd and wait to see if I have more symptoms.
+Clinician: That sounds good. Um, so you can call the office if you have any additional episodes of pain or any other symptoms you're concerned about. If that happens, we'll get you scheduled for an egd to take a look. If not, you can follow up with me... Follow up with me as needed for any other gi complaints.
+Patient: Okay.
+Clinician: All right? If you don't have any questions for me, I'll walk you out to the check-out desk.
+Patient: No. That's it. Thank you.
+Clinician: You're welcome. Right this way. All right. Uh, in assessment, please summarize the patient's history briefly, and let's list her possible etiologies such as, uh, gerd, dyspepsia, esophagitis, musculoskeletal etiologies, and anxiety. Uh, suspect she had an anxiety attack related to her job transition, plus or minus a contribution from her musculoskeletal etiologies. Um, in the plan, include our discussion of the egd versus monderning... Monitoring for symptom. Patient elected to self-monitor her symptoms and will call with any reoccurrence or change. Thanks.

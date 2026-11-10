@@ -1,0 +1,41 @@
+Clinician: Tyler Nelson, date of birth: 3, 6, 1949, mrn, 385729. He is here today for ongoing management of rheumatoid arthritis. Last time he was here, he received a steroid injection in his right knee. Hello mr. Nelson, how are you?
+Patient: Um, about the same as last time. My knee is still swollen.
+Clinician: That was your right knee, correct? I take it the injection didn't help?
+Patient: It did, maybe for a couple of weeks.
+Clinician: That's it? And is it still painful?
+Patient: Yeah, it's pretty painful, and now the whole leg is getting swollen.
+Clinician: Okay, what would you say your pain level is?
+Patient: I mean, right now it's about a 3 or so, but, typically on a normal day it's around 6.
+Clinician: Okay, and its been swollen like that for how long now?
+Patient: Since I was last here a couple weeks after that. So about, maybe two months now.
+Clinician: Okay, but before it was just the knee?
+Patient: Yeah, the whole thing wasn't swollen like this, but I tried to wear compression socks a lot of the time, but it hasn't been helping.
+Clinician: Okay, okay, so that hasn't been working for you?
+Patient: I mean, it helps to some degree, but it's still swollen, especially around the knee.
+Clinician: Hmm. Has it been keeping you from doing things during the day?
+Patient: Well, I slowed down a little bit, and I found a few things too fast. But when it really hurts, is when I've been sitting for a while, and then I have to try and get up. I'm so stiff getting up I have to use a cane to get my bearings. I mean, after a little bit, it loosens up, but that first getting up is real difficult.
+Clinician: Yeah, I can see, that makes sense. Have you been taking your medication regularly? Your on xeljanz right?
+Patient: Yeah, the xr, I think its, uhm, 11 milligrams a day? Yeah, but I'm taking it everyday, and I'm also taking celebrex which I started maybe 2 months ago.
+Clinician: Yes, the 200mgs daily. How's that working for you?
+Patient: Pretty good, up until it started swelling again.
+Clinician: Okay, well come sit over here, and if you could take of your socks and shoes, and we'll take a look at your knee. And just to let you know, I have a service now that writes my note about the visit, so you'll hear me call things out and describe what I see fully.
+Patient: Okay, gotcha.
+Clinician: Right, so let's check your leg. Can you straighten it, and does it hurt?
+Patient: Yeah, when I try to straighten it all the way it does.
+Clinician: Okay, range of motion slightly diminished. I'm going to press here, okay? And how about here, hmm, I see some pitting around the knee and ankle. Normal capillary refill in the toes. Does any of this area hurt?
+Patient: Um, just kinda sore, like an old bruise?
+Clinician: So, I can feel that the knee is hot, and that means there's something going on, like some inflammation. So we can give you another steroid injection for that. I also want to get an x-ray of that knee, so we can see where all the swelling is coming from.
+Patient: Yeah. Let's do it. Sounds go to me.
+Clinician: Okay, and did we set up physical therapy for you last time you were here?
+Patient: Yeah, that was some years ago, but that was the other knee.
+Clinician: Okay. So I think we'll set that up for you now. We'll also do an x-ray on that knee. I can send you for a physical therapy, and if nothing is helping, then we really might need to get a surgery consult to see what we can do with that knee.
+Patient: Okay, sounds like a plan.
+Clinician: All right, so for today we'll go ahead and we'll give you the steroid shot. I'll try to see if I can get a little bit of fluid out before I do give you the injection. There might be no fluid, but I'll see if I can get anything out regardless.
+Patient: Okay. And that's a procedure you're going to do right now?
+Clinician: Yep. Once we're done talking here, and as far as the edema in your legs, uh, we'll take an x-ray to look for the cause, but there is a lot you can do as well. The compression socks are a good start. Um, and also, do you eat a lot of salt?
+Patient: I mean, um, I mean I love my salty snacks.
+Clinician: Okay. Well, salt does have a tendency to make your body hold on to water, reducing your salt intake could help with some of the swelling. You can also prop your feet up any time you get a chance, especially at night. And have you talked to your private care doctor about this at all?
+Patient: No, I figured I would just come here first.
+Clinician: Okay. So I think, try some of those things out first, and if it doesn't help, definitely make an appointment with them, also, as you know, xeljanz is a high-risk medication, so we need to check your cmp levels every couple of months. So this time your levels are good, but do make sure to make an appointment for the blood work for next time.
+Patient: All right. I can do that. Thank you so much doc.
+Clinician: Yes, of course. Well let me go ahead and get supplies and we'll get to work on your knee. Fluid aspiration and steroid injection procedure. The risks, benefits, and alternatives were explained. The risks of steroid injection were explained, including, but not limited to: hypopigmentation, soft tissue atrophy, tendon ruptures, and transient hypoglycemia among others. Verbal consent was attained. The right knee was, uh, um, accessed through the lateral approach with 3 milliliters of initially clear fluid, then bloo- blood tinged fluid. Then the right knee was prepped in a standard-fashion. The right knee was injected with 80 milligrams of triamcinolone, and one milliliter of lidocaine. The procedure was tolerated well, with no complications. Post-procedure instructions were given. Patient will follow up with his pcp. Thank you.

@@ -1,0 +1,140 @@
+Clinician: I was wondering if we could start with you telling us what brought you in?
+Patient: Sure, I've had this terrible headache for the past four days. Doesn't seem to be getting any better, and I feel hot like I have a fever. I've been coughing a lot so I am I'm worried I have COVID, so I'm here.
+Clinician: OK. So I'll start with the headaches. When did when did that exactly started?
+Patient: Uh the headache started, OK so the coughing started four days ago. The headache started shortly after so I would say later on during that day and then the fever I've had for, fever I think I've had for the past two days. I haven't actually taken my temperature though.
+Clinician: OK um. So, uh, the cough is started four days ago. Has the cough gotten better, worse, or stayed the same?
+Patient: The cough has stayed the same.
+Clinician: OK, are you bringing up any phlegm or sputum with the cough?
+Patient: Um, it's not really phlegm, but sometimes I cough up, like bits of like. You know little bits that look like blood or something.
+Clinician: OK, so you're seeing some like red when when you're coughing up?
+Patient: Mmmm
+Clinician: OK, and how much of this are you seeing like, is it like a teaspoon amount or or more?
+Patient: Oh, it's it's very little. It's like maybe a little bit bigger than like the tip of a pencil.
+Clinician: Oh OK, are you, OK, are you seeing this on like kind of tissues afterwards sort of thing?
+Patient: Yeah.
+Clinician: OK, um and any triggers for the cough you can think of?
+Patient: No, it just seems to be there all day. Um, doesn't really get better with me trying to rest or not.
+Clinician: OK, and is the cough there at night time too?
+Patient: Yes, it is definitely there at night.
+Clinician: OK, um is it interfering with sleep?
+Patient: Ah yes, I haven't been sleeping well.
+Clinician: OK, um, and with your cough have you had any difficulties with breathing?
+Patient: Um, no.
+Clinician: Alright, and now, how about any wheezing?
+Patient: No wheezing.
+Clinician: OK. And with this headache when it first came on, did you experience a like worst headache of your life, or a Thunder clap sensation?
+Patient: No, it's it's not that bad, but it just seems to be there all day long.
+Clinician: OK, um have you had headaches like this before?
+Patient: No, I've never gotten headaches in the past.
+Clinician: OK, uh is the headache associated with any nausea or vomiting?
+Patient: No.
+Clinician: OK, and is the headache worse in the morning when you first wake up?
+Patient: No.
+Clinician: OK, and does it have to get worse if you lie flat?
+Patient: No.
+Clinician: OK, and has this headache been getting worse, staying the same, getting better?
+Patient: It's it's about the same.
+Clinician: OK. Um and, um and you haven't checked the temperature yet, you said, but you felt hot?
+Patient: Yes, that's right.
+Clinician: OK, any other symptoms that you've been experiencing?
+Patient: Not that I can think of.
+Clinician: OK, there's just a few others that I wanted to ask about to be comprehensive. Have you had any eye pain or ear pain?
+Patient: No.
+Clinician: How about any discharge from either your eyes or ears?
+Patient: No, nothing like that.
+Clinician: Alright, have you had any changes to either your sense of smell or your sense of taste?
+Patient: No.
+Clinician: Alright, and have you had a runny nose at all?
+Patient: Um no.
+Clinician: And how about a sore throat?
+Patient: No.
+Clinician: OK, and um, have you had any chills?
+Patient: Um no chills.
+Clinician: How about night sweats?
+Patient: Um no nothing like that.
+Clinician: I see, OK and over the last few months has your weight changed?
+Patient: Ah no, not that I noticed.
+Clinician: OK, um have you been feeling tired or fatigued?
+Patient: No.
+Clinician: OK, and have you had any chest pain?
+Patient: Um no.
+Clinician: Alright, and how about any heart palpitations?
+Patient: None.
+Clinician: Alright, in any episodes of feeling really dizzy or lightheaded.
+Patient: No.
+Clinician: OK, and how about any fainting spells or feeling like you might faint?
+Patient: No, nothing like that.
+Clinician: OK. And have you had any abdominal pain?
+Patient: Um no, no abdominal pain.
+Clinician: Any diarrhea or constipation?
+Patient: No.
+Clinician: How about any painful urination or feeling as though you need to urinate really frequently?
+Patient: Ah no nothing like that.
+Clinician: OK, and have you had any skin changes like rashes or anything like that?
+Patient: No.
+Clinician: OK, and how about any muscle aches or joint aches or just overall like body pains?
+Patient: Mmm no, not that I that not. Not that I've noticed, no.
+Clinician: OK, is there anything in regards to your past health that you see a physician regularly for?
+Patient: Um No. Ah actually I I think at one point, um, I was worked up for something called familial hypercholesterolemia because it ran in the family. But I think those results were normal.
+Clinician: OK, so do you, um, do you take a statin medication then?
+Patient: Yeah I take a low dose statin.
+Clinician: OK, and when was your last lipid panel checked?
+Patient: I think it was two years ago.
+Clinician: I see, and um do you remember if the LDL was normal at that time?
+Patient: Ah yes it was normal.
+Clinician: OK, but since the, it was about two years ago, it might be worthwhile today just to also check a lipid panel just to be safe, but that'll be something we can talk about that more so at the end if that's OK.
+Patient: Sure, yeah, that would be great.
+Clinician: OK, and any other medical conditions?
+Patient: No.
+Clinician: OK. Have you had any surgeries before?
+Patient: C-section.
+Clinician: How many children do you have?
+Patient: Ah just the one.
+Clinician: OK, and were there any complications with the c-section?
+Patient: Um no no complications.
+Clinician: OK, any reasons for hospitalizations?
+Patient: Nope.
+Clinician: OK, any allergies to medications?
+Patient: No.
+Clinician: Alright, any medications besides the statin that you take?
+Patient: Nope.
+Clinician: OK, and in regards to your family history, have there been people who've had early heart attacks or strokes in the family?
+Patient: No.
+Clinician: OK, but you do have familial hypercholesterolemia, do you have family members who have that?
+Patient: Yes OK so my Aunts had it, as well as my mother.
+Clinician: OK um. And has there been any lung conditions that run in the family?
+Patient: Um, no lung conditions.
+Clinician: How about any malignancy's or or cancers?
+Patient: Ah there was colon cancer on my dad side of the family, but I'm not too sure who had it.
+Clinician: OK, have you heard of anybody having breast cancer?
+Patient: Breast cancer no.
+Clinician: Alright, and how about ovarian cancer?
+Patient: No ovarian cancer.
+Clinician: OK. And next I actually wanted to ask a few questions about your personal and lifestyle habits, but first, could you just tell me a little bit about your living situation right now?
+Patient: I live with my husband and my one son.
+Clinician: OK, and sorry, how old is your son?
+Patient: He is 10.
+Clinician: OK, um is anybody in the home been sick recently?
+Patient: No.
+Clinician: OK, and how about is there anybody at work?
+Patient: At work no. No one's been sick.
+Clinician: OK, have you traveled anywhere recently?
+Patient: We went up to we just went to um like a, we went on a hiking trail that was outside the city recently and there were a lot of people there and and we weren't wearing masks, but we, it seemed like we were keeping a good distance between each other so that that would be my only concern.
+Clinician: OK for sure. Were people pretty close to each other on the paths when walking by on the hike?
+Patient: Ahh not like the whole time, but there would be times when you know people just kind of brushed by you to try to get ahead of you or something like that.
+Clinician: I see OK. And do you smoke cigarettes?
+Patient: No.
+Clinician: Um, do you smoke marijuana?
+Patient: Um no.
+Clinician: OK, and do you drink alcohol?
+Patient: I don't.
+Clinician: Do you use any other recreational drugs?
+Patient: Um no.
+Clinician: OK, so that was all I wanted to ask about. Oh, actually one thing that I I did want to, I forgot to ask was, do you have any neck stiffness?
+Patient: No, not that I noticed.
+Clinician: OK. So that was the last question that I wanted to ask about. Was there anything that you wanted to tell me that I I maybe forgot?
+Patient: No, I think you covered it all.  I'm just wondering do you? Do you think it's COVID or something else?
+Clinician: Well, it's definitely a possibility with the symptoms that you're having, since they can be so non- specific for covid it can be a lot of symptoms that overlap. So with having headache what sounds like you might have a fever and and this cough that sounds like it's pretty bad if you're bringing up some blood, it sounds like you might have irritated some of the bronchioles with the the coughing. So we will test for that and check a PCR nasal swab for COVID. I'm not, but we will also test for other viral illnesses and bacterial illnesses as well. It doesn't sound like you have meningitis right now just based on the symptoms where you don't have neck stiffness, but it'll be certainly something that we keep keep in mind while we are doing our investigations.
+Patient: OK great, thank you.
+Clinician: Alright, you're welcome. We'll get those started.
+Patient: OK, sounds great.

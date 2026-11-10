@@ -1,0 +1,25 @@
+{
+  "encounterId": "aci-D2N035",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N035",
+  "split": "train",
+  "collectionMode": "aci",
+  "chiefComplaint": "Congestive heart failure",
+  "secondaryComplaints": [
+    "hypertension",
+    "kidney disease"
+  ],
+  "patient": {
+    "age": null,
+    "gender": "female"
+  },
+  "turns": 56,
+  "wordCount": 1085,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

@@ -1,0 +1,260 @@
+{
+  "encounterId": "aci-D2N013",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hi, John, how are you doing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hi, good to see you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Good to see you too. So I know the nurse told you about Dax, I'd like to tell Dax a little about you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So John is a 55-year-old male with a past medical history significant for anxiety and epilepsy who presents with an abnormal lab finding. So, John, um, I, uh, was notified by the emergency room that you, um, had a really high blood sugar and you were in there with, uh... They had to treat you for that, what was going on?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, we've been going from place to place for different events and we've had a lot of visitors over the last couple of weeks and I just wasn't monitoring my sugar intake and, uh, a little too much stress and strain I think over the last couple of weeks."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, yeah, I had gone through your hemoglobin a1c's and you know, they were borderline in the past but-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "-I guess, you know, I guess they're high now so how are you feeling since then?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So far so good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, did they put you on medication?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, they actually did."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, all right. I think they have here metformin?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, that's- that sounds right."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right, um, and, um, in terms of your anxiety, I'm sure that this didn't help much-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Didn't help, no, not at all."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How are you doing with that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, I had my moments but, um, it... Now that it's almost the weekend, it's- it's been a little bit better. I think things are under control by now. Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay? Um, how about your epilepsy, any seizures recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not in a while, it's been actually quite a few months and it was something minor but noth- nothing major ever since."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right, well you know I wanted to just go ahead and do, um, a quick review of the systems, I know you did a cheat with the nurse-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any chest pain, shortness of breath, nausea, vomiting, dizzy- dizziness?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, any recent fever, chills?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And all right, let's go ahead do a quick physical exam. Hey, dragon, show me the vitals. So looking here at your vital signs today, um, they look really good. So I'm just gon na go ahead and take a listen to your heart and lungs."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, so on physical examination, you know, everything seems to look really good, um lungs are nice and clear, your heart's at a regular rate and rhythm. You do have some trace pitting edema to your lower extremities so what that means is that it looks like you might be retaining a little bit of fluid-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, did they give you a lot of fluid in the emergency room?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "They actually did."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, all right, so it might just be from that. Okay, well let's look at some of your results. Hey, dragon, show me the glucose. Okay, so yeah, you know I know that they just checked your blood sugar now and it was 162 and you know, what... You know, did you eat before this?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, probably about two hours ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, all right. Hey, dragon, show me the diabetes labs. Yeah, so your hemoglobin a1c here is is 8, you know last time we had seen it, it was about 6 and we hadn't put you on medications so, um, I think it's something we'll have to talk about, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You got it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, so let's just talk a little bit about my assessment and my plan for you so for your first problem, this newly diagnosed diabetes. Um, you know, I want to continue on the metformin 500 mg twice a day. We'll probably increase that over time."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I'm gon na go ahead and order hemoglobin a1c for the future okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um for your second problem, your anxiety. It sounds like you know you might have, you know, some issues leading into the winter. How do you feel about that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well, I'll try something new just to help. If it helps that'd be great."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, all right, and so for your last ish issue, your- your epilepsy, you know, I think you saw your neurologist about three months ago, you must be due to see her again some time soon?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I am."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And we'll just continue you on the keppra, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any questions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not at this point, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, um, hey, dragon, finalize the note."
+    }
+  ]
+}

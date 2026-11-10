@@ -1,0 +1,240 @@
+{
+  "encounterId": "aci-D2N019",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hi ms. Hernandez, dr. Fisher, how are you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hi dr. Fisher. I'm doing okay except for my elbow here."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. So it's your right elbow?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's my right elbow, yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Hey dragon, ms. Hernandez is a 48-year-old female here for a right elbow. So, tell me what happened."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well, I was, um, moving to a new home-"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And I was, um, moving boxes from the truck into the house and I lifted a box up and then I felt like this popping-"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hmm."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And this strain as I was lifting it up onto the shelf."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And when- when did this happen?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "This was just yesterday."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. And have you tried anything for it? I mean..."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I put ice on it. And I've been taking ibuprofen, but it still hurts at lot."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, what makes it better or worse?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "The ice, when I have it on, is better."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "But, um, as soon as, you know, I take it off then it starts throbbing and hurting again."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. Uh, let's review your past medical history. Uh... Looks like you've got a history of anaphylaxis, is that correct?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes. Yes, I do. Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you take any medications for it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, ep-... Just an epipen."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Just epipen for anaphylaxis when you need it. Um, and what surgeries have you had before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, so carotid. Yeah-"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": ". Yeah, no, uh, your, uh, neck surgery. All right. Well let's, uh, examine you here for a second. So it's your, uh, this elbow right here?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And is it hurt-... Tender right around that area?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, it is."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Can you flex it or can you bend it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It hurts when I do that, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. And go ahead and straighten out as much as you can."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That's about it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So there's some swelling there. And how about, uh, can you move your fingers okay? Does that hurt?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, that's fine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How about right over here?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no that's fine. Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. So on exam you've got some tenderness over your lateral epicondyle. Uh, you have some swelling there and some redness. Uh, you have some pain with flexion, extension of your elbow as well. Uh, and you have some pain on the dorsal aspect of your- of your forearm as well. Okay? So let's look at your x-rays. Hey dragon, show me the x-rays. All right. Your x-ray of your elbow- It looks like, I mean, the bones are lined up properly. There's no fracture- . It, uh, there's a little bit of swelling there on the lateral elbow but I don't see any fracture, so that's good. So, looking at the x-ray and looking at your exam, uh, my diagnosis here would be lateral epicondylitis, and this is basically inflammation of this area where this tendon in- inserts. And probably that happened when you were moving those boxes. So we'll try some motrin, uh, about 800 milligrams every six hours. Uh, I'll give you a sling for comfort, just so you can use it if- if it's causing a lot of pain."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And it should get better, uh, in about, you know, in a couple of days it should be improved. And if it doesn't get better, give us a call and we'll see you some time next week. Okay? So we'll give you a sling, we'll give you the motrin, I'll give you about, uh, 30, uh, uh, 30, uh, uh, medications for that. Uh, do you have any questions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no. Thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey dragon, order the medications and the procedures. All right, why don't you come with me and we'll get you signed out?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, sounds good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey dragon, finalize the report."
+    }
+  ]
+}

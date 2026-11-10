@@ -1,0 +1,14 @@
+{
+  "key": "greenway",
+  "name": "Greenway Health (Intergy, Prime Suite)",
+  "writePath": "proprietary-unverified",
+  "writableResources": [],
+  "noteType": "progress-note",
+  "noteContentType": "text/plain",
+  "verifiedOn": "2026-11-10",
+  "sources": [
+    "https://developers.greenwayhealth.com/developer-platform/docs/frequently-asked-questions-for-developers",
+    "https://developers.greenwayhealth.com/developer-platform/docs/api-an-overview",
+    "https://developers.greenwayhealth.com/developer-platform/docs/gapi"
+  ]
+}

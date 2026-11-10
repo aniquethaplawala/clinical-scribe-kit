@@ -1,0 +1,245 @@
+{
+  "encounterId": "aci-D2N103",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Next patient is Melissa Sanchez. Date of birth, 9/23/1962. Mrn: 5484367. She is being seen in office today for status post mitral valve repair done on 8/3/2020. At her previous follow-up on 9/17, we felt that she was doing quite well from a cardiac standpoint, and so we recommended she continue with the same medication. Ecg taken on 12/26/2020 reveals atrial fibrillation with a controlled ventricular response. T-wave inversion anteriorly. Compared to the previous study, there are no significant changes, and please add in the history, patient has a history of mitral regurgitation and atrial fibrillation, history of diabetes, asthma, and recurrent chest discomfort with negative cardiac workup for coronary artery disease. Ms. Sanchez, it's good to see you again."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, it's good seeing you too dr. Hughes. You look like you're doing well."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I am, thank you. You too. You're looking great. How have you been feeling?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Pretty good. I'm definitely feeling better, thank goodness. I was having a rough time before surgery, um, but I think I'm overall pretty good now though."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Well, that's really good to hear. I'm glad. Are you having any new symptoms right now?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, not really. But, you know, I'm still getting some chest pains sometimes, and my breathing gets shallow. But, I guess I'm learning what I can and can't do. Uh, so if I feel like that, if I'm, like, exerting myself, I slow down a bit which helps, and then when I go back to it later, I can usually finish whatever I was doing."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. So, it does go away though? How long does an episode seem to last?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, only a few minutes I guess. Then it disappears for a while. It's weird."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "What is a while?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It goes away for a couple weeks. Um, so when it happens, I just take the day nice and slow, I don't push myself."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. So, maybe it's a couple times a month you feel this way?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, just often enough for me to notice."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Understood. Okay. Are you taking your medications regularly?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh-. I've been trying to keep up with that. There's a lot of extra pills now, but I have a reminder app, so I do pretty well."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. That's great. And so, you're taking coumadin, right?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, also lasix and the atenolol."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Are you having any side effects from the medications at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not really. Uh, I notice that the atenolol is making me irritable in the beginning, but I guess I've gotten used to it, doesn't seem to bother me as much now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Well, that sounds good. Sounds like you're well on the mend. So, why don't I start out, um, with the physical exam, and just check you out."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You're going to hear me describe things in detail or repeat things as I go to reference later for my notes."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay then. I'm going to be using my status post template, ms. Sanchez, please lie down on the table here and we'll get started. All right. Can you turn your head to the left. Head and neck no jvd detected. You can turn back now and just take a couple of deep breaths for me please. Okay, that's good. And lungs have reduced breath, but auscultation and percussion are clear. Okay. Breath normally, I'm just going to listen to your heart. Rhythm is irregularly irregular."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That's a funny statement. What does that mean?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, it does sounds kind of weird, right? It's when your heart doesn't beat with the correct rhythm, and whatever rhythm it doesn't have a pattern to it. So, it's part of the atrial fibrillation."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Wow, that sounds like a mess."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, it's not ideal. But, many people have a-fib are able to keep it under control with medicine and lifestyle changes."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Agh, I see. That's good to know."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. So, s1 slightly accentuated, no s3. I'm going to touch your belly, and does any of that hurt."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nope."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How about there? And your feet?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, not really."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, great. And trace peripheral edema on extremities. All right ms. Sanchez, you can sit up now. So, it looks like your heart valves are working well and you are recovering from the surgery nicely."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yes. We are, we looked at your ecg taken earlier today, and we are seeing the a-fib, but it's being well controlled with the medicine, and you're taking coumadin, four milligrams, lasix at four milligrams a day, and the atenolol, you're taking that every day as well, right?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes. The 50 milligrams every day."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Great. It sounds like you're well on your way to recovery."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Great."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So, let's continue on your current meds. I'm glad that you're figuring out what your body can handle. Definitely try to keep active as that will certainly help."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'll do my best."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And that's about it. Do you have any questions for me?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, I do. When do I need to come back and get checked out?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Well, I don't think you need to come back soon. Everything from a cardio perspective is fine. So, I think let's do a followup in about six to nine months."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "All right, thank you. It was good to see you again dr. Hughes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You as well ms. Sanchez, do take care."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You too."
+    }
+  ]
+}

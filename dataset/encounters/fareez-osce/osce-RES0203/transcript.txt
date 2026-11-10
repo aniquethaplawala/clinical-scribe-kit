@@ -1,0 +1,83 @@
+Clinician: Do you want to tell me what brought you in today?
+Patient: Yeah, so for the past two days I I've I've noticed that I can't smell things as well, as I used to be able to smell them and I seem to have lost my sense of taste as well. And I have this mild dry cough. I'm just worried it's covid.
+Clinician: OK. You said for a couple days?
+Patient: Yes, for two days.
+Clinician: OK, have you ever had anything like this before?
+Patient: No, no, nothing like this.
+Clinician: OK, when you say you feel like you've lost sense of taste and smell, is it totally gone or do you taste a little bit? Or how? How is that working for you?
+Patient: The smell isn't totally gone I can still smell something if it smells really really bad and and then and then I can taste really, really salty foods, but I can taste normal things like I can't taste of banana.
+Clinician: OK, is that been pretty consistent throughout the last couple of days or is it on and off?
+Patient: It's been pretty consistent, yeah.
+Clinician: OK. And did this dry cough that start at the same time?
+Patient: Yes.
+Clinician: And when you say sorry, you said mild cough, and I my next question was do you feel like it's a dry cough or you producing any sputum? Any blood? Or is it to not, not bringing up anything?
+Patient: It's dry.
+Clinician: OK, has that gotten worse over the last couple of days?
+Patient: The dry cough? Um it's been pretty consistent as well.
+Clinician: OK is there, have you done anything to try to make it better? Have you taken any over the counter medications or?
+Patient: No, I haven't tried anything.
+Clinician: OK, OK. Have you had, in addition to these symptoms, have you had any fevers?
+Patient: Fevers, no fevers.
+Clinician: OK, any difficulty breathing?
+Patient: No.
+Clinician: OK, any headaches?
+Patient: Um no, no headaches.
+Clinician: OK, any sore throat?
+Patient: No.
+Clinician: OK, any chills or night sweats?
+Patient: No.
+Clinician: OK, any muscle ache or general weakness?
+Patient: Uh no.
+Clinician: OK, so generally it seems like you're pretty well other than this loss of taste slash smell and the dry cough that correct,
+Patient: Yes.
+Clinician: OK and then recently have you been in contact with anyone that's been sick?
+Patient: Um no not that I can remember or yeah, not that I can remember.
+Clinician: OK, have you traveled anywhere?
+Patient: Um I went hiking with my partner two weeks ago. I guess there were some people who kind of brushed by us, but other than that I don't see where else I could have gotten this from.
+Clinician: OK, was that hiking somewhere close by?
+Patient: Yeah, it was like half an hour from where we are.
+Clinician: OK. Are your immunizations up to date?
+Patient: Yes.
+Clinician: OK, and can you think of any for this dry cough, just a circle back to that. Can you think of anything that triggers it? It's called the cold or being around certain things like cats or dogs or any other environmental things?
+Patient: No.
+Clinician: OK. Have you had any chest pain? Thats the other thing . I'm not sure if I asked you .
+Patient: No no chest pain.
+Clinician: OK. And in terms of your general health, do you? Do you have any chronic conditions that you live with?
+Patient: Um no no.
+Clinician: Do you take any medications?
+Patient: No.
+Clinician: OK, have you ever had any surgery or been hospitalized for another reason?
+Patient: Um no.
+Clinician: Do you have any allergies?
+Patient: No allergies.
+Clinician: Do you have any family history of respiratory problems, cancers or heart problems?
+Patient: No, nothing like that.
+Clinician: OK. And just in terms of free lifestyle, so do you live with family?
+Patient: Um no.
+Clinician: OK, do you read along with a partner or roommate?
+Patient: I live with my parents and my younger sibling.
+Clinician: OK. And is that in town here?
+Patient: Yes, yeah.
+Clinician: OK. And in general, do you eat a healthy diet? Do you exercise?
+Patient: Yeah, I think so.
+Clinician: Do you smoke?
+Patient: Uh no.
+Clinician: OK, do you drink alcohol?
+Patient: Uh I I have drank alcohol before but not not regularly.
+Clinician: OK um. And I do use marijuana?
+Patient: Um I have taken edibles before but also not very regularly.
+Clinician: OK, any other drugs?
+Patient: No.
+Clinician: OK, and are you currently in high school?
+Patient: Uh yes, I am in my last year of high school.
+Clinician: OK, and how is that going?
+Patient: Pretty good, yeah, we're doing things online now.
+Clinician: So you haven't really been out of the house?
+Patient: No.
+Clinician: OK. OK. Uhm I think that's all my questions for now. Uh I definitely like to get you a covid test just because your symptoms are consistent with some common covid symptoms. So basically that means that we would do a swab. It might not come back for a day or two. You definitely have to self isolate between now and when you get the results back, potentially even if it's negative, longer, if you're still having symptoms.
+Patient: Yeah.
+Clinician: Otherwise, there probably. There might be a couple other tests we want to do. We might have more questions when we come back, we'll go over this with the doctor that I'm working with today, but just wanted to give you a heads up of what to expect next. Did you have anything else you wanted to tell me that I didn't ask you about or any questions?
+Patient: No, uh thank you so much.
+Clinician: OK, well thanks for coming in today. Will definitely get you taken care of shortly.
+Patient: Thank you.
+Clinician: K thanks.

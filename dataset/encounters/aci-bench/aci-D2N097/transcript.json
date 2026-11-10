@@ -1,0 +1,200 @@
+{
+  "encounterId": "aci-D2N097",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Elizabeth, how are you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm doing okay. How are you?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Doing okay. So I know the nurse told you about Dax. I'd like to tell Dax a little bit about you, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. Elizabeth is a 66-year-old female with a past medical history of significant for depression and hypertension who presents for her annual exam. So Elizabeth, it's been a year since I've seen you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How are you doing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm doing well. There's been so many events now that we've been able to get vaccinated, I've been able to see my grandkids again, go to more birthday parties, it's been fantastic."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, I know. I've... I mean, we've had some communication over telehealth and that type of thing, but it's not the same as being in-person, so I'm happy to see you today. Now tell me a little bit about, you know, we haven't really got a chance to talk about your depression. How are you... How are you doing with that? I know we haven't had you on medication in the past because you're on medication for other things. What are your strategies with dealing with it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So I've been going to therapy once a week for the past year. Um, mostly virtually, um, but starting to get in-person. Virtual was a bit of a struggle, but I feel like being in-person with someone really helps me."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And do y- do you have a good support system at home?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, I do. I have my husband and, uh, my kids are right down the street from me, so I'm very lucky."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. So that's good to hear. How about your blood pressure? Did you buy the blood pressure cuff that I-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": ". Told you to? Okay. I know that we've been in communication and your blood pressures have been running okay. The last time I spoke with you, how are they doing since we last spoke?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "They've been doing well. I've been using the cuff, um, once a day, and they seem pretty normal."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And are you taking the lisinopril that I prescribed?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Great. All right. So I know that you did a review of systems sheet with the nurse when you checked in. You know, I know that you were talking about some nasal congestion. Do you have any other symptoms, chest pain, shortness of breath, abdominal pain, nausea or vomiting, anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No? Okay. All right. Well, I wan na go ahead and do a quick physical exam, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey, dragon, show me the vital signs. So here in the office, you know, your blood pressure looks really good, as does your heart rate. So you are doing a good job managing your blood pressure. So I'm gon na take a listen to your heart and lungs, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. So on physical examination, I don't appreciate any carotid bruits in your neck. On your heart exam I do notice a slight 2/6 systolic ejection murmur, which we've heard in the past, so I think that's stable. Your lungs in- are nice and clear, and you have some trace lower extremity edema bilaterally, so all that means is, you know, I agree, you know, maybe we should watch your diet a little bit better, okay? But I wan na take a look at some of your results, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. Hey, dragon, show me the ekg. And the nurses did an ekg before you came in, and that looks perfectly fine, okay? So I wan na just go ahead and talk a little about your assessment and my plan for you. So for your first problem, your depression, I think you're doing a really good job with your strategies. I don't think... It doesn't sound to me like I need to start you on any medication at this time, unless you feel differently."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I'm, I'm, good in that department."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "For your second problem, your high blood pressure, I agree, everything looks fine here now. I wan na just continue on the lisinopril, 20 milligrams a day. And I want you to continue to watch your blood pressures as well, and if they start rising, I want you to contact me, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And for your third problem, for an annual exam maintenance, you know, you're due for a mammogram, so we'll go ahead and schedule that, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "All right."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. Do you have any questions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, can I take all my medicine at the same time? Does it matter?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah. You can set an alarm so that it reminds you to take your medication. But yeah, you can, you can take them altogether."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. Hey, dragon, finalize the note."
+    }
+  ]
+}

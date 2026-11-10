@@ -1,0 +1,490 @@
+{
+  "encounterId": "osce-MSK0001",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And what brings you to the emergency department today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Low back pain."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and where exactly is uh is the back pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So the pain's just right in the in the lower back."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Just in the lower back, OK. And when did this pain start?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It started yesterday, I was unloading groceries from my pickup truck when it suddenly started."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so, and, did you kind of make any kind of movement? Or did you pick up something really heavy?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm not sure. I just noticed the pain after um after that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and what kind of pain are you experiencing? Is it like a dull cramping pain or is it more like a sharp or stabbing pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It feels like it's stabbing just right in my lower back."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And, um, on a scale of 1 to 10, uh 1 being like the least pain that you felt in your life, 10 being the worst, how much would you rate this pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "If I'm sitting, uh completely still like like I am right now, it's a 2 out of 10."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Um and when does it get worse?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh anytime I I move or bend my back or uh even cough it it worsens the pain significantly."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and has this pain changed at all since yesterday?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, it's been this same awful pain this whole time."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK and have have you ever had this kind of pain before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I've had back pain uh over the years, but nothing like this before."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And does it, does the pain go anywhere or does it just stay in the lower back?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I also feel the pain uh into my right leg."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and is it the same kind of aching or like stabbing pain that goes into your right leg? Or is it uh just like an aching pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh it's it's a, uh, an aching pain."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And do you have any other symptoms besides the pain? Like are you experiencing any kind of weakness or any kind of, any other changes in your health?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no it's just the uh the low back pain."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and have you ever uh experienced any kind of trauma to your back? Like something has hit you or you've fall down, anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I can't remember any injuries like that in the past."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any uh fevers or chills or night sweats?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um no fever, uh no chills, no night sweats."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any uh symptoms of feeling very tired, fatigued, anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no, I've been OK recently."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Any changes to your skin at all? Uh I mean, any rashes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any pain in your joints at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh just the back pain."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Uh any new coughs or any um symptoms and runny nose or anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any changes in your um bowel movements at all like diarrhea, constipation or anything?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nothing like that, been regular."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, how about, uh, any urinary problems?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no, nothing to report there."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and how has your appetite been?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh appetite's been normal."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any significant weight loss or weight gain recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, the weight's been about the same."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any recent infections that you know of?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I've been feeling well otherwise."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Any uh tingling sensation or numbness uh in your back or lower limbs, in your legs?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no numbness or tingling."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Any muscle weakness at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no muscle weakness."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you been uh having any uh kind of erectile dysfunction?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no concerns with uh erectile dysfunction."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and any issues with uh incontinence, like uh having accidents at all, at night or during the day?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no, I haven't had any problems with bowel or bladder incontinence."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, alright, and in terms of your past medical history, have you have you been diagnosed with any conditions like high blood pressure, diabetes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh type 2 diabetes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and do you take any medications for it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh I, um insulin for diabetes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and any other medications at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh just been taking Tylenol for the the back pain."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And has that worked for you at all? Or has it not made a difference?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh maybe it's taking the edge off a little bit, but it hasn't done too much uh to help the pain."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any allergies?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh nope."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Any previous surgeries?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh I had hemorrhoids removed three years ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Um any hospitalizations before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no, it was just day surgery,"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any family history of any um conditions uh or like any cancers?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh my father had prostate cancer."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And currently right now, uh do you work?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh I'm a retired school teacher."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and where do you live?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I live alone um in a in a house uh not too far from here, actually."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And do you do you drink at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um occasionally uh maybe I'll have a glass of red wine on the weekend or something like that, but uh not too often."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and do you smoke?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, I've smoked um yeah, I smoke a pack of cigarettes uh per day."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and for how long have you smoked uh cigarettes for?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh about 40 years."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "40 years, OK. And, uh, do you use any kind of recreational drugs?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh never."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and how is your diet like on like a regular basis?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I feel like it's uh pretty normal, mostly home cooked meals with some variety, vegetable, vegetables, other meats, and fish. I would say it's pretty balanced."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, alright, I just have a few more questions for you. Um are you currently sexually active?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, I am."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK and who are you sexually active with, any new partners at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no new partners, um just my girlfriend, uh."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And, uh, how many, I'm sorry, go ahead."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um just my my girlfriend recently."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and have you been sexually active with more than one partner in the past, past year?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh yes, I have, um um two women over the past year."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and um do you use any kind of protection?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, always use uh condoms."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Alright, so now I'm just going to get the patient's vitals."
+    }
+  ]
+}

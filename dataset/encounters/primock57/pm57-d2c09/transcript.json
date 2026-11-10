@@ -1,0 +1,554 @@
+{
+  "encounterId": "pm57-d2c09",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 1.57,
+      "end": 5.91,
+      "text": "Hi there, good morning. Or good afternoon, sorry. [inaudible] Hi."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 4.27,
+      "end": 7.95,
+      "text": "Hello there. Uh, good afternoon. This is Jack."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 6.83,
+      "end": 11.62,
+      "text": "Good afternoon. Hi. This, this is Doctor Deen Mirza from GP at Hand."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 12.25,
+      "end": 13.25,
+      "text": "I do."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 13.08,
+      "end": 17.48,
+      "text": "All right. So before we start your appointment, could I please confirm your full name and date of birth?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 18.17,
+      "end": 21.93,
+      "text": "Yes, uh, my name is Jack Armani."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 22.94,
+      "end": 24.02,
+      "text": "That's great, thank you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 23.38,
+      "end": 30.0,
+      "text": "And my date of birth is twelve August nineteen fifty eight."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 30.6,
+      "end": 35.42,
+      "text": "That's great, thank you for that. Um, are you in a private place where you're OK to speak at the moment?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 35.4,
+      "end": 36.33,
+      "text": "Yes, I am."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 36.42,
+      "end": 38.85,
+      "text": "OK. So, how can I help you today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 39.37,
+      "end": 52.77,
+      "text": "I am. So, I woke up, um, this morning, and, um. Hello?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 52.46,
+      "end": 55.03,
+      "text": "Yeah I'm still here, you'll tell [inaudible] . Yeah."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 53.56,
+      "end": 62.97,
+      "text": "[inaudible] Uh so [inaudible] I'm a bit worried 'cause I woke up this morning, about an hour ago, and I couldn't move my left arm any more."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 64.85,
+      "end": 67.74,
+      "text": "OK. Uh, and how's your arm right now?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 67.84,
+      "end": 76.38,
+      "text": "Um. Well like, I feel no pain but just, uh, can't move it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 76.53,
+      "end": 80.97,
+      "text": "That you still can't move. And, and what time did you wake up? You said it was an hour, you're sure about that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 82.11,
+      "end": 82.93,
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 84.15,
+      "end": 89.4,
+      "text": "OK, um. Now, can I just double check? Has this ever happened before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 89.72,
+      "end": 93.94,
+      "text": "No. No, uh, it's really the first time."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 94.4,
+      "end": 100.93,
+      "text": "OK. And, did you sleep, anything, [inaudible] in an awkward position, or in a different bed, or anything like that last night?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 101.13,
+      "end": 104.28,
+      "text": "Uh no, uhf, everything as usual."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 105.2,
+      "end": 110.04,
+      "text": "OK. Um, and um, is there any discoloration in your hand?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 110.5,
+      "end": 111.73,
+      "text": "Um, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 112.74,
+      "end": 115.68,
+      "text": "K, um, does your hand feel cold?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 116.77,
+      "end": 125.49,
+      "text": "Mmm, no, really the, mmm, the arm feels fine, apart from me not being able to move it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 125.74,
+      "end": 131.19,
+      "text": "OK. And it's to your [inaudible] on your left side. Have you had any symptoms in your left leg at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 132.0,
+      "end": 138.39,
+      "text": "No, but um, I feel a bit of tingling on the left side of my face."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 140.15,
+      "end": 145.16,
+      "text": "Right, OK. Um, and how long has that tingling been there for?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 145.34,
+      "end": 155.25,
+      "text": "Uh, since I woke up. Um, since I started to feel the [inaudible] , since, since the the arm really it stopped moving, so an hour ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 156.13,
+      "end": 170.76,
+      "text": "OK, um. Now, um, I can't see you. [inaudible] It's, it's telephone appointment. Have you noticed any kind of, um, asymmetry in your face, or did your face expression look different on one side compared to the other, or anything different at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 171.85,
+      "end": 193.22,
+      "text": "Um. Mmm, no, not really, it's just. Uh, having like [inaudible] a bit of issues like, uh, I was trying to drink earlier and I'd be bold a bit and and the tingling on, on the left side."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 194.08,
+      "end": 198.47,
+      "text": "OK. So, um, you have some difficulties swallowing, is that right?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 199.74,
+      "end": 202.78,
+      "text": "Um, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 202.98,
+      "end": 208.19,
+      "text": "OK. Any problems with your speech? Is your, is your, is your speech different to how it, um, sounds normally?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 208.73,
+      "end": 219.47,
+      "text": "Um, yeah it feels a, a bit harder [inaudible] . It's more complicated maybr, maybe um, be more slow. I need to think more about it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 219.8,
+      "end": 223.69,
+      "text": "OK. Is there anyone at home with you? [inaudible]"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 223.09,
+      "end": 223.97,
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 225.62,
+      "end": 227.33,
+      "text": "OK. [inaudible]"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 226.53,
+      "end": 228.99,
+      "text": "Is this something I should be worried about?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 229.82,
+      "end": 237.39,
+      "text": "Um, well, um, I'm [inaudible] I'm concerned that some of the symptoms you've got may be, um, symptoms of a stroke."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 237.78,
+      "end": 239.58,
+      "text": "Hmm, wow."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 238.5,
+      "end": 245.62,
+      "text": "OK? So, um, that's something that can be dealt with, but it needs to be dealt with as an emergency in a hospital."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 246.19,
+      "end": 251.26,
+      "text": "[inaudible] Would, should I call [inaudible] , would you be able to call the ambulance for me?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 250.66,
+      "end": 267.72,
+      "text": "Yeah I'm, I'm happy to do that. Um, what we need to do is to make sure that they've got access to you when you come. So, um, maybe you could, uh, leave the front door, um, unlocked, sit in the hallway. But I'm gonna arrange one of my colleagues next to me to, um, call an ambulance to your home address now."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 257.17,
+      "end": 269.77,
+      "text": "OK. OK. OK. Thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 268.92,
+      "end": 276.0,
+      "text": "So [inaudible] that's being done right now, as we speak. Uh, while we're waiting for that, I'm just gonna ask you a few more questions. Is that OK?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 276.08,
+      "end": 276.86,
+      "text": "Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 277.0,
+      "end": 279.43,
+      "text": "OK. Do you have any other illnesses at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 280.39,
+      "end": 287.86,
+      "text": "Um. I have, uh, type two diabetes and, uh, high blood pressure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 288.62,
+      "end": 292.48,
+      "text": "OK. And, um, are you on any medication for that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 293.35,
+      "end": 300.71,
+      "text": "Um, I'm taking [inaudible] Metformin losartan and Amlodipine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 301.26,
+      "end": 306.12,
+      "text": "OK. Do you have any, um, uh, allergies to any medication?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 306.5,
+      "end": 310.44,
+      "text": "Um, only penicillin, I believe."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 310.86,
+      "end": 315.8,
+      "text": "OK. Um, are there any illnesses in your family at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 316.75,
+      "end": 324.24,
+      "text": "Uh, my dad has got, um, heart disease. But, uh, but don't, I don't know more detail."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 324.89,
+      "end": 326.75,
+      "text": "OK, anyone else?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 327.5,
+      "end": 328.35,
+      "text": "Not really."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 328.52,
+      "end": 331.73,
+      "text": "And um, [inaudible] are you normally living alone?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 332.56,
+      "end": 333.56,
+      "text": "Uh, yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 334.21,
+      "end": 336.04,
+      "text": "K. Do you smoke at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 336.59,
+      "end": 337.83,
+      "text": "Uh, I used to."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 339.15,
+      "end": 341.21,
+      "text": "OK. How much alcohol do you drink?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 343.26,
+      "end": 351.29,
+      "text": "Uh, I will have a few drinks over the weekend. Um, maybe a, a couple more during the week."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 352.07,
+      "end": 354.46,
+      "text": "So, [inaudible] what, what drinks are we talking about?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 355.29,
+      "end": 358.53,
+      "text": "Uh, uh, beers, uh, like pints."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 355.3,
+      "end": 367.29,
+      "text": "OK. OK. All right, um. How are you feeling now? Have you got the symptoms right now still, that, um"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 367.64,
+      "end": 375.5,
+      "text": "Yes, yes. The the arm still can't move and I think the speech is getting a bit harder."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 375.42,
+      "end": 404.23,
+      "text": "OK, all right. So, the ambulance is on it's way, all right? Um, and what they're going to do is, they'll probably take you down to, um, the local hospital, A and E. And then, they'll they will ring through for the, um, the stroke doctor to assess you, to see whether they can give you any kind of, um Treatment for that OK? So no worry. They're they're on their way, um, and what I'm gonna do is, I'm gonna stay on the line until they reach there. Just to make sure that you're OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 395.71,
+      "end": 406.93,
+      "text": "OK. OK. Is there anything I should be doing now?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 407.33,
+      "end": 419.38,
+      "text": "Um, not at the moment, no, not at the moment, Just, uh, make sure the [inaudible] the front door's open. Sit in the hallway, by the front door so that they've got access if needs be, if for any reason you can't open the front door. OK, um."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 418.44,
+      "end": 419.18,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 419.38,
+      "end": 423.85,
+      "text": "All right, then so [inaudible] I'll be [inaudible] staying on the line and we'll and [inaudible] we'll wait until the ambulance comes."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 424.44,
+      "end": 426.28,
+      "text": "OK, I'm gonna go to the door."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 426.33,
+      "end": 428.44,
+      "text": "OK then, all right. Thank you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 428.76,
+      "end": 429.52,
+      "text": "Thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 429.44,
+      "end": 430.18,
+      "text": "K, bye bye."
+    }
+  ]
+}

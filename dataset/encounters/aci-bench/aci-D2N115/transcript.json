@@ -1,0 +1,290 @@
+{
+  "encounterId": "aci-D2N115",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright so hey it's nice to see you Jack I know you've been experiencing some neck pain could you tell me what happened"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah so I was in a a car accident"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And I hit in the back and like my my neck went forward and my head went forward really quick and so I've been having some pain ever since"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and so with this pain how long ago was the car accident"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That was about a week ago"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay with this pain like on a scale of one to ten how severe is it"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I would say it's about a seven"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's not a constant pain but like whenever I move my head which is like a lot I I feel it"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright so where exactly is it on the side on the back"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's in the back of my neck"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay has anything made it better"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I mean I've tried some ibuprofen that helped a little bit but not too much"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Just about five out of ten"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mm-hmm alright and did you say whether the pain was getting worse"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I mean it's been staying the same it just gets worse when I'm moving my neck"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay are you able to turn your neck from side to side"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mostly but there is there is pain with it"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and then do you have headaches"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I had I had a couple early on"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Uh uh"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I have had it lately"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and so does the pain move anywhere like your upper back your shoulder"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No it just stays on monday"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and then any kind of hearing any kind of hearing problems visual disturbances"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay have you do have you ever like played sports before or had like a sports accident before"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I played football"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Years ago but I I didn't have any issues with my neck though"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and then when you got in the car accident did you end up going to the emergency room"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No I mean I I know that going to the emergency room that like the english rides like five hundred bucks so I didn't want to do that"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I understand I understand okay was there any like swelling or bruising on your neck"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not that I know about no other mag of my neck I really can't see that"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah okay no just checking okay so if you don't mind I'm gon na go ahead and do my physical exam so when I press on here on the side of your neck does it hurt"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah a little bit"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay positive pain to palpation of the soft tissues of the neck what about when I press on your back or your shoulders"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No that's fine"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay so when you flex your neck when you're touching your chin to your chest does that hurt"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright positive pain with flexion what about when you move it back"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah that hurts worse"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay okay severe positive pain to extension okay so can you turn your head from side to side does that hurt"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah a little bit"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay positive pain with rotation and then can you touch your ear to your shoulders"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright so positive pain on lateral bending wow this is pretty this is pretty serious not serious necessarily sorry about that so I reviewed the results of your x-ray but the results show no signs of fracture or bony abnormalities but let's go ahead and talk about my assessment and plan for you I believe what you have is something called neck strain for your neck pain I sorry treatments we are gon na go ahead and treat this a bit conservatively your I'm gon na put you on anti-inflammatories motrin six hundred milligrams and you're gon na take that every six to eight hours I also wan na give you a muscle relaxant called flexeril and it's gon na be ten milligrams and you'll take that every twelve hours as needed I'm gon na want you to try your best to to like relax your neck I'm sorry not to strain your neck anymore like to be conservative with how you move about and everything like that I also wan na order an mri just because you said you didn't go to the hospital or anything like that I just wan na make sure that you you're not suffering from like a concussion but this is something that's commonly referred to as like whiplash right your head just like it it just wiped essentially like back and forth to so severely and and that's probably what's causing your pain I think I wan na refer you to either physical rehab or a chiropractor once we get the results of the mri just to make sure that there isn't any impingement of like the nerves or anything like that do you have any questions"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I heard the chiropractors will shake they work"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I do understand that some people have like reservations about going to the chiropractor but you know we do have some good ones that have like longstanding histories and patients that have had positive results from the experience but if you if you don't like the idea of that we can consider other options like that rehab and physical therapy"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright any other questions"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright thank you"
+    }
+  ]
+}

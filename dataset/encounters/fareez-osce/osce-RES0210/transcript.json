@@ -1,0 +1,450 @@
+{
+  "encounterId": "osce-RES0210",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So can you tell me a little bit about what brought you in here today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I've noticed I've had this pretty bad cough for like the last couple of days. A little bit worried. Wanna talk to someone."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so started two days ago."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No about what day is it today? Today is Wednesday. It started on Sunday, Sunday. I noticed it getting really bad."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so it got really bad. Then it was it was it still present but not as bad before that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I think I had like a bit of like a raspy cough on like Friday but Sunday it was when I started getting nervous about it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK so almost a week, it sounds like. And what exactly changed on Sunday that you made it worse in your opinion?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So Sunday I started bringing I noticed like little spots of red kind of the the gunk I was bringing up."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And I kind of ignored it, but the next day they were still there. I started getting fever just in I felt off, you know."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. OK, so that you first notice that on Sunday, were you bringing up sputum before that and it just didn't have these spots or did it, did that part just start on Sunday?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sputum is kind of like the gunk up and bring it up? Yeah, it was. It's like this yellow custard, it’s got like well spots are red on it on Sunday."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and before that did you have like the yellow custard without red? Or it all started at once all kind of started?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It all started at once to be honest."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Sorry, I know these are tricky questions, and you said that you've had some fevers. Can you tell me a little bit about that? When did that start?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So that started, the Monday really is when I first started. I never took my temperature. I just felt hot. You know that's been going on pretty much until today."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, did you ever feel like you were really shaky?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I've been getting the chills, especially last two days."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. So over this time you've had this cough, have you felt like you've had difficulty breathing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not really, I feel a little bit winded doing things. I used to do like I take the stairs up to my apartment, but I have just happened really trying to exert myself that's been taking it easy so I haven't really noticed being out of breath."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so probably if you were to get up and do a lot of physical activity you would feel worse."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I could, probably I can still take the two stairs up to my apartment, but after that I started to feel pretty crummy."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Is there anything else that you can think of that makes it feel worse?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Has anything helped it to feel better at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Bringing up gunk makes it feel better for a little while."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So you kind of just clear it up and that feels a little bit better?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I haven't taken some Tylenol at home and that helps a little bit."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you felt a sore throat at the same time?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "After an awful lot of coughing, yeah, it starts to feel a little raw."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you had a runny nose?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, bit of 1 back in the day, maybe a week ago, but that kind of gone away by now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you felt any chest pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah. Yeah I got pain kinda on the right."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Have you ever have you ever had anything like this before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No never. Actually Doc, you're saying something that makes it feel worse? Taking a deep breath makes it feel pretty bad."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and. I'm just going to circle back to this chest pain. You said you feel it on the right side. Is it always there or is it just when you take a deep breath or is it kind of on and off?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's kind of always there. It gets a little bit worse with coughing and when I take a pretty big deep breath."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, OK, but if you were just laying down, not coughing, is that pain there?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah yeah, specially notice over the last day,"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Kind of dull."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And have you had any weight loss recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, not really."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "K. Have you traveled anywhere recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Went to Sarnia. About a week back for work but."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, were you in contact with anyone that that was sick?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nope, just been keeping to myself mostly."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so in terms of your own medical history, do you have any chronic conditions that you see your family doctor for regularly?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, he’s given me a pill for a cholesterol."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And do you know the names of any medications that you take?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Lipitor."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK is that the only one?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Have you ever had any surgeries?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, my wisdom teeth out as a as a kid. 15 or so I think."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Do you have any allergies?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I’m just going to ask you a few questions about your lifestyle and like do you live here in town?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I live here in town, got a girlfriend living in apartment."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, you live with your girlfriend,"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you have any pets?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Cat, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you do anything for work or are you retired?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I still work a consultant for the chemical plant, so West. Mainly in Sarnia."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So have you had a lot of exposure to chemicals throughout your career?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Now they've always been pretty good for keeping us safe. I'm on the engineering side of things, so I don't really work too much in the plant directly. You know,"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Here, well, do you drink alcohol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Once in a blue moon."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you smoke?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How much would you say that you smoke?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Got a pack a day."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Long is that been going on for?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Geez, must have picked it up when I was 15."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Do you use any other substances?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Like drugs?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, cannabis or any other recreational drugs."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Smoke the odd joint from time to time, but haven't in years now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you have any family history of any respiratory illnesses?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Respiratory illness, like lungs?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, exactly."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Think my grandpa died of lung cancer, actually he was a pretty big smoker too though."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. OK, well thank you for sharing all of that with me, so I'm going to go over this with the physician I’m working with and we should be back shortly together to talk to you about the next steps."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Thank you kindly."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "K, thanks."
+    }
+  ]
+}

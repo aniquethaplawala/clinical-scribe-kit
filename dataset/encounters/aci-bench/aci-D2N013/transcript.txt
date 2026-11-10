@@ -1,0 +1,49 @@
+Clinician: Hi, John, how are you doing?
+Patient: Hi, good to see you.
+Clinician: Good to see you too. So I know the nurse told you about Dax, I'd like to tell Dax a little about you.
+Patient: Sure.
+Clinician: So John is a 55-year-old male with a past medical history significant for anxiety and epilepsy who presents with an abnormal lab finding. So, John, um, I, uh, was notified by the emergency room that you, um, had a really high blood sugar and you were in there with, uh... They had to treat you for that, what was going on?
+Patient: Yeah, we've been going from place to place for different events and we've had a lot of visitors over the last couple of weeks and I just wasn't monitoring my sugar intake and, uh, a little too much stress and strain I think over the last couple of weeks.
+Clinician: Okay, yeah, I had gone through your hemoglobin a1c's and you know, they were borderline in the past but-
+Patient: Mm-hmm
+Clinician: -I guess, you know, I guess they're high now so how are you feeling since then?
+Patient: So far so good.
+Clinician: Okay, did they put you on medication?
+Patient: Uh, they actually did.
+Clinician: Okay, all right. I think they have here metformin?
+Patient: Yeah, that's- that sounds right.
+Clinician: All right, um, and, um, in terms of your anxiety, I'm sure that this didn't help much-
+Patient: Didn't help, no, not at all.
+Clinician: How are you doing with that?
+Patient: Um, I had my moments but, um, it... Now that it's almost the weekend, it's- it's been a little bit better. I think things are under control by now. Okay.
+Clinician: Okay? Um, how about your epilepsy, any seizures recently?
+Patient: Not in a while, it's been actually quite a few months and it was something minor but noth- nothing major ever since.
+Clinician: Okay. All right, well you know I wanted to just go ahead and do, um, a quick review of the systems, I know you did a cheat with the nurse-
+Patient: Mm-hmm.
+Clinician: Any chest pain, shortness of breath, nausea, vomiting, dizzy- dizziness?
+Patient: No, no.
+Clinician: Okay, any recent fever, chills?
+Patient: No.
+Clinician: Okay. And all right, let's go ahead do a quick physical exam. Hey, dragon, show me the vitals. So looking here at your vital signs today, um, they look really good. So I'm just gon na go ahead and take a listen to your heart and lungs.
+Patient: Mm-hmm.
+Clinician: Okay, so on physical examination, you know, everything seems to look really good, um lungs are nice and clear, your heart's at a regular rate and rhythm. You do have some trace pitting edema to your lower extremities so what that means is that it looks like you might be retaining a little bit of fluid-
+Patient: Mm-hmm.
+Clinician: Um, did they give you a lot of fluid in the emergency room?
+Patient: They actually did.
+Clinician: Okay, all right, so it might just be from that. Okay, well let's look at some of your results. Hey, dragon, show me the glucose. Okay, so yeah, you know I know that they just checked your blood sugar now and it was 162 and you know, what... You know, did you eat before this?
+Patient: Uh, probably about two hours ago.
+Clinician: Okay, all right. Hey, dragon, show me the diabetes labs. Yeah, so your hemoglobin a1c here is is 8, you know last time we had seen it, it was about 6 and we hadn't put you on medications so, um, I think it's something we'll have to talk about, okay?
+Patient: You got it.
+Clinician: Um, so let's just talk a little bit about my assessment and my plan for you so for your first problem, this newly diagnosed diabetes. Um, you know, I want to continue on the metformin 500 mg twice a day. We'll probably increase that over time.
+Patient: Mm-hmm.
+Clinician: I'm gon na go ahead and order hemoglobin a1c for the future okay?
+Patient: Sure.
+Clinician: Um for your second problem, your anxiety. It sounds like you know you might have, you know, some issues leading into the winter. How do you feel about that?
+Patient: Well, I'll try something new just to help. If it helps that'd be great.
+Clinician: Okay, all right, and so for your last ish issue, your- your epilepsy, you know, I think you saw your neurologist about three months ago, you must be due to see her again some time soon?
+Patient: I am.
+Clinician: And we'll just continue you on the keppra, okay?
+Patient: Sure.
+Clinician: Any questions?
+Patient: Not at this point, no.
+Clinician: Okay, um, hey, dragon, finalize the note.

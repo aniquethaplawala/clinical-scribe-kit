@@ -1,0 +1,145 @@
+{
+  "encounterId": "aci-D2N053",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So Barbara I I know you are here for some itchy scalp pain can you tell me a little bit about how you're doing"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah it's still quite a problem you know something I've been suffering with for so long now it's still quite itchy and it's really embarrassing too because I'll have dandruff so much like all over me but but I just can't stop itching"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay when did you first notice this"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I wan na say it's been a while but probably worsening in the past like six months or so"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay okay and have you seen ever noticed any rashes either when it first started or intermittently anywhere else"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "On my body no not really"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay okay just mainly up underneath your on your scalp there uh and I can I can see that man that looks really itchy and scaly have you died your hair recently or used any other chemicals you you know like a new hair spray or gel"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nothing new I mean I do dye my hair but I've been doing that for years now but otherwise I don't really use a lot of products in my hair"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah I you know it's funny you say that because I keep saying I earned this gray hair and I'm gon na keep it so yeah have you tried any over the counter treatments I know there is a lot out of there something you know like a t gel or any of those other have those helped"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I did that I did head and shoulders I even tried some castor oil and but none of them really seemed to be helping"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay okay let's talk about some other symptoms any joint pain fever weight loss"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not that I can recall I've been pretty good otherwise"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay good and going back you know to your grandparents has anybody else in the family had similar symptoms that you're aware of"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No well maybe my sister"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Maybe your sister okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah maybe my sister I mean I know she'll is no one has as bad as I do but she does report like just having a dry scalp"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay okay now you know a lot of times we can see this with you know high levels of stress has there been any new mental or emotional stressors at work or at home"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not really I mean it's basically the same things"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay yeah I yeah we have a lot of that yes so let me go ahead and and look at this a little closer here the first off I wan na tell you the the vital signs that the my assistant took when you came in your blood pressure is one thirty over sixty eight your heart rate was ninety eight and your respiratory rate was eighteen so those all look good and appear normal and your temperature was ninety seven. Seven and that is all normal now when I look at your scalp here I do notice that you have demarcated scaly erythematous plaques and that's just kind of explaining technically what's going on those patches and they're they're in a patchy format they're diffusely present across the back of your skull and that's probably why you you see all that that that white dander you know on your on your your clothes as you go through the day now lem me talk a little bit about my impression and plan I think that you have a scalp psoriasis and let's and here is my thoughts on that what I would like you to use is to use clobetasol that's a zero. Zero five percent solution and I want you to use that twice daily on the the affected areas of your scalp so you're just gon na put this on and just kinda gently rub it in now I know to do it twice daily is going to be difficult but if you can do it first thing in the morning when you get up and then before you go to bed you know get a shower and before you go to bed that will be great I want you to continue to use t-gel shampoo that you listed when you first came in that's a very good solution shampoo for that and that will help with controlling a lot of this now there is no cure for this unfortunately and flareups can be unpredictable but we see that you know not a we don't have a great finger on what causes the flare ups but I'm gon na give you some steroids that will help and we're gon na have to manage that on a ongoing basis but when you get do get a flare up I want you to be using these flare steroid that I give you as we go through that and then I wan na see you back here in three months or sooner if it gets significantly worse do you have any questions for me"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No okay so I'll just use that steroid solution and then just as needed if it's really bad but then otherwise just use the t gel"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah I want it's exactly what I want you to do I want you to use that that solution twice daily when you get that flare but then other than that just continue to use that t-gel shampoo"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Alright"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay I'm gon na have my nurse come in and get you discharged but I the we will see you again in three months or and again please if it gets worse please don't hesitate to call me and come in sooner"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Alright perfect thank you"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Thank you"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay bye"
+    }
+  ]
+}

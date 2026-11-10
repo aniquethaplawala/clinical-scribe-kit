@@ -1,0 +1,78 @@
+Clinician: How may I help you today?
+Patient: Yeah I've had, a fever and a cough that started just like four days ago.
+Clinician: OK, when did you, when did you start having your, so the cough started four days ago, what about the fever?
+Patient: I think, like, last night was when I checked, it was high, like over thirty eight.
+Clinician: I see, OK. And, did you check your fever before that? The night before?
+Patient: Yeah, I just checked it last night. I felt hot previously, but, I don't know, I thought I was going to just get better, but this morning still, well, feeling a bit a little bit worse.
+Clinician: OK, and the cough that started four days ago, has it been a dry cough or wet cough?
+Patient: It's been dry.
+Clinician: OK, so there's been no sputum or any, or blood?
+Patient: No sputum or blood
+Clinician: OK. Has it gotten worse over the past four days?
+Patient: Uh, a little bit, yeah. D; And, other than the fever and the cough, do you have any fatigue? Uhm, yes.
+Clinician: We do, OK. Any muscle aches?
+Patient: Uh, no.
+Clinician: OK, Sore throat?
+Patient: No.
+Clinician: Any difficulties breathing?
+Patient: No.
+Clinician: Any wheezing?
+Patient: No.
+Clinician: Any chest pain or pressure?
+Patient: No.
+Clinician: OK, any runny nose?
+Patient: Yeah, my nose has been a little bit runny.
+Clinician: OK, that started over the past four days as well?
+Patient: Yeah.
+Clinician: OK, what about pain in your belly?
+Patient: No pain.
+Clinician: OK, any diarrhea or Constipation?
+Patient: Uhm, no.
+Clinician: Any nausea or vomitting?
+Patient: No.
+Clinician: Any urinary symptoms?
+Patient: No.
+Clinician: OK, any rash that you've noticed on your skin?
+Patient: No.
+Clinician: Any changes in your sense of taste or your sense of smell?
+Patient: Uh, yeah, I haven't been able to smell as well.
+Clinician: You feel like you have a runny nose, but is it sort of congested?
+Patient: Not really, it,  yeah, just kind of running, and yeah, I haven't been able to smell very well.
+Clinician: OK, and do you have any past medical, any conditions, medical conditions?
+Patient: Uh, depression and anxiety.
+Clinician: And have you had any surgeries in the past or hospitalizations?
+Patient: Uhm, no
+Clinician: OK, are you taking any medications, including over the counter pills?
+Patient: I do take a multi-vitamin.
+Clinician: And, uh.
+Patient: sorry I do take, um, I take, uh, an SSRI, Citalopram as well.
+Clinician: OK, that's good. OK, any allergies?
+Patient: No allergies
+Clinician: OK, specifically allergies to medications?
+Patient: Uhm,  yeah no, no medications, I don't think so.
+Clinician: Good, ok, and do you currently smoke or have you ever smoked in the past?
+Patient: Uhm, I smoked when I was in high school very briefly, but I haven't smoked anything in the last twenty years.
+Clinician: Alright, do you consume marijuana?
+Patient: Uh, we'll use edibles every once in a while. I buy them from the, like, I guess government store, OCS.
+Clinician: I see, OK, any recreational drugs?
+Patient: No,
+Clinician: OK, and do you currently live alone or do you live with others?
+Patient: I live with others, I live with my girlfriend, and a dog.
+Clinician: OK, and has she been sick or have you been in contact with anyone who's been sick recently?
+Patient: Uh, she just came back from a work trip. I've been working from home but she was, uhm, in Saskatchewan, and just got back last week.
+Clinician: OK, and has she had any symptoms?
+Patient: She's been fatigued since coming back, but I mean, we thought that was maybe just from the travels, but, maybe not.
+Clinician: Has she been quarantining, or are you both spending time together?
+Patient: Well, we've been, I mean, trying to distance in the home, but I mean, we've been living together in an apartment so.
+Clinician: Fair enough, fair enough. OK, have you had any travels?
+Patient: No, I've been working from home.
+Clinician: OK, alright, and uh, any, you don't have any asthma or COPD or any lung conditions, right?
+Patient: Right, I don't have anything like that.
+Clinician: OK, and, any conditions that run in your family?
+Patient: Uhm, no, nothing that runs in the family.
+Clinician: Alright, OK, so if I understand correctly, you've been feeling tired and you've had a cough and a runny nose and changes in your sense of smell for the past three or four days and you also were feeling a little bit hot and yesterday you noticed that you had spiked a high fever. Is there anything that I'm missing?
+Patient: No, I think that covers all the symptoms.
+Clinician: And you might have potentially had, some exposure through your girlfriend potentially, so it's possible that, well, it's possible that you just have a cold, but it's also,  we'll still have to rule out covid as a cause, and so we'll have to do a covid swab and go from there and we'll check your temperature here as well. Just, uh, I think something that I forgot to ask, have you taken any medications that has helped you with your symptoms?
+Patient: Uh no, I haven't taken anything.
+Clinician: OK, alright, well, thank you, I'll go talk to my attending and we'll come back and discuss this further with you.
+Patient: That sounds great. Thank you.

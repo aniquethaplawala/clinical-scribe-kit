@@ -1,0 +1,260 @@
+{
+  "encounterId": "aci-D2N173",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hi Logan, how are you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hi. Good to see you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "It's good to see you as well. So I know the nurse told you about Dax. I'd like to tell Dax a little bit about you. Okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So Logan is a 57-year-old male, with a past medical history significant for coronary artery bypass grafting, hyperlipidemia, and ocd, who presents with an upper respiratory infection. So, Logan, what's going on?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So, uh, about a week ago I started to get a cold. And, in the last two or three days, it seemed to move into my chest."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Um, and, and are you having any pain in your sinuses? Or, any post nasal drip?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, I had some post nasal drip for, again, for the beginning of the week. And then, uh, it, it left my, uh, my head. It went right down to my upper, uh, chest."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And have you gotten vaccinated against covid?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I actually have. I've, uh, gotten both vaccines."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "On both, both stages."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And anyone else sick as far as you know?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, not in my house. No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And have you had any fevers?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, I thought I had a slight fever, but no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And, um, any shortness of breath?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. Um, so let's just talk a little bit about your high cholesterol. How are you doing with the diet?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I've been pretty good for the most part. Uh, we did a little bit of travel over the last week or so, so the diet wasn't great. But, for the most part it's been good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, I, I know we have you on the, on the crestor 20 milligrams a day. You're doing okay with that, so tolerating it? No muscle aches, anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No muscle aches."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And I know you had the, uh, bypass grafting last year. You're doing okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's been great."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No chest pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Other than the congestion, no chest pain."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. And you're able to exercise?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Before you got sick."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That's correct. That's correct."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. Well, let's go ahead, I want to do a quick physical exam. Okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You got it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey dragon, show me the vital signs. So, here it... Your vital signs look great. Your oxygenation is 96%. So that's very good. Okay? Uh, I'm just going to check out your heart and lungs, and I'll let you know what I find. Okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. So on exam, you do have some cervical lymphadenopathy. And your lungs have bilateral ronchi in them, um, and some wheezing. So, what that means is, you know, you have a little infection. You probably have a little bit of a cold, and you have some lymph nodes that are swollen, and some congestion in your lungs, like you said. Let's go ahead and take a look at some of your results. Okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey dragon, show me the lipid panel. So your cholesterol, for the most part, is really good. I think you're doing a good job. Uh, I don't think you have to make any changes right now. Um, hey dragon, show me the covid test. Turns out you're positive for... For covid. So the results of your po- your covid test are positive."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So, I know you were vaccinated. You probably have a, a, a very, um, low-level positivity. So let's talk about that. So for your first problem, uh, is your covid infection. And I think the vaccine has helped you. It seems to be very mild at this time. Your oxygenation is really good. I want you to quarantine for t- for 10 days, so, uh, try to avoid your other household family members. Okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And you're going to have to take off work. Um, if your symptoms worsen, I want you to call me."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "It's just supportive management. Uh, for your next problem, your high cholesterol, let's continue you on the crestor 20 milligrams a day, and continue to watch your ja- your, your diet and I- then I'll go ahead and order another lipid panel for six months. And, from a coronary artery bypass grafting standpoint, your coronary artery disease seems under control. You're exercising. You don't have any chest pain. We'll do a stress test in six months as well."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay? Any questions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No questions."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. It was good to see you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Same here."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey dragon, finalize the note."
+    }
+  ]
+}

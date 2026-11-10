@@ -1,0 +1,869 @@
+{
+  "encounterId": "pm57-d1c06",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 1.99,
+      "end": 2.81,
+      "text": "Hello?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 5.25,
+      "end": 6.12,
+      "text": "Hello there."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 6.53,
+      "end": 8.49,
+      "text": "Uh, hello. Can you hear me OK?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 9.89,
+      "end": 11.33,
+      "text": "Yes, I can hear you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 11.2,
+      "end": 18.99,
+      "text": "OK, great. [inaudible] . I am, yes. Nice to see you here, Oscar. Um, how can I help you this afternoon?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 12.2,
+      "end": 24.93,
+      "text": "Are you the doctor? Um, I'm, contacting you because I've been, quite short of breath lately."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 25.12,
+      "end": 28.78,
+      "text": "OK. Do you want to tell me a bit more about it? When did it all start?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 30.38,
+      "end": 55.13,
+      "text": "Uh, well it seems to have been, slowly getting worse over the last couple of weeks. Um, now it's, become quite troublesome, in the last few days. Uh, I kind of, normally I can walk to the shops, without a problem but, now I'm having to sort of sit down and catch my breath. And I'm really starting to get a bit breathless, just about the house. And uh, it's got me kind of worried, don't really know what's going on."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 51.44,
+      "end": 58.14,
+      "text": "OK. OK. OK. Is there anything you're particularly worried about?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 60.13,
+      "end": 67.17,
+      "text": "Um, well, I've, I've uh, I've got um, heart failure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 66.84,
+      "end": 67.71,
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 67.17,
+      "end": 81.74,
+      "text": "Uh, I was told that, uh, a while ago. Um, and I got a bit breathless when I was first diagnosed, and put on some medicine that, that um, that helped, but I'm a bit worried it's just getting worse."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 72.66,
+      "end": 98.76,
+      "text": "OK. Right. Right, OK. So you mentioned you're feeling, uh, short of breath for the last couple of weeks, but mainly the last couple of days it's got a bit worse. Um, uh, and you're now feeling more breathless on kind of minimal, minimal exertion you mentioned. Um, have you noticed any other symptoms at all, uh, uh, with your breath? So, for example, any pain in your chest?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 100.67,
+      "end": 102.0,
+      "text": "No pain in my chest."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 102.14,
+      "end": 105.62,
+      "text": "OK. And have you found yourself coughing, coughing at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 104.08,
+      "end": 110.54,
+      "text": "Um. Uh, I've got a bit of a dry cough, but it's not too troublesome."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 110.54,
+      "end": 117.39,
+      "text": "OK. OK. And how's your general health otherwise? Are you feeling uh, weak, lethargic?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 119.03,
+      "end": 125.08,
+      "text": "Um, I'm feeling a little run-down, um, but otherwise, otherwise pretty normal."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 124.98,
+      "end": 125.77,
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 125.31,
+      "end": 127.2,
+      "text": "I've noticed my ankles have got a bit bigger."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 127.44,
+      "end": 129.1,
+      "text": "OK. And what do you mean by that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 130.65,
+      "end": 134.81,
+      "text": "Uh, it's just like, it's sort of swollen up a bit."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 135.21,
+      "end": 137.71,
+      "text": "OK. Um, is that, is that both [inaudible] ?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 137.23,
+      "end": 143.35,
+      "text": "Kind of [inaudible] . Um, yeah, both ankles. Yeah, it's a bit embarrassing."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 138.73,
+      "end": 149.34,
+      "text": "Both ankles? OK. Uh, I can imagine, yeah. Um, and again, [inaudible] over how long has this, have you noticed this for?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 150.54,
+      "end": 153.42,
+      "text": "Um, I kind of noticed it the last few days."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 153.39,
+      "end": 156.95,
+      "text": "Past few days, OK. And is this something that you've had before, in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 158.59,
+      "end": 165.1,
+      "text": "Uh, I think my ankles did swell up a bit last time, the heart failure was a problem."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 164.91,
+      "end": 188.8,
+      "text": "OK. OK. Um, fine. OK. So, um, just to really recap, uh, so you're really, in the last couple of weeks, uh, you've been feeling breathless, uh, but worse in the last couple of days. You mentioned you had a bit of a dry cough. Um, and some swelling in your ankles. Um, reporting no chest pain. Um, and, and have you had any, have you any, have you noticed your heartbeat racing at all? So, palpitations or skipped heartbeat?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 189.59,
+      "end": 191.01,
+      "text": "No, not really."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 190.91,
+      "end": 193.28,
+      "text": "OK. And any temperatures or fevers?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 194.54,
+      "end": 195.38,
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 195.46,
+      "end": 198.79,
+      "text": "OK. And how about your appetite? Are you eating and drinking OK?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 199.84,
+      "end": 201.68,
+      "text": "Yeah, I, [inaudible] , I'm, that's fine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 201.74,
+      "end": 204.95,
+      "text": "OK. And your waterworks? Are you passing urine OK?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 206.38,
+      "end": 212.51,
+      "text": "Uh, yeah, but yeah. I usually pee a lot, [inaudible] , ever since the drugs [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 209.65,
+      "end": 222.59,
+      "text": "Yeah. [inaudible] Sure, OK. Alright. Um, fine. So, [inaudible] your uh, your past medical history. You mentioned heart failure. Any, any other medical history I should be aware of?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 223.94,
+      "end": 236.39,
+      "text": "Uh, well I was told I had like a, they called it like a small heart attack. About, five years ago. Um, I uh, I had, I, I had like some chest pain and, they took me into hospital."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 236.34,
+      "end": 237.03,
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 236.9,
+      "end": 240.51,
+      "text": "And um, they, uh, but then I just got better."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 240.92,
+      "end": 247.35,
+      "text": "OK. And when, when you say a small heart attack, did they give you a name, for what happened, a, a name of a diagnosis?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 241.8,
+      "end": 254.98,
+      "text": "Um. Uh, I can't remember. They just called it something a [inaudible] , uh, something like that, a small heart attack."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 254.84,
+      "end": 259.25,
+      "text": "It's more hard to say. OK. Was it like angina or, um,"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 259.55,
+      "end": 265.78,
+      "text": "Um. Uh, no they, they said that it, uh, it seemed, it was like, more than angina."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 265.75,
+      "end": 266.52,
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 266.39,
+      "end": 275.9,
+      "text": "Um, uh, but um, I didn't, but I only had to stay in hospital for a few days, and, uh."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 274.51,
+      "end": 277.79,
+      "text": "OK. OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 277.34,
+      "end": 279.18,
+      "text": "And yeah, I've been OK since then."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 279.05,
+      "end": 285.29,
+      "text": "You've been OK since then. OK, alright. So, apart from the uh, the heart, the heart problems, the heart failure, any other problems I should be aware of?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 286.71,
+      "end": 289.42,
+      "text": "Uh, no, I think I'm otherwise, I'm OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 289.26,
+      "end": 296.29,
+      "text": "OK. Um, do you take any regular medications, apart from your [inaudible] diuretics that you're taking? And do you know which ones?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 296.02,
+      "end": 298.84,
+      "text": "Uh, yeah, I take something called Furosemide."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 299.16,
+      "end": 301.01,
+      "text": "[inaudible] . Do you know which dose you're taking?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 301.91,
+      "end": 305.64,
+      "text": "I can't remember, I'm sorry doctor. I have to check."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 304.48,
+      "end": 310.04,
+      "text": "That's OK. No problems. Um, Any other medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 311.35,
+      "end": 314.41,
+      "text": "Uh, yeah. I take Aspirin."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 314.26,
+      "end": 314.89,
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 315.78,
+      "end": 317.84,
+      "text": "And uh, Bisoprolol."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 319.18,
+      "end": 321.78,
+      "text": "The Metoprolol, was it? Or?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 321.66,
+      "end": 323.19,
+      "text": "Uh, Bisoprolol."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 323.24,
+      "end": 325.61,
+      "text": "Sorry, the connection's not very good. OK. Thank you, yeah."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 327.62,
+      "end": 330.17,
+      "text": "Um, [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 330.16,
+      "end": 334.93,
+      "text": "And a thousand, OK. Alright. Any allergies at all? Any medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 335.0,
+      "end": 337.43,
+      "text": "Uh, no, no allergies."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 335.91,
+      "end": 346.04,
+      "text": "No. OK. And is there anything in the family that's, uh, that, that's uh, that's important for me to know? Any family history of medical problems, heart problems, lung problems?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 347.38,
+      "end": 351.64,
+      "text": "Uh [inaudible] , my, my father died of a, uh, of a heart attack."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 351.55,
+      "end": 356.23,
+      "text": "I'm sorry to hear that. And, um, how old was your father when he passed away?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 357.22,
+      "end": 361.0,
+      "text": "Uh, he was, um, early sixties."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 360.61,
+      "end": 364.44,
+      "text": "Early sixties, OK. Alright. Anything else I should be aware of?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 365.93,
+      "end": 369.25,
+      "text": "Um, my mother had osteoporosis."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 369.09,
+      "end": 372.41,
+      "text": "OK. Is your mother still with us?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 373.9,
+      "end": 375.58,
+      "text": "Uh, yeah, she's still living."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 375.61,
+      "end": 382.28,
+      "text": "OK, alright. Um, and socially, sir, just tell me a bit more about your situation at home. Who lives at home with you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 383.2,
+      "end": 387.64,
+      "text": "Uh, I live on my own. Well, I got two cats."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 387.65,
+      "end": 390.44,
+      "text": "You've got two cats. OK, great. Do they have names?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 391.5,
+      "end": 399.88,
+      "text": "They're my family. Uh, they're, they're called, um, they're called, Polly and Tim."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 399.68,
+      "end": 407.73,
+      "text": "OK. Um, so it's just you and your cats. And um, in terms of day to day, are you working at the moment?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 409.03,
+      "end": 414.72,
+      "text": "Uh, I work part-time as, a, uh, lorry driver."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 415.43,
+      "end": 418.79,
+      "text": "OK. And how is that? Is that quite stressful, long hours?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 419.51,
+      "end": 427.45,
+      "text": "Uh, it's OK. Um, I uh, yeah [inaudible] , when I'm working it's pretty exhausting."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 427.35,
+      "end": 428.12,
+      "text": "Mm."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 427.45,
+      "end": 433.97,
+      "text": "Um, I guess I'm a bit worried, that if I get sick I won't, if I get more sick then, I won't be able to work properly."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 434.13,
+      "end": 442.45,
+      "text": "Yeah, that's certainly a consideration, isn't it? So let's, let's try and get you better soon, so it doesn't have any um, impact on your, on your job."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 440.56,
+      "end": 441.1,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 442.45,
+      "end": 448.84,
+      "text": "Uh, and do you find yourself doing a lot of anti-social hours? Do you [inaudible] , do you do a lot of night driving, weekend driving?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 449.95,
+      "end": 454.93,
+      "text": "Ohh no, I [inaudible] , I [inaudible] , I, I only take shifts during the day, I don't like working at night."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 453.28,
+      "end": 461.56,
+      "text": "OK. OK, alright. And what about smoking and alcohol? So, 'cause [inaudible] that can sometimes be very important when it comes to heart problems. Do you, do you smoke at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 463.17,
+      "end": 464.19,
+      "text": "Not any more."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 464.41,
+      "end": 465.94,
+      "text": "So, you used to smoke?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 467.36,
+      "end": 468.03,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 467.94,
+      "end": 470.11,
+      "text": "And how many did you smoke a day, on average?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 472.58,
+      "end": 476.9,
+      "text": "Ooh it was about, about a pack a day, back in the day."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 476.89,
+      "end": 480.13,
+      "text": "Um, and how many, how many years was that for?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 481.59,
+      "end": 485.13,
+      "text": "Ohh that was, oof, good twenty five years."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 485.15,
+      "end": 492.23,
+      "text": "OK. And what about the stopping? That must have been difficult for you. [inaudible] stopping. Um, and what, what about alcohol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 493.67,
+      "end": 495.0,
+      "text": "I don't drink alcohol."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 494.92,
+      "end": 497.54,
+      "text": "OK. Do you do much in the way of exercise, sir?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 499.04,
+      "end": 502.97,
+      "text": "Uh, I try and walk to the shops, at least once a day."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 502.94,
+      "end": 503.72,
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 503.52,
+      "end": 511.51,
+      "text": "Um, but uh, that's about it, I've. Yeah, I don't, I don't go running like I used to when i was young."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 504.56,
+      "end": 532.98,
+      "text": "OK. Right, OK. And certainly now your symptoms, you, you're, you said you're feeling more breathless even walking to the [inaudible] uh, to the shop, she said. Um, right. Ohh um, based on your, based on you history, and having listened to your story, I, I wonder whether you've had a flare-up of your heart failure, sir. Um, Which can sometimes happen. Um, um, and uh,"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 530.09,
+      "end": 532.66,
+      "text": "Mmm. That."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 532.98,
+      "end": 541.2,
+      "text": "It's [inaudible] . So, it seems like your heart's not pumping as well as it should be. Um, and obviously having diagnosed with heart failure, there's obviously"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 533.56,
+      "end": 534.38,
+      "text": "What's going on."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 541.2,
+      "end": 547.64,
+      "text": "Um, that's the first thing that comes to my mind. Um, now there's a couple of options [inaudible] move forward. Um,"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 545.1,
+      "end": 545.84,
+      "text": "Mmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 547.64,
+      "end": 565.13,
+      "text": "Given that you're otherwise well at the moment, and having examined you, your chest, and your saturations and blood pressure are all OK, I'm quite happy to increase your dose of Furosemide. Maybe, rather than one tablet a day, we can do two tablets a day, for the first few days. Um, and see, and see how you're getting on."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 566.3,
+      "end": 568.18,
+      "text": "OK. If you think that'll be better."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 566.92,
+      "end": 580.06,
+      "text": "Uh, I think, I think, it's, [inaudible] it's, it's definitely worth treating your symptoms. But what we should also think about is maybe doing a couple of other tests, like a blood test, and maybe an echocardiogram of your heart, to see how well your heart's pumping."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 581.28,
+      "end": 582.09,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 582.47,
+      "end": 591.37,
+      "text": "Is that something you've had before? Yeah, so um, an [inaudible] , it's a, it's a general scan of your heart. You might have had this done before, when you were diagnosed. And it's just to get a good"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 582.99,
+      "end": 592.08,
+      "text": "What does that? Ohh yes, I remember now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 593.04,
+      "end": 593.77,
+      "text": "Sorry?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 594.77,
+      "end": 597.36,
+      "text": "Uh, yeah, I remember now. [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 595.81,
+      "end": 625.74,
+      "text": "You remember that. OK, fine. That's something I can organize for you today. And, and that might take a week or two weeks for that to be organized. But, I think certainly in the meantime, let's, um, Let's, let's get a blood test done. We can check your um, you know your full blood count, look for signs of anemia. We can have a check of your kidney function. Um, and we can definitely increase your um, your Furosemide, uh, to you know, one tablet twice a day. But I really like, would like you to come back and see me in about a week's time, see how you're getting on. That sound reasonable?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 626.68,
+      "end": 628.03,
+      "text": "I think that sounds like a good plan."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 628.59,
+      "end": 642.04,
+      "text": "And of course, in the meantime if you are getting more unwell, feel like you're getting more breathless, or you're having any other symptoms like chest pain, or palpitations or dizziness, then, uh, you know [inaudible] I want you to give me a call sooner than that, and we can have a chat on the phone as well."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 643.03,
+      "end": 645.09,
+      "text": "OK. I'll see how I get on."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 645.35,
+      "end": 647.0,
+      "text": "OK? Do you have any questions for me?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 648.9,
+      "end": 652.07,
+      "text": "Uh, I think that's all pretty clear. Thank you very much Doctor."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 651.86,
+      "end": 656.99,
+      "text": "Great, and then well I wish you all the best! Have a good day. [inaudible] OK. Thank you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 654.26,
+      "end": 656.09,
+      "text": "OK. See you soon."
+    }
+  ]
+}

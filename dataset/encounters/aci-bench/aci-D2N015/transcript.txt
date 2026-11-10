@@ -1,0 +1,59 @@
+Clinician: Thanks, Rachel. Nice, nice to meet you.
+Patient: Yeah.
+Clinician: Um, as my nurse told you, we're using Dax. So I'm just gon na tell Dax a little bit about you.
+Patient: Mm-hmm.
+Clinician: So Rachel is a 48-year-old female here for shortness of breath. She has a history of depression, smoking, and chronic back pain. So tell me about this shortness of breath.
+Patient: Okay. So there are times when I'm either doing very, very mild exercises or just walking, even if I'm just walking up, you know, my driveway, I find myself palpitating a lot, and there's a little bit of shortness of breath.
+Clinician: Mm-hmm.
+Patient: I don't know if it's got to do with the back pain, you know, whether that gets triggered as well at the same time.
+Clinician: Right.
+Patient: But definitely I feel it happens more often lately.
+Clinician: Okay. And anything else change recently? Like, have you changed lifestyle, like you're exercising more than you used to, having any allergies, anything like that?
+Patient: Probably exercising more to get rid of the covid 15.
+Clinician: The covid 15. Yeah. Now last time I saw you, you were smoking two packs a day. How much are you smoking now?
+Patient: Um, it's gone down quite a bit because, yeah, we said we have to make some, you know, changes as you get older.
+Clinician: Yeah.
+Patient: So I would say it's probably, um, maybe, maybe a couple... Probably a coup- I don't know. Probably once or day or something.
+Clinician: Just couple cigarettes a day?
+Patient: Probably once a day, yeah.
+Clinician: We're getting close.
+Patient: Yeah.
+Clinician: That's awesome.
+Patient: Mm-hmm.
+Clinician: That's great news. Um, and then how's your depression doing?
+Patient: I have my moments.
+Clinician: Yeah.
+Patient: There are some days when I feel, you know, I wake up and everything was great.
+Clinician: Uh-.
+Patient: And then there are times, I don't, I don't know whether it's got to do with the weather or what else kind of triggers it.
+Clinician: Yeah.
+Patient: There are some days when I feel extremely low.
+Clinician: Okay. And you had been taking the effexor for your depression. Are you still taking that?
+Patient: Yes, I am.
+Clinician: Okay, great. And then, um the chronic back pain, we've been giving you the gabapentin neurontin for that. Is that helping control the pain?
+Patient: I think it is.
+Clinician: Yeah.
+Patient: It is... It's definitely, um, I feel better.
+Clinician: Uh-.
+Patient: But it does come every now and then.
+Clinician: Right. What do you do when it's really bad?
+Patient: Um, I try to just get as much rest as I can.
+Clinician: Okay. And you had talked about doing yoga. Are you doing yoga anymore?
+Patient: I wish I said yes, but I haven't really made it a habit.
+Clinician: Okay. Okay. Well, um, you know, said... You said you were coming in with shortness of breath, so we sent you to get some pulmonary function tests.
+Patient: Mm-hmm.
+Clinician: So let's just look at those. Hey, dragon, show me the pulmonary function tests. Okay, so it looks like..., it's interesting. It says that you might be having a little bit of asthma or, uh, copd. And if you are, we'll talk about that.
+Patient: Mm-hmm.
+Clinician: Let's look at our x-ray. Hey, dragon, show me the most recent x-ray. Okay, I said it wrong. Hey, dragon, show me the most recent chest x-ray. Okay, this is interesting. Your... Kind of your diaphragm is a little bit flatter, and we'll see that in some, uh, copd, which happens with smokers often. So let's just do a quick physical exam. I know my nurse did the review of systems with you. Is there anything else bothering you that we need to talk about today?
+Patient: No other issues.
+Clinician: Okay. Great. Let's do the exam. All right, so your physical exam looks pretty normal other than you've got kind of these mild wheezes in all your lung fields. And so I think you do have copd from your pulmonary function tests, your x-ray, and that. So I'm gon na diagnose you with copd. Chronic obstructive pulmonary disease. It means you're not able to exhale appropriately.
+Patient: Mm-hmm.
+Clinician: So we're gon na put you on a medicine called combivent. Okay, you're gon na do two puffs twice a day. It's gon na help open up your lungs. It's an inhaler.
+Patient: Mm-hmm.
+Clinician: I'm also gon na prescribe albuterol, which you use when you get really short of breath. It's like a rescue thing.
+Patient: Mm-hmm.
+Clinician: Um, and then I'm gon na prescribe some steroids to help, also some prednisone. So let me just order those.
+Patient: Okay.
+Clinician: Hey, dragon, order combivent, uh, two puffs twice a day. Order albuterol, two puffs as needed. And order, uh, prednisone uh taper pack. Okay, so and then it sounds like your depression's stable, so we're not gon na change anything. You're gon na keep taking the effexor. Um, do yoga for depression and your back pain, so for your back pain, stay on the neurontin, and we just won't do anything different. Any questions for me.
+Patient: No, I think this is good. Thank you.
+Clinician: Perfect. Hey, dragon, finalize the note. Why don't you...

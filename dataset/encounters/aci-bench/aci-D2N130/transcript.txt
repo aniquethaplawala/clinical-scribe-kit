@@ -1,0 +1,75 @@
+Clinician: Hi, Anna, how are you?
+Patient: I'm doing okay. How are you?
+Clinician: I'm doing well. Uh, so I know the nurse told you a little bit about Dax. I'd like to tell Dax a little bit about you.
+Patient: Okay.
+Clinician: All right. So, uh, Anna is a 26-year-old female with a past medical history, significant for epilepsy, depression, and, uh, peptic ulcer disease, who presents with, uh, some joint pain. So, Anna, what's going on with your, uh, what's going on with your joints?
+Patient: So, um, it's my left elbow that's really been bothering me. Uh, I sit at my desk a lot for work, and type, and I stay in this motion specifically all day. And then after, um, work, it's really hard for me to, uh, open and, and close my, my elbow here, my left elbow, and it's been just really stiff and, and hurts.
+Clinician: Okay. Have you noticed any swelling there on the-
+Patient: Yeah, I have.
+Clinician: Okay, and is it right here on the, on the tip?
+Patient: Yep, it is.
+Clinician: Okay, and are you right or left-handed?
+Patient: I am right-handed.
+Clinician: Okay, so it's your non-dominant hand?
+Patient: Yeah, which is good.
+Clinician: Yeah.
+Patient: So, I can still write, which is great, but typing is, is difficult.
+Clinician: Okay, and any numbing or tingling in your hands at all?
+Patient: No, I haven't felt numbing or tingling.
+Clinician: And any weakness in your arm?
+Patient: A little bit of weakness, uh, but nothing too significant.
+Clinician: Okay, and... And how about.. And how about, um, any fever or chills?
+Patient: No fever or chills.
+Clinician: Okay. All right, well, let's talk a little bit about your epilepsy, okay?
+Patient: Okay.
+Clinician: Um, have you had any recent seizures?
+Patient: Uh, no, I haven't. I think my last seizure was a year ago.
+Clinician: Okay, good.
+Patient: Yeah.
+Clinician: And you're still taking the keppra?
+Patient: Yes, I am.
+Clinician: Okay, great. And then, tell me a little about your depression. How're you doing with that? I know that you went into therapy last year, and you tried to avoid medication since you're already on the keppra. How's that doing?
+Patient: Uh, therapy, therapy's been good. It, it has definitely helped. Uh, I still feel a little down, uh, and, and stressed.
+Clinician: Okay. All right, but no, no feelings of wanting to hurt yourself or somebody else?
+Patient: No, nothing like that.
+Clinician: Okay. All right. And then, how are you doing with your, with your ulcer? I know that you, you know, you had so much stress a year ago and, you know, you were having some issues there. We did the endoscopy-
+Patient: Mm-hmm.
+Clinician: . And they showed that. So, how are you doing with that?
+Patient: I'm doing, I'm doing better. I haven't had any, um, issues with that, um, since we did the procedure, and everything's been good.
+Clinician: Okay, well great. Let's go ahead and... I'm gon na go ahead with, um... And, you know, I know that the nurse did a review of systems sheet on you when you came in, and I know that you were endorsing that left elbow pain.
+Patient: Mm-hmm.
+Clinician: Any other symptoms, you know, chest pain, shortness of breath, abdominal pain, nausea or vomiting?
+Patient: No, nothing like that. I have a little bit of nasal, nasal congestion from allergies, uh, but that's it.
+Clinician: Okay, so you're endorsing some nasal congestion?
+Patient: Yeah.
+Clinician: Okay. All right, well, let's go ahead to a physical exam, okay?
+Patient: Okay.
+Clinician: Hey, dragon, show me the vital signs. Good, here in the office, everything looks great with your vital signs. I think that's great, so I'm just gon na take a listen to your heart and your lungs, and take a look at your elbow and, and we'll go from there, okay?
+Patient: Okay.
+Clinician: All right, so, so on physical examination of your left elbow, you do have some erythema and edema of your left elbow. Does it hurt when I touch?
+Patient: Yeah, it does.
+Clinician: Okay, he... She has some pain to palpation of the olecranon. Of the left olecra- olecranon, and it is warm to palpation. Um, can you straighten your elbow for me?
+Patient: Yeah, it, it hurts, and it's, uh, it's a bit stiff.
+Clinician: Okay, so she has pain with flexion and extension of the left elbow. There's a palpable right... Or s-... Palpable left radial pulse. Okay, um, so let's go over... I just wan na take a look at some of your results, okay?
+Patient: Okay.
+Clinician: Hey, dragon, show me the left elbow x-ray. Hey, dragon, show me the elbow x-ray. Hey, dragon, show me the left arm x-ray. Okay, so, in reviewing the results of your left arm x-ray, there's no evidence of any elbow fracture, which is not surprising, okay? Hey, dragon, show me the endoscopy results. Hey, dragon, show me the endoscopy. Okay, well, your recent endoscopy showed that you... Hey, dragon, show me the endoscope. All right, so here it looks like, you know... Your endoscopy results look like you had an episode of gastritis. That's for your, your peptic ulcer disease, and so everything, you know... You took your, your protonix, and I think everything resolved at that point, okay.
+Patient: Okay.
+Clinician: So, let's talk a little bit about my assessment and my plan for you. So for your first problem, this left elbow pain, you know, I think you have olecranon bursitis, and we're just gon na, you know, have you, you know, get a little pillow for your elbow there. It's just caused by repetitive trauma.
+Patient: Mm-hmm.
+Clinician: So, maybe you're slamming your elbow down a little bit on the desk, so just get a little rest there-
+Patient: Yeah.
+Clinician: . And we'll give you some melo- meloxicam, 15 mg, once a day. You can ice the area, okay? Um, for your next problem, the epilepsy, sounds like you're doing really well. I would go ahead and continue with the keppra, 500 mg, twice a day. Do you need a refill of that?
+Patient: Yes, I do.
+Clinician: Hey, dragon, order a refill of keppra, 500 mg, twice daily. For your third problem, the depression, it sounds like you're doing well with the therapy and, if you want, we can talk about medical treatment options.
+Patient: Yeah, I think that would be great.
+Clinician: Okay, well, let's go ahead and we'll start you on some lexapro, 10 mg, once a day, and we'll see how you do on that, okay?
+Patient: Okay.
+Clinician: All right, and then, for your last problem, the peptic ulcer disease, um, I want you to continue on the protonix, 40 mg, once a day before meals, okay?
+Patient: Okay.
+Clinician: Do you have any questions?
+Patient: No, I don't.
+Clinician: Okay. All right. Well, the nurse will come in soon and see you, okay, and I'll, I'll see you in a couple of weeks.
+Patient: Okay.
+Clinician: All right, take care. Bye.
+Patient: Bye.
+Clinician: Hey, dragon, finalize the note.

@@ -1,0 +1,50 @@
+Patient: Um, I have high blood sugar. Yeah, osteoarthritis, arterial fibrillation, and reflux.
+Clinician: Hi, Hannah. How are you?
+Patient: Good, how are you?
+Clinician: I'm good. You ready to get started?
+Patient: Yes, I am.
+Clinician: So, Hannah is a, uh, 52-year-old female here for evaluation of a high blood sugar. So, Hannah, what ha- what happened? I heard you were in the emergency room with a high blood sugar.
+Patient: Yes. So, I've been eating a ton of sweets recently. With the holidays it just feels like there is always something sweet available. Whether I am at work and there are holiday gift baskets or clients bringing in treats or when I visit my family for the holidays and there is every baked good imaginable, there is always something sweet I can be eating. In the beginning I felt fine, but I have started to feel it after a couple of weeks, and this past week I just felt really light-headed and I could... Was seeing spots, really dizzy. So I went into the emergency room and they said I had a high blood sugar. Um, so I wanted to come in and follow up with you to get that, um, get checked out.
+Clinician: Okay. All right. And how, how are you feeling now? Did they, did, did they treat you in the emergency room? Did they gi- they give you some iv fluids and things like that?
+Patient: Yeah. They gave me some fluids and they told me just to try to really cut out eating any extra sweets and get back into my normal routine and diet, but I am still staying with my family, and my mom and grandmother are big bakers so I think it will be really hard to get into a routine there so I just want to make sure I am nipping this high blood sugar thing in the bud.
+Clinician: Okay. And I saw you went through a review of systems sheet with a nurse. I just want to ask you a few more questions from that standpoint. So you have had any fever or chills?
+Patient: No.
+Clinician: Any chest pain or shortness of breath?
+Patient: N- uh, no.
+Clinician: Abdominal pain?
+Patient: No.
+Clinician: Any burning when you urinate?
+Patient: No.
+Clinician: Any joint pain or muscle aches?
+Patient: No.
+Clinician: Okay.
+Patient: I do have osteoarthritis though, so that, when I say, " no, " it's not, like, nothing out of the norm-
+Clinician: Okay.
+Patient: . For me.
+Clinician: Perfect. Um, and then, I know that you have this history of a-fib, atrial fibrillation. Have you felt your heart racing at all, recently?
+Patient: Only when I'm really anxious. I, I feel it, um, pumping a little bit. But other than that I haven't.
+Clinician: Okay. All right. And how are you doing with your reflux?
+Patient: I've been doing well. I've been taking the medication that you prescribed to me and that's been helping a lot.
+Clinician: Okay, yeah. I see here you're on the protonix, 40 milligrams, once a day.
+Patient: Yes.
+Clinician: So that's, you're doing well with that?
+Patient: Yep.
+Clinician: Okay. All right. So let's go ahead and do a quick physical exam. So, listening to you, um, look, or looking at you, you appear in no distress. Your thyroid is a little enlarged, but non-tender. There's no carotid bruits, your heart is in irregular rate and rhythm, and your lungs are clear. Your abdomen is nice and soft, and you have no edema in your lower extremities. Let's go ahead and look at some of your test results.
+Patient: Okay.
+Clinician: Hey, dragon? Show me the blood sugar. Hey, dragon? Show me the blood glucose. Hey, dragon? Show me the hemoglobin a1c. Okay, so I see here that both your blood sugar and your hemoglobin a1c are elevated. So your blood sugars have probably been running high for probably a few months. Okay? Um, let's go ahead and look at some of your other results. Hey, dragon? Show me the diabetes labs. Yeah. Okay. Yeah, so, um, my impression of you at this time, um, for your high blood sugars, that you do have this diagnosis of diabetes. Now, we're not sure if it's type I or type ii. Even patients in, you know, in their mid-twenties can develop type I diabetes, so we're gon na go off and, we're gon na go ahead and, and send some labs to work that up. Hey, dragon? Order a complete metabolic panel. And I'd like to start you on metformin, 500 milligrams, twice a day. That will help keep your blood sugars down.
+Patient: Okay.
+Clinician: Hey, dragon? Order metformin, 500 milligrams, twice a day. And then if some of the autoimmune labs that come back show that you have an autoimmune disorder, meaning that you would have type I diabetes, then we would have to go ahead and put you on insulin. But I'm gon na hold off until we have those results, okay?
+Patient: Okay.
+Clinician: But in the meantime, I really want you to avoid, uh, foods high in sugar. Um, and the, the nurse will come in and she'll give you a glucometer and teach you how to do blood sugar testing. Okay?
+Patient: Okay.
+Clinician: And then, from an atrial fibrillation standpoint, your heart, even though you're in atrial fibrillation right now, is in a good rate. And we'll just continue you on your metoprolol, 25 milligrams, twice a day. Do you need a refill on that?
+Patient: Yes, I do.
+Clinician: Hey, dragon? Order a refill on metoprolol, 25 milligrams, twice a day. And for your reflux, we'll just continue you on the protonix, okay?
+Patient: Okay.
+Clinician: Do you have any questions, Hannah?
+Patient: No, not at this time.
+Clinician: Okay, so the nurse will come in and she'll go over all that stuff with you.
+Patient: Okay.
+Clinician: Take care.
+Patient: Thank you.
+Clinician: Hey, dragon? Finalize the note.

@@ -1,0 +1,595 @@
+{
+  "encounterId": "osce-RES0110",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How may I help you today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hi, um so for the past week or so I've um I've had this cough um and some shortness of breath. I feel hot and I just feel kind of uh fuzzy like I just I can't concentrate on things very well. I get confused sometimes so I thought I'll come to you to get it checked out."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, yeah it's it's that was a really good idea to come in to get checked out. Um so can you uh, I'll talk I'll ask about each symptom a little bit. So starting with the shortness of breath can you um tell me how uh bad the shortness of breath has been?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh it's been sometimes it's not so bad, some other times it's really bad. Um at first it wasn't that bad, but now like I'm having a hard time taking a deep breath in. Um it hurts and I just feel like I can't walk like 2 blocks even before getting short of breath."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And uh before this week how much did, did you ever feel short of breath before this?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, nothing like this before."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, OK. Um do you feel that the shortness of breath has gotten kind of worse over time?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And what about the cough? Did that start at the same time as the as the difficulty with breathing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um it started before the difficulty with breathing."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Can you, uh is it a dry cough or a wet cough?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um it was it was a dry cough at first, but now I'm seeing some phlegm um and it looks kind of yellow."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you seen any blood in the phlegm?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Uhm and, uh, are you hearing any wheezing sounds?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, a little bit."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Um how uh, has the cough sort of improved or gotten worse over time?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um it's it's gotten worse."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And you mentioned you also you also have a fever. Did you check your temperature?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um I did I it was like 38.5 this morning."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And have you been checking your fever this past week, or was that the first time you, um, checked it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's the first time I checked it. I I've felt hot though in the past and I've felt like I had chills."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah. You're also feeling a little bit fuzzy. When did that start, and can you explain that a little bit?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That started about um, I think like yesterday morning. Um I just feel fuzzy like I can't concentrate on things as much as I used to be able to. And the other day I uh was cooking something and then I forgot I was cooking it. Um yeah, just a little bit confused."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Did you leave the stove on?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no, I had turned it off. I just forgot I left like the pot on the stove and made dinner."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, OK and you feel like this is very new, that this has not been going on for weeks or months where you forget things or having difficulties with concentration?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No this has never happened before."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Uh OK. I'm gonna ask you about a couple of other uh symptoms just to make sure that you don't have any other um, just to get a full picture. So do you have a headache at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um no, no headache."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any changes in your vision or your uh hearing that has that has uh been very sudden or that has happened over the past week?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Nothing like that, OK. Um any change in your taste, change uh, sense of smell?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Sense of taste?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK uhm and uh any runny nose or congestion?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um a little bit of a runny nose, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And what's that discharge like? What colour?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's also yellow."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um any uh sore throat?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm no, no sore throat."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And um any chest pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, it hurt hurts when I try to take a deep breath in."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "When did that start?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That started about the same time as my shortness of breath."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, uhm and uh any uh do you feel like your heart is racing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um no, not really no"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Do you get any chest pain otherwise um in this week when you're not trying to take a deep breath?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, there's no chest pain at rest."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Where is your chest pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It kind of feels like central to my chest um uh yeah, just in the chest area, it doesn't radiate to anywhere else."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK OK. Does it get better right away after you um sort of stop taking that deep, stop doing deep breathing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no otherwise it doesn't hurt."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "It doesn't hurt, OK good. Um alright, and any uh belly pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any nausea or vomiting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Uh any changes in your bowel movements like diarrhea or constipation that is new in the past week or two weeks or so?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Um any um difficulties with uh peeing? Do you have uh any pain or any increase in how often you're going to the bathroom, or how um urgently you need to get to the bathroom? Anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, OK. Any pains in your joints or muscles?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any fatigue uh in the past week?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I've been feeling tired."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um any um any weight loss recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any um night sweats? Do you feel like you're drenched in sweat at night?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um no, no night sweats, but I do feel chills."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, um and any swelling in your your belly or your um in your feet, in your legs?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, OK. OK uhm can you tell me about any uh medical conditions that you might have?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um sure I had a DVT uh two years ago. I have diabetes, for which I am on insulin. And I have hypothyroid."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. I've got to say it's quite impressive that you know uh the word DVT, most patients don't know that."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I've had a blood clot."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any um, so are you on any medications uh other than the insulin?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um yeah, so I'm on insulin and I'm on Synthroid. I'm on aspirin as well, like baby aspirin."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you ever had any um COPD?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Ever been diagnosed with asthma?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Heart attack or any heart related problems?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, OK. Um has, have you had any hospitalizations in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um no. Actually sorry, I have, for the DVT."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, yeah, yeah, I see. Any surgeries?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no, no surgeries."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Um what what caused your DVT? Do you remember or do you know?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh I was, I was flying somewhere. I was well, I was flying back from somewhere and I got off the plane and um I guess they found uh blood clots."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I see, I see. OK. Any allergies to medications, environmental allergies, food allergies, anything?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no, I don't think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And I forgot to ask in terms of medications, are you taking anything over the counter? Any herbal pills, any vitamins, etc."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Just some um calcium, vitamin D."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Well, that's great."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "That's great. Uh yeah, that's very important that you know for women um um above the age of 65, I think, 50. Um uh OK, so in terms of your living situation, are you living with someone? Are you living alone?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um I live with my husband."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and are you, um, is there anybody else in the house? Any pets, animals?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no, we don't have any pets or animals."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And uh are you able to take care of things like uh dressing, uh changing, going to the bathroom on your own? Do you need help?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no, I am pretty independent."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "What about things like groceries or taking care of finances?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no, I'm pretty independent in in that aspect as well."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, that's wonderful. Um have you had any recent travels?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I've been trying to stay at home because of Covid."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "That's good. Um and any, do you think any exposures to anyone who could possibly be sick? For you or your husband?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um I mean we we do laundry at a laundromat. Um but other than that, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Um OK. Uh alright, well I think I have all the information I need today. Um let me go talk to my my preceptor and we'll come and do physical exams and listen to your chest and uh do a few uh lab tests to draw your blood and do a chest X Ray likely and then um uh go from there. You, it sounds like um sounds like with the with the fuzzy feeling, the fevers, the difficulties breathing, I think it would be a good idea for you to stay here for a couple of days maybe, but we'll um we'll let you know what happens and what the results show. I'm really glad that you decided to come in today. Do you have any questions for me?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um no, thank you so much."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Welcome. Um so the likely diagnosis is um a pneumonia, either bacterial or viral, but given yeah, yeah could be either, OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Do I still need to isolate in this case?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Oh that's very true. Yep, Yep uh so."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Well, you will be in the hospital, so yes you do. We will be we will be doing a Covid test, but that's a really good point um uh because your symptoms do overlap with Covid symptoms um we will also uh have you in an isolated room away from other patients until your Covid swabs are back and we know whether um, yeah, we'll follow the guidelines um put forth by the public health."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "OK, sure."
+    }
+  ]
+}

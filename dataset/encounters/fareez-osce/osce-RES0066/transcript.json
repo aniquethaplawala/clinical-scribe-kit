@@ -1,0 +1,525 @@
+{
+  "encounterId": "osce-RES0066",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So what brings you in here to the ER?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well, I thought I should start by saying I was recently hospitalised for pneumonia. I left five days ago, but as soon as I left that evening, I started coughing again and now I have all the same symptoms. I have a cough, I'm feeling short of breath and I have a feeling like I have a fever."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and before you were discharged the day, can you let me know what you had and what kind of things were you treated with?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I was treated with some antibiotics, I don't know exactly which ones. They said I had some sort of bacterial pneumonia."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. But then it got resolved and they sent you home?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, that's right."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So are your symptoms similar to when you got admitted?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "They are similar, but I feel like they are also worse now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, worse, OK, so you're having a cough, shortness of breath and fever, and did that all start together? Or did one come before another?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, so the cough came first, then the shortness of breath, and then the fever."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and the cough, how would you describe the cough?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, it's harsh, it's persistent."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Are you producing any sputum?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, I guess a little bit, yeah. Yeah, I guess a little bit and it's yellow."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "It's yellow, OK, do you notice any kind of blood in your sputum?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no blood."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so just yellow sputum and how much would you say you're producing an average day?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, maybe like, 10 to 15 times in a day I produce enough to fill like the inside of my palm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And with the fever, did you get a chance to measure, take a temperature at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Umm, no, I haven't actually taken my temperature."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, but you've been having chills and are you having any other symptoms?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, chills. I've been feeling kind of hot during the day."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, OK. And how about the shortness of breath, is that just during activity or you can have that when you're sleeping or resting as well?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "The shortness of breath is more with like activity when I'm walking around."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And have all these symptoms been getting worse at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I'd say they're getting worse now. It's like this everyday and it's definitely getting worse."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, do you feel dizzy or lightheaded at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you have any muscle aches?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, a little bit."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and where on your muscles would you say are aching?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I would say my lower limbs and just generally all over, but just yeah like the big muscles like my thighs, my shoulders."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And have you been having any kind of swelling in your limbs at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no swelling."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK and any kind of swelling of your neck region or lymph nodes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, not that I noticed."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And do you feel any kind of chest pain with shortness of breath?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, no nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and since you've been out of the hospital, have you been in contact with anyone who's sick?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I went straight home."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And any recent travel?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no recent travel."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any headaches?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No headaches."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any nausea or vomiting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any kind of fatigue or increased tiredness?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I feel fatigued, yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and do you feel at all that your heart is racing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and do you have any symptoms like a loss of taste, sense of taste or smell?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So, OK, any kind of bowel movement issues? Any constipation or diarrhea?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And any urinary trouble?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have you lost any weight recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you been able to sleep throughout the night or does the cough  wake you up or the chills wake you up?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, no,  they don't wake me up. I wouldn't say that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Are you having any other symptoms like a sore throat, runny nose, congestion, anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and anything in your house like dust or an old carpet or pets? Anything that triggers some of these symptoms?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. OK, and in terms of your past medical history, any conditions that you've been diagnosed with like asthma, COPD, anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, no, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, do you take any medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I do, I take some multivitamins particularly calcium and vitamin D, and I'm also on Synthroid."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so do you have hyperthyroidism?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, sorry I forgot to mention that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No worries. Then when you went home and you were discharged, did they give you any antibiotics to finish at home?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Ah yes, they did. So I only had one days worth left. I was switched from IV antibiotic  to the oral kind and so I'd finish the remaining pills that day, then went home."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so you finished the course, OK. Great and do you have any past history when you were admitted, any other hospitalizations or surgeries at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you have any family history of asthma, COPD or any lung conditions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any other conditions that run in the family?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And currently, where do you live?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I live in a house with my daughter and her husband."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and any one of them have similar symptoms or have been sick recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and have you had a COVID test done at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, no, no COVID tests have been done. I had one in the hospital before I was admitted, but none today."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And do you smoke at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I used to smoke. I don't smoke anymore."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and when did you quit?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "About seven years ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK congratulations."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And how much would you say you smoked before that, and for how many years?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Before that, I would say it's like gosh, 20 years and then about a pack a day."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Do you drink alcohol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I drink like a glass of wine a week."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Any other recreational drugs like marijuana?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Yeah, so is there anything else? Any other questions that you have for me today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, what do you think I have?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, so there's definitely multiple things that can be going on. Since you were just recently admitted, maybe you might have another bacterial r espiratory infection, like a pneumonia or it could be viral as well. So the first thing we want to do is for sure get COVID swab done and then we will also get, since you were admitted, as well recently, we want to get an X Ray on you just to see if there's any pneumonia. OK, and so we'll be keeping you here for a bit until everything comes back. We'll get some blood work done for you as well to see if there's any infection in your body. And then yeah, so just sit tight, we'll get all those things done. Is that OK with you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, that's great. Thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You're welcome, yeah. So well will be updating you shortly."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "OK, great, thank you."
+    }
+  ]
+}

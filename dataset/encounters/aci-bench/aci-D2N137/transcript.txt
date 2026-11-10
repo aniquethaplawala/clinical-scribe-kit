@@ -1,0 +1,53 @@
+Clinician: Morning Christine, nice to see you.
+Patient: Nice to see you too.
+Clinician: So I know my nurse told you a little bit of-... Um, about Dax and I'm gon na tell Dax a little bit about you, if that's okay?
+Patient: Go for it.
+Clinician: Okay, great. Um, uh, this is Christine. She's a 63-year-old female patient. You're here for your routine, um, yearly exam. Um, I know you have a history of high blood pressure and you've had some depression in the past. And I also know you did have a carpal tunnel release done about two years ago. Um, how have you been doing?
+Patient: I've been doing well. Um, the depression standpoint is doing great. I've been using, um, the medication you prescribed me last time and going to therapy every week. And that's really helped me manage.
+Clinician: Okay. And you're sleeping well at night? And everything's been going well from that standpoint?
+Patient: Yeah, I've been getting a full eight hours.
+Clinician: Okay. And no thoughts of hurting yourself or anything like that?
+Patient: No.
+Clinician: Okay, good. Um, and, um, I- I know you've had some high blood pressure in the past. Have you been checking your blood pressure?
+Patient: I have. It's been a little bit up and down-
+Clinician: Okay.
+Patient: Lately, I haven't had a normal, um, normal reading- reading in a couple of weeks. Um, it's either been high or low. Um, hasn't really stayed put.
+Clinician: Hasn't really stayed put?
+Patient: Yeah.
+Clinician: Okay. And, um, you've been talking your medication though, right?
+Patient: Yes, I have.
+Clinician: Okay.
+Patient: My diet's been a little all over the place. I have been really stressed with work and putting in more hours, so you know, it has been hard. I have not had time to go to the grocery store, let alone prepare and cook meals. So, I have been eating a lot of frozen meals.
+Clinician: Okay.
+Patient: That type of thing.
+Clinician: And have you had any headaches or swelling or anything like that that's been abnormal?
+Patient: I have some headaches but I just thought that was looking at a computer screen all day.
+Clinician: Okay, well, that's fair.
+Patient: Yeah, exactly.
+Clinician: Okay good. And, um... I know my nurse did a review of systems. Other than what we've just talked about, has there been anything else that you wanted to add to that?
+Patient: Um, my carpal tunnel release has been doing well. On, uh, we did that, I think it was two years ago now.
+Clinician: Okay.
+Patient: Uh, on my right, um, wrist, and that's been great.
+Clinician: Great, great. No numbness or tingling in your hands?
+Patient: No.
+Clinician: Fingers? Okay, good. All right, well, um, lem me do a quick exam if that's okay?
+Patient: Okay.
+Clinician: Deep breath. Squeeze my fingers for me. Feel me touch you here?
+Patient: Yup.
+Clinician: Can you touch down here?
+Patient: Mm-hmm.
+Clinician: Can you push your leg out? Push this one up. Pull it back. Yeah, good. Okay. So on my exam, um... Your exam's essentially normal, your lungs are clear, are-... You don't have any adenopathy in your neck, you don't have any, um, uh, hyperthyroidism. Um, your heart is regular without any murmurs. Um, your grips are equal, neurologically intact, strength is good, pulses are good. So overall, um, your exam is fine. Let's take a- a look at some of your labs and vital signs.
+Patient: Okay.
+Clinician: Hey dragon, show me the blood pressure. Okay, so here in the office today it is a little bit elevated, okay? So your blood pressure is a little bit high. So the results, um, do show that. Um, hey dragon, show me the labs. Okay, so good news is is your- your labs are all essentially normal, so the results of your labs are essentially normal, okay? So... Um, my assessment is that your-... You do have hypertension still. Um, and I think we need to increase your blood pressure medicine a little bit, okay? So I'm gon na increase your lisinopril to 10 milligrams a day, just once a day, um, but I'm gon na increase that a little bit, okay? And then want you to check it and I'm gon na have you come back in a month and we'll see how you're doing with regards to that, okay?
+Patient: Okay.
+Clinician: Um, your second problem is your dep- depression, you're doing great, I don't wan na change anything at this point. Let's just stay-... We'll change one thing with your high blood pressure-
+Patient: Mm-hmm.
+Clinician: So I don't wan na change any other medications at this point in time, so let's just leave that as it is.
+Patient: Okay.
+Clinician: And then your third problem was your carpal tunnel. That seems to be doing well. If you notice any tingling or any changes or you get some of those symptoms back, just let me know. Okay?
+Patient: Okay.
+Clinician: All right. Anything else I can do for you today?
+Patient: No, that's it.
+Clinician: Okay. Great. Uh, lem me get you checked out.
+Patient: Okay.
+Clinician: Hey dragon, finalize the report.

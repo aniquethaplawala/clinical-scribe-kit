@@ -1,0 +1,26 @@
+{
+  "encounterId": "aci-D2N177",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N177",
+  "split": "clef_taskC_test3",
+  "collectionMode": "virtassist",
+  "chiefComplaint": "chronic problems",
+  "secondaryComplaints": [
+    "depression",
+    "type 2 diabetes",
+    "hypertension"
+  ],
+  "patient": {
+    "age": 60,
+    "gender": "male"
+  },
+  "turns": 67,
+  "wordCount": 1053,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

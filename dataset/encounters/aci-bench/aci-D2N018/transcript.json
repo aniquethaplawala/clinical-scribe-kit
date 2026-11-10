@@ -1,0 +1,380 @@
+{
+  "encounterId": "aci-D2N018",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hi miss Russell."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hi-"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Nice to meet you-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Doctor gutierrez. How are you?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I'm well."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey dragon. I'm seeing miss Russell. She's a 39-year-old female here for, what are you here for?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's my right upper arm. It hurts really, really bad."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So severe right upper arm pain."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, uh yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And how did this happen?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I was playing volleyball yesterday, uh last night. Um and I went to spike the ball, and the team we were playing, they're dirty. So um, somebody right across from me kinda kicked my legs from under me as I was going up, and I fell and landed on my arm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mm-hmm, like right on your shoulder."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Ow."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "That sounds like it hurt."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It was nasty."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, so this happened, what? Like 12 hours ago now?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, seven o'clock last night, so a little more than that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Eighteen hours."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So less than a day."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "In severe pain."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you taken anything for the pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I've been taking ibuprofen every six hours I think, but it's really not helping at all."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, what would you rate your pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's like a nine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Nine out of 10?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So like really severe?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you used any ice?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I haven't."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And do you have any medical problems?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I have gallstones."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Do you take any medicine for it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Pepcid."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And any surgeries in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, I had a lumbar fusion about six years ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. Let's uh, let's look at your x-ray. Hey dragon. Show me the last radiograph. So this is looking at your right arm, and what I see is a proximal humerus fracture. So you kinda think of your humerus as a snow cone, and you knocked the-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "The top of the snow cone?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "The top off the snow cone. Um, so I'll be gentle but I want to examine your arm."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "All right."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "All right. All right."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. Are you able to straighten your arm?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I can just straighten the elbow as long as I don't move up here."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "As long as you don't move your shoulder."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Go ahead and bend. Okay. So your exam is generally normal, meaning that the rest of your body is normal"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": ""
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "But you've got some swelling and erythema-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": ". On that right shoulder. You've got uh, tenderness over your right shoulder. You've got normal pulses, and everything else is normal. Any numbness or tingling in that right arm?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Um, so what we're going to have to do- the good thing about um, these kinds of fractures is generally, they will heal up without surgery. Um, but we have to put you in a sling that weighs your arm down and pulls it down. So we're going to put you in a long arm cast and a sling, and then we're gon na check you in two weeks to see if those bones have realigned and if they haven't, then we're gon na have to talk about doing surgery at that time."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I'm going to prescribe you some pain medicine. We'll do lortab 500- lortab 5 milligram. Um, you can take one to two tablets every uh, six hours as needed for pain. I'll give you 20 of those."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "All right."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And um, do you have any allergies to medicines? I didn't ask."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I don't have no allergies."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Um, hey dragon, go ahead and order any medications or procedures discussed. Um, do you have any questions for me?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I don't."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, great. Why don't you come with me, we'll get the tech to put the cast on."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And we'll get you checked out."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey dragon, finalize the report."
+    }
+  ]
+}

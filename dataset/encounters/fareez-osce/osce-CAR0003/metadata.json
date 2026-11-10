@@ -1,0 +1,17 @@
+{
+  "encounterId": "osce-CAR0003",
+  "source": "Simulated patient-physician medical interviews (Fareez et al.)",
+  "sourceUrl": "https://doi.org/10.6084/m9.figshare.c.5545842.v1",
+  "license": "CC0-1.0",
+  "citation": "fareez2022dataset",
+  "originalId": "CAR0003",
+  "setting": "simulated OSCE interview (Canada)",
+  "category": "Cardiac",
+  "audioSource": "figshare Data.zip: Audio Recordings/CAR0003.mp3",
+  "turns": 123,
+  "wordCount": 1270,
+  "hasReferenceNote": false,
+  "audioInRepo": true,
+  "hasAudio": true,
+  "simulated": true
+}

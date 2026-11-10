@@ -1,0 +1,63 @@
+Clinician: Hey William so I see that you injured your knee could you tell me a bit about what happened
+Patient: Yeah I thought it was a good idea to go to the trampoline park with my wife and heard a snap and instant pain when I was on the trampoline
+Clinician: Okay alright and so do do you go to the trampoline park often
+Patient: I don't and I think that's the issue
+Clinician: Okay so this is the first time you'd ever done something like that
+Patient: Yes
+Clinician: Okay alright I just wan na get like a few more details do you like work out regularly was this for fun or for like an exercise class
+Patient: No it's just for fun
+Clinician: Okay and do you have like a regular exercise regimen at all
+Patient: Try to not consistent with it
+Clinician: Okay no that's fine this is not a place of judgment I just I'm just trying to understand like if a little bit more of the background okay so we went to the trampoline park which knee where did you hurt
+Patient: My right
+Clinician: Okay your right knee and so based on like your inside and outside which part hurts more
+Patient: It's kind of the outside of the knee
+Clinician: Alright so the lateral aspect not a problem and you said that you heard a pop when you landed right
+Patient: Yeah
+Clinician: Okay have you taken anything for the pain
+Patient: Just tylenol
+Clinician: Alright so did the tylenol help
+Patient: Not really
+Clinician: Okay alright and so hmmm when does it have you tried anything else like did you ice it use heat anything like that
+Patient: No I just kinda elevated it and that was about it
+Clinician: Okay that's fine and how long ago did this happen
+Patient: A week ago
+Clinician: Okay alright so you put up with the pain for a week that's I'm proud of you for that
+Patient: I don't like to come to the doctors
+Clinician: Excuse me I feel rejected right now why why would you say something like that it's fine but you know I I like it when you're not here either because that means that you're doing a good job so let's see about like getting your knee fixed up but I want to talk about some of the other issues that you have first so we know that you have hypertension right and I discussed maybe you getting a blood pressure cuff because I needed you to measure those a bit more regularly did you get the cuff
+Patient: What no
+Clinician: No okay that's fine have you measured your blood pressure recently at all
+Patient: No
+Clinician: Okay are you still taking your medication because I see you're on twenty milligrams of lisinopril
+Patient: Yeah most days I remember
+Clinician: Okay
+Patient: Ra I'm not suspicious but we're just gon na go with that okay because looking at your vitals it it is of still a bit high I'm not really comfortable I see like a hundred and eighty over you know eighty and
+Clinician: That's not where we wan na be so I wonder if we might need to adjust your medication but let's talk about your diabetes how are your blood sugars
+Patient: I think they're little bit better
+Clinician: Okay what makes you think that have you been taking them
+Patient: Yeah I check it you know most days again kinda when I remember
+Clinician: Okay how often are you checking it
+Patient: I would say four five times a week
+Clinician: Okay you might wan na switch to maybe two or three times a day but you know that's something I'm glad that you are measuring are you taking your metformin
+Patient: Yes
+Clinician: Okay and then I think we have you on five hundred milligrams correct
+Patient: Yes
+Clinician: Alright how is your diet
+Patient: Kinda the same as my exercise decent could be better
+Clinician: Alright and okay not a problem so what is your do you are you measuring your calories at all looking at your macros are you just eating what you feel like
+Patient: Yeah just trying to watch what I eat more than anything but nothing specific
+Clinician: Okay and are you do you know if you're particularly focused on your salt like is it like a low salt diet
+Patient: No just trying to watch my carbs a little bit more but not counting or anything
+Clinician: Alright so like is it a specific diet I just wan na make sure like are you on like the keto diet
+Patient: No
+Clinician: Okay alright not a problem so if you don't mind I'm gon na go ahead and do a quick physical exam as I mentioned before your blood pressure is a little high as I listen to your heart I do like it's got a nice regular rate and rhythm I don't appreciate any murmur when I listen to your lungs they sound clear bilaterally I would like to look at your knee though so when I press here on the outside does it hurt
+Patient: Little bit
+Clinician: Okay and then when I press on the inside does it hurt
+Patient: No
+Clinician: Alright can you bend your knee and straighten it
+Patient: I can I think that's all I can I can bend
+Clinician: Mm-hmm alright so are you having problems walking can you bear weight
+Patient: I can but I have a little bit of a limp
+Clinician: Okay so do you mind getting up and walking for me really quickly alright so I do notice that there is a slight gait like there is a small sorry you are correcting you do have a limp I I am a little worried about that but it's probably it's probably the superficial when I'm looking at your knee I do notice some like ecchymosis and edema that just means bruising and swelling along the lateral aspect of your knee I don't notice any effusion and it looks like you have a decent range of motion but I do understand that you know you are experiencing pain with some movement okay I'm gon na go ahead and order an x-ray and when you come back we can have that discussion alright so I reviewed the results of your right knee x-ray which showed no evidence of fracture or bony abnormality so let's talk about my assessment and plan alright so for your first problem of right knee pain I think you have a lateral a lateral ligament strain I wan na prescribe some meloxicam which is gon na be fifteen milligrams daily for pain and swelling I'm gon na refer you to physical therapy to help strengthen the muscles around the area and to prevent further injury if you're still having pain we can do further imaging imaging but like this is a common injury that tends to heal on its own for your second problem with hypertension I wan na continue the lisinopril at twenty milligrams and order an echo I am concerned that we might not be getting your blood pressure to where we need it to be so we might have to do some medication modification for your third problem with diabetes I wan na order an a1c I know that you said you have been measuring your blood sugars but I think this would give us a better image of what's been happening long term and I also wan na order a lipid panel in case we need to make any adjustments to that medication as well do you have any questions
+Patient: Sounds good
+Clinician: Alright awesome

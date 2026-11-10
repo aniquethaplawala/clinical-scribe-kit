@@ -1,0 +1,631 @@
+{
+  "encounterId": "pm57-d1c12",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 0.0,
+      "end": 3.21,
+      "text": "Uh no, it is, yes. Hello?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 3.72,
+      "end": 4.39,
+      "text": "Hi."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 4.85,
+      "end": 11.07,
+      "text": "Can you hear me OK? Great. Hello there. Um, before I go any further, can I confirm you name and your age please?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 11.36,
+      "end": 14.18,
+      "text": "Yes. So, my name is Robert."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 14.75,
+      "end": 15.28,
+      "text": "Robert?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 15.75,
+      "end": 16.37,
+      "text": "Yep."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 16.42,
+      "end": 16.97,
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 17.32,
+      "end": 19.85,
+      "text": "Um, I'm forty eight."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 20.2,
+      "end": 25.74,
+      "text": "OK. Great. Excellent. And how can I help you this afternoon, sir?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 25.99,
+      "end": 34.19,
+      "text": "Right, so, uh, I've been having, uh, diarrhoea, for like, let's say past three days, more or less."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 34.61,
+      "end": 40.13,
+      "text": "OK, well I'm sorry to hear that. Uh can you tell me a bit more about your diarrhoea?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 40.21,
+      "end": 49.98,
+      "text": "Yeah, so it's been a, very bad diarrhoea, so it keeps me like, I keep going back and forth, to, to the toilet very often."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 49.75,
+      "end": 50.28,
+      "text": "Right."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 49.98,
+      "end": 54.41,
+      "text": "Um, yeah it started like three days ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 53.91,
+      "end": 54.38,
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 54.41,
+      "end": 66.07,
+      "text": "And uh, uh, so it started with vomiting, so I vomited a couple of times. Uh, but then, that went away, and, uh, yeah it's just diarrhoea now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 66.55,
+      "end": 73.27,
+      "text": "OK. And you mentioned you've been um going to the toilet very often. How many times are you going a day?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 73.41,
+      "end": 76.89,
+      "text": "Yeah, around, five to six times a day."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 77.04,
+      "end": 85.08,
+      "text": "OK. And uh uh can you tell me, I know it's not nice to talk about, but is it quite watery, your stools, loose?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 85.16,
+      "end": 91.55,
+      "text": "Yes, it's definitely, definitely watery, uh, loose stools, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 86.24,
+      "end": 93.16,
+      "text": "OK. K. Any blood in your stools?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 93.7,
+      "end": 95.59,
+      "text": "No, not that I could see."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 95.67,
+      "end": 101.47,
+      "text": "OK. And uh uh uh with the diarrhea have you noticed any other symptoms, like tummy pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 102.04,
+      "end": 113.1,
+      "text": "Uh, not, not really, no. Uh, but I, I, I feel like, um, I can't, really drink too much, so I feel very dehydrated."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 113.51,
+      "end": 116.5,
+      "text": "OK. When you say you can't drink too much, why is that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 116.91,
+      "end": 133.66,
+      "text": "Uh, yeah because, really I, uh I, um, I'm like, [inaudible] I feel like I don't drink enough, like I'm, I'm drink, I'm trying to drink, but then I just go to the loo, and I like, I, uh I, I, I do everything and I feel dehydrated again."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 133.94,
+      "end": 139.71,
+      "text": "OK, alright. Um have you managed to eat anything, solids?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 140.62,
+      "end": 151.7,
+      "text": "Uh, [inaudible] not much, not much. So just a little bit, but I don't feel, um, I don't really feel like, uh, I have appetite."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 151.53,
+      "end": 160.67,
+      "text": "OK. You [inaudible] . OK. Um with your um, [inaudible] the vomiting has now stopped. Is that right? You said"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 160.45,
+      "end": 161.84,
+      "text": "Yes, yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 161.66,
+      "end": 165.66,
+      "text": "OK, alright. Have you had any other symptoms, like fever or temperature?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 166.66,
+      "end": 181.67,
+      "text": "Uh, so, not, really I [inaudible] , I feel a little bit warm, um, probably at, at the beginning I was feeling I had a bit of temperature, but now I feel, I feel kind of fine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 181.72,
+      "end": 182.95,
+      "text": "OK. [inaudible]"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 182.29,
+      "end": 184.16,
+      "text": "I feel very weak though."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 184.06,
+      "end": 187.5,
+      "text": "[inaudible] OK. Alright. Any headaches or muscle pains?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 188.05,
+      "end": 190.66,
+      "text": "Not, not really, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 190.65,
+      "end": 196.66,
+      "text": "OK, alright. And you mentioned three days ago. What were you doing when the symptoms started? Are you aware of any triggers?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 197.85,
+      "end": 213.79,
+      "text": "[inaudible] , not that I, I remember, what was I doing, I, I was at home I was working, on my computer and. Yeah, just felt, like some nausea and I had to, to vomit, and then I had some diarrhoea, straight after that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 213.8,
+      "end": 217.83,
+      "text": "Yeah. Did you have any takeaway food, or any dodgy restaurant food?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 218.22,
+      "end": 222.47,
+      "text": "Uh, not that I remember, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 221.71,
+      "end": 227.32,
+      "text": "OK. Have you been around anyone unwell, with diarrhea recently, last week or so?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 228.16,
+      "end": 230.64,
+      "text": "Hmm, not that I know, not that I."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 230.03,
+      "end": 237.28,
+      "text": "OK. OK. Um, right. So moving on, um are you otherwise fit and well?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 237.53,
+      "end": 239.26,
+      "text": "Yeah, yeah, [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 239.68,
+      "end": 242.93,
+      "text": "Uh OK. And do you take any regular medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 242.85,
+      "end": 257.76,
+      "text": "Um, so I, I do suffer of asthma. So, I do have my inhalers, uh, that I you know, I need, I use infrequently, let's say only when I have, uh, a bit of [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 256.48,
+      "end": 258.54,
+      "text": "Is that, is that [inaudible] inhaler?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 259.28,
+      "end": 259.89,
+      "text": "Sorry?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 259.92,
+      "end": 266.57,
+      "text": "Is that the blue inhaler? Blue inhaler. OK, alright. Any other medications that you take?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 261.57,
+      "end": 268.83,
+      "text": "Yes it is, yeah. Uh, no, nothing."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 268.73,
+      "end": 271.67,
+      "text": "OK. Do you have any allergies to medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 271.97,
+      "end": 274.27,
+      "text": "Um, not that I know of."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 274.36,
+      "end": 279.02,
+      "text": "OK. And any family history of any medical problems?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 279.53,
+      "end": 291.87,
+      "text": "Um, so, my father has, high uh, well used to have high blood pressure. He actually, so he actually died, of, bowel cancer, like ten years ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 292.31,
+      "end": 298.36,
+      "text": "OK. Sorry to hear that. Um, OK. And uh what about your mother?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 297.45,
+      "end": 304.31,
+      "text": "Ohh yes, so uh, probably is worth mentioning uh, she has diabetes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 304.49,
+      "end": 308.16,
+      "text": "Diabetes. Do you know if that's type one or type two?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 308.08,
+      "end": 309.85,
+      "text": "Uh, it's type two."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 310.38,
+      "end": 321.82,
+      "text": "OK. Alright. Fine. And um, just a little bit more about your life in general, sir. Um who, who's at home with you? Who lives at home with you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 322.43,
+      "end": 323.01,
+      "text": "Sorry?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 323.14,
+      "end": 324.46,
+      "text": "Who lives at home with you, sir?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 325.05,
+      "end": 326.58,
+      "text": "Ohh I, I live alone."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 326.57,
+      "end": 329.45,
+      "text": "You live alone, OK. Are you currently working at the moment?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 330.23,
+      "end": 337.53,
+      "text": "Uh, well I haven't been able to work in the past few days, but yes [inaudible] , like given, uh, my uh."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 336.66,
+      "end": 338.99,
+      "text": "What's your employment? What do you do for work?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 339.35,
+      "end": 340.76,
+      "text": "I'm a software engineer."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 340.75,
+      "end": 345.79,
+      "text": "[inaudible] . OK, alright. Have you taken time off work recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 347.05,
+      "end": 355.11,
+      "text": "Uh, yes, yes I have, uh. Uh, these last three days I've been feeling, really unwell, so I couldn't work."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 355.2,
+      "end": 362.03,
+      "text": "OK, alright. And just the last couple of questions with, regarding your smoking and alcohol. Do you do either of those?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 362.87,
+      "end": 369.22,
+      "text": "Uh, not really, I drink infrequently, like socially let's say, and I don't smoke."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 369.22,
+      "end": 392.5,
+      "text": "OK, alright. Um fine. [inaudible] uh Robert um [inaudible] having listened to your story, I think you're probably suffering from what we call gastroenteritis, uh which essentially is just a, a tummy bug. It's an infection of your, your tummy. Um and normally lasts about three to five days, and gets better."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 382.58,
+      "end": 394.3,
+      "text": "OK. All right."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 393.57,
+      "end": 402.99,
+      "text": "[inaudible] the things you can do to really help yourself get better soon, um are you can drink plenty of fluids. Really try and flush the toxins out of your body."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 403.45,
+      "end": 404.24,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 403.55,
+      "end": 420.38,
+      "text": "Uh you can get things from the pharmacy, which is called Dioralyte, which can help replenish any [inaudible] uh minerals and vitamins you may have lost. Uh, it's called [inaudible] Dioralyte. Um it's, it's a, it's a type of fluid replacement drink."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 411.83,
+      "end": 413.47,
+      "text": "I'm sorry, what's the name of that?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 420.38,
+      "end": 424.8,
+      "text": "Um, you can take some Paracetamol if you're feeling feverish and weak."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 420.83,
+      "end": 421.35,
+      "text": "All right."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 424.8,
+      "end": 436.68,
+      "text": "I would probably advise you to continue taking time off work for next day or two, until you get better. [inaudible] normally you have to be diarrhea-free for about twenty four to forty eight hours, before you return back to work."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 430.49,
+      "end": 431.49,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 436.68,
+      "end": 445.92,
+      "text": "Um, let's see how the next few [inaudible] days go. And if you're still not better next week, I want you to come back and see me. And we can have another look at your symptoms, OK?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 446.53,
+      "end": 449.87,
+      "text": "That sounds good, that sounds good. Uh, thanks so much."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 448.31,
+      "end": 451.43,
+      "text": "Thanks. [inaudible] do you have any questions for me, or?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 451.58,
+      "end": 463.81,
+      "text": "Um, no I think that's fine. Uh, yeah I'll, I'll try to [inaudible] , and drink [inaudible] , drink plenty of fluid and I hope it go away. Uh, if it doesn't I'll uh, I'll call, I'll call back. Is that OK?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 462.98,
+      "end": 465.21,
+      "text": "[inaudible] I really hope you get better soon."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 465.87,
+      "end": 468.01,
+      "text": "Thanks a lot. Thanks so much, for your time."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 466.72,
+      "end": 469.02,
+      "text": "[inaudible] OK. Bye bye."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 469.33,
+      "end": 470.33,
+      "text": "OK. Bye."
+    }
+  ]
+}

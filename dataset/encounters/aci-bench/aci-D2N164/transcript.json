@@ -1,0 +1,245 @@
+{
+  "encounterId": "aci-D2N164",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So Elizabeth is a 53 -year-old female today complaining of chest pain and she has a past medical history of diabetes and high blood pressure so Elizabeth tell me what's going on with your with your chest pain"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't know every time I start walking I'm just having this kind of pressure and chest pain in my chest"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay are you having it now or is it gone right now"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Right now it's not there"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and how long have you been having this"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Probably maybe three months"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and what seemed to bring it on anything exacerbated or relieve it"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It mainly happens when I'm walking I like to try and walk but lately I just haven't been able to keep up with it because I'm having this pain"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright and well how would you describe this pain it's like a dull pain sharp pain stabbing pain how would you describe it"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I would say it's dull it's kinda like a pressure"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and does it go anywhere or radiate any place"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright but no chest pain right now no shortness of breath no sweats or clamminess or anything like that right now"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nothing right now"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright well certainly you know I looked at your ekg that did we did in the office when you came in the ekg I don't see any signs of a heart attack or anything like that so I'm you know we should definitely talk about the plan for this chest pain in a few minutes but right now the good news is I don't see any signs of a heart attack or anything like that so let's talk a little bit about your other conditions since you are here today how are you doing with your diabetes I know we have you on metformin and we talked about last time about you know improving your diet and exercise I'm glad you're exercising but I'm so sorry to hear about the chest pain so tell me about how is that going"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I mean I think my blood sugars have been a little higher because I haven't been able to be active and I'm trying with the diet you know I do love sodas so I'm really trying strength dose"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah I I am addicted to diet coke myself so I I hear you on that one and we had checked your hemoglobin a1c last time it was you know seven. Which is pretty good it's not you know it could be better but it's not it's not bad and we talked about sending you to ophthalmology also for an eye exam have you seen ophthalmology in the last few months or last before I saw you"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I have an appointment in two weeks it was a long waiting"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay got it and any nausea vomiting or diarrhea or anything like that with your diabetes or any side effects from your medications the metformin"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright good and I saw also there was a record in your I was looking at your record before previously before I walked in you also had we've been checking your blood pressure but but I think you've been into several other clinicians and they had documented high blood pressure have you noticed any findings with that or have you know have anybody talked about high blood pressure with you or mentioned that because we don't have it in our system here yet but I did add it in today but we don't have you on any medications yet for that"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No I mean I don't know doc no one told me about high blood pressure do I have high blood pressure"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Well I think the last time you were in the clinic and one of the clinics said the referrals the your blood pressure was elevated so they had mentioned that I noticed a trend in your blood pressure it's been running on a little bit on the high side we haven't really diagnosed you with that yet but I think we are something that we should definitely consider looking at your trend of your blood pressure readings over the last you know a few years"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay do you think that could be causing me my my chest pain"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "It certainly could be contributing to that it certainly could be a factor that we need to look at so"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Someone had told me before"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah me too but we we can we can definitely you know get you started on some monitoring devices for that and also maybe start you on some some diet control things that we can do to help with the blood pressure and maybe start you on some blood pressure medications if we need to okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay sounds good"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So let me examine you Elizabeth for a second for the because we're running out of time here for a second so I'm gon na go ahead and do my exam we got ta just did my magical exam and I'm gon na go ahead and verbalize some of my findings just so I can get it documented in my note okay and I'll explain things as we go along so there is no jvd there is no swelling in your neck there's no carotid bruits your lung exam is clear I don't hear any crackles or rhonchi your heart exam you do have a two over six systolic ejection murmur you had that in the past otherwise it's regular rate and rhythm your pulses are equal your belly exam is nice and soft your no tenderness no guarding no masses that I can feel on your belly and your back exam is fine your extremity exam you have a little bit of swelling in your lower legs one plus nonpitting edema or swelling in the in your in your ankle area here no calf tenderness so what does all this mean I'll explain that in a second so basically your exam is pretty normal except for you have a little bit of swelling in your legs so you know with this chest pain I'm a little bit so the first diagnosis that we talk about is this chest pain I'm worried about my suspicion is you have something called unstable angina especially considering your history of diabetes and the suspected history of high blood pressure and your family history of of heart disease in the past as well I'm I'm gon na go ahead and refer you to cardiology I reviewed your ekg today so that looks normal so that's good no other signs of a heart attack but I am worried that you may have some sort of a blockage going on that's causing this chest pain I'm gon na go ahead and start you on some aspirin daily I'm also gon na give you a prescription just a baby aspirin you can take eighty one milligrams once a day and also I'm gon na give you a prescription for nitroglycerin it's a it's a little pill you split underneath your tongue if you have this chest pain if it doesn't go away after one or two pills I want you to go to the hospital call nine one one and go to the hospital but we will try to get you into cardiology the next week and get you set up for some sort of a stress test to look at your heart okay any questions about that"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So anytime I have a chest pain even if I'm just like walking I have to take that pill"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah if you if you stop walking the chest pain goes away you don't have to take the pill but if you are walking or you stop and the chest pain does not go away I would take the pill and see if it goes away if it does not"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "How long like how long do I wait to see if it goes away"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "About five minutes so you can take it up to three pills every five minutes and if it doesn't go away then I would you know go to the hospital and get this checked out because I worry about with this chest pain that you're having making sure it doesn't lead to a heart attack those chest pain could be a you know a a a sign that you may be having some less blood flow to your heart and we need to get that checked out pretty quickly"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And for the second problem the diabetes you know I think you're doing fairly well continue with your eye ophthalmology appointment you have for your eye exam for the diabetic retinopathy continue the metformin five hundred milligrams twice a day I'm gon na order another hemoglobin a1c today and I'm gon na have you come back in about two weeks and we can see if we need to make any adjustments continue to try to stay away from you know the the pop and the sweet things and once we have your heart taken care of or make sure your heart is okay you can and we can hopefully resolve this chest pain that you're having get back to your exercise regimen okay any questions about that"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and for the third diagnosis the high blood pressure you you do have a trend I've noticed in your chart that your blood pressure's been running a little bit high several other people have documented as well I'm gon na go ahead and start you on some hydrochlorothiazide it's a pretty low dose medication to help you with your blood pressure plus it'll also help with you some of the swelling you have in your in your feet I'm gon na have you use a blood pressure cuff at home and enter your findings at epic mychart and I'll get a reading of those as well and then what when you come back in two weeks we'll keep a log of your blood pressure daily in the morning when you wake up and see how things are going and then if we need to make any adjustments to the medications we can but especially considering your history and the chest pain and the diabetes and the swelling I think starting this hydrochlorothiazide is a probably a good idea"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay are there any side effects with this medication"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah it can cause sometimes it can cause a little bit of make you go to the bathroom a little bit more often in the evening but generally most people don't have a whole lot of side effects I'll give you a handout of the side effects but sometimes you can have a cross reaction with some other medications like sulfa medications but generally most people tolerate this pretty well"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright any other questions we got"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That's it"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright well great seeing you thanks for coming in today"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Thank you appreciate it"
+    }
+  ]
+}

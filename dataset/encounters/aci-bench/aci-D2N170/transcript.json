@@ -1,0 +1,250 @@
+{
+  "encounterId": "aci-D2N170",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hi Joyce, how are you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm good. How are you?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I'm doing well. So, I know the nurse told you about Dax. I'd like to tell Dax a little bit about you when we get started, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. So, Joyce is a 50 year old female with a past medical history significant for copd, congestive heart failure who presents for follow-up to an abnormal lab finding. So, Joyce, I, I got the results of your lab, uh, your labs. Your hemoglobin was low. Uh, so, I asked them to schedule a follow-up appointment with me. So, how are you feeling?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I've been feeling really tired lately. Over the past couple of months, I've noticed that my energy has really gone down. I used to be really active, um, just trying to be as healthy as I can be, running, climbing. Um, I at least try to do an hour or two a day. And over the past month, it's gone slowly downhill. I've just been so tired and exhausted and I haven't been able to really keep up with the way I, I was g- was going with my exercise."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. Um, now, have you had... Have you noticed any blood in your stools at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no, not really. Not, not at this time."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And are your stools, like, dark or charry or black looking?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No. Not that I've noticed."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And are you spotting a lot with your periods?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I'm not."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. Um, and do you have any other... I know that you are endorsing this fatigue and you feel kind of dizzy and that type of thing. Do you have any other symptoms like chest pain, shortness of breath, fever, chills, body aches, anything?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Any weight loss?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, I've noticed a little bit, but that's because I think I've been doing really well with my exercise. Um, but nothing too significant."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. Well, let me ask you a little bit about how's the, the copd doing. I, I know that, you know, you've stopped smoking several years ago, but, you know, you still have that em- those emphysema changes on your chest x-ray. So, how are you doing with that? How's your breathing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's been okay. Um, I haven't been smoking. I... After I quit, I quit cold turkey and I haven't gone back since. So, that's been doing well. I think, uh, during the changes of season, it gets a little bit harder for me to breathe, but I think that's just because of my allergies."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. And then from a congestive heart failure standpoint, are you watching your diet, you're watching your salt intake?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah. I've been doing really well with that. I've been staying away from the french fries, and all the other salty foods that I love to eat, uh, and everything looks great."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, so, french fries are one of my favorite foods, that and fried chicken, so- I give you a lot of credit for staying away from french fries."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, okay. So, you... So, no swelling in your legs or any- anything like that."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, not that I've noticed."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And you feel like you have a good support system?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah. My boyfriend is, is great and I have, um, my brother right down the road."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. Good. I'm glad to hear that. Uh, so, let's go ahead. I wan na just do a quick physical exam, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey, dragon, show me the vital signs. All right. Well, your vital signs here in the office look good, so, I'm, I'm really happy to see that with the abnormal hemoglobin that we saw. Um, I'm gon na just listen to your heart and lungs and press on your belly a little bit and I'll let you know if I find anything, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. Okay. All right. So, on physical exam, you know, I, I don't appreciate anything cervical lymphadenopathy. Your heart sounds really good, but I do hear a, a slight two out of six systolic heart, uh, murmur, um, systolic ejection murmur on your heart exam. Your lungs sound clear. Your abdomen... You know, you did have a little tenderness to palpation in your right lower quadrant on your abdominal exam, uh, but I don't appreciate any lower extremity edema. So, all that means it that we, you know, we hear that heart murmur, which we heard in the past, um, and your belly had some tenderness, so we'll have to talk about that a little bit, uh, going forward, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Let's look at some of your results, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey, dragon, show me the hemoglobin. So, here, looking at this, you know, your hemoglobin level is 8.2. Somebody like you should have a hemoglobin o- of about 13, 14, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So, we need to investigate why it's low. Hey, dragon, show me the anemia labs. Okay. So, looking here at your labs, uh, everything looks good from, from this standpoint. I think some of your anemia labs are still pending at this time that's part of the workup."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So, let's go over a little bit about the assessment and plan for you. So, you know, your main problem, this abnormal lab, this low hemoglobin that we found, so, you're anemic and we nee-... You know, I'm waiting for those anemia labs to come back to find out exactly, you know, what type of anemia you have. I'd like to go ahead and schedule you for an endoscopy a- and a colonoscopy just to make sure that you're not bleeding from your, inside your belly, okay? Um, and I'm... I'll be in touch when those labs come back to see what further workup we need to do, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "For your next problem, the copd, I think you're doing great. You know, I, I don't think that you, uh, need any further referrals at this time for that. I would just continue staying away from smoking. It doesn't sound to be like you need any inhalers at this time. Uh, for your third problem, your congestive heart failure, you know, I wan na continue you on the toprol, continue you on the lisinopril and we'll continue you on your current diuretic dosing of 20, lasix 20 milligrams a day. I'm gon na go ahead and order that referral to g- to gastroenterology. They're the ones who will do the endoscopy and the colonoscopy, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey, dragon, order the referral to gastroenterology. So, I'll be in touch. I'm gon na stay in close contact with you over the next week or so and, uh, we'll get this all sorted out, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. Take care, Joyce."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey, dragon, finalize the note."
+    }
+  ]
+}

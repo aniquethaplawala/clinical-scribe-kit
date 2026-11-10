@@ -1,0 +1,425 @@
+{
+  "encounterId": "osce-RES0141",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How can I uh, help you today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hi, so I just came in today because I've been just been feeling um, like my head's just been hurting for the past three or four days and I also felt really cold throughout the day for the last few days as well, so, um, I did end up checking my temperature just yesterday afternoon and it was um, 38.7 degrees celsius."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, um. Tell me about the headache, where exactly is it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah so it's kind of just throughout like the front of my forehead and it kind of goes to the side into my temple."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And what does it feel like?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It feels like a constant aching. I've had uh, migraines before, but they like, it's not like the pulsating sensation that I usually get with them."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I see. Uh, okay, and how severe is the pain, if you had to rate it from 1 to 10?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, more than like severe. It's definitely less severe than my migraines, but it, it's just constant. It's, it's just been there for the last four days and I would say probably a 6 out of 10."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Did you do anything for the pain? Did you take any medications? Anything that makes it better?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I took a Tylenol, I took um, Advil. It helps for like a few hours and then it just comes back."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And anything that makes the pain worse?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, I definitely think just, if I rest, it's better if, but if I'm like, like I can't, I can't concentrate on work or like anything."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Um, and other than the, um, the fever and headaches, have you um, had any um, cough?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no cough."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Runny nose or congestion?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Sore throat?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, not really."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Changes in your sense of smell?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, I do actually feel like I, like I am losing my smell today."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And sense of taste?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I just had breakfast today so um, breakfast was okay. I didn't, uh, but yeah, definitely sense of smell."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and any difficulties breathing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, any chest pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, do you feel like your heart is racing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any diarrhea or constipation?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Nausea or vomiting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Pain in your belly?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any muscle aches or joint pains?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, um, do you feel like your neck is stiff?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any numbness or tingling in your arms or fingers, or toes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any um, night sweats or weight loss, unintentional?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I've only been gaining weight."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Any fluid in your, any sort of, swelling in your legs?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, nothing like that really."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, um, any medical conditions that you've been diagnosed with?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, so I have uh, type 2 diabetes. I was just recently started on metformin medication."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "When were you started on metformin?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So I think around uh, it's been around two months."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, how is that going for you? Are you tolerating it okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I've, I've been tolerating it well. It's just they, they said like I'm kind of just on the edge of the diabetes, like my level, so they just want to act, um, proactively."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, that's good. Um, any other medical conditions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, that's, that's all."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any medications other than metformin that you take? Anything over the counter?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, so I do take, when my migraines get bad, like I do take, I have taken naproxen before."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Surgeries?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no surgeries."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hospitalizations?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, any allergies to medications, foods, or any environmental allergies?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not to any medications, but I do have an allergy to peanuts."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, what happens?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I do get like a, an anaphylactic reaction."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, okay. Um, and any um, family history of any medical conditions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, so on my dad's side, they like all, like all the men seem to have diabetes, so it's good that I'm starting on the medication. Um on my mom's side, they're pretty healthy. I don't think my mom has any medical conditions."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, good. Um, and do you currently live alone or do you live with other people?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, so I live with my wife, I live with my two kids, a son and daughter."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And um, have you or any of them had any exposures to anyone who could possibly be sick?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um just, uh, so my wife is a school teacher, um, and they did have in-person. Just uh, she's a high school teacher, and they had some they have in-person classes. So yeah, I don't know, but she's been feeling well. My kids are feeling well too."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and have you traveled anywhere outside the province?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and do you currently smoke or did you ever smoke in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I've never smoked. I do smoke marijuana just, maybe once or twice a month with some friends."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, any recreational drugs?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sorry, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, any alcohol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I probably drink um, a couple of beers during the weekend."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, got it. Um, alright. Well, given your symptoms, um, we would like to do a COVID swab, just in, or request a COVID swab to be done through public health, um, just to, just to rule it out. Your symptoms do sound like, or overlap with some of the symptoms that are seen in patients who do have COVID. It could be that you have um, just um, just I guess like your headache and fever. Um, I'll also like do a physical exam to see there's nothing else going on. But in the meantime, I, I'd like you to self isolate and stay away from the rest of your family members as well, um, at least until the results are out. And then when the results are out, if it's positive, you'll receive more guidelines from public health as to what you need to do."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, sounds good, um, and I work from home, so I don't need to."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Oh that's good. Okay, so you work from home."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Alright."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Good."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Thank you."
+    }
+  ]
+}

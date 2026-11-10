@@ -1,0 +1,463 @@
+{
+  "encounterId": "pm57-d3c05",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 1.28,
+      "end": 2.12,
+      "text": "Hello."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 1.99,
+      "end": 6.48,
+      "text": "Hello. Hi, I'm Doctor Jacob and welcome to Babylon. How are you doing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 6.83,
+      "end": 11.8,
+      "text": "I'm OK, thank you. Um, not feeling that great actually."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 6.95,
+      "end": 24.57,
+      "text": "[inaudible] Good. [inaudible] Alright. I can't see your face properly [inaudible] , just, yeah that's it. That's good. Thank you. So, I'm sorry to hear that. But just before we start, is it alright if you could confirm your name for me please?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 25.13,
+      "end": 28.14,
+      "text": "I'm Mary Jane Grey, um."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 26.81,
+      "end": 29.31,
+      "text": "[inaudible] Date of birth?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 30.25,
+      "end": 35.35,
+      "text": "Date of birth, um nineteen eighty."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 35.6,
+      "end": 38.48,
+      "text": "OK. And your address for me please?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 39.57,
+      "end": 43.38,
+      "text": "Um, I live [inaudible] on SW four zero NG."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 43.39,
+      "end": 49.39,
+      "text": "That's correct. And just to confirm that you're in a secure location, and we can have a confidential conversation."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 49.64,
+      "end": 50.4,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 50.08,
+      "end": 57.1,
+      "text": "OK. So you've mentioned that you're feeling dizzy. [inaudible] , yes."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 55.31,
+      "end": 77.2,
+      "text": "Yeah. Yeah, I'm feeling I'm, I'm yeah, I'm feeling very sick. It's probably because i'm feeling dizzy, um the the room is sort of spinning, um. And I, I can't, I can't walk properly. Uh, well I can walk properly but not straight, um. and my ears are buzzing a bit. I'm just, they're feeling a bit off."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 75.4,
+      "end": 80.6,
+      "text": "Mm-hmm. OK, ear's buzzing. So when did it all start?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 81.42,
+      "end": 95.41,
+      "text": "Started probably about two hours ago maybe. but I, I, um, I had a a similar sort of thing about a month ago, um But I didn't really think anything of it, 'cause it [inaudible] it settled quite quickly. Um, but this has been going for a bit more now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 95.45,
+      "end": 102.24,
+      "text": "OK. So you said, you mentioned it started a few hours ago. So [inaudible] did it start? What were you doing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 103.14,
+      "end": 115.69,
+      "text": "Um, I was just actually making my husband some breakfast, um. And I, yeah, I just suddenly felt very fuzzy and dizzy, um, and a bit shaky."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 115.74,
+      "end": 120.43,
+      "text": "OK. So [inaudible] you mentioned, like the room spinning around?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 120.49,
+      "end": 121.16,
+      "text": "Yep."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 121.63,
+      "end": 127.47,
+      "text": "OK. And is, how long does it last for? Or is it there now, continuously now?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 127.99,
+      "end": 130.71,
+      "text": "Yeah it's, it's there, the whole time."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 130.57,
+      "end": 133.92,
+      "text": "So it's there now for the past two hours you'd say, yeah?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 134.62,
+      "end": 135.25,
+      "text": "Yep."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 135.01,
+      "end": 140.62,
+      "text": "OK. Did you have any kind of viral illness in the recent past, past couple of weeks?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 141.17,
+      "end": 142.12,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 141.93,
+      "end": 143.63,
+      "text": "No cold, cough, nothing."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 143.82,
+      "end": 147.67,
+      "text": "No, I've been pretty healthy I think, um, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 147.54,
+      "end": 156.73,
+      "text": "Yeah, OK. Um, you've mentioned that you have a, some ear buzzing kind of thing. Any kind of ear pain or ear discharge, anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 156.83,
+      "end": 158.22,
+      "text": "No, nothing."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 158.9,
+      "end": 161.39,
+      "text": "OK. Do you have a temperature at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 161.93,
+      "end": 164.03,
+      "text": "I don't think so, um."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 164.27,
+      "end": 171.94,
+      "text": "OK, right. You also mentioned that you can walk, but you're not walking straight. Why is that? Is it because"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 172.08,
+      "end": 175.46,
+      "text": "I think just 'cause the room feels like it's moving a bit. Um"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 175.48,
+      "end": 179.62,
+      "text": "Feels like to move [inaudible] . That's why you're feeling like you're a bit unsteady, yeah?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 176.0,
+      "end": 187.52,
+      "text": "I'll look [inaudible] . [inaudible] My, my legs and arms and everything are working fine I just, I don't feel like I'm [inaudible] stable. My, the room is [inaudible] spinning."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 187.95,
+      "end": 190.83,
+      "text": "So there's no weakness of your arms and legs. OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 191.0,
+      "end": 191.61,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 191.43,
+      "end": 201.61,
+      "text": "K. Right. Um, so you mentioned you had something like this a month ago. So how, how, how long did that episode last for?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 202.65,
+      "end": 205.01,
+      "text": "Probably only about five, ten minutes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 205.01,
+      "end": 212.44,
+      "text": "OK, right. And do you have any problems hearing at the moment? Like, is it [inaudible] muffled or something?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 210.41,
+      "end": 216.68,
+      "text": "No. It's just a bit of a buzzy noise in my ears, but otherwise I can hear everything."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 216.57,
+      "end": 223.06,
+      "text": "OK. Righty-ho. OK. So, have you been physically sick?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 223.38,
+      "end": 225.51,
+      "text": "No, but now I'm feeling very sick."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 225.52,
+      "end": 239.03,
+      "text": "Nausea, OK. Righty-ho. And, I don't have much information of your past medical history. So is there any medical conditions you'd like to [inaudible] tell me, surgical, medical conditions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 239.13,
+      "end": 244.71,
+      "text": "Um, I've had premature ovarian failure, um, and I've taken HRT."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 244.64,
+      "end": 251.77,
+      "text": "OK charting premature hearing failure. OK, and um any other medications at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 252.09,
+      "end": 252.8,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 253.49,
+      "end": 255.72,
+      "text": "OK, do you have any allergies at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 256.17,
+      "end": 256.92,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 257.26,
+      "end": 340.29,
+      "text": "OK. Right. OK so [inaudible] , talking to you today, um, in the [inaudible] , the most common um, you know, diagnosis we would [inaudible] you're suffering from at the moment is something called labyrinthitis. Yeah? OK, that's when your middle ear...there is something um, some inflammation going on there, and there is some imbalances in the crystals there in your middle ear. OK, so what the most important treatment is actually giving you some kind of middle ear stability so that you won't feel as if you're going around in a boat, kind of feeling. OK? So that's what we need to [inaudible] . Because to actually make you [inaudible] function a bit more, we'll start you on certain medications. I would still like you to be seen by one of our doctors to take a look inside your ears to just make sure. So this is like just symptomatic relief like you have a fever we just give paracetamol. So just to, you know, make you able to come and see one of the doctors and things like that. [inaudible] while you're with the doctors, we'd like to do your blood pressure, just examine your, you know, you know, how your walking and everything is. OK, while we're waiting, while you're waiting on seeing the doctor if you double up any weakness of your legs or arms or, or, you know, a sudden headache."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 329.69,
+      "end": 330.35,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 340.29,
+      "end": 348.23,
+      "text": "Any of those symptoms, or you start being violently sick with it, then you know, you would need to take your [inaudible] to A and E."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 348.55,
+      "end": 349.19,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 349.43,
+      "end": 363.91,
+      "text": "But if not, wait for the appointment [inaudible] for the doctor to examine you um and we'll take it from there. So i'll, i'll send the a prescription at cross [inaudible] pharmacy looks like it's the Lloyd pharmacy on our system. Is that correct?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 363.94,
+      "end": 364.48,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 364.35,
+      "end": 380.37,
+      "text": "Yeah. So we'll send you across that prescription. Um, it's called [inaudible] , yeah? It's one tablet three times a day. So I'll give you [inaudible] about ten days worth. In the interim, obviously in the next few days, you'll get to see one of my doctors and we'll have to just take it from there."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 380.78,
+      "end": 382.44,
+      "text": "OK, thank you so much."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 381.32,
+      "end": 383.69,
+      "text": "[inaudible] Any questions at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 384.01,
+      "end": 389.76,
+      "text": "Um, can you take, do you need to take those tablets with food? Or can you just take them any time?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 389.92,
+      "end": 399.88,
+      "text": "It doesn't really matter, you can take it, because sometimes, you know, you get the symptoms as soon as you wake up, so probably you'll feel a bit sick to eat anything so might as well just take the tablets."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 399.88,
+      "end": 402.96,
+      "text": "OK, that's great. Thank you so much, that's so helpful."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 403.14,
+      "end": 406.46,
+      "text": "Just make sure you call support to book that appointment, OK?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 406.46,
+      "end": 408.18,
+      "text": "I will, thank you very much."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 407.07,
+      "end": 409.29,
+      "text": "[inaudible] Bye bye now. Bye"
+    }
+  ]
+}

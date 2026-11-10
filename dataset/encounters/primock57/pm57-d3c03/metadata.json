@@ -1,0 +1,21 @@
+{
+  "encounterId": "pm57-d3c03",
+  "source": "PriMock57",
+  "sourceUrl": "https://github.com/babylonhealth/primock57",
+  "license": "CC-BY-4.0",
+  "citation": "korfiatis2022primock57",
+  "originalId": "day3_consultation03",
+  "setting": "primary care (UK, remote consultation)",
+  "chiefComplaint": "I don't have much appetite or energy lately",
+  "durationSeconds": 695.4,
+  "audio": {
+    "doctor": "https://media.githubusercontent.com/media/babylonhealth/primock57/main/audio/day3_consultation03_doctor.wav",
+    "patient": "https://media.githubusercontent.com/media/babylonhealth/primock57/main/audio/day3_consultation03_patient.wav"
+  },
+  "turns": 111,
+  "wordCount": 1885,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": true,
+  "simulated": true
+}

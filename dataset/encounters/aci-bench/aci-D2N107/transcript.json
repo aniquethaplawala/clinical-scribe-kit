@@ -1,0 +1,230 @@
+{
+  "encounterId": "aci-D2N107",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So Bryan it's nice to see you again in the office today what's going on"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I was in my yard yesterday and I was raking leaves and I felt fine and then when I got into my house about two hours later my back started tightening up and I started getting pins and needles in my right foot"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright have you ever had this type of back pain before"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I had it once about three years ago but it went away after a day"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and did you try anything for the pain yet did you take anything or have you have you tried icing"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Put some ice on it and I tried two advils and it didn't help"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay does it get better when you're laying down sitting standing"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I think the only thing that helped was a hot shower and it feels a little better when I sit"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright so you said you were raking leaves and now it's been kind of that weather outside for cleaning out the yard have you been doing a lot of yard work lately"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I I I normally don't do any physical activity"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah I hear you I make a I make my husband do all the yard work too so alright let me take a look at that low back if if you bend over does that hurt"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It hurts a little bit when I bend over yes"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay how about when you stand back up"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No pain"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay so no pain on extension some pain on flexion how about when I push right here on your back"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah that hurts"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay so some pain to palpation right around the l5 can I have that"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "What happens when family members chime in like I'm doing right now because I actually think it was it hurts more when he stands up because I've watched him bend over but it's when he stands up that it really hurts"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and and what's your relationship"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Partners"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay so your partner is here with you today and reports that he is also having pain when you are standing up"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I've spent so many times you know who I am"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So that's right you always come in together have you noticed anything else partner when when he is"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm worried about it because he is you know his pain tolerance is so high and he wouldn't be saying anything if it really wasn't a problem because it's not at all like last week when he thought about raking leaves but didn't actually rake leaves but then his back didn't hurt as much but this time it really hurts"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay so you think this is more of a long term injury"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No he was just thinking about it hurting when he thought about raking but it didn't"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright and have you noticed any any prior pain with with the back"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't want to take this away you better go back to talking to him"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "That's alright let's see how it turns out okay so how about if you if I push down on both your feet like this can you push back up on my hands"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Can you repeat that"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "If I'm pushing down on your feet can you push push your feet back"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright so your dorsiflexion is normal looks like pulses are equal in all extremities you said you had a little bit of a tingling sensation in which leg"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That would be my right leg"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay so some tingling in your right leg alright so I know that you had an x-ray when you came in because we always do x-rays when we have our patients come in of your low back and everything looks normal from that perspective so for your back pain sounds like you probably sprained your low back so I what I want you to do is let's rest it I'm going to prescribe some meloxicam have you taken that before"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I have not taken meloxicam"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright so I'll prescribe that I'm also gon na prescribe some physical therapy I know you said you haven't been overly active and your partner reported the same thing for a long time so we might wan na get you into some pt and hopefully get you back back in shape get you some stretches that you can do and some exercises and then you know if it's not improving I want you to send me a message and we can possibly look into see if there is anything else going on potentially an mri if it's still not improving does that sound like an okay plan"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It sounds reasonable"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I think he should have an mri now I think he had surgery yesterday I think he should have an mri now this it's been hurting for like six hours now and she had an mri we are really worried about it"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright you know let's give it a couple of weeks and let's give it two weeks and then call me back and we'll get you an mri if it's still not improving"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Good answer"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright alright hope you feel better"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+Clinician: Hi, Natalie. How are you?
+Patient: Good. How are you?
+Clinician: It's good to see you.
+Patient: Good to see you, too.
+Clinician: I know my nurse has already told you about Dax. Is it okay if I tell Dax a little bit about you?
+Patient: Go for it.
+Clinician: All right. So, Natalie is a 39-year-old female, here today for a check-up for an abnormal lab. She's got a history of high blood pressure, diabetes, and acl repair. So, tell me what's going on.
+Patient: So, uh, I got some re- routine blood work done last week and, uh, they said that my blood sugars were, were high, so that I should come in, um, and talk to you and get some more work done and, and, uh, see why that is.
+Clinician: Okay. Well, were you having any symptoms at all or just, we had some blood work done routinely? Uh, any chest pain, shortness of breath? Any nausea, vomiting, or diarrhea?
+Patient: No, no symptoms. Uh, so I was a little shocked when I came back high and, and elevated, so hopefully we can figure out what's going on.
+Clinician: We've been, kind of, checking on this for a while and you've been on metformin. We actually increased your dose last time-
+Patient: Yup.
+Clinician: So right now you're on 100, 1,000 milligrams a day, correct?
+Patient: Correct. Yup.
+Clinician: Okay. All right. No, uh, no difficulty urinating or burning when you urinate at all?
+Patient: Nope.
+Clinician: Okay. All right. Um, hey, dragon, show me the hemoglobin a1c. So in reviewing your, that's the lab that we checked after when I saw before I walked in. It says 8.1, which is elevated, so I think we need to do a maybe a better job with adjusting your medication. How are you doing with your diet for your diabetes?
+Patient: My diet's been really great lately. I've been avoiding sugars, um, been really watching, uh, my weight and power walking every day, so I was a little surprised when the, the blood work came back that I- I had, um, an elevated, uh, test.
+Clinician: Okay. And, uh, have you had any, uh, any other, are you checking your blood sugars in the morning or your fasting blood sugars?
+Patient: Yes, I am.
+Clinician: Okay. All right. How are you doing with your high blood pressure?
+Patient: That's been good and stable. Um, I've been stable on the medication, been taking that every day. Um, and I have a b- a cuff at home to, to measure it myself and that, everything's been normal.
+Clinician: Okay, great. And how's your knee doing that's the other issue we've been, kind of, following? You had some surgery done for that?
+Patient: Yeah. About five years ago, I had, um, an acl repair on my right knee and everything's been going well so far. I haven't had any, uh, issues with mobility. Um, it's been great.
+Clinician: And you're pretty physically active and doing exercises?
+Patient: Yeah. I've been power walking about, at least 30 minutes every day.
+Clinician: Okay. Great. Well, let's review, uh, some of your vital signs. Hey, dragon, show me the vitals. All right. Blood pressure looks good right now. Your oxygen level's great. Uh, your temperature's good. So I know you checked in with the review of systems with my assistant before coming in. Uh, anything else bothering you today except for the abnormal blood work? No chest pain? No shortness of breath?
+Patient: No, nothing like that?
+Clinician: No headaches? No belly pain?
+Patient: No.
+Clinician: Good. Great. Well, let me examine you, okay?
+Patient: Okay.
+Clinician: Alright. Just gon na listen to your heart here. No belly pain?
+Patient: Nope.
+Clinician: Okay. So on exam, uh, your hent or your neck exam is fine. Your, uh, your eyes look fine. Your lungs are clear. I do hear a systolic ejection murmur, about three over six. Your belly's nice and soft. No swelling in your legs or extremities right now. So let's talk about some of the issues today. All right. For the first issue, for the diabetes, since your hemoglobin a1c is is elevated, uh, and you're already on 1,000 milligrams of metformin, I think we should add, uh, jardiance, uh, 10 milligrams a day. Uh, so that's a new medication. We'll start that. I do want you to, uh follow your diet pretty, uh, aggressively. I wan na see if we can get that hemoglobin a1c down the next time. I'm also gon na add some labs today to see what that, to see a lipid panel and some other blood work. Hey, dragon, order a cbc, cmp, and a lipid panel. And I'll go ahead and prescribe the jardiance, 10 milligrams a day. Hey, dragon, prescribe, uh, order jardiance, 10 milligrams a day. All right. For the high blood pressure, I think you're doing great. You're on lisinopril for that, so I think that we should continue that. Uh, we'll re-check it again next time and you are monitoring that at home, correct?
+Patient: Yes, I am.
+Clinician: Okay, great. And for the knee, I think you're doing great with that. You know, continue with your physical exercise, with your physical therapy, uh, uh, with your normal exercise regimen. Uh, if you have any issues with that, certainly give us a call.
+Patient: Okay.
+Clinician: All right. Any other questions?
+Patient: No, that's it.
+Clinician: Okay. Hey, dragon, finalize the note.

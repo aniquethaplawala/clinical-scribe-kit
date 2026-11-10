@@ -1,0 +1,67 @@
+Clinician: Hey Lawrence. How are you?
+Patient: Hey, good to see you.
+Clinician: It's good to see you too. So, I know the nurse told you about Dax.
+Patient: Mm-hmm.
+Clinician: I'd like to tell Dax a little bit about you.
+Patient: Sure.
+Clinician: So, Lawrence is a 62-year-old male, with a past medical history significant for type I diabetes, congestive heart failure, depression, and reflux, who presents with complaints of shortness of breath. So Lawrence, what's been going on? Wh- what's wrong with your breathing?
+Patient: Uh, I, I've noticed that I've been swelling up a little bit. I think a lot of it has to do with going to some house parties, eating some salty foods. I feel really lethargic.
+Clinician: Okay. All right. And when you get short of breath, are you short of breath when you're just sitting here? Do you feel short of breath when you're walking?
+Patient: It's something like walking up a flight of stairs I'll actually feel it.
+Clinician: Okay. All right. Now, um, how long has this been going on for?
+Patient: Probably about 10 days.
+Clinician: Okay. All right. And you said you're noticed some swelling in your legs?
+Patient: A little bit.
+Clinician: Okay. Do you have problems lying flat in bed?
+Patient: Um, I'm a little uncomfortable when I wake up in the morning and I feel pretty stiff. And, and, like, it takes me a little while to adjust to walking when I get up.
+Clinician: Okay. All right. Do you ever wake up acutely short of breath at night?
+Patient: Um, it happened once, probably about a week ago, but it hasn't happened since. So I haven't been that concerned about it.
+Clinician: Okay. All right. In terms of your, your diabetes, how are you doing with that? I know you're on the insulin pump.
+Patient: Mm-hmm.
+Clinician: Um, are your blood sugars okay? Have you noticed a spike in them recently?
+Patient: Um, I haven't. I've been pretty good about monitoring it so I... During the working week, I stay on top of that. But on saturdays or sundays we're so busy I forget to monitor it. But I haven't seen anything spike.
+Clinician: Okay. And I remember your affinity for chocolate bars, so...
+Patient: Guilty as charged. I love chocolate bars.
+Clinician: Okay. All right. So, in terms of your depression, how are you doing with that?
+Patient: Uh, it's been a crazy year and a half. Um, I've tried some natural solutions. In the summer I did stretches outdoors every morning, which was great, but now the weather changed and, uh, you know, I've got ta find some alternatives. I'm not ready to try any medications just yet, so-
+Clinician: Okay.
+Patient: . I'm open to some suggestions.
+Clinician: Okay. We'll talk about that.
+Patient: Sure.
+Clinician: And then in terms of your reflux, how are you doing? I know we had you on the omeprazole.
+Patient: Mm-hmm.
+Clinician: You were making some lifestyle modifications, cutting back on your red bull and caffeine.
+Patient: Yeah.
+Clinician: Alcohol intake has been... How's that been?
+Patient: Tough during the holiday season, but I'm, I'm better.
+Clinician: Okay. All right. And no issues with your depression? You don't want to hurt yourself or anyone else?
+Patient: No. No. Absolutely not.
+Clinician: Okay, all right. Well, let's go ahead. I know you did a review of system sheet when you checked in and you endorsed the shortness of breath.
+Patient: Mm-hmm.
+Clinician: Any other symptoms? Chest pain, fever, chills, cough?
+Patient: No.
+Clinician: Um, belly pain?
+Patient: No.
+Clinician: Okay. Let's go ahead. I want to move on to a physical exam.
+Patient: Mm-hmm.
+Clinician: Hey, dragon? Show me the vital signs. So here in the office, you know, your vital signs look good. Your, your pulse ox... That's your oxygenation level... Looks good. So I'm encouraged by that with you just sitting here, okay? I'm gon na go ahead and do another, uh, just check you over. I'll let you know what I find.
+Patient: Mm-hmm.
+Clinician: Okay. All right. So, on your exam things look okay. So, I don't appreciate any jugular venous distension or any carotid bruits on your neck exam. On your heart exam, I do appreciate a slight 3 out of 6 systolic ejection murmur. On your lung exam, I do appreciate some crackles, bilaterally, at the bases. And on your lower extremity exam I do appreciate 1+ pitting edema. So what does all that mean? So, I do think that you're retaining some fluid. It's probably from some of the dietary indiscretion.
+Patient: Mm-hmm.
+Clinician: But I wan na go ahead and look at some of the results, okay? I had the nurse do a chest x-ray on you before we came in, okay? Hey, dragon? Show me the test x-ray. So I reviewed the results of your chest x-ray and it looks good. There's no e- evidence of any airspace disease, but that doesn't mean that you still can't be retaining some fluid, okay?
+Patient: Okay.
+Clinician: Hey, dragon? Show me the labs. And your labs look okay. You know, you don't have an elevated white blood cell count so I'm not really concerned about infection. We saw the chest x-ray, there's no pneumonia, so that's good.
+Patient: Mm-hmm.
+Clinician: So, let's talk a little bit about, you know, my assessment and my plan for you. Okay? So, for your first problem of your shortness of breath I think that you are in an acute heart failure exacerbation. I want to go ahead and, uh, put you on some lasix, 40 milligrams a day. I want you to weigh yourself every day.
+Patient: Mm-hmm.
+Clinician: If your weight isn't going down, uh, or if it's going up I want you to call me. Certainly, if you get more short of breath at rest I want you to go ahead and call me or call 911-
+Patient: Mm-hmm.
+Clinician: . And go into the emergency room. You might need some intravenous diuretics.
+Patient: Mm-hmm.
+Clinician: Okay? For your second problem of your type I diabetes, um, let's go ahead... I wan na order a hemoglobin a1c for, um, uh, just in a, like a month or so, just to see if we have to make any adjustments. And I want you to follow up with your endocrinologist. Okay? And I also want to make sure that you have a recent eye exam. All right? Uh, for your third problem of your depression, let's go ahead and refer you to psychiatry, just for some, um, like, talk therapy to help you through that. Okay?
+Patient: Sure.
+Clinician: No medications. And for your fourth problem of your reflux, let's go ahead and continue you on the omeprazole, 20 milligrams a day. Do you have any questions, Lawrence?
+Patient: Not at this point.
+Clinician: Okay. Um, uh, again, I want you to call me if you have any problems with your breathing, okay?
+Patient: You got it.
+Clinician: Hey, dragon? Finalize the notes...

@@ -1,0 +1,26 @@
+{
+  "encounterId": "aci-D2N105",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N105",
+  "split": "clinicalnlp_taskB_test1",
+  "collectionMode": "virtscribe",
+  "chiefComplaint": "heart murmur",
+  "secondaryComplaints": [
+    "hypolipidemia",
+    " dizziness",
+    " lightheadedness "
+  ],
+  "patient": {
+    "age": 100,
+    "gender": "female "
+  },
+  "turns": 91,
+  "wordCount": 1850,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

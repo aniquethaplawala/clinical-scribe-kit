@@ -1,0 +1,310 @@
+{
+  "encounterId": "aci-D2N015",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Thanks, Rachel. Nice, nice to meet you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, as my nurse told you, we're using Dax. So I'm just gon na tell Dax a little bit about you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So Rachel is a 48-year-old female here for shortness of breath. She has a history of depression, smoking, and chronic back pain. So tell me about this shortness of breath."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay. So there are times when I'm either doing very, very mild exercises or just walking, even if I'm just walking up, you know, my driveway, I find myself palpitating a lot, and there's a little bit of shortness of breath."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't know if it's got to do with the back pain, you know, whether that gets triggered as well at the same time."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Right."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "But definitely I feel it happens more often lately."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And anything else change recently? Like, have you changed lifestyle, like you're exercising more than you used to, having any allergies, anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Probably exercising more to get rid of the covid 15."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "The covid 15. Yeah. Now last time I saw you, you were smoking two packs a day. How much are you smoking now?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, it's gone down quite a bit because, yeah, we said we have to make some, you know, changes as you get older."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So I would say it's probably, um, maybe, maybe a couple... Probably a coup- I don't know. Probably once or day or something."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Just couple cigarettes a day?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Probably once a day, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "We're getting close."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "That's awesome."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "That's great news. Um, and then how's your depression doing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I have my moments."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "There are some days when I feel, you know, I wake up and everything was great."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Uh-."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And then there are times, I don't, I don't know whether it's got to do with the weather or what else kind of triggers it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "There are some days when I feel extremely low."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And you had been taking the effexor for your depression. Are you still taking that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, I am."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, great. And then, um the chronic back pain, we've been giving you the gabapentin neurontin for that. Is that helping control the pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I think it is."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It is... It's definitely, um, I feel better."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Uh-."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "But it does come every now and then."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Right. What do you do when it's really bad?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, I try to just get as much rest as I can."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And you had talked about doing yoga. Are you doing yoga anymore?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I wish I said yes, but I haven't really made it a habit."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Okay. Well, um, you know, said... You said you were coming in with shortness of breath, so we sent you to get some pulmonary function tests."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So let's just look at those. Hey, dragon, show me the pulmonary function tests. Okay, so it looks like..., it's interesting. It says that you might be having a little bit of asthma or, uh, copd. And if you are, we'll talk about that."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Let's look at our x-ray. Hey, dragon, show me the most recent x-ray. Okay, I said it wrong. Hey, dragon, show me the most recent chest x-ray. Okay, this is interesting. Your... Kind of your diaphragm is a little bit flatter, and we'll see that in some, uh, copd, which happens with smokers often. So let's just do a quick physical exam. I know my nurse did the review of systems with you. Is there anything else bothering you that we need to talk about today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No other issues."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Great. Let's do the exam. All right, so your physical exam looks pretty normal other than you've got kind of these mild wheezes in all your lung fields. And so I think you do have copd from your pulmonary function tests, your x-ray, and that. So I'm gon na diagnose you with copd. Chronic obstructive pulmonary disease. It means you're not able to exhale appropriately."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So we're gon na put you on a medicine called combivent. Okay, you're gon na do two puffs twice a day. It's gon na help open up your lungs. It's an inhaler."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I'm also gon na prescribe albuterol, which you use when you get really short of breath. It's like a rescue thing."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, and then I'm gon na prescribe some steroids to help, also some prednisone. So let me just order those."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey, dragon, order combivent, uh, two puffs twice a day. Order albuterol, two puffs as needed. And order, uh, prednisone uh taper pack. Okay, so and then it sounds like your depression's stable, so we're not gon na change anything. You're gon na keep taking the effexor. Um, do yoga for depression and your back pain, so for your back pain, stay on the neurontin, and we just won't do anything different. Any questions for me."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I think this is good. Thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Perfect. Hey, dragon, finalize the note. Why don't you..."
+    }
+  ]
+}

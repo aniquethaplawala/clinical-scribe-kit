@@ -1,0 +1,953 @@
+{
+  "encounterId": "pm57-d4c02",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 0.0,
+      "end": 2.17,
+      "text": "You have to do it, part of your training as a doctor."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 2.19,
+      "end": 2.84,
+      "text": "Hello."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 3.83,
+      "end": 7.29,
+      "text": "Hi. Hi. Can you hear me?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 6.75,
+      "end": 8.72,
+      "text": "[inaudible] . Yes, I can hear fine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 8.53,
+      "end": 15.81,
+      "text": "Hi. My name's Doctor Gohill, I'm one of the general practitioners, that works here. Can I check your name and date of birth please?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 16.69,
+      "end": 20.59,
+      "text": "Uh, I am, uh, Patrick Smith."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 20.57,
+      "end": 21.32,
+      "text": "Hi."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 21.85,
+      "end": 33.9,
+      "text": "Uh, thirty five years old. Um, October, seventh. Uh. ninety , three something."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 31.44,
+      "end": 37.41,
+      "text": "Great. And Patrick, are you in a, space, that's private and quiet?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 37.37,
+      "end": 38.05,
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 38.11,
+      "end": 39.79,
+      "text": "Great, and so, we're OK to chat?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 40.91,
+      "end": 41.77,
+      "text": "Yes, we are."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 41.77,
+      "end": 47.46,
+      "text": "OK. So it says here, um, you are feeling hot, and have had severe headaches. Is that correct?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 49.41,
+      "end": 69.78,
+      "text": "Yeah. It's, it's really affecting my work. Uh, uh, it comes and goes. Uh. Uh, I kind of, feel like, uh, it's, it's hard 'cause I, I [inaudible] , kinda lose my appetite. Also. Uh, one thing that's kinda weird is, I just sometimes also get like some, tingling in my arms."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 70.15,
+      "end": 71.02,
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 70.97,
+      "end": 78.63,
+      "text": "[inaudible] . And, like, especially if, for example when I, come into the elevator, in the morning."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 78.49,
+      "end": 79.33,
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 79.2,
+      "end": 83.13,
+      "text": "I, I can uh, of have, my heart is beating, kinda fast."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 83.34,
+      "end": 88.43,
+      "text": "OK. So, those are lots of things. Are they all happening at the same time?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 88.24,
+      "end": 93.32,
+      "text": "Almost randomly like. Yeah, it's, it's, it's at different [inaudible] , times."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 93.66,
+      "end": 98.7,
+      "text": "And, do they all happen at the same time? Or is it one thing one time, and one [inaudible] ?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 97.59,
+      "end": 99.97,
+      "text": "[inaudible] , one time, one thing at a time."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 99.77,
+      "end": 106.99,
+      "text": "OK. So, let's start with the headaches. When they do come, do you have any idea the headache is going to come?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 108.22,
+      "end": 112.41,
+      "text": "Uh, not really but, generally during, work times."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 113.66,
+      "end": 114.93,
+      "text": "So, it's normally at work?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 116.02,
+      "end": 117.96,
+      "text": "I'm at work, I'm in a meeting, or on my laptop."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 117.88,
+      "end": 123.24,
+      "text": "OK. And, where does the headache sit in your head? Is it the front, or the back?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 124.93,
+      "end": 129.81,
+      "text": "Um, I can't say, so like, kind of over."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 128.13,
+      "end": 135.49,
+      "text": "[inaudible] . OK. And, does it [inaudible] else? Does it go anywhere else?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 135.73,
+      "end": 140.11,
+      "text": "[inaudible] , the headache? No, it's mostly in the front, and then yeah, it just kind of stays there."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 141.69,
+      "end": 146.38,
+      "text": "And, when you have the headaches, specifically, do you feel sick?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 145.13,
+      "end": 156.97,
+      "text": "Yeah. [inaudible] , not, not, not really, but it's like, making it hard. I, yeah, I kind of feel a little bit nauseous maybe. Um."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 155.99,
+      "end": 156.89,
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 158.72,
+      "end": 168.1,
+      "text": "And sometimes I also feel like. Uh, yeah. It's like uh, maybe, probably, breathing or something."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 168.22,
+      "end": 169.11,
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 169.1,
+      "end": 169.67,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 169.56,
+      "end": 173.43,
+      "text": "And, do you normally get headaches, before all of this started?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 175.26,
+      "end": 180.8,
+      "text": "Uh, so. No, I, I feel like my, like, health situation was mostly under control."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 180.62,
+      "end": 181.23,
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 181.68,
+      "end": 182.23,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 183.18,
+      "end": 184.11,
+      "text": "And then let's."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 183.55,
+      "end": 186.93,
+      "text": "But it [inaudible] , it started roughly when I changed jobs."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 186.87,
+      "end": 189.7,
+      "text": "OK. So, talk to me about your job, what do you do?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 189.93,
+      "end": 190.83,
+      "text": "I'm a lawyer."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 191.53,
+      "end": 194.64,
+      "text": "And, do you work in London at the moment?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 195.14,
+      "end": 195.86,
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 196.04,
+      "end": 199.1,
+      "text": "So, do you get these headaches on your commute in to work?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 201.21,
+      "end": 205.0,
+      "text": "Not really. I get it, mostly when I'm, at work."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 204.97,
+      "end": 211.04,
+      "text": "OK, and tell me about what you do. Do you sit in front of a computer most of the time? Or do you speak to people?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 210.92,
+      "end": 214.52,
+      "text": "Like fifty-fifty. I go to meetings and then uh, sit in front of a computer."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 214.69,
+      "end": 215.69,
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 215.1,
+      "end": 216.38,
+      "text": "There's a lot of reading."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 216.98,
+      "end": 220.67,
+      "text": "And, these things have happened mostly when you're sitting at your computer?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 223.45,
+      "end": 229.45,
+      "text": "Um. [inaudible] , yeah, it happens then, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 229.52,
+      "end": 232.53,
+      "text": "OK, and tell me, what did you do, before being a lawyer?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 234.85,
+      "end": 237.01,
+      "text": "Uh, no, I was a lawyer at previous job as well."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 236.9,
+      "end": 248.71,
+      "text": "OK. So, talk to me about the stress that you're under at the moment. If, uh, ten out of ten is, extremely stressful, and one out of ten is being on vacation. Where would [inaudible] moment?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 249.02,
+      "end": 251.38,
+      "text": "Think it's, seven, or eight."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 251.59,
+      "end": 253.11,
+      "text": "And, is that normal for you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 255.34,
+      "end": 257.78,
+      "text": "Yeah, it's like, a law firm, like, there's always pressure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 258.74,
+      "end": 266.15,
+      "text": "OK. So, you mentioned your headaches. You also mentioned your reduced appetite. So, you don't want to eat as much."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 266.29,
+      "end": 266.92,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 266.91,
+      "end": 268.21,
+      "text": "Have you lost weight?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 269.6,
+      "end": 270.27,
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 270.54,
+      "end": 272.42,
+      "text": "Can you remember how much you've lost?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 273.91,
+      "end": 274.74,
+      "text": "Five pounds."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 275.88,
+      "end": 279.41,
+      "text": "And, is that because you're going to the gym? Or is that unintentional?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 279.43,
+      "end": 280.88,
+      "text": "It's not intentional, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 280.71,
+      "end": 284.65,
+      "text": "OK. So, have you noticed your clothes feeling looser?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 285.84,
+      "end": 288.3,
+      "text": "[inaudible] , not really, ah, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 289.02,
+      "end": 292.05,
+      "text": "And, have people said, or commented that you've lost weight?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 292.6,
+      "end": 293.27,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 294.8,
+      "end": 300.24,
+      "text": "Great. And, another thing that you also mentioned. Is that you noticed tingling in your hand."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 300.71,
+      "end": 301.39,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 301.45,
+      "end": 304.56,
+      "text": "So, talk to me about that. Is it in one hand? Or both hands?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 305.09,
+      "end": 305.69,
+      "text": "Both."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 306.41,
+      "end": 308.61,
+      "text": "And, do you get that in your legs as well?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 308.97,
+      "end": 309.53,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 311.25,
+      "end": 313.27,
+      "text": "And, what does it feel like, the tingling?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 314.83,
+      "end": 316.67,
+      "text": "Quick picking, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 318.74,
+      "end": 321.59,
+      "text": "And again, is this the first time you've noticed this?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 322.68,
+      "end": 323.23,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 323.75,
+      "end": 332.84,
+      "text": "OK. And the other two things that I've just, jotted down. Is, you're feeling hot, but you didn't mention that. Is that correct?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 334.54,
+      "end": 342.75,
+      "text": "Uh, but like. I would say like, I get this like, feeling of, short, like, [inaudible] , short of breath, sometimes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 341.13,
+      "end": 341.86,
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 343.76,
+      "end": 346.78,
+      "text": "So, like, that could be what, you we're, referring to."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 346.75,
+      "end": 350.24,
+      "text": "Yes. So, do you feel short of breath while you're sitting at your desk?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 350.22,
+      "end": 353.1,
+      "text": "Yeah, no. Yes. Sorry, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 352.25,
+      "end": 357.07,
+      "text": "[inaudible] . OK. And, how about when you're exercising?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 358.43,
+      "end": 359.02,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 359.14,
+      "end": 364.97,
+      "text": "OK. And the last thing is. You mentioned that you noticed your heart beating?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 365.83,
+      "end": 366.47,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 366.52,
+      "end": 368.46,
+      "text": "Again, how often do you get that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 370.2,
+      "end": 382.26,
+      "text": "I, I, when I like, it's maybe once a day, uh, maybe more. Uh. There's one more thing that I, I think I should mention, like, I do have like, some loss of libido at home."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 382.3,
+      "end": 385.45,
+      "text": "OK. How long has that been happening for?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 387.35,
+      "end": 390.41,
+      "text": "Same amount of time really, like, since I changed my job."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 392.03,
+      "end": 397.49,
+      "text": "Fine. And, apart from all of these things that you've told me. Do you have any other medical problems?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 398.22,
+      "end": 400.69,
+      "text": "Uh, well I have, hyperthyroidism."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 402.34,
+      "end": 405.08,
+      "text": "OK. And, do you take medications for that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 405.41,
+      "end": 406.23,
+      "text": "Thyroxine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 407.54,
+      "end": 410.07,
+      "text": "And, are you remembering to take your medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 410.68,
+      "end": 411.42,
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 411.38,
+      "end": 413.95,
+      "text": "OK. And, do you drink or smoke?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 414.56,
+      "end": 415.14,
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 415.34,
+      "end": 416.71,
+      "text": "How much do you drink?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 418.12,
+      "end": 420.78,
+      "text": "Like, once a week, couple of glasses, of wine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 420.79,
+      "end": 422.63,
+      "text": "OK. And, how about smoking?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 422.81,
+      "end": 423.46,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 424.95,
+      "end": 431.3,
+      "text": "And, uh, I need to ask this to all of my patients, but do you do anything else recreational, in terms of drugs?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 433.5,
+      "end": 434.15,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 435.61,
+      "end": 438.89,
+      "text": "OK. So, you've never taken cocaine, or marijuana?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 437.22,
+      "end": 439.57,
+      "text": "[inaudible] . No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 440.38,
+      "end": 453.29,
+      "text": "OK, thank you. And, are you allergic to anything? Good. So, you've told me lots of things happening to you at the moment, and I can understand, they probably feel quite strange and unusual."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 453.28,
+      "end": 454.0,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 454.32,
+      "end": 459.97,
+      "text": "Um, I think the best course of action is, you come and see, one of our doctors, in the clinic."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 459.99,
+      "end": 460.56,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 460.23,
+      "end": 465.2,
+      "text": "We can give you an examination, and what that means is, we check your heart and your breathing."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 465.35,
+      "end": 465.83,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 465.62,
+      "end": 468.51,
+      "text": "Make sure that those things are functioning correctly."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 468.36,
+      "end": 469.01,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 468.51,
+      "end": 472.01,
+      "text": "And probably do some blood tests, for your thyroxine."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 472.11,
+      "end": 472.71,
+      "text": "Yep."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 472.93,
+      "end": 475.17,
+      "text": "And take it from there. How does that sound?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 475.56,
+      "end": 477.67,
+      "text": "That sounds, uh, very good. Thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 477.35,
+      "end": 481.17,
+      "text": "I think before we give you any medications, we should see you in person."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 481.57,
+      "end": 482.99,
+      "text": "OK. [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 482.1,
+      "end": 490.24,
+      "text": "So, what we're going to do is book an appointment. Or I think you can book an appointment through the app, to come and see us [inaudible] clinic, and see one of my colleagues."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 487.2,
+      "end": 491.05,
+      "text": "Yep. Yep. Yep."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 491.12,
+      "end": 495.18,
+      "text": "I'll let them know what you've told me today, so you won't have to repeat exactly what you've said."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 495.45,
+      "end": 496.16,
+      "text": "Thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 496.47,
+      "end": 499.11,
+      "text": "Great. Do you have any questions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 497.3,
+      "end": 500.71,
+      "text": "Right. No, that was it. Thank you very much."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 500.62,
+      "end": 501.66,
+      "text": "Thank you very much."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 501.71,
+      "end": 502.76,
+      "text": "Yep, bye."
+    }
+  ]
+}

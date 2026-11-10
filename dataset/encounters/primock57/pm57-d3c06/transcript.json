@@ -1,0 +1,295 @@
+{
+  "encounterId": "pm57-d3c06",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 1.42,
+      "end": 5.06,
+      "text": "Hello, hi, I'm Doctor Jacob and welcome to Babylon."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 5.59,
+      "end": 6.81,
+      "text": "I have been"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 7.16,
+      "end": 15.83,
+      "text": "You're right. [inaudible] So just before we start, is it alright if you could confirm your name for me, please?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 8.99,
+      "end": 19.96,
+      "text": "Uh, not really. [inaudible] My name is Jonathan Irving."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 20.29,
+      "end": 21.85,
+      "text": "And your date of birth?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 22.47,
+      "end": 25.9,
+      "text": "Uh, six, twelve, uh, eighty."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 26.23,
+      "end": 28.76,
+      "text": "And your address for me, please."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 30.25,
+      "end": 36.09,
+      "text": "Uh, sixty two Lewin Road [inaudible] Streatham SW sixteen six JT."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 36.19,
+      "end": 41.89,
+      "text": "correct, and just to confirm that you're in a secure location and we can have a confidential conversation."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 41.99,
+      "end": 42.97,
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 42.47,
+      "end": 49.49,
+      "text": "Yeah. You've mentioned you had some breathing difficulties in the, the notes. [inaudible] How can I help you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 49.71,
+      "end": 57.03,
+      "text": "Yes, about fifteen minutes ago, I was gardening and, um, I was stung by wasp. Um, ran inside."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 57.01,
+      "end": 57.58,
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 57.03,
+      "end": 62.47,
+      "text": "And now I'm, um, just starting to notice a few things. Yeah, I'm having quite shallow breath."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 64.11,
+      "end": 73.81,
+      "text": "You're having difficulties breathing since then, yeah? OK. So, is there any swelling of your lips, you feel your throat is closing up?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 74.08,
+      "end": 78.05,
+      "text": "Not throat, but I can , [inaudible] yeah, I can [inaudible] I can definitely feel something in the lips, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 78.25,
+      "end": 80.19,
+      "text": "Right, like a tingling kind of feeling?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 80.33,
+      "end": 81.45,
+      "text": "Yes, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 81.41,
+      "end": 83.2,
+      "text": "OK, but no swelling, yeah?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 83.18,
+      "end": 87.76,
+      "text": "Alright. I mean, [inaudible] you know, to be honest, I'm just doing this to establish whether I should go to the hospital."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 88.25,
+      "end": 91.9,
+      "text": "OK. Right, OK. Have you had anything like this before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 92.73,
+      "end": 93.58,
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 93.47,
+      "end": 99.48,
+      "text": "No. OK. So, um, do you feel wheezy in your chest, or just tightness?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 99.99,
+      "end": 105.83,
+      "text": "Uh, yeah. Um, a bit of tightness. Yeah, a bit of tightness, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 106.02,
+      "end": 115.84,
+      "text": "Bit of tightness, OK, OK. So, I, unfortunately, I don't have much of your past medical history. Do you have any significant past medical or surgical history you'd like to share?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 116.18,
+      "end": 122.32,
+      "text": "Uh, no, not really. Uh, a bit of eczema and I'm allergic to penicillin."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 122.57,
+      "end": 135.27,
+      "text": "OK. Are you on any regular medication at all? OK. Righty-ho. [inaudible] Are you having any rash on your body at the moment?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 135.61,
+      "end": 139.11,
+      "text": "Yes there's a bit of blotching [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 137.38,
+      "end": 142.09,
+      "text": "[inaudible] OK. Well, have you taken anything at all for the blotching?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 142.78,
+      "end": 144.65,
+      "text": "I wouldn't even know what to take then."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 144.36,
+      "end": 157.54,
+      "text": "OK so you've, OK. That's fine. So from what you're saying, you do need to [inaudible] have medical attention straight away. OK? Um, [inaudible] do you have any antihistamines in your house at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 158.69,
+      "end": 165.07,
+      "text": "Um, yes, I've used them for flying. I have aerosinusitis, so yes, I do [inaudible]"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 164.5,
+      "end": 173.79,
+      "text": "So, why, why, and I'm, because your [inaudible] your breathing problem can get worse very quickly, I would like you to call. Is there someone else at home with you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 174.51,
+      "end": 177.07,
+      "text": "Yes, my wife can take me to the emergency room, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 176.89,
+      "end": 191.24,
+      "text": "Uh, no, I wouldn't want your wife to take you, I would like, I'd like her to [inaudible] call the ambulance because that might take a bit longer, and, you know, we need to deal with it quickly. So, what we are worried about is, you know, in case you develop an anaphylactic reaction."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 191.4,
+      "end": 193.71,
+      "text": "OK. She's listening. I'll get her to call now, yeah"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 193.45,
+      "end": 217.11,
+      "text": "Yeah so, I'll ask her to give you the, um, antihistamine, in the meantime while the ambulance is coming. And take yourself to hospital. Um, it might just be an articularly [inaudible] reaction, but because you're complaining of breathing difficulties, it is quite important that you go to hospital straight away. But I'd like you to call the ambulance because, you know, so that you will be sorted out quickly."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 211.97,
+      "end": 221.09,
+      "text": "OK. Yeah. Alright, thank you. She's on it now. Yeah, she's on the phone."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 221.23,
+      "end": 223.44,
+      "text": "OK. Alright then, you take care."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 223.53,
+      "end": 225.51,
+      "text": "Alright, thank you for the advice [inaudible] ."
+    }
+  ]
+}

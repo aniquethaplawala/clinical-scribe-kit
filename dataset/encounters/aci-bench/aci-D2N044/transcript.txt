@@ -1,0 +1,52 @@
+Clinician: Good morning Julie how are you doing this morning
+Patient: I've been better my primary care doctor wanted me to see you because of this this knee pain that I've been having for about six months now
+Clinician: Okay and do you remember what caused the pain initially
+Patient: Honestly I don't I can't think of anytime if I fell or like I I've really been trying to think and I can't really think of any specific event
+Clinician: Okay now it it says here that it's in both knees is that correct
+Patient: Yes both my knees
+Clinician: Okay it kinda try let's let's try describing the pain for me please
+Patient: Yeah it's kind of feels like it's like right behind my kneecaps
+Clinician: Okay
+Patient: And it's like a deep achy pain
+Clinician: A deep achy pain okay what kind of activities makes the pain feel worse
+Patient: Let's see so anytime so if I'm sitting at my desk and I get up I have a lot of pain so anytime from like standing up from sitting for a while or even going up and down the stairs
+Clinician: Okay so you work from home
+Patient: I do
+Clinician: Okay okay so there is a lot of desk setting at home is your office upstairs or is it I mean do you have to go up or downstairs to get to it
+Patient: No well first thing in the morning but otherwise it's downstairs
+Clinician: Okay okay how do you like working from home
+Patient: You know it has it's plus and minuses
+Clinician: Okay
+Patient: I like it though my I like my commute
+Clinician: Yeah
+Patient: I love it
+Clinician: And the parking I'm sure the parking is
+Patient: And the parking is great
+Clinician: Yeah I you know if I could do telehealth visits all day long I would be totally happy with that yeah and just set it home and do those so you mentioned is there anything that makes that pain feel better
+Patient: Usually after like if I feel that pain and then I just it does get better
+Clinician: Okay now you mentioned earlier that you tried some things in the past what have what are they and did they work at all
+Patient: Yeah I've done some ibuprofen or aleve sometimes some tylenol and that does help
+Clinician: Okay
+Patient: It takes the edge off
+Clinician: Okay but you're never really pain free is that what I hear you saying
+Patient: Not really unless I'm like really just resting which I hate to do but otherwise any type of movement especially from sitting it causes pain
+Clinician: Okay so are you active other than going up and down the steps to your office
+Patient: Very I'm a big runner I love to run I run about five to six miles a day but with this knee with with these knee pain that I've been having it's I barely can even do half a mile
+Clinician: Yeah you know what that's that's I am a biker and I know that once you get that into your you know you have loved doing that activity it's so frustrating when you can't it's almost like a it's almost like a dry it almost becomes a drug when you get up
+Patient: Exactly
+Clinician: Yeah
+Patient: It's
+Clinician: Okay so have you noticed any redness or swelling in your knees
+Patient: No
+Clinician: Okay and have you ever injured your knees before
+Patient: You know despite how active I am I you know I've never
+Clinician: Okay
+Patient: Injured or broken a bone
+Clinician: Okay great so let's go ahead and do a I just wan na take a look here I reviewed your vitals and overall they look good your blood pressure is one twenty over seventy your your heart rate is sixty and your respiratory rate is fourteen those are all phenomenal numbers as I listened to your heart it is at a regular and a slower rate but I don't hear any extra sounds so there is no murmurs as we go through that now on musculoskeletal exam you have a normal gait I watched you you know kinda walk in here this morning your strength I just wan na check it when I go ahead and I want you to move your leg okay your muscle strength is is good you do have a three out of five for abduction of your legs bilaterally and that's you know kinda bringing your legs in the remainder of your muscle strength for your lower extremities is a five out of five now let me focus specifically on your knee examination I don't see any redness or ecchymosis or warmth of the skin and those are big words you know I don't see any bruising or or that redness there is no effusion that's just like a fluid underneath the knee I don't appreciate that any at all you do seem to have some tenderness when I palpate and you do have a positive patellar grind test when you stood up I could feel that as we went through there you did say you had that knee pain with squatting but your lachman your anterior and posterior drawer and mcmurray test are all negative bilaterally neurologically and your your your lower extremities your patella and your achilles reflex are symmetrical and that's good so I did review the x-rays of both your knees which shows no fractures or osteoarthritis so based on what you told me and reviewing the mri that you had done before you came in your symptoms are consistent with patellofemoral pain syndrome and this is a really common condition that we see that causes knee knee pain especially in really active young people that's probably why I don't get it when I'm riding my bike forever and ever now this condition has to do with the way your kneecap moves across along the groove of your thigh bone your femur so for pain I want you to continue to take the ibuprofen or any other anti-inflammatories you know aleve or any of those as you need it to help with the pain now I am going to recommend physical therapy well they will show you a number of lower extremity exercises this is probably one of the best things that you can do and this will help increase your lower extremity strength your mobility and correct any incorrect running mechanics that you might have do you have any questions for me
+Patient: So will I be able to run again
+Clinician: Absolutely my goal is to get you out there and maybe we can cross pads on the the bike trail some day you are gon na have to take it a little bit easy for now but we are gon na get you back and once we do that I think you will be really pleased is there anything else
+Patient: No I think that's it
+Clinician: Okay have a great day
+Patient: Okay you too
+Clinician: Thank you
+Patient: Bye

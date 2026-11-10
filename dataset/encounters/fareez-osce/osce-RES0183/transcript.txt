@@ -1,0 +1,108 @@
+Clinician: How may I help you?
+Patient: Hi there, I brought in my here because he's been barking, well not barking, he's had this cough that sounds like a barking cough and he's having a really hard time taking in a deep breath and money does it sounds, it sounds harsh.
+Clinician: OK, and when did the cough start?
+Patient: It started about two days ago.
+Clinician: OK, is it a dry cough or wet cough?
+Patient: It sounds pretty dry, yeah.
+Clinician: Alright, so so there's been no sputum and no no hemoptysis?
+Patient: No.
+Clinician: OK. And it it does, the cough happen at any particular time of day?
+Patient: Uhm, I mean no, well, actually mostly at night, but also it happens throughout the day. Umm, but yeah, more so at night.
+Clinician: OK. And, uh, has there been any shortness of breath or difficulty breathing?
+Patient: Uh, no shortness of breath or difficulty breathing. It just sounds harsh when he does take a deep breath in.
+Clinician: OK. Uh, and any changes to, uh, to the voice or, uhm, yeah, like this is saying does he sound any different like a hot potato voice?
+Patient: Uhm, no. It doesn't sound like that.
+Clinician: OK. And uh, uhm, that you mentioned umm, oh sorry, has he had any changes to the sound of his breathing?
+Patient: The sound of his breathing. It sounds like it sounds harsh when he takes a deep breath in.
+Clinician: OK. So that sounds like he's having some stridor. Has he been having any wheezing?
+Patient: You mean like when he exhales?
+Clinician: Uh, yeah.
+Patient: Uh, it's more when he inhales that I hear it.
+Clinician: OK. OK. And has he had any eye redness or any eye discharge?
+Patient: Uhm, no, I haven't noticed anything like that.
+Clinician: Is the other a runny nose?
+Patient: No.
+Clinician: OK, has he had a sore throat?
+Patient: No sore throat.
+Clinician: OK, and have you had a chance to look in his mouth, has he had any, like any redness or any swelling in the back of his mouth?
+Patient: I took a look. It doesn't look swollen.
+Clinician: OK. And, uh, no shortness of breath I think you said?
+Patient: Yeah, no shortness of breath.
+Clinician: OK. And has he had a sore throat?
+Patient: No.
+Clinician: OK, and any changes to his sense of smell or sense of taste?
+Patient: Uhm, not that I've noticed.
+Clinician: OK. And how has his appetite been?
+Patient: Not as great as it usually is, but he's still eating.
+Clinician: OK. How is his like mood and behaviour been?
+Patient: Uhm, he's been a little bit more fussy than usual.
+Clinician: OK. And eating less as well?
+Patient: He's been eating less, but not like much less. I still try to get something in him.
+Clinician: OK, well, that's good. And has he had any chest pain?
+Patient: Uhm, no, I don't think so. He hasn't complained of it or anything to make me think that he has any chest pain.
+Clinician: OK. And has he had any fainting, or mentioned that he's dizzy at all?
+Patient: No.
+Clinician: OK, does he have any headaches?
+Patient: I don't think so. He hasn't complained of that.
+Clinician: OK. Any ear pain or or ear discharge? P. Uh, no. OK. Does he have any abdominal pain?
+Patient: No.
+Clinician: Does he have any diarrhea or constipation?
+Patient: No.
+Clinician: OK, any blood in the stool?
+Patient: No.
+Clinician: OK, and any skin rashes?
+Patient: No, not that I've noticed.
+Clinician: OK, has he mentioned anything about muscle aches or joint pains?
+Patient: Ah no, he hasn't.
+Clinician: OK. And is he had any nausea or vomiting?
+Patient: No.
+Clinician: OK. And has he been diagnosed with any medical conditions in the past?
+Patient: Uh, no, he's been a pretty healthy child.
+Clinician: OK. And sorry, just to go back and just summarize the symptoms overall, so he's had a "barky" cough that started two days ago, as well as some stridor or some noise on inhalation. And, and this reminds me, has he had any fevers or chills?
+Patient: Uh, he has had a fever. Actually it was 38.7 yesterday.
+Clinician: OK, and any night sweats?
+Patient: No, hasn't seemed sweaty at night, no.
+Clinician: OK. And has he had any weight loss in the last, several months?
+Patient: Uh, no.
+Clinician: OK. And you said he hasn't been diagnosed with any medical conditions before, but so, has he had any reasons to be hospitalized or or any surgeries?
+Patient: No, it's been a pretty healthy child.
+Clinician: OK, that's great, and any allergies that you're aware of?
+Patient: Uh, I think he's allergic to penicillin.
+Clinician: Alright, what's the reaction?
+Patient: Uh, he just gets a rash.
+Clinician: OK. And  are his immunizations up to date?
+Patient: Yes.
+Clinician: Alright, and currently who is he living with?
+Patient: Ah, he lives with his, both his parents and his older sister.
+Clinician: OK, and has anybody in the family been sick, or is he been around anybody who's been sick?
+Patient: No, everyone's been pretty healthy.
+Clinician: OK. Has there been any travel recently?
+Patient: No, no ones traveled recently.
+Clinician: OK, and anybody smoke in the home?
+Patient: Uh, no.
+Clinician: Alright, then any concerns for him being exposed to any forms of physical or emotional or verbal abuse or any violence in the home?
+Patient: Oh no, no.
+Clinician: OK. And is he like going to daycare or who is the primary caregiver at home?
+Patient: Uhm, it's usually his, his mom, yeah.
+Clinician: OK. And were there any complications throughout pregnancy, such as gestational diabetes or high blood pressure?
+Patient: No.
+Clinician: Alright, and any complications with delivery and was it vaginal or C-section?
+Patient: It was vaginal and no, no no complications.
+Clinician: Alright, and up to this point, as you better meeting is milestones for like talking, walking and and things like that?
+Patient: Yeah, that's right.
+Clinician: OK, and uh, any concerns for his vision or hearing?
+Patient: No.
+Clinician: OK, and has he been growing normally?
+Patient: Yeah, he's had all his milestones.
+Clinician: Excellent, OK. And are there any conditions in the family such as heart or lung disease?
+Patient: Oh, no.
+Clinician: OK. How about ah, asthma or things like allergic rhinitis and allergies?
+Patient: No, nothing like that.
+Clinician: OK. Uhm, so I I think that was all the questions that I wanted to ask today on history. Was there anything else that I maybe forgot to ask about or or that you wanted to mention?
+Patient: Uh, no, that was kind of it. What should I do for him?
+Clinician: Uhm, so it's it sounds like the most likely diagnosis now is something called Croup or laryngeal tracheal bronchitis, which is basically a viral infection of the upper respiratory tract areas, and so it can cause had a barky cough and stridor and fever. And so, if so, it's really supportive care and unless he decompensate's and becomes really short of breath and worse, in which case we could, the treatment would be steroids and uhm, possibly utilizing other other things as well, depending on his symptoms, but usually it will be steroids and maybe some oxygen as well. But if he stays relatively stable, then it's mostly supportive care, just making sure he's hydrated as much as possible, you could use like humidified air. Sometimes like a hot shower. That sort of thing can maybe help relieve the cough at night.
+Patient: OK.
+Clinician: But umm, that's about it.
+Patient: OK.
+Clinician: We'll, so, we'll so we'll just observe for now.
+Patient: OK, that sounds good. Thank you.

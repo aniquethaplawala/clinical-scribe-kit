@@ -1,0 +1,355 @@
+{
+  "encounterId": "aci-D2N059",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Good morning"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Good morning thanks doctor doctor cooper I'm I'm you know I'm a little I'm sad to be in here but you know thanks for taking me in I appreciate it"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure absolutely what can I help you with today"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So you know I've been dealing with my asthma and like I tried to join sports but it's really kind of it's getting hard you know and I I I just wonder if there's something that can be done because I really do like playing water polo"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "But I'm having difficulty breathing sometimes I've had to like you know stop matches and sit on the side just to kind of like catch my breath and use my inhaler so I was wondering if there was something we could do about it"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And then like I'm kind of a little bit worried I think my mood is getting a little a little worrisome and I I wanted to explore like what my options were"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay let's talk about the asthma first so what inhaler are you using now"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I have an albuterol inhaler"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay and when when you're having trouble it's usually just around sports that is it keeping you up at night"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So I don't really like wake up at night a lot typically like it's sports like you know if I'm doing anything like crazy aerobic or like running or anything I do notice that if any if I'm around smoke I do start coughing a little bit but most of the time it's sports"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay and can you describe a little bit for me what happens"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I start to yeah no so I start to feel like there is like some phlegm building up in my in my throat and I start coughing like my chest gets tight I start wheezing and I just have to sit down or else I'm gon na get like lightheaded too"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay and then when you use your inhaler"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Does it does it alleviate the problem"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So yeah it helps with that like phlegm feeling you know but I still I still have to sit down you know and like breathe and then the thing that I hate about that inhaler is I start getting like shaky is that supposed to be happening"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes that is unfortunately normal and a side effect with the inhaler"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So you use you're using two puffs of the inhaler"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "For the symptoms"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yes"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And then you sit down and does it does it get better within about fifteen minutes or so"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah yeah it does but you know I had to like step out of the the pool to make that happen I'm hoping that there is something else we can do okay have you ever taken any daily medications for your asthma an inhaler or singulair or anything like that no I I just use my inhaler whenever I have an attack"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay so that's something we might wan na consider but how often is it happening"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Pretty much every time I do any kind of aerobic workout"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay and outside of physical activity you're not having any problems"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah there's that part where like if I'm around somebody who has been smoking a lot or is currently smoking but I usually just step away I don't even like to be around them you know that makes sense"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Alright well we will look at that tell me about the mood issues you are having"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah so one of the reasons I got into like trying to get into sports is like I feel like you know you you feel a lot more energized and a lot you know happier but like lately I've just been kinda stressed out you know like I have I have like sats that I need to study for I've got like all these ap classes you know there's just it I feel like there's a lot of pressure and you know like I get it but there are times where I'm just like really down and I I don't really know what else I can do"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay that makes sense any any difficulty with focusing or you're having difficulty retaining information or is it more feeling sad not having motivation"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So I think it's like a lot of sadness a lot of like you know I don't really I kinda feel like you know I don't really like want to do anything you know my friends will go out and I'll just be like I'd rather be at home I am really tired a lot too"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay alright well let me let me go ahead and check you out"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And then we can talk a little bit more"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm gon na take a listen to your heart and lungs"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And everything sounds good"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Let me take a look at your eyes"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm and in your ears everything looks okay have you had any problems with allergies you have seasonal allergies or anything like that"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah I think so yeah"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I do see just a little bit of fluid in the ears"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And I'm gon na look in your mouth too"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And throat looks fine no tonsils"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Lem me go ahead and have you lay back on the table and I'll take a listen to your stomach"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Everything sounds okay I'm gon na feel around just to make sure everything feels normal"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Everything feels fine and I'm gon na check reflexes and they're all normal"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Awesome"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's really hard to do with actual patient so in terms of the asthma I think we could try a daily medication since it looks like you might be having a little bit of allergies maybe we can try some singulair"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And start with that once you are on that daily and you can continue to use the albuterol inhaler those side effects unfortunately you're right it's it's just one of the expected side effects with an albuterol inhaler I would recommend just what you're doing just sit down for a little bit after you take it"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And we will get you started on the singulair probably within about a month you should see a difference so I will have you come back in about six weeks and follow up and see how you're doing with that"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "In terms of the mood is this new for you"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah I think so like when I started this year"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And it sounds like related to school expectations and the stress with saps and all of that"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay let's consider having you start seeing a therapist I think that would be a good place to start"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And we will do some screening questionnaires and and then follow up in a couple weeks on that too"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright sounds like a plan okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Thank you"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "encounterId": "aci-D2N141",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N141",
+  "split": "clinicalnlp_taskC_test2",
+  "collectionMode": "virtscribe",
+  "chiefComplaint": "Follow up adult hydrocephalus",
+  "secondaryComplaints": [
+    "none"
+  ],
+  "patient": {
+    "age": 86,
+    "gender": "male "
+  },
+  "turns": 38,
+  "wordCount": 1297,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

@@ -1,0 +1,510 @@
+{
+  "encounterId": "osce-MSK0025",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "What brings you in here today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So my back has been killing me it's been hurting for the past two months, but recently it's gotten worse. I'd say over the past week or two weeks it's gotten really bad and no over the counter medication is helping with the pain. It's I'm finding it hard to walk. I can't feel anything in the groin area and I'm having so many bladder accidents."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and so this pain started two months ago, but it's progressed to like these other symptoms as well?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, that's right."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Where did the pain start? Uh, it started in my lower back. Started your lower back OK and does the pain, how would you describe the pain, is it like aching. sharp?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's sharp."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK and did anything happened prior to the pain, any injuries at all that you experienced?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Two months ago I was in a motor vehicle accident um an I think my back started hurting then but they did some imaging it's and turned out like one of the discs there was a slip in a disc or something, but at that point the pain was just achey and I don't really have any in any of these other issues. But over the past two weeks it's gotten sharp and I'm having all these other symptoms."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, um and. So you're having the set like what's called, some numbness in your groin. Is that unilateral, like on one side or both sides?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, it seems like it's both sides."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and. So and then you're also having the urinary incontinence. How long is that been going on for?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "The past week."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and what about the numbness in your groin area?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That's been going on for the past week as well."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and OK, and how would you describe your pain right now on a scale of 1 to 10, 10 being the worst pain you've felt?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um I would say it's like an 8 or 9."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Eight or nine OK, and does it get worse with any, any motions at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I think it's worse with um, I don't know like, it's worse with anything, anytime, anytime I tried to move it, it hurts."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so you just improved with rest complete rest."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Does it travel in, does the pain travel anywhere else, does it shoot down your legs at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, so it does shoot down my legs and I'm having a hard time walking because of that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Is it both legs or just one?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's mostly on my right, but the left one isn't the same as it used to be either."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I'm having a hard time like getting up from a chair and things like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and anything that you've tried that has helped relieve some of your symptoms."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I've tried like over the counter counter and ibuprofen. I've tried some topical analgesics and nothing seems to be working."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And. Have you experienced any trauma? So you mentioned you had a car accident rate two months ago?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, that was. Yeah, that was two months ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK and then. Were you in the hospital, admitted to the hospital for for a while, or how, what happened in your treatment?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I was. I was taken to the ER. They did like a full work up on me. The only thing on my back that they found was a slipped disc and then they said that should that shouldn't cause me too much pain. But if I was having any of these symptoms that I'm having now I should go back, or see a doctor at least. And and otherwise I was fine like I didn't lose a lot of blood or I didn't need any surgical interventions at that point."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, I see. And have you been having any other symptoms or any any pain in any other joints or muscles?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhm, No, no, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any fevers or chills."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any night sweats?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No rashes or skin changes. No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any kind of chest pain short of, ah sorry shortness of breath?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any cough or cold like symptoms?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Uhm, any so you have some urinary incontinence, any fecal incontinence?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, how's an any recent changes in your weight?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you been sick at all recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any tingling sensation either in your back or shooting down your legs?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any burning sensation?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Little bit of burning sensation."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah OK do you have any numbness in your lower limbs or just numbness around the groin?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Just numbness around the groin area but my lower limbs do seem weak."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK so you have muscle weakness. Is it just one like that's ah weak or both legs?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So both like seem weak but the right more than the left."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, I see. Uhm, and does this weakness seem to get worse, or is it around the same as it was when it started?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's it's it feels like it's getting worse."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, do you have any past medical conditions you have been diagnosed with?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I had hypothyroid, so I've been taking Synthroid for that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any other medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any allergies to any medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Any hospitalizations or previous surgeries?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any family history of any musculoskeletal or rheumatologic conditions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Currently, do you work?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I do. I work from home right now, I'm a teacher."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, uh. And do you, did you do any work previously that required heavy lifting or strenuous activities regarding your back at all."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um no no, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And what's your home and living situation like right now?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I live at home with two of my children."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And are you able to do things at home that you were before look like, or do you need some extra help from it, your family members, or extra help from other workers. Anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, my family's definitely been helping me out a lot over these past few weeks because. Yeah, like I said, like I'm having some weakness in my legs. I can't move around as much because I'm in so much pain. Um and then like there are all these like bladder accidents so. Yeah, they've been helping me out with everyday things."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, I see. And currently, do you smoke?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, do you drink alcohol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And any recreational drugs like marijuana?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. I'm just getting at you to do a few things on just just as part of the physical examination."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Are you able to bend down or extend your back at all, or is it too painful?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I can't do that. It's too painful."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you notice any kind of redness, swelling in and around your back?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um not that I can tell."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and how about if you press down on the your lower back, does it hurt?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, that hurts."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And are you experiencing the numbness right now and in your groin area?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I am."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Are you able to raise your legs when in a lying position with straight legs, knees not bending at all, they are able to raise without any pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I can't do that. It's yeah, it's too painful."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I see, alright, so those are all the questions I had for you so it seems. It's great, it's good that you came to the emergency Department. Do you have any questions at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, just like how can I fix this?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, so based on your symptoms, it's something that's pretty urgent. It's seems like you may be having something called cauda Equina syndrome that may be caused by your back pain and that's why you're feeling that groin would be called saddle anesthesia and then the urinary incontinence. So this may be from the injury that you had with the car accident. And it may be due to some compression of what we call like compression of the nerves in the area which might be giving you some of these symptoms. So the first thing we do need to do is get an MRI of your lower back just to make sure there's nothing going on like for example, like any masses in the area or any kind of abscesses that might be. We may be worried about just to make sure. Well, just to see what's going on in there that's causing these symptoms. And then based on what we find, uh, we will, we will target like the cause of the symptoms, like for example if it's an infect infection that's causing this, you might need to be admitted and require antibiotics. If there is any masses causing it, you may require surgery. For example if it's mainly related to your back it is something that we will have to treat with with an admission so it's good that you came in here today. Do you have any other questions or concerns?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, that was it. Thank you so much for your help."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You're welcome and will get back to you shortly."
+    }
+  ]
+}

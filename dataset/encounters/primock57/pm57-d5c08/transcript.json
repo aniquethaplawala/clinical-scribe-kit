@@ -1,0 +1,953 @@
+{
+  "encounterId": "pm57-d5c08",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 1.6,
+      "end": 2.53,
+      "text": "Hello."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 3.3,
+      "end": 11.56,
+      "text": "Hi there, it's Doctor Smith from Babylon. Can you confirm your name, date of birth and your address, please?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 11.8,
+      "end": 23.51,
+      "text": "Uh, [inaudible] date of birth twenty second of december, nineteen ninety. Uh, address, uh, [inaudible] sixteen [inaudible] avenue."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 25.98,
+      "end": 29.62,
+      "text": "OK, that's fine. [inaudible] Are you in a private place so you can have a consultation?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 29.58,
+      "end": 30.65,
+      "text": "Yeah, sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 30.87,
+      "end": 32.48,
+      "text": "What can I do for you today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 32.96,
+      "end": 40.15,
+      "text": "So, um, recently I'm wheezy. Uh, I have feel like kind of short of breath."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 41.1,
+      "end": 43.81,
+      "text": "OK, and how long has that been going on for?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 44.01,
+      "end": 47.53,
+      "text": "Mmm, two, three days. Yeah, quite recently."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 47.63,
+      "end": 50.94,
+      "text": "And have you ever had similar symptoms in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 51.44,
+      "end": 57.36,
+      "text": "Um, I think so. It was a while before, yeah, but I can't remember."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 58.26,
+      "end": 60.98,
+      "text": "As, was that as an adult or as a child?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 61.92,
+      "end": 64.52,
+      "text": "Sorry? Oh, as a [inaudible] , as a adult, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 65.45,
+      "end": 67.11,
+      "text": "How long ago was that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 68.87,
+      "end": 69.8,
+      "text": "Sorry?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 69.45,
+      "end": 72.63,
+      "text": "How long ago was that, that you had similar symptoms?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 72.57,
+      "end": 75.06,
+      "text": "I can't remember, sorry."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 75.98,
+      "end": 79.98,
+      "text": "And any problems with wheezing when you were a child or any asthma?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 80.24,
+      "end": 89.75,
+      "text": "Uh, yes, I had asthma. I also had, uh, [inaudible] hay fever and [inaudible] eczema [inaudible] , sorry."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 90.05,
+      "end": 93.58,
+      "text": "OK, and [inaudible] when you were a child how bad was your asthma?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 94.43,
+      "end": 96.31,
+      "text": "Uh, it's quite bad."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 96.2,
+      "end": 98.4,
+      "text": "Did you have to take medication?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 98.61,
+      "end": 101.4,
+      "text": "Yeah, I take the asthma inhaler."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 101.81,
+      "end": 103.54,
+      "text": "Do you know which ones you took?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 103.98,
+      "end": 106.36,
+      "text": "No, I can't remember."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 106.72,
+      "end": 109.42,
+      "text": "And did you ever have to go to hospital with it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 109.45,
+      "end": 111.12,
+      "text": "Yeah, sometimes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 111.74,
+      "end": 117.4,
+      "text": "Did you ever get severely unwell, have to be on intensive care unit or anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 117.44,
+      "end": 123.25,
+      "text": "No, not that bad but still, sometimes, need to go to hospital to check if it goes well."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 123.12,
+      "end": 124.89,
+      "text": "Did you have to miss school?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 125.35,
+      "end": 127.21,
+      "text": "Uh, yeah, occasionally."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 128.25,
+      "end": 138.07,
+      "text": "OK. And when do you think it last, when do you think that asthma stopped? At what age did you get to a point where you weren't taking medication anymore?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 138.77,
+      "end": 147.19,
+      "text": "Mmm. Few years ago, like, three or four years ago I think? Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 148.46,
+      "end": 158.36,
+      "text": "And so this time, how did it start? Did you have any other symptoms? Any chest pain, temperature, cold symptoms, anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 158.14,
+      "end": 182.76,
+      "text": "Yeah, so I have, I have cough and cough a lot, and I have a fever. Um, I also used to walk to work but recently I can't because it's, I, I feel like very short of breath and sometimes I feel like I can't even finish [inaudible] sentence is quite difficult to, to complete the, the the talking sometimes, yeah. Occasionally."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 182.71,
+      "end": 186.06,
+      "text": "Right. Have you coughed any phlegm up or anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 186.54,
+      "end": 187.54,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 188.16,
+      "end": 192.19,
+      "text": "Any, any, um, blood in there when you cough?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 192.51,
+      "end": 194.14,
+      "text": "No, I don't think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 195.25,
+      "end": 197.39,
+      "text": "OK. And any chest pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 197.81,
+      "end": 199.24,
+      "text": "No chest pain, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 200.43,
+      "end": 203.15,
+      "text": "Have you been woken up at night time at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 203.09,
+      "end": 206.26,
+      "text": "No, just daytime working, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 205.98,
+      "end": 208.45,
+      "text": "Have you been able to do any exercise?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 208.77,
+      "end": 210.24,
+      "text": "No, I can't."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 212.09,
+      "end": 217.67,
+      "text": "OK, and do you have a peak flow meter at home, where you measure your breathing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 217.93,
+      "end": 218.93,
+      "text": "Sorry?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 218.67,
+      "end": 223.82,
+      "text": "You have what's called a peak flow meter, which you breathe into to get a score on your breathing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 223.75,
+      "end": 224.79,
+      "text": "No, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 225.91,
+      "end": 230.21,
+      "text": "And do you normally take any asthma inhalers over the last few years?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 230.01,
+      "end": 231.17,
+      "text": "Yes, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 231.8,
+      "end": 235.57,
+      "text": "You do? So you said you stopped them three to four years ago?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 236.74,
+      "end": 242.15,
+      "text": "Ohh, um, when I had asthma I used to take this inhaler, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 240.43,
+      "end": 243.62,
+      "text": "OK. How about over the last three to four years?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 243.9,
+      "end": 244.78,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 245.06,
+      "end": 247.24,
+      "text": "Have you taken any medication?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 247.72,
+      "end": 253.71,
+      "text": "Um, I took salbutamol? Salbutamol? Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 253.64,
+      "end": 257.85,
+      "text": "OK, so you, you normally take that do you? Or is that just recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 259.89,
+      "end": 261.01,
+      "text": "Normally, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 262.01,
+      "end": 264.51,
+      "text": "OK, and how often do you normally need it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 268.99,
+      "end": 272.27,
+      "text": "Every, every few weeks? I'm not sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 272.36,
+      "end": 278.77,
+      "text": "OK. What about when you exercise normally, do you have to use medication? Uh, inhalers?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 278.05,
+      "end": 280.84,
+      "text": "[inaudible] Yeah, yeah, a bit."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 280.92,
+      "end": 281.92,
+      "text": "Pardon?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 282.03,
+      "end": 282.92,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 284.36,
+      "end": 289.19,
+      "text": "OK, um, and do you take any other medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 290.01,
+      "end": 291.82,
+      "text": "No, nothing else."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 293.36,
+      "end": 295.48,
+      "text": "Any other medical problems?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 296.12,
+      "end": 299.12,
+      "text": "Uh, I have, uh, hay fever as well."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 299.08,
+      "end": 301.08,
+      "text": "OK, do you take anything for that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 301.21,
+      "end": 302.13,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 303.86,
+      "end": 306.5,
+      "text": "And any allergies to medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 306.39,
+      "end": 308.23,
+      "text": "No, no allergies."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 308.18,
+      "end": 309.18,
+      "text": "Do you smoke?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 309.74,
+      "end": 311.14,
+      "text": "No, I don't smoke."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 312.69,
+      "end": 314.93,
+      "text": "Do you drink any alcohol regularly?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 315.28,
+      "end": 317.18,
+      "text": "Yeah, one glass."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 317.84,
+      "end": 320.24,
+      "text": "How often? Have a glass of what?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 318.14,
+      "end": 322.54,
+      "text": "Today, yeah. Uh, one glass of wine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 322.77,
+      "end": 325.1,
+      "text": "Every, how often did you say?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 325.33,
+      "end": 328.97,
+      "text": "Every two or three days? Depends, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 328.95,
+      "end": 331.02,
+      "text": "And who do you live with at home?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 331.33,
+      "end": 332.05,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 332.84,
+      "end": 334.35,
+      "text": "Who do you live with at home?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 335.21,
+      "end": 336.21,
+      "text": "Yeah, [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 337.14,
+      "end": 339.72,
+      "text": "Who do you live with, do you live on your own, or do you live with"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 337.92,
+      "end": 341.53,
+      "text": "I live with my partner."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 341.61,
+      "end": 344.22,
+      "text": "OK, and what's your job, day-to-day?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 344.69,
+      "end": 346.23,
+      "text": "Uh, I'm engineer."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 347.08,
+      "end": 350.01,
+      "text": "And have you been at work in the last few days?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 350.04,
+      "end": 358.56,
+      "text": "No I can't because I used to walk [inaudible] walk to work, but recently I, I work from home or sometimes I take sick leave, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 359.0,
+      "end": 368.19,
+      "text": "OK, and when, at the moment, are you, um, feeling short of breath when you're sitting still? Or just when you walk?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 366.62,
+      "end": 374.11,
+      "text": "No. Just walk or sometimes, but currently I feel, I feel well."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 374.49,
+      "end": 377.28,
+      "text": "Are you able to get [inaudible] up and down the stairs OK?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 377.83,
+      "end": 378.48,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 379.3,
+      "end": 385.68,
+      "text": "Right, OK. Um, and did you say you were finding it hard to complete your sentences?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 386.53,
+      "end": 388.35,
+      "text": "Yeah, sometimes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 389.3,
+      "end": 391.48,
+      "text": "OK, um."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 390.59,
+      "end": 393.01,
+      "text": "Yeah, [inaudible] , days, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 393.58,
+      "end": 410.73,
+      "text": "Right, OK. Um, I mean, it sounds like you've had a flare up of your asthma. It could be, um, triggered by, if there's more pollen around, or there may be, you may have a viral infection, causing it to get worse."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 409.27,
+      "end": 411.58,
+      "text": "Mm-hmm. Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 411.64,
+      "end": 414.08,
+      "text": "Did you say you checked your temperature already?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 414.78,
+      "end": 417.75,
+      "text": "Yes, I checked, I have fever [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 417.63,
+      "end": 418.85,
+      "text": "Was it normal?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 419.91,
+      "end": 420.84,
+      "text": "Yeah, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 421.28,
+      "end": 422.88,
+      "text": "[inaudible] What was your temperature?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 423.34,
+      "end": 426.55,
+      "text": "Uh, thirty seven, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 426.87,
+      "end": 431.56,
+      "text": "OK, that's fine. Um, have you got an asthma inhaler at home?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 432.02,
+      "end": 432.79,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 433.45,
+      "end": 443.83,
+      "text": "OK. So what I would suggest is you take it more regularly than you are doing at the moment. Have you got, um, a spacer at home?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 440.91,
+      "end": 450.9,
+      "text": "Mm-hmm. Um, do you want to show me how to do it or somehow?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 451.13,
+      "end": 454.61,
+      "text": "Um, do you have a spacer at home?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 455.04,
+      "end": 455.88,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 456.08,
+      "end": 471.32,
+      "text": "OK. Um, what I can do is, I can prescribe you a peak flow meter so we can check your breathing level and a spacer to use your inhaler a bit more efficiently, which the pharmacist can show you how you use that when you pick it up."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 471.77,
+      "end": 472.77,
+      "text": "Yeah, sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 472.89,
+      "end": 479.12,
+      "text": "Um, and if you increase it so you're taking it two to four puffs, like, every four hours?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 479.24,
+      "end": 480.29,
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 480.46,
+      "end": 491.82,
+      "text": "Initially, um, if you get a high temperature or your wheezing is getting worse, you need to call us back straightaway so we can just advise you further with that."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 492.23,
+      "end": 493.38,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 493.65,
+      "end": 504.11,
+      "text": "And it will be a good idea when you're feeling better if we can arrange just a review, just to see how your asthma is, because we may need to start some other medication for you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 504.55,
+      "end": 506.45,
+      "text": "OK, sounds good, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 505.4,
+      "end": 512.83,
+      "text": "You could arrange a review in a week or so, um, but, but before that and if you're, if you're feeling worse."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 513.81,
+      "end": 516.02,
+      "text": "In a week, right? OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 516.72,
+      "end": 522.78,
+      "text": "OK, and the other thing to do would be to take a regular antihistamine."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 523.2,
+      "end": 524.08,
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 523.98,
+      "end": 530.69,
+      "text": "Which you can get from the pharmacy, I can put a [inaudible] on your notes about what to take."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 526.85,
+      "end": 531.64,
+      "text": "Yeah. Yeah, they'll be helpful."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 531.78,
+      "end": 541.1,
+      "text": "And then if you, when you get the peak flow meter, if you can take, the pharmacist can show you how to use it, and if you can record a value first thing when you wake up."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 541.79,
+      "end": 542.67,
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 541.86,
+      "end": 550.63,
+      "text": "And in the evening over the next week, and then we can discuss that over the phone when we look at the figures and see whether you need to go on another inhaler as well."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 550.9,
+      "end": 552.99,
+      "text": "Oh, awesome, thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 553.18,
+      "end": 554.84,
+      "text": "Have you got any questions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 555.3,
+      "end": 559.9,
+      "text": "Um, no, that's fine, yeah, thank you very much."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 559.36,
+      "end": 562.55,
+      "text": "Thanks a lot, bye."
+    }
+  ]
+}

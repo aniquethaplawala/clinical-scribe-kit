@@ -1,0 +1,561 @@
+{
+  "encounterId": "pm57-d3c07",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 1.16,
+      "end": 2.34,
+      "text": "[inaudible] Hello?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 2.36,
+      "end": 8.76,
+      "text": "Hi. Hi. My name is Doctor Jacob, and welcome to Babylon. [inaudible] How are you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 6.77,
+      "end": 14.98,
+      "text": "Thank you. I'm I'm I'm good. I mean I [inaudible] I'm uh, so, I'm bad."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 13.42,
+      "end": 27.02,
+      "text": "So. Your [inaudible] , OK. Right so just before we start, is it alright if you could confirm your name for me please? And, your date of birth?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 27.63,
+      "end": 30.25,
+      "text": "Seventeen of January, nineteen eighty seven."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 30.4,
+      "end": 32.56,
+      "text": "And your address for me, please."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 33.82,
+      "end": 37.43,
+      "text": "Uh, sixty Hanover steps. Um"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 38.24,
+      "end": 44.81,
+      "text": "That's good. And, just to confirm that you're in a secure location and we can have a confidential conversation."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 38.5,
+      "end": 45.96,
+      "text": "London. Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 46.13,
+      "end": 53.68,
+      "text": "OK. So, you mentioned in our notes that you've got, um, skin problem. If you can tell me a bit more about it, please."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 53.85,
+      "end": 60.85,
+      "text": "Yes, [inaudible] over the past few days I had uh, I've noticed my skin is uh, sore and red."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 61.24,
+      "end": 64.04,
+      "text": "OK. So where is it sore and red?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 64.72,
+      "end": 72.62,
+      "text": "Um, it's uh, all over my chest, my hands and arms, and especially inside of the elbows. And, uh"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 71.88,
+      "end": 74.87,
+      "text": "[inaudible] that."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 74.21,
+      "end": 76.9,
+      "text": "[inaudible] on the, on the inside of the elbow."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 76.27,
+      "end": 79.34,
+      "text": "Elbows, OK. Inside of the elbows, yeah?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 79.49,
+      "end": 81.29,
+      "text": "Which is the, the worst area."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 81.17,
+      "end": 83.96,
+      "text": "Alright, [inaudible] area. Is it very itchy?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 84.56,
+      "end": 87.92,
+      "text": "It's very itchy and, uh, dry, all over my body"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 88.25,
+      "end": 92.79,
+      "text": "Itchy and dry, OK. Have you had something like this in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 93.43,
+      "end": 97.44,
+      "text": "Yes, uh, if I haven't [inaudible] had [inaudible]"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 97.55,
+      "end": 101.62,
+      "text": "OK. Do you think this is similar to your usual eczema, or is it worse?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 102.07,
+      "end": 106.78,
+      "text": "Uh, I think it's, yeah, it's getting worse, like, the past few days. Way worse."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 105.35,
+      "end": 120.32,
+      "text": "Yeah. But you, could be like something similar. So on the skin is there any, you know any of the patches, [inaudible] sore and you mentioned it's quite sore. Is it weeping? Is it like watery liquid coming from that area? Weeping? [inaudible]"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 120.73,
+      "end": 122.13,
+      "text": "No. No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 121.25,
+      "end": 124.17,
+      "text": "Nothing [inaudible] . OK. Right."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 123.55,
+      "end": 125.68,
+      "text": "But, but, not the areas that are cracked."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 125.93,
+      "end": 135.01,
+      "text": "Yeah. So you have cracks over there, OK. And is there any scratch marks on your, on any of the, you know, areas, any scratch marks?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 134.74,
+      "end": 139.05,
+      "text": "I mean uh, it's very itchy if I scratch myself, but there's no scratch mark."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 137.56,
+      "end": 148.93,
+      "text": "No. OK. Is there any thickened skin? Like, [inaudible] you know, where it's, the skin's very, um, thick, and darkened areas?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 148.88,
+      "end": 151.74,
+      "text": "Mmm, no, no, I don't think, I don't think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 151.68,
+      "end": 160.5,
+      "text": "OK. Uh, righty-ho. So, you've mentioned you've, got a history of eczema, so what do you do about it? [inaudible] How do you keep it under control?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 160.72,
+      "end": 168.94,
+      "text": "Yeah, usually I use a a a cream called diprobase. Uh, and in the shower I use something called dermal."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 168.93,
+      "end": 174.0,
+      "text": "Dermal, alright, and have you been using them recently, or not?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 174.26,
+      "end": 176.19,
+      "text": "Yes. Yes, I, I use them."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 175.78,
+      "end": 177.47,
+      "text": "You use them every day?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 177.98,
+      "end": 182.12,
+      "text": "Yes I, there there's no change in that. I didn't change any [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 180.67,
+      "end": 186.53,
+      "text": "OK. Have you ever used steroids in the past, for your eczema?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 187.22,
+      "end": 199.51,
+      "text": "Um. I, I, I'm not sure. Uh, ah, yes, yes, [inaudible] yes, I remember now, I [inaudible]"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 197.41,
+      "end": 199.23,
+      "text": "You've used steroids before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 199.51,
+      "end": 204.04,
+      "text": "Um, but it, it's not helping. [inaudible]"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 202.78,
+      "end": 205.5,
+      "text": "Yeah. Also, you're still using the steroids."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 205.66,
+      "end": 207.74,
+      "text": "Yeah, I tried. I tried."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 207.12,
+      "end": 211.22,
+      "text": "Which one are you using, the steroids? What's the name?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 211.41,
+      "end": 216.6,
+      "text": "I'm not sure, it's uh, I would have [inaudible] the box is not there."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 213.41,
+      "end": 220.3,
+      "text": "[inaudible] , is it the [inaudible] ? OK. So, [inaudible] is it like the over-the-counter ones?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 220.96,
+      "end": 221.57,
+      "text": "Sorry?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 221.35,
+      "end": 227.46,
+      "text": "Over the counter Hydrocortisone. That, does that ring a [inaudible] ? Yeah. So you're using the Hydrocortisone, yeah?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 224.13,
+      "end": 224.73,
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 227.81,
+      "end": 230.97,
+      "text": "Are you using any antihistamines at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 231.44,
+      "end": 233.76,
+      "text": "I No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 233.55,
+      "end": 247.74,
+      "text": "No, no antihistamines. OK. Right, fine. Otherwise, other than those rash, you're feeling well in yourself. There's no temperature, no joint pains, yeah? [inaudible] No fever?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 245.47,
+      "end": 250.43,
+      "text": "[inaudible] But, I remember that I've tried [inaudible] and it didn't work."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 250.29,
+      "end": 254.76,
+      "text": "You've tried the antihistamines and it didn't work. OK which one did you try?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 256.14,
+      "end": 257.61,
+      "text": "The one over-the-counter."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 257.41,
+      "end": 284.76,
+      "text": "OK, so like cetirizine, yeah? Yeah, OK, that's fine. Right. OK, so from what you're describing, It looks like, you know, it is quite widespread, your eczema. Yeah? 'Cause you're having it all over your chest and [inaudible] hands and things like that. Um. So do you have any [inaudible] allergies to any medication at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 278.48,
+      "end": 286.35,
+      "text": "Mm-hmm. No, no allergies."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 286.11,
+      "end": 292.44,
+      "text": "No allergies, OK. And you don't, other than eczema you don't have [inaudible] any other medical condition."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 292.42,
+      "end": 300.58,
+      "text": "I, I have [inaudible] asthma, and, uh, in my family, uh, there's hypothyroidism and migraine. My mother has migraine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 300.42,
+      "end": 304.42,
+      "text": "[inaudible] Mother has migraine and, what was the other one, I didn't understand."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 304.05,
+      "end": 306.78,
+      "text": "[inaudible] hypothyroidism."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 305.21,
+      "end": 308.48,
+      "text": "[inaudible] who who has hypothroidism?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 308.6,
+      "end": 309.6,
+      "text": "My mother."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 309.59,
+      "end": 318.9,
+      "text": "OK. So, she has hyperthyroidism. OK. That's fine. Right here, you mentioned you have asthma. So, what medications are you using for asthma?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 319.71,
+      "end": 325.4,
+      "text": "Um uh, you know, probably neither. Uh"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 324.48,
+      "end": 329.28,
+      "text": "The blue inhaler? So you don't, you don't use it everyday, so you just use it on and off, yeah?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 329.92,
+      "end": 331.36,
+      "text": "Yeah. Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 331.2,
+      "end": 334.48,
+      "text": "Blue inhalers. But your breathing's all OK, yeah?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 334.59,
+      "end": 339.94,
+      "text": "OK, yeah, yeah. [inaudible] It's only when I have a flare. [inaudible]"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 335.57,
+      "end": 411.03,
+      "text": "Yeah. Sure. [inaudible] So, what we need to do is, obviously, you've got [inaudible] , as I've mentioned. So, extensive eczema. What we'll do, we need a couple of minutes. Because to keep your a bit comfortable, we'll, you would probably need some antihistamines, which I'm going to prescribe. Also, hydrocortisone is a baby steroid that you use for young children. You might probably need a bit more stronger one, like betnovateor something like that. OK? So we'll try that first. So I'm going to [inaudible] it's called the antihistamine is called Fexofenadine. And then we'll try with some Betnovate first. So it's like very small amount, like it's like one fingertip. Yeah. This much is, is enough to cover your palms. And your - back of your hands, yeah? So it's very small amounts, so that if you can imagine you can cover with a very small amount the whole body. Yeah. So use that. You, you have to use it twice a day, for the next couple of weeks. OK. If, if there's no improvement, you need to get back to us. Or, if you have any kind of adverse reaction, like an allergic reaction, which is unlikely, but if it still happens you need to get in touch with us. OK?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 397.5,
+      "end": 413.35,
+      "text": "OK. OK. Thank you very much."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 411.96,
+      "end": 428.38,
+      "text": "[inaudible] So, what we're going to do is, we're going to send off the prescription to your pharmacy. It looks like Boots on the systems, is that correct? Yeah? Yes, so i'll send it across to Boot's. And it will be there for [inaudible] collecting."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 422.52,
+      "end": 423.36,
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 428.38,
+      "end": 449.21,
+      "text": "If things are getting worse in the next two weeks, call us before hand. Otherwise, wait for two weeks, take the medication and the cream. You still need to continue on your, emollients like the dermal soap, and, as well as the, diprovate. Yeah, so you still need to use those, in the interim. Any questions at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 450.55,
+      "end": 452.9,
+      "text": "No. No questions. Thank you. Thank you very"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 450.93,
+      "end": 455.1,
+      "text": "OK then. You take care then. Bye bye now."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 455.27,
+      "end": 455.88,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 455.59,
+      "end": 456.75,
+      "text": "Bye. Bye."
+    }
+  ]
+}

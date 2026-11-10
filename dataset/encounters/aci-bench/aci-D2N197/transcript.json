@@ -1,0 +1,210 @@
+{
+  "encounterId": "aci-D2N197",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So Donna is a 37 -year-old female she is here with complaint of headache she has a history of hypertension and diabetes so Donna tell me what's going on"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah lately I've just been having quite a bit of a headache and I mean every now and then I'll get it but lately it's just been getting worse and I've noticed that my blood pressure has been running high I've been taking it maybe like once a week but the past three weeks it's been really high than usual so I was a little worried"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you remember the numbers that you're getting on your blood pressure readings"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah so one of them was like one sixty over eighty seven and then the last one was like one seventy five over ninety two"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay so it's really high I was looking back and it looks like your blood pressure was pretty normal last time we saw you is one twenty four over eighty two have you been able to take your blood pressure medicine the lisinopril that you've been prescribed"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I have but sometimes I forget I'm I'm embarrassed to tell you that but yeah sometimes I forget I get busy like especially on the weekends I'm very good during the week but on the weekends I tend to forget it and that's when I'm most busy too"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah well I'm also curious you know you have diabetes have you been checking your blood sugar"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I have because I thought maybe you know that's why I'm getting the headaches maybe my sugar was too low or maybe too high but my sugar has been okay it's been running like one twenty sometimes it does get down to like one hundred"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and have you noticed are you urinating more than usual or anything like that"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not really so much it's it's been pretty much the same but pretty normal"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and when you get these headaches what are you taking for them"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well I take my tylenol hoping it'll just you know go away and then it does some just for a little bit but then it it just goes throughout the day and I start to get them again"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and when you first had the headaches what would you rate the headache at zero no pain ten the worst pain ever"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I would say when I first get them it's about I would say a seven out of ten"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And then after you take the tylenol what does it go down to"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It goes down to probably about a four maybe five it I still feel it I still feel annoying but it's not as pounding as as it normally would be"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "If I didn't take the tylenol"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah and have you ever had headaches like this before"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not like this you know you know as you know sometimes I get migraine but I know I never really take anything for it that's like once a year or once or every two years but not like not like this one headaches like this one"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and have you had any congestion anything like that cough runny nose"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I thought maybe because you know now it's springtime and I tend to get my allergies but it it's it's very different and I've not actually had any like runny nose or cough or congestion along with the headache"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay if you tap on your forehead do you have any tenderness"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Right here"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Just a little not really too much"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay if you tap down here on these bones your cheek bones any tenderness there"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "A little bit not as much as I guess if I tap up here"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and then if you kinda push on your neck around here any tenderness"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It it's a little tender but it's not it is a little bit I'd say"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay okay so you don't have any frontal sinus tenderness no maxillary sinus tenderness it sounds like you don't have any lymphadenopathy that would just be if your lymph nodes were tender so yeah you know let's just talk about a few things that I wan na do and then I want you to actually come in and and be seen by doctor ruth so first off your headache I think taking tylenol is great you can keep taking that you know your lisinopril you're on twenty milligrams once a day which is a medium dose but I think we can increase that so for your hypertension and your headaches I'm gon na have you increase your lisinopril to forty milligrams once a day"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And then I want you to keep checking your blood pressure and I wan na order some blood tests I'd like to get some just normal blood work we'll get a hemoglobin a1c some laboratory tests things like that and and then for your diabetes I'm gon na have some diabetic education for you that I want you to be able to review it sounds like your blood sugar has been running a little bit high and after you get the blood tests after that's all done I want you to come in to see me or doctor ruth and we'll just make sure that everything is okay that we get your blood pressure under control any questions for me"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No I mean I've been walking and I know I get the headaches but is it alright if I still continue my walks"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah that's great I think exercise is wonderful for everything going on go ahead and walk still"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay great we'll do that thank you"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You're welcome thanks so much Donna"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "encounterId": "aci-D2N132",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N132",
+  "split": "clinicalnlp_taskC_test2",
+  "collectionMode": "virtassist",
+  "chiefComplaint": "back pain",
+  "secondaryComplaints": [
+    "lumbar fusion",
+    "anxiety"
+  ],
+  "patient": {
+    "age": 40,
+    "gender": "female"
+  },
+  "turns": 42,
+  "wordCount": 566,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

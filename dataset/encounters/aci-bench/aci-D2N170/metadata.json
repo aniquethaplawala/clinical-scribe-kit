@@ -1,0 +1,25 @@
+{
+  "encounterId": "aci-D2N170",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N170",
+  "split": "clef_taskC_test3",
+  "collectionMode": "virtassist",
+  "chiefComplaint": "abnormal lab finding",
+  "secondaryComplaints": [
+    "COPD",
+    "congestive heart failure"
+  ],
+  "patient": {
+    "age": 50,
+    "gender": "female"
+  },
+  "turns": 47,
+  "wordCount": 1141,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

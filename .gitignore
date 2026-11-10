@@ -1,0 +1,27 @@
+# Full audio comes from scripts/download_audio.py; only the starter set is committed
+dataset/encounters/**/audio.mp3
+!dataset/encounters/fareez-osce/osce-CAR0001/audio.mp3
+!dataset/encounters/fareez-osce/osce-CAR0003/audio.mp3
+!dataset/encounters/fareez-osce/osce-DER0001/audio.mp3
+!dataset/encounters/fareez-osce/osce-GAS0001/audio.mp3
+!dataset/encounters/fareez-osce/osce-GAS0004/audio.mp3
+!dataset/encounters/fareez-osce/osce-GEN0001/audio.mp3
+!dataset/encounters/fareez-osce/osce-MSK0001/audio.mp3
+!dataset/encounters/fareez-osce/osce-MSK0010/audio.mp3
+!dataset/encounters/fareez-osce/osce-RES0001/audio.mp3
+!dataset/encounters/fareez-osce/osce-RES0050/audio.mp3
+!dataset/encounters/primock57/pm57-d1c01/audio.mp3
+!dataset/encounters/primock57/pm57-d1c02/audio.mp3
+!dataset/encounters/primock57/pm57-d1c03/audio.mp3
+!dataset/encounters/primock57/pm57-d1c09/audio.mp3
+!dataset/encounters/primock57/pm57-d2c03/audio.mp3
+!dataset/encounters/primock57/pm57-d2c05/audio.mp3
+!dataset/encounters/primock57/pm57-d2c07/audio.mp3
+!dataset/encounters/primock57/pm57-d3c01/audio.mp3
+!dataset/encounters/primock57/pm57-d4c08/audio.mp3
+!dataset/encounters/primock57/pm57-d5c03/audio.mp3
+
+.DS_Store
+__pycache__/
+.env
+app/

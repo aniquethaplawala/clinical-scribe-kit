@@ -1,0 +1,665 @@
+{
+  "encounterId": "osce-RES0062",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "What brings you in?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well, I've had this cough but the biggest issue is that I've been really short of breath."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, um, when did the cough start?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I would say about 3 days ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Three days ago, OK, and uh, around that time did you also start feeling short of breath?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, the shortness of breath has come on, I don't know within the last day or so. It's come on after that, the cough started first."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and the cough, is it a dry cough or is it a wet cough?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well, I've been bringing up some yellowish green, kind of like phlegm, so um I guess a wet cough."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so yeah, yellowish green you said."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any blood in the sputum?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I haven't noticed any blood."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and how much sputum are you coughing up each time? Like is it kind of the size of your fingertip or does it fill your whole palm?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, yeah, probably more like the size of like a thumb tip."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, OK um, and do you notice any, like pus or froth in the sputum?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nothing like that I noticed."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and if you were to describe the sound of your cough, does it sound like it's barky or like a hacking cough?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't know, I guess hacking."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, and do you hear any wheezing at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, well, maybe I guess when I'm really short of breath, yeah, wheezing, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and the shortness of breath, how severe is it? 1 to 10, 10 being the worst?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Maybe a 7?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "At seven OK, are you having issues sleeping because of your shortness of breath?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, well I can't tell if it's that or the cough. I mean between those two things it's been definitely interrupting my sleep."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and do you find there are any triggers to your coughing like like um, a particular time of the day? Triggers like you know pollen or things in your environment like pets?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No the cough has been kind of going on all day. Um, right when I get up in the morning and goes on all night, it's been getting worse to these last few days."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK yeah, um yeah, that doesn't sound great in terms of your shortness of breath. Do you find that certain positions make it worse? Or like exerting yourself makes it worse?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, not really."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and have you ever experienced anything like this in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I haven't."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And any other symptoms that you have along with your coughing and sputum?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "As soon as I breath, well, I just haven't felt good like, tired, kind of weakish."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK yeah um, along with your fatigue and feeling weak, have you experienced any dizziness or fainting spells?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No dizziness and I haven't fainted or anything like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any confusion or memory loss?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No concerns with my memory."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And how about um, muscle aches or any sort of body aches?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Alright, yeah, maybe a bit, kind of, and weak."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, alright, so let's go back to your shortness of breath. Do you have any chest pain associated with that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and do you ever feel like your heart's racing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and how about changes to your bowel movements?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, those have been normal. I haven't had any diarrhea or constipation."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK and no blood in your stool?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I haven't noticed any blood, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, how about abdominal pains?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Oh yeah, I don't know why, yeah, my belly's been a bit achy maybe."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and how about a sore throat?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, my throat felt OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, good and have you experienced any loss of taste?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No loss of taste, but I've noticed, yeah, my smell has been kind of funny."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Your smell has been kind of funny, like you can't smell or do things smell differently than you expect them to?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, there was a candle on earlier today and I guess I couldn't really smell it, so I guess I haven't been able to smell."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Ok, do you have a runny nose or a blocked nose?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I haven't had to blow my nose or anything."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any changes in your vision or hearing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, that's been normal."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any discharge or pain in your eyes or ears?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, that's been OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and then any changes to your urine?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I haven't had any pain or anything like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and are you otherwise healthy? Do you have any medical conditions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I have atrial fibrillation. And I do take Metoprolol for that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, how long have you had A. fib?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It was like 4 years ago I think it was. It was having that like, felt like my heart was racing you were asking about earlier and they did an ECG and I was told I had atrial fibrillation. So yeah, I've been on a beta blocker for three years now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, four years, and when was the last time you had an ECG?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, maybe just a couple of months ago. I think every time that I come in to see my family doctor, they they do one."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and the last time that it was done, was it normal?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, they said yeah. My heart rate's been around 80 beats per minute which is good and I haven't had any symptoms so things have been stable."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, good. And then have you had any hospitalizations or surgeries in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I had an inguinal hernia repair about 15 years ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any complications from that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and then besides the Metoprolol, are you on any other medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Oh yeah, I take a statin and baby aspirin."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and is that for the A. fib as well, the aspirin? Or is that just for other cardiovascular issues or some sort of preventative measure?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I heard it was good for people who have atrial fibrillation so I started taking it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. and let's revisit your medications at the end of today's session. I just want to make sure that you're on the medications and I just want to make sure you're on the right dose.  Does that sound good?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, certainly."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK great. And ok, so we talked about your past medical history and medications. We will talk a little bit about any allergies that you have, if you have any."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I think it's like a sulfa allergy. I received an antibiotic like that many years ago and had a rash."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, OK and have you had any reason to suspect that you may have taken any sulfas recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I haven't had any antibiotics so no, really no changes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, OK, good and are you up to date with all your immunizations?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I am yeah. I've received the Zoster vaccine for shingles and also the one for pneumonia."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, good, good yeah, those two we definitely recommend if you're over 65. OK, and do you know of any family history of lung conditions or heart conditions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I think my aunt had lung cancer but she smoked her entire life."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, OK and how about other cancers?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No other cancers."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And have you been in touch or do you think you've been in contact with any anyone sick recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well, I visited my mother at a long term care facility just this past weekend, so I guess about just over a week ago I visited there."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and have there been any COVID outbreaks at the long term care?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, there has been, I thought I was like away from those areas but I have heard about outbreaks there."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, OK and any travel history?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No travel."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And do you smoke?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I used to smoke a pack of cigarettes a day, but I quit about, uh, about five years ago. I know four years ago it was when I found out I had atrial fibrillation. I quit."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, OK, well that's good. Good for you for quitting. How about marijuana?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I don't smoke it, but I'll use some edibles I buy from the Ontario stores a couple of times per week. Just the CBD stuff."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "The CBD stuff OK. And how many milligrams?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm not sure, I know it's their lowest dose though."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, OK if it's lowest dose, it might be 2.5 milligrams."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sounds familiar."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK good. Is there a particular reason you take these CBD edibles?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It helps me sleep."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, if it's specifically to help you sleep, we can actually try and see if there are other options for you. You know there are pills, like they are sleep aids. Or even things like melatonin that can help regulate your sleep so we can revisit other options for you if you're open to that as well."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "OK for sure. Yeah I will. Um, yeah we can talk about that later."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, that sounds good and do you do any other recreational drugs?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I do not."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, how about alcohol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no, I don't drink anymore."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and did you used to drink before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, I just stopped a few years ago,"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and what's your living situation like right now?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I live in a house with my wife."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "In a house, OK. Any concerns for like old carpets, mold or asbestos in your house?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, we've renovated it over the years."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, good and I apologize, but I would like to clarify three more symptoms with you. Did you say you felt like you had a fever earlier?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, maybe I've been feeling a little hot, but it's been really more the cough and shortness of breath that's been bugging me."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, well we can take a temperature today just to make sure. Have you been feeling like you have night sweats or chills?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, not really. No, I haven't noticed that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and how about, um, any weight loss over the past few months?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, it's been been stable."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, alright good, so that brings us to the end. Do you have any questions or concerns that you would like to clarify before we end the interview?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, nothing today.  I was just really hoping to get, uh, whatever this is sorted out."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, you know, um, right now it looks like, it sounds like it could be an upper respiratory viral illness, so that includes COVID.  So we will do a swab for you and then send it off to the lab for PCR results. In the meantime, because you have symptoms that overlap with COVID symptoms, we do encourage isolation for 14 days. Until your symptoms are gone, sorry,  until your symptoms are gone, even if they're gone, we do suggest isolating for 14 days just to make sure you're not a carrier or could spread COVID so we do encourage that, and that includes from your husband. If possible, we will get those results in a day or two. If they are positive, we will send your results to public health who will be in touch with you to do some contact tracing to see where you may have gotten it from. If it's not COVID, it could be other viral illnesses that are going around this time of year. And if your symptoms aren't getting better on their own, and there's reason to suspect you may have a bacterial infection or bacterial pneumonia, we will follow up with you and possibly prescribe antibiotics. How does that sound?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, that sounds like a great plan."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, great so um, I will see you at the next appointment."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Thank you."
+    }
+  ]
+}

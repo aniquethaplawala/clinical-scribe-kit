@@ -1,0 +1,24 @@
+{
+  "encounterId": "aci-D2N018",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N018",
+  "split": "train",
+  "collectionMode": "virtassist",
+  "chiefComplaint": "severe R upper arm pain",
+  "secondaryComplaints": [
+    "hx gallstones and lumber fusion"
+  ],
+  "patient": {
+    "age": 39,
+    "gender": "female"
+  },
+  "turns": 73,
+  "wordCount": 629,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

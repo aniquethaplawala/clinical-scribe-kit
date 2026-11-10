@@ -1,0 +1,575 @@
+{
+  "encounterId": "pm57-d4c07",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 2.34,
+      "end": 4.61,
+      "text": "Hello. Can you hear me OK?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 5.12,
+      "end": 6.89,
+      "text": "Ohh yes, I can. Can you hear me?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 6.76,
+      "end": 15.41,
+      "text": "Yeah, good, good. So, my name is Joe. I'm a doctor, um, here at Babylon. Can I just confirm your name, please?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 15.71,
+      "end": 17.06,
+      "text": "Uh, my name's Vincent."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 17.12,
+      "end": 18.74,
+      "text": "And, your date of birth?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 19.91,
+      "end": 27.01,
+      "text": "Uh. Uh, ninth of May, two thousand and sixteen."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 26.93,
+      "end": 37.71,
+      "text": "OK, great. And are you in a, uh, a safe place, ohh sorry, a safe and [inaudible] , confidential place to talk and just, [inaudible] happy to go ahead with the consultation?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 34.83,
+      "end": 39.55,
+      "text": "Yeah. Yeah, I am. Yes, yes I am."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 39.47,
+      "end": 41.43,
+      "text": "Great. So, how can I help?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 42.44,
+      "end": 53.63,
+      "text": "Yeah, so, have a [inaudible] . I've been having a cough and a sore throat, for about a week, and, it's been causing me problems. I've had to stay away from work, for about three or four of those days, because of how bad is."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 53.96,
+      "end": 61.44,
+      "text": "OK, I'm sorry to hear that. So, you've had a cough, and a sore throat, for about a week? And what came, what, what came first?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 59.71,
+      "end": 67.18,
+      "text": "Yes. Uh, the, sore throat came first, and then, after a day or two, the cough."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 67.44,
+      "end": 71.45,
+      "text": "OK, OK. And, uh, are you coughing up anything?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 72.08,
+      "end": 73.53,
+      "text": "No, it's very dry."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 73.73,
+      "end": 93.39,
+      "text": "OK, So I'm, I'm just gonna ask a few questions about the, uh, your current symptoms. And a little bit about your background. Um, and, something else about what we can do, a little bit later on in the consultation, to help you. So, before we go on. [inaudible] anything you're particularly concerned about? Um, or have any ideas, what might be going on? You said that you had a cold."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 86.33,
+      "end": 111.44,
+      "text": "OK. [inaudible] , well. I mean, you [inaudible] , you know how, we all are. Once this happens, you Google it and, there seems to be, all kinds of bad things it could be. It could be, could be a cold or, flu obviously, but it could also be tuberculosis. It could be, cancer always comes up so. It'll be good if, none of those."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 112.07,
+      "end": 125.3,
+      "text": "Great, so, so yeah. I can provide a bit of reassurance, um, and uh, we can talk about those a little bit, as well. And was there anything you were particularly expecting, or hoping to get out of this consultation? Um."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 120.04,
+      "end": 141.7,
+      "text": "OK. Uh. Uh, well, uh yeah, so reassurance. So like, hopefully some sense that it's not anything too serious. But also, is there anything you can prescribe me to make it better? Or any advice? Or maybe even a sick note. So that, if I need to stay away from work for a bit longer, I can get one."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 141.94,
+      "end": 154.32,
+      "text": "Sure, sure, OK. All right, so, we'll talk a little bit about the symptoms, and I'm sure we can [inaudible] , get a, um, those things, uh, [inaudible] and some reassurance, um, about your concerns."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 152.41,
+      "end": 152.93,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 154.32,
+      "end": 166.58,
+      "text": "So, um, you mentioned that you started with sore throat about a week ago, developed into bit of a dry cough. Um, [inaudible] , I'll just ask a few questions around those. So, um, do you have any shortness of breath?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 161.05,
+      "end": 171.34,
+      "text": "No. Yes, yes, I've been having shortness of, [inaudible] . Yeah, I've been having shortness of breath, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 171.2,
+      "end": 178.07,
+      "text": "You are short of breath. And, uh, do you have any wheeze? Or chest pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 179.33,
+      "end": 181.35,
+      "text": "Uh, yeah, a bit of both [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 181.59,
+      "end": 185.33,
+      "text": "You're, you're feeling a bit wheezy, with some chest pain as well."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 185.85,
+      "end": 186.49,
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 186.75,
+      "end": 192.2,
+      "text": "OK. And, how, ah, when did you start to develop the shortness of breath?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 193.6,
+      "end": 208.49,
+      "text": "[inaudible] . So, so the sore throat, so today's Friday, sore throat was about, last week, Friday or Thursday. Cough was Saturday or Sunday. So the, so the, shortness of breath was I think, shortly after the cough. So maybe a day or two later. So, three, four days ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 208.83,
+      "end": 213.33,
+      "text": "Three or four days ago, you started develop [inaudible] . And is the cough worse at night-time?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 214.25,
+      "end": 216.34,
+      "text": "No, no, it's the same throughout the whole day."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 216.07,
+      "end": 233.48,
+      "text": "Same throughout the day. Um, and, uh, when you say you're short of breath. Just need to try and get an idea about how short of breath you are. So, are you able to, so [inaudible] , um, so, uh, like walk up a flight of stairs, for example? Um, or, or, are you short of breath at rest?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 234.13,
+      "end": 246.7,
+      "text": "Ohh yeah, it's, it's like, so when I'm doing walking. Um, and I do exercises now and then. So it, it hasn't been . Superbad like, hasn't stopped me from doing any of those things, but it's been pretty unusual, and a little bit worrying."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 246.87,
+      "end": 257.01,
+      "text": "And you're a bit concerned about that, OK. So, I just need to ask a few, uh, things about your background as well. So, um, do you have any other medical conditions, or medical history?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 257.87,
+      "end": 260.97,
+      "text": "No, just, no, no [inaudible] , past medical history, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 261.01,
+      "end": 263.82,
+      "text": "No [inaudible] . No history of asthma?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 264.28,
+      "end": 264.81,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 265.01,
+      "end": 278.07,
+      "text": "Um, and any, uh, uh, history of, uh, clots on your legs, or your lungs? So these [inaudible] . Uh, no one in your family's had those? Clots on the legs, or the lungs?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 278.32,
+      "end": 280.64,
+      "text": "Well, my mother had lung cancer."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 281.11,
+      "end": 283.45,
+      "text": "Your mother had lung cancer. Do you smoke?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 283.98,
+      "end": 284.46,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 285.18,
+      "end": 289.1,
+      "text": "You ever smoked? Or been exposed to asbestos? That you know of?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 289.34,
+      "end": 296.19,
+      "text": "Don't know with asbestos. Ever smoked, [inaudible] . I mean, once or twice in Amsterdam, if that counts, but, not really."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 296.51,
+      "end": 319.64,
+      "text": "OK. Um, and, uh, this, so just going back to the, your symptoms of shortness of breath, with the cough. It's a dry cough, no, you're not coughing up any flem? Um, do, do you have, uh, and you don't, you say you don't have any chest pain, as such? Um. Uh, are you taking any medications, currently, at the moment?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 320.23,
+      "end": 322.2,
+      "text": "Uh. No, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 322.46,
+      "end": 325.03,
+      "text": "OK. Are you allergic to any medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 325.96,
+      "end": 328.55,
+      "text": "Not to any medication, but I'm allergic to peanuts."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 328.79,
+      "end": 343.85,
+      "text": "Peanuts. OK. Um, and, uh. You mentioned that your mother had, uh, lung cancer. Um, any other, family history of any significant illnesses, uh, run, running in your family?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 344.27,
+      "end": 347.44,
+      "text": "No, no, that's the only one. Just lung cancer, from my mother."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 347.36,
+      "end": 355.39,
+      "text": "Just lung cancer. OK. And you say you have a cold. So, do you have [inaudible] , sinus congestion? Or, um."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 355.92,
+      "end": 362.48,
+      "text": "No, it seems to be [inaudible] , [inaudible] entirely with just my throat. So like, my nose is [inaudible] like, [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 362.05,
+      "end": 367.82,
+      "text": "So, [inaudible] , just your, just your throat. And, any recent travel? Or have you always lived in the UK?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 369.71,
+      "end": 382.4,
+      "text": "Uh, no, so I, I, I haven't always lived in the UK. Like, so I was born in the US, and moved over. Well, it was twelve years ago, but, in terms of recent travel. Just to Europe, nowhere too exotic."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 383.09,
+      "end": 401.62,
+      "text": "OK, so no, so no recent travel, no significant recent travel any, anywhere. Um, OK. And, are you coughing up anything other than, [inaudible] . Um, uh, so you, you're not coughing up blood, or anything like that? No, no. Um, good. And, uh, are you feeling feverish, hot, cold, sweaty?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 402.4,
+      "end": 410.53,
+      "text": "Yeah, so, a little bit feverish, uh, um, at first. So the first three or so days of this, but then it, the fever's gone away."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 410.51,
+      "end": 414.82,
+      "text": "OK. And in general, do you [inaudible] . Sorry? Yeah."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 414.97,
+      "end": 421.3,
+      "text": "Yeah, I was just gonna say, also had a bit of a headache. But like, headaches that come and go rather, but like, right now it's fine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 417.4,
+      "end": 429.13,
+      "text": "Uh. OK. And in general, would you say you're feeling, you're, you're beginning to, to feel better? Worse? Or, or sort of, um, staying the same?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 429.49,
+      "end": 448.29,
+      "text": "[inaudible] , so it's like, it's up and down. So, so let's see, so I, [inaudible] , it started last week, and I stayed home from work two days this week. I think it was maybe, Tuesday and then Thursday. So like, I felt better and then worse again, and then better and then worse again. So it's been, yeah, a kind of constant, but constant and being, variable, if that makes [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 448.65,
+      "end": 466.3,
+      "text": "OK. And I just [inaudible] , need to ask any, other sort of risk factors. Um. That you may have. So, [inaudible] , um, no sort of significant weight loss? Um, or unexplained weight loss? Any [inaudible] ?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 466.36,
+      "end": 476.39,
+      "text": "So no weight loss, but I have been, have been losing my appetite recently. And I mean, I usually eat a lot so, and I, and I enjoy eating as well, but like, so that's been a bit concerning."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 477.08,
+      "end": 479.5,
+      "text": "You've been losing your appetite recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 479.91,
+      "end": 480.59,
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 480.43,
+      "end": 485.45,
+      "text": "And you're a little bit concerned about that? But you haven't, you haven't lost any weight, that you think of?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 482.6,
+      "end": 486.33,
+      "text": "Yes. No. Not that [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 486.57,
+      "end": 491.14,
+      "text": "And any, um, sort of rashes or anything? Or, uh, [inaudible] , and you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 492.2,
+      "end": 493.14,
+      "text": "No. Not [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 492.28,
+      "end": 508.38,
+      "text": "Not that, not that you can think of. OK. Um. So, I would ask to examine you now, but um, I, I don't know if I could sort of look inside your throat, at least. To see if there's a, probably, there's."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 507.88,
+      "end": 509.19,
+      "text": "Ohh, we can try [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 509.02,
+      "end": 516.12,
+      "text": "Ohh no, well, no, it's OK, I [inaudible] , might think about doing a. Have you got any lumps or bumps around your neck? That you can feel?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 516.79,
+      "end": 519.13,
+      "text": "Uh. No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 519.22,
+      "end": 543.66,
+      "text": "No that you, no, OK. Um. And, so finally, you, you were talking about, uh, [inaudible] . I mean, it sounds to me that, um, you've been a little bit up and down. Sore throat. Developed a dry cough. Um, you are slightly short of breath, but not too overly concerningly short of breath. What I would say, we're just coming to the end of consultation now, [inaudible] . If you feel significantly worse ."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 533.2,
+      "end": 533.71,
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 543.66,
+      "end": 588.44,
+      "text": "Um. Uh, if you get more short of breath, or sudden change in your breathlessness. Um, or breathlessness that you are concerned about. Then I would advise you to see, no [inaudible] , go and see a GP. Um, and actually see somebody physically. Um, uh, but I think, for now I can sort of, uh, try and reassure you that, um, if this clears up, as I expect it would. So, I expect this to sort of be getting better in the next, four or five days. Um, if it's not, please get in touch with a medical professional again. Um, and, uh, I would expect it to, and so therefore, I wouldn't be concerned about tuberculosis Um, your concerns about lung cancer, are. And, was that the other thing you're concerned about?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 588.81,
+      "end": 590.7,
+      "text": "Ohh yeah, yeah. Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 590.14,
+      "end": 604.64,
+      "text": "Yeah. So, so, um, again, if you're not getting better, please see somebody again. Um, I've just got four seconds now. So, nice talking to you. And, have we gotta? We gotta, tidy up, yeah. OK, so, uh."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 604.08,
+      "end": 604.61,
+      "text": "All right."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 605.64,
+      "end": 620.63,
+      "text": "Uh, and I'll provide you with a sick note, just to give you a few more days off work. Um, and paracetemol. Lots of fluids. Um, and, uh, rest up. And, as I say, if you're not feeling better, please get in touch. OK?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 621.84,
+      "end": 622.61,
+      "text": "Have a good day."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 621.97,
+      "end": 624.06,
+      "text": "[inaudible] . Thank you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 625.05,
+      "end": 625.49,
+      "text": "Bye."
+    }
+  ]
+}

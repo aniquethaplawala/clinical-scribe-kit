@@ -1,0 +1,550 @@
+{
+  "encounterId": "osce-RES0016",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How are you doing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not so well I I feel like I've been having just worsening breathlessness and a cough for it's been going on for two years now and I just can't seem to get rid of it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, the cough and breathlessness both started two years ago?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I would say approximately around the same time."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, OK. Um, do you always have the breathlessness, or does it come and go?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, I think it's, I feel short of breath most of the times, but it's mainly just gets worse when I'm exerting myself when I'm walking more than usual or just working in the garden."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, OK, um and same thing with the cough? It gets worse when you're walking around?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I would say so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And was there any sort of trigger for this two years ago? Anything that you remember?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, no, it kind of just started gradually on its own. No, no real triggers that I can remember."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and, does anything make it worse or better besides the exertion?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no, I think that's pretty much the only thing that really makes it worse."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and how would you describe your breathlessness? Is it that you're breathing too fast or you can't catch your breath?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's I think it's more so just I can't catch my breath and sometimes I just have trouble being able to take like a full breath."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, OK. Um, and out of 1 to 10, 10 being the worst, how bad is your breathlessness?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It can get up to I would say like an eight sometimes when I'm doing a lot of work."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and have you ever experienced this before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not before the two years, before I I never felt anything like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and you mentioned it's gradually been getting worse, right?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I would say so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and the cough, um, do you ever cough up any blood?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, it's uh, it's usually just a dry cough. No, no I don't produce any mucus or blood."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. OK. Um, and do you feel like you're wheezy?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I haven't heard any kind of wheeziness at all."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Any issues with your breathlessness when you're laying down?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I'm completely fine laying down."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK and it's not waking you up at night, right?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK um, have there been any changes to your taste recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, not that I know."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any changes to your smell?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you experienced a sore throat?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nope."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Runny nose or stuffy nose?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nope, not that I know of."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, changes in your hearing or ear pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Changes in your vision or eye pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and have you noticed any fevers?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, maybe some chills here and there, but not not really a fever, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and you mentioned chills. How about night sweats?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, just a few times per week I would maybe have to take off my blanket sometimes I notice a lot of my sweat covering the bed sheets. That's been going on for about, say a couple months now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, OK um any weight loss?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I think over the last few months I may have lost like around 3 three kilograms."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, OK, any rashes on your body?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not that I know, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Um, how about uh like feeling you're like you're tired?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, yeah, I feel pretty tired sometimes, but I just thought it was because I'm getting older."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, fair enough. How about chest pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No chest pain, no no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any swelling in your arms or legs?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, not that I've noticed."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK and how about feeling like your heart's racing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No heart has been fine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And how about changes to your bowel movements?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I go pretty regularly."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK and urine, any changes there?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nope."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, how about nausea and vomiting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Headaches?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, um any dizziness or fainting spells?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No? Ok, um how about confusion or memory loss?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not that I know of, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and are you otherwise healthy? Do you have any other medical conditions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I do have high blood pressure and I think they said like my prostate is larger than normal. Um, but nothing else."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and have you been sick in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, in terms of like breathing, I think maybe as a child like I may have had like a pneumonia but nothing else."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and are you on any medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Just ramipril for my high blood pressure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, um how long have you been on that medication for?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, for a pretty long time, I would say more than 10 years."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK and no issues, side effects with that, right?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, and my blood pressure is pretty well controlled on that medication."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, good, um, any allergies?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No. No allergies."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Are you up to date with all of your immunizations?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I got my shingles and my pneumonia vaccination everything like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and uh, in terms of family history, um, are there any heart or lung conditions that run in the family?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, so yeah, my dad had quite a few problems. He had type 2 diabetes then he suffered from 2 strokes and then he also had a heart attack uh, in I think when he was like 56. But then he actually ended up dying of bowel cancer in his 70s."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. How about your mother? Is she alive? Is she healthy?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, my mom is alive, but she suffered from Type 2 diabetes and high blood pressure as well. And she also had, like hypothyroidism. And she also suffered from depression as well."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Um OK, so do you live by yourself and where do you live?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I live on an apartment and in apartment by myself right now. I do find it difficult getting out of the house recently just because of my shortness of breath, but other than that I feel that I'm pretty independent."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and do you smoke?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I've never smoked in my life."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No? Um, how about other recreational drugs?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No no marijuana, no cocaine, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, how about alcohol? Do you drink alcohol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and do you still work?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no, I actually worked at just the hospital I used to volunteer, but now I just can't get out of the house. I feel just tired and short of breath all the time so just staying in my house most of the time."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and has anyone around you been sick?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, not that I know."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No um, and have you traveled anywhere recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, um, have you been worked up for this in the past two years? Like have you had any chest X-rays or pulmonary function tests or anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I've never really had this issue before, so no investigations."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, OK, well those were all the questions that I had. Did you have anything that you wanted to add that I maybe missed?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no, I just it's been going on for two years and I feel like it's getting worse and worse. And yeah, I'm just scared of having to, you know, go on oxygen or like just not being able to breathe at one point."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, for sure. So we will try to do a good job working you up for everything that we think it may be. And right now, it sounds like it could be pulmonary fibrosis either like you know an autoimmune process or triggered after like an infection that you may have had in the past. We will definitely also look into see if it's perhaps a lung cancer, asthma and you mentioned you don't smoke so we don't think it could be COPD but we'll also test for that in case all everything else comes back negative."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "OK, sounds good. Thank you so much."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Thank you. Take care you too."
+    }
+  ]
+}

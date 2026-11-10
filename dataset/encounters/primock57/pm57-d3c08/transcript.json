@@ -1,0 +1,421 @@
+{
+  "encounterId": "pm57-d3c08",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 2.37,
+      "end": 3.17,
+      "text": "Hello?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 3.43,
+      "end": 4.41,
+      "text": "Hi there!"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 4.15,
+      "end": 8.8,
+      "text": "Hi, hi, I'm doctor Jacob and welcome to Babylon. Hello."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 8.84,
+      "end": 10.39,
+      "text": "I, uh"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 9.37,
+      "end": 15.28,
+      "text": "Hi. So just before we start, is it alright if you could confirm your full name for me please?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 15.66,
+      "end": 19.34,
+      "text": "Uh, [inaudible] , that's, uh, John Jones."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 19.19,
+      "end": 21.01,
+      "text": "And your date of birth."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 21.77,
+      "end": 28.26,
+      "text": "Uh, that's, uh, the, twenty ninth of September, nineteen eighty."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 28.5,
+      "end": 31.64,
+      "text": "K. And your email address for me please?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 32.11,
+      "end": 36.9,
+      "text": "Uh, that's, uh, John Jones, at, John Jones dot net."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 37.07,
+      "end": 43.07,
+      "text": "OK. And just to confirm that you're in a secure location, and we can have a confidential conversation."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 43.25,
+      "end": 44.55,
+      "text": "Yep. That's absolutely fine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 44.52,
+      "end": 49.93,
+      "text": "OK. So, you've mentioned on our notes that you're having a bit of a cough and a cold. Is that correct?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 50.49,
+      "end": 61.61,
+      "text": "Yeah, yeah, it's just [inaudible] it's been going on for, like a few days now. Um, sort of like, coughing, and like, [inaudible] general runny nose, and stuff, and, like [inaudible]"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 60.35,
+      "end": 64.41,
+      "text": "[inaudible] is it two to three days, or longer?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 64.56,
+      "end": 74.67,
+      "text": "Little bit, uh about like five days around that, uh, yeah it started like, what day is it today? Uh, yeah [inaudible] the week, it started with the start of the weekend, so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 67.17,
+      "end": 77.01,
+      "text": "Fine. [inaudible] OK. So, so it started off with a cold, did it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 77.62,
+      "end": 90.44,
+      "text": "Yeah [inaudible] just like coughing, and like running nose, and like kind of muscles aching and stuff, like occasional [inaudible] feeling like headache, cold, chills, and things like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 88.79,
+      "end": 96.16,
+      "text": "OK. Important cold, yeah? And, so about your cough, are you bringing up any phlegm at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 92.29,
+      "end": 102.95,
+      "text": "Yeah. No, no, it's like a, it's like a dry cough [inaudible] Sort of like [inaudible] like, almost hacking, hacking kind of like [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 100.94,
+      "end": 108.79,
+      "text": "OK. You're not bringing up any blood, are you? [inaudible] OK. Are you feeling short of breath at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 109.78,
+      "end": 113.38,
+      "text": "No, no, no shortness [inaudible] , like yeah, I'm breathing fine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 113.18,
+      "end": 116.72,
+      "text": "Yeah. So you're not wheezy or [inaudible] rattly noises in your chest."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 117.1,
+      "end": 117.98,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 118.0,
+      "end": 123.63,
+      "text": "OK. Um, right. So what have you taken so far?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 124.52,
+      "end": 135.04,
+      "text": "Uh, so, uh, just like pain killers and such. I mean that I, I, um, in addition to like my normal medication and such. Um, but like"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 133.87,
+      "end": 141.82,
+      "text": "Well you mentioned, uh, you've come to your normal medications but [inaudible] you've mentioned you've taken some painkillers like, would you tell me the names please?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 141.6,
+      "end": 143.07,
+      "text": "I'll just like pass it along."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 143.11,
+      "end": 146.09,
+      "text": "Paracetamol, OK. Any Ibuprofen at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 146.23,
+      "end": 147.03,
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 146.78,
+      "end": 161.22,
+      "text": "No, OK. And also um you mentioned some regular medication. Unfortunately I don't have your medical, complete medical history. So if you could tell me what your medications are, and what you use them for?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 161.61,
+      "end": 172.1,
+      "text": "Yeah, so I take, um, uh, what's it called, it's like metformin. [inaudible] I'm a diabetic, so. And, um, I also, like have, uh, [inaudible] lisinopril ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 171.93,
+      "end": 173.81,
+      "text": "Lisonopril, OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 173.36,
+      "end": 175.92,
+      "text": "Yeah, but the [inaudible] like slight blood pressure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 175.78,
+      "end": 180.22,
+      "text": "Yeah, OK. And, how long have you been a diabetic for?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 180.69,
+      "end": 185.44,
+      "text": "Um, like a, a few years, maybe five or six years."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 185.2,
+      "end": 191.44,
+      "text": "Five six years, OK. OK. Do you monitor your blood sugars at home?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 192.38,
+      "end": 193.18,
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 193.04,
+      "end": 195.8,
+      "text": "OK. And how have they been doing at the moment?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 196.18,
+      "end": 200.29,
+      "text": "Uh, no issues [inaudible] nothing like out of the ordinary there."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 199.82,
+      "end": 209.26,
+      "text": "OK. So there's no problems with your blood pressure control at the moment, even though you're not, OK so that's fine. That's absolutely fine. And when was the last time you took your blood pressure?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 210.4,
+      "end": 213.0,
+      "text": "Uh, I've been this morning."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 212.7,
+      "end": 215.82,
+      "text": "This morning. And what was it? What was the readings like?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 215.73,
+      "end": 219.85,
+      "text": "I can't remember off the top of my head, but it was [inaudible] within the normal range."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 219.16,
+      "end": 234.17,
+      "text": "Cool, 'cause there's nothing alarming yeah? No more. OK. That's fine. OK. So that seems all right. OK. So, um, can I, hypothetically, look into your mouth here?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 234.42,
+      "end": 235.11,
+      "text": "Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 234.99,
+      "end": 254.98,
+      "text": "Yeah? [inaudible] Yeah, [inaudible] so, uh, looking into your mouth Um, you know, there's just a bit mild redness at the back of your throat. Um, there's no enlarged tonsils. Can you feel any glands around your neck, at all? No. No."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 253.19,
+      "end": 256.07,
+      "text": "No, [inaudible] I haven't had anything like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 256.15,
+      "end": 292.56,
+      "text": "OK. So, it looks like, it's just a viral infection. Um, because it's just a [inaudible] cold and a cough. There's nothing there. And generally if you have things like a chest infection, you would have a bit like a wheeze or shortness of breath. So, um, things that we would recommend is you can use the, you know, Night Nurse, Day Nurse. It's still OK with your medications, yeah. So I'm, I'm sure that you are a bit wary to use them. But it's still OK with your current medication. You can still use that. Might be able to make you feel a bit more better quickly."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 283.31,
+      "end": 283.96,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 292.56,
+      "end": 313.7,
+      "text": "If there's any change, like you're feeling short of breath or be your symptoms are lasting more than three weeks or something Or you're becoming poorly, uh, things like that, then you need to get in touch with us, then probably we might need to examine you and [inaudible] especially your chest. But I don't think so, that's necessary at this point in time"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 314.22,
+      "end": 315.89,
+      "text": "OK, that sounds good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 315.48,
+      "end": 317.73,
+      "text": "OK. Any questions at all ?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 318.04,
+      "end": 322.53,
+      "text": "Uh, no, I [inaudible] I think that's been very helpful thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 322.19,
+      "end": 335.69,
+      "text": "OK. So just to round up, just use the night, Night Nurse, Day Nurse, if any change in your symptoms, like shortness of breath, wheezy, or symptoms are lasting more than three weeks, then get in touch with us."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 335.27,
+      "end": 338.29,
+      "text": "OK, so I don't need any prescription, or anything like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 337.2,
+      "end": 344.46,
+      "text": "No, no you don't need anything at the moment. OK. Take care, then. Bye. [inaudible] Bye bye."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 339.81,
+      "end": 343.45,
+      "text": "OK. Thank you very much, bye!"
+    }
+  ]
+}

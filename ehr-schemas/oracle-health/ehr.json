@@ -1,0 +1,24 @@
+{
+  "key": "oracle-health",
+  "name": "Oracle Health (Cerner)",
+  "writePath": "fhir",
+  "writableResources": [
+    "DocumentReference",
+    "Condition",
+    "AllergyIntolerance",
+    "Observation"
+  ],
+  "noteType": "progress-note",
+  "noteContentType": "text/plain;charset=utf-8",
+  "noteDocStatus": "final",
+  "author": "Practitioner/REPLACE_WITH_SIGNING_PROVIDER",
+  "contextPeriodEnd": true,
+  "verifiedOn": "2026-11-10",
+  "sources": [
+    "https://docs.oracle.com/en/industries/health/millennium-platform-apis/mfrap/rest-endpoints.html",
+    "https://docs.oracle.com/en/industries/health/millennium-platform-apis/mfrap/op-condition-post.html",
+    "https://docs.oracle.com/en/industries/health/millennium-platform-apis/mfrap/op-observation-post.html",
+    "https://docs.oracle.com/en/industries/health/millennium-platform-apis/mfrap/op-medicationrequest-post.html",
+    "https://fhir-ehr-code.cerner.com/r4/ec2458f2-1e24-41c8-b71b-0e701af7583d/metadata"
+  ]
+}

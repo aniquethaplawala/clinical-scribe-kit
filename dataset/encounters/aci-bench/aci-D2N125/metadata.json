@@ -1,0 +1,22 @@
+{
+  "encounterId": "aci-D2N125",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N125",
+  "split": "clinicalnlp_taskB_test1",
+  "collectionMode": "aci",
+  "chiefComplaint": "Right-sided facial pain",
+  "secondaryComplaints": [],
+  "patient": {
+    "age": null,
+    "gender": "male"
+  },
+  "turns": 54,
+  "wordCount": 1226,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

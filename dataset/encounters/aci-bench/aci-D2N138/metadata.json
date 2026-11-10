@@ -1,0 +1,24 @@
+{
+  "encounterId": "aci-D2N138",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N138",
+  "split": "clinicalnlp_taskC_test2",
+  "collectionMode": "virtscribe",
+  "chiefComplaint": "follow up for asthma; allergic rhinitis; food allergy",
+  "secondaryComplaints": [
+    "none"
+  ],
+  "patient": {
+    "age": 20,
+    "gender": "female "
+  },
+  "turns": 117,
+  "wordCount": 2207,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

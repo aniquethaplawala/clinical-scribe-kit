@@ -1,0 +1,25 @@
+{
+  "encounterId": "aci-D2N072",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N072",
+  "split": "valid",
+  "collectionMode": "virtassist",
+  "chiefComplaint": "right finger pain",
+  "secondaryComplaints": [
+    "constipation",
+    "hx appendectomy"
+  ],
+  "patient": {
+    "age": 48,
+    "gender": "female"
+  },
+  "turns": 49,
+  "wordCount": 577,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

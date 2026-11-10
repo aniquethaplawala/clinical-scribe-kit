@@ -1,0 +1,280 @@
+{
+  "encounterId": "aci-D2N137",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Morning Christine, nice to see you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nice to see you too."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So I know my nurse told you a little bit of-... Um, about Dax and I'm gon na tell Dax a little bit about you, if that's okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Go for it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, great. Um, uh, this is Christine. She's a 63-year-old female patient. You're here for your routine, um, yearly exam. Um, I know you have a history of high blood pressure and you've had some depression in the past. And I also know you did have a carpal tunnel release done about two years ago. Um, how have you been doing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I've been doing well. Um, the depression standpoint is doing great. I've been using, um, the medication you prescribed me last time and going to therapy every week. And that's really helped me manage."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And you're sleeping well at night? And everything's been going well from that standpoint?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I've been getting a full eight hours."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And no thoughts of hurting yourself or anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, good. Um, and, um, I- I know you've had some high blood pressure in the past. Have you been checking your blood pressure?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I have. It's been a little bit up and down-"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Lately, I haven't had a normal, um, normal reading- reading in a couple of weeks. Um, it's either been high or low. Um, hasn't really stayed put."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hasn't really stayed put?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And, um, you've been talking your medication though, right?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, I have."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "My diet's been a little all over the place. I have been really stressed with work and putting in more hours, so you know, it has been hard. I have not had time to go to the grocery store, let alone prepare and cook meals. So, I have been eating a lot of frozen meals."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That type of thing."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And have you had any headaches or swelling or anything like that that's been abnormal?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I have some headaches but I just thought that was looking at a computer screen all day."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, well, that's fair."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, exactly."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay good. And, um... I know my nurse did a review of systems. Other than what we've just talked about, has there been anything else that you wanted to add to that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, my carpal tunnel release has been doing well. On, uh, we did that, I think it was two years ago now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, on my right, um, wrist, and that's been great."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Great, great. No numbness or tingling in your hands?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Fingers? Okay, good. All right, well, um, lem me do a quick exam if that's okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Deep breath. Squeeze my fingers for me. Feel me touch you here?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yup."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Can you touch down here?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Can you push your leg out? Push this one up. Pull it back. Yeah, good. Okay. So on my exam, um... Your exam's essentially normal, your lungs are clear, are-... You don't have any adenopathy in your neck, you don't have any, um, uh, hyperthyroidism. Um, your heart is regular without any murmurs. Um, your grips are equal, neurologically intact, strength is good, pulses are good. So overall, um, your exam is fine. Let's take a- a look at some of your labs and vital signs."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey dragon, show me the blood pressure. Okay, so here in the office today it is a little bit elevated, okay? So your blood pressure is a little bit high. So the results, um, do show that. Um, hey dragon, show me the labs. Okay, so good news is is your- your labs are all essentially normal, so the results of your labs are essentially normal, okay? So... Um, my assessment is that your-... You do have hypertension still. Um, and I think we need to increase your blood pressure medicine a little bit, okay? So I'm gon na increase your lisinopril to 10 milligrams a day, just once a day, um, but I'm gon na increase that a little bit, okay? And then want you to check it and I'm gon na have you come back in a month and we'll see how you're doing with regards to that, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, your second problem is your dep- depression, you're doing great, I don't wan na change anything at this point. Let's just stay-... We'll change one thing with your high blood pressure-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So I don't wan na change any other medications at this point in time, so let's just leave that as it is."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And then your third problem was your carpal tunnel. That seems to be doing well. If you notice any tingling or any changes or you get some of those symptoms back, just let me know. Okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. Anything else I can do for you today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, that's it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Great. Uh, lem me get you checked out."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey dragon, finalize the report."
+    }
+  ]
+}

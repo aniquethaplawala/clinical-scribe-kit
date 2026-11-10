@@ -1,0 +1,22 @@
+{
+  "encounterId": "aci-D2N067",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N067",
+  "split": "train",
+  "collectionMode": "aci",
+  "chiefComplaint": "Right knee injury",
+  "secondaryComplaints": [],
+  "patient": {
+    "age": null,
+    "gender": "female"
+  },
+  "turns": 95,
+  "wordCount": 1445,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

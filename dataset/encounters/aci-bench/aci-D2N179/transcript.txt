@@ -1,0 +1,36 @@
+Clinician: Patient mrn: abc123. Date of birth: january 1st, 1960. Patient is a 60 year old, right-handed male, referred today for evaluation of numbness and tingling. Hello, mr. Cook. How are you doing this morning?
+Patient: Hi, dr. Martinez. This weekend was a bit rough. I've had this numbness and tingling for a few weeks now.
+Clinician: So it's in both of your hands?
+Patient: Yes, ever since my car wreck last december when I broke them... Well, once they healed, I mean, I noticed it more, the tingling and the numbness.
+Clinician: And you still wear the splint only on the right wrist?
+Patient: No, I also wear the left sometimes. The right is just worse, but the splint helps. Both have really gotten worse over the last month. When I broke them, my right wrist was definitely in worse shape. I've also been having some s- mild stiffness in my neck too. I hit my head during the accident, and they told me it was a contusion.
+Clinician: And where would you say the tingling and numbness is?
+Patient: On this side, it goes from here and here up to about here. On the other side, it's from here to here.
+Clinician: I see. So on the right side, you're pointing from the middle and ring finger, all the way up the forearm. And on the left, the symptoms extend from the pinky and ring finger. And is there any pain or just tingling and numbness?
+Patient: Eh, it's mainly just sore. Sometimes they throb, but overall, they feel weaker too, especially when I'm using them. The tingling happens more when they hurt, but when it goes away, the tingling is dull.
+Clinician: And when do you feel these symptoms?
+Patient: Well, really, I guess, just more so at night, and they come and go throughout the day.
+Clinician: Okay. And do you experience any loss of sensation in your hands or fingers?
+Patient: Like, feeling something? No, not that I can really think of. Though, in general, they may be less sensitive than they should be, but I can still feel. They also gave me some nerve pain medicine, but I haven't been taking it like I should.
+Clinician: And are you still on the coreg for hypertension and the lexapro for anxiety?
+Patient: Yes, I'm still taking those. I had prediabetes too, but I got it under control by changing my diet.
+Clinician: And no history of thyroid issues, correct?
+Patient: Nope.
+Clinician: All right, thank you, mr. Cook. Okay, first, we'll go over your review of systems. Correct me if I'm wrong in any of this. Constitutional, you have fatigue and weight gain; gi, you have excessive appetite and bloating; eyes have floaters; cardiovascular shows shortness of breath and leg swelling; endocrine, you're always hungry; skin, you have some nail bed changes, dryness, itching; musculoskeletal, you have gout and muscle pain. And the remainder of the review of systems is negative.
+Patient: Yep, that's all correct.
+Clinician: All right, we're going to go ahead and do the neurologic examination. Let's look at the right hand first. Can you feel this?
+Patient: Yeah, but a little less on these two fingers.
+Clinician: Sensation is normal, except pin prick sensation diminished in third and fourth fingers on the right. And how about on the left?
+Patient: Um, yeah, but these two a little less.
+Clinician: Sensation is decreased in the fourth and fifth fingers on the left Okay, let's test your reflexes now. Reflexes are 1+ and symmetric; 2+ knees; toes are downgoing bilaterally. All right, I'm going to tap on your right wrist. Do you feel anything?
+Patient: Yeah, it feels like a zing up my wrist and something into my elbow too.
+Clinician: And how about the left side?
+Patient: Yeah, same on that side too.
+Clinician: Tinel sign positive at both wrists and both elbows. Rest of exam is normal. All right, so what I am seeing today is bilateral carpal tunnel syndrome or, potentially, this could also be bilateral cubital tunnel syndrome. However, your symptom presentation suggests car- bilateral carpal syndrome, as the nerve in your wrists are aggravated by your past trauma. This is causing the pain and tingling you were describing to me.
+Patient: Okay, so how do we make it better?
+Clinician: First, I want to determine exactly where the nerve irritation is coming from. We'll need to schedule you for a nerve test, which is called an emg test. They will measure the responsiveness of your nerves to truly pinpoint where you are having your issues.
+Patient: That sounds fine to me.
+Clinician: Great. After the tests are complete, you can return here for a follow-up visit. If you're still having symptoms, we can consider a referral to our hand clinic, possibly for injections or carpal tunnel release se- surgery. You could also refer... We could also refer you to an orthopedist for the same treatment.
+Patient: Sounds good, doc.
+Clinician: All right, keep wearing your splints, and I will see you after those studies.
+Patient: Thank you.

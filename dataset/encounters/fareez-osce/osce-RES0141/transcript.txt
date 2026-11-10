@@ -1,0 +1,82 @@
+Clinician: How can I uh, help you today?
+Patient: Hi, so I just came in today because I've been just been feeling um, like my head's just been hurting for the past three or four days and I also felt really cold throughout the day for the last few days as well, so, um, I did end up checking my temperature just yesterday afternoon and it was um, 38.7 degrees celsius.
+Clinician: Okay, um. Tell me about the headache, where exactly is it?
+Patient: Yeah so it's kind of just throughout like the front of my forehead and it kind of goes to the side into my temple.
+Clinician: And what does it feel like?
+Patient: It feels like a constant aching. I've had uh, migraines before, but they like, it's not like the pulsating sensation that I usually get with them.
+Clinician: I see. Uh, okay, and how severe is the pain, if you had to rate it from 1 to 10?
+Patient: Um, more than like severe. It's definitely less severe than my migraines, but it, it's just constant. It's, it's just been there for the last four days and I would say probably a 6 out of 10.
+Clinician: Did you do anything for the pain? Did you take any medications? Anything that makes it better?
+Patient: Yeah, I took a Tylenol, I took um, Advil. It helps for like a few hours and then it just comes back.
+Clinician: And anything that makes the pain worse?
+Patient: Um, I definitely think just, if I rest, it's better if, but if I'm like, like I can't, I can't concentrate on work or like anything.
+Clinician: Okay. Um, and other than the, um, the fever and headaches, have you um, had any um, cough?
+Patient: No, no cough.
+Clinician: Runny nose or congestion?
+Patient: No.
+Clinician: Sore throat?
+Patient: No, not really.
+Clinician: Changes in your sense of smell?
+Patient: Uh, I do actually feel like I, like I am losing my smell today.
+Clinician: And sense of taste?
+Patient: I just had breakfast today so um, breakfast was okay. I didn't, uh, but yeah, definitely sense of smell.
+Clinician: Okay, and any difficulties breathing?
+Patient: No.
+Clinician: Okay, any chest pain?
+Patient: No.
+Clinician: Um, do you feel like your heart is racing?
+Patient: No.
+Clinician: Any diarrhea or constipation?
+Patient: No.
+Clinician: Nausea or vomiting?
+Patient: No.
+Clinician: Pain in your belly?
+Patient: No.
+Clinician: Any muscle aches or joint pains?
+Patient: Uh, no, nothing like that.
+Clinician: Okay, um, do you feel like your neck is stiff?
+Patient: No.
+Clinician: Any numbness or tingling in your arms or fingers, or toes?
+Patient: No.
+Clinician: Any um, night sweats or weight loss, unintentional?
+Patient: No, I've only been gaining weight.
+Clinician: Okay. Any fluid in your, any sort of, swelling in your legs?
+Patient: No, nothing like that really.
+Clinician: Okay, um, any medical conditions that you've been diagnosed with?
+Patient: Yes, so I have uh, type 2 diabetes. I was just recently started on metformin medication.
+Clinician: When were you started on metformin?
+Patient: So I think around uh, it's been around two months.
+Clinician: Okay, how is that going for you? Are you tolerating it okay?
+Patient: Yeah I've, I've been tolerating it well. It's just they, they said like I'm kind of just on the edge of the diabetes, like my level, so they just want to act, um, proactively.
+Clinician: Yeah, that's good. Um, any other medical conditions?
+Patient: No, that's, that's all.
+Clinician: Any medications other than metformin that you take? Anything over the counter?
+Patient: Um, so I do take, when my migraines get bad, like I do take, I have taken naproxen before.
+Clinician: Okay. Surgeries?
+Patient: Uh, no surgeries.
+Clinician: Hospitalizations?
+Patient: Uh no.
+Clinician: Okay, any allergies to medications, foods, or any environmental allergies?
+Patient: Not to any medications, but I do have an allergy to peanuts.
+Clinician: Okay, what happens?
+Patient: I do get like a, an anaphylactic reaction.
+Clinician: Okay, okay. Um, and any um, family history of any medical conditions?
+Patient: Uh, so on my dad's side, they like all, like all the men seem to have diabetes, so it's good that I'm starting on the medication. Um on my mom's side, they're pretty healthy. I don't think my mom has any medical conditions.
+Clinician: Okay, good. Um, and do you currently live alone or do you live with other people?
+Patient: Yeah, so I live with my wife, I live with my two kids, a son and daughter.
+Clinician: And um, have you or any of them had any exposures to anyone who could possibly be sick?
+Patient: Um just, uh, so my wife is a school teacher, um, and they did have in-person. Just uh, she's a high school teacher, and they had some they have in-person classes. So yeah, I don't know, but she's been feeling well. My kids are feeling well too.
+Clinician: Okay, and have you traveled anywhere outside the province?
+Patient: No.
+Clinician: Okay, and do you currently smoke or did you ever smoke in the past?
+Patient: No, I've never smoked. I do smoke marijuana just, maybe once or twice a month with some friends.
+Clinician: Okay, any recreational drugs?
+Patient: Sorry, no.
+Clinician: Um, any alcohol?
+Patient: Yeah, I probably drink um, a couple of beers during the weekend.
+Clinician: Okay, got it. Um, alright. Well, given your symptoms, um, we would like to do a COVID swab, just in, or request a COVID swab to be done through public health, um, just to, just to rule it out. Your symptoms do sound like, or overlap with some of the symptoms that are seen in patients who do have COVID. It could be that you have um, just um, just I guess like your headache and fever. Um, I'll also like do a physical exam to see there's nothing else going on. But in the meantime, I, I'd like you to self isolate and stay away from the rest of your family members as well, um, at least until the results are out. And then when the results are out, if it's positive, you'll receive more guidelines from public health as to what you need to do.
+Patient: Okay, sounds good, um, and I work from home, so I don't need to.
+Clinician: Oh that's good. Okay, so you work from home.
+Patient: Alright.
+Clinician: Good.
+Patient: Thank you.

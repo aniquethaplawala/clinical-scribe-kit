@@ -1,0 +1,405 @@
+{
+  "encounterId": "osce-RES0121",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "What brings you here today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah hi, I've had this cough, um, for the past four days and it just can't, it won't go away. So, I was just wondering if, you know, I can get something for it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, so uh, so you've been having the cough for four days. Can you describe the cough a little bit? Is it like a dry cough or wet cough?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, it's dry."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "It's dry, okay. Um, are you coughing up blood at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no blood."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, are you bringing up any, although you're not coughing, are you bringing up any kind of sputum?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no, it's, it's pretty, it's pretty dry."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Um, and any other symptoms at all, besides the cough?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, nothing else."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and have you been sick at all recently with fever, chills, runny nose, um any cold like symptoms?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, you know, a week back I had a runny nose. Um, and sometimes like a stuffy nose, but that went away."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Um, and after that, did you have any fevers at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and has this happened to you before at all? Like a cough lasting more than four days?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, it's happened to me in the past. Um, yeah it, yeah it has. Um, but it's just more bothersome this time cause I'm coughing a lot more."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and is there anything that you've tried that has helped you relieve the cough at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I tried some over-the-counter cough suppressants. Uh, they don't seem to be working too well."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I see, and anything that's making your cough worse at all? No?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you have any other symptoms, like a sore throat, runny nose, headache, anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Have you been around anyone that's sick recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No. Um, have you had any, um have you traveled at all outside of the province or country at all recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nope, not outside the province."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and other than that, are you having any symptoms of, kind of, muscle aches uh, or anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no, no muscle aches. Um, nothing else that I can think of."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, any shortness of breath?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no shortness of breath."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Is the cough like constant, goes on throughout the day, or is there a time that it's worse?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, it's pretty, it's pretty constant."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And do you have any kind of um increased tired, like getting more tired or fatigued?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, any kind of chest pain or feeling that your heart is racing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um no, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, any changes in your bowel movements? Any constipation or diarrhea?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, any um nausea or vomiting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um nope, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, um, any kind of uh, changes in your sleep or appetite?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And um, have you lost any significant weight recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, okay. Um, otherwise, are you healthy? Do you have any medical conditions at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no I don't, I'm otherwise healthy."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Otherwise healthy, okay. Any allergies to any medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any allergies to any environmental, or any environmental factors?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Um, any family history of any medical conditions related to the heart, lungs, any cancers at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh no, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, alright. Um, are you, so, what, what is your living situation like right now?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I live in um, an apartment by myself, I'm a student."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Um, and are you working at all or are you a student seeming?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, I work part time. I work as a barista."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and anyone, anyone in your work environment, or uh in your home environment, or at school that has been sick around you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not that I've heard of, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Um, and other than that, do you smoke at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, no I, well, I used to smoke before. I stopped last year."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Last year, okay. And how long did you smoke for?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I smoked just a couple, like two years."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, yeah. So congratulations, that's a really great thing to do, especially like right now, with the pandemic going on and everything it's, earlier you stop, it's really good."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Besides uh, like smoking, um do you use any recreational drugs like marijuana?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, okay. And how about alcohol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nope, I don't drink too much alcohol. I drink like over the Holidays."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And I forgot to ask you this earlier, but any hospitalization or surgeries in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Nothing like that, okay. Those are all the questions, um, I have for you. Do you have any questions or concerns?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, yeah, what should I do about this cough?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, so this cough, um, it's been going on for the last four days. Since you do have a cough, um and right now that, like, is considered a symptom, like, like a potential symptom for COVID, we definitely want to do a COVID swab test for you, which will come back in 24 hours to 48 hours. You should still try and isolate as much as you can away from any roommates, or family members for the next, so, 14 days since you first experienced the, the cough."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Based on, like, public health will call you as well so you can follow their instructions. And if, it can be anything else too, like, with a cough, there can be multiple things going on. You can have um, like an upper respiratory, viral, or bacterial infection. But since you're not having too many other symptoms right now, it can just be bronchitis. Um, this is something that we'll try and keep an eye on and make sure it's nothing else like, uh pneumonia, for example. But right now, yeah, we'll get that testing done and then just, kind of wait and watch."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure, yeah. Thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You're welcome, take care."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You too."
+    }
+  ]
+}

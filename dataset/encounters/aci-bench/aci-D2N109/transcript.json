@@ -1,0 +1,215 @@
+{
+  "encounterId": "aci-D2N109",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So Stephanie Morales is a 36 -year-old female today complaining of her ankle pain and she also has a history of diabetes and high blood pressure so Stephanie tell me what's going on with your ankle"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well we had a long spring and the other day we got some snow and ice I was walking to my car and I slipped and my left ankle kinda turned underneath me"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and so this happened couple days ago or how many days ago"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Two days ago"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Two days ago okay and so it's your left ankle and it kinda just twisted underneath you on the kind of on the inside"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah more on the it's more on the outside of my hips"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And did you fall down or did you just kind of cut catch yourself"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No I fell"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and were you able to get up afterwards or somebody helped you up"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I was but it was very sore and then started swelling and quite a bit of pain so it's hard to walk"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Sure have you tried anything for pain or the swelling or anything like that"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Ibuprofen some ice and elevation"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay has that helped much or not really"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "A little bit"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and any pain above your ankle does it hurt on your on your calf or your lower leg at all or knee at all"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No it's mostly just the outside of my ankle"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay got it and no bleeding or I'm sure it's a little swollen probably"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah it's swollen but no bleeding"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Well I'll have you take off your shoes in a second we'll examine you in a second but since you're here and I wanted to talk about some of your other things that you know we haven't I haven't seen you in a year so let's talk about your history of diabetes as well are you taking the metformin how's your blood sugars been how how're you managing that any issues with that"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No they've been pretty stable"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So with my diet"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Good"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You're checking your sugars regularly as well"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay your hemoglobin a1c last time I looked at epic was about six. Eight which is really good so I think you're doing a great job we had talked about you know cutting off the sweets and sugars and stuff like that and exercising so it sounds like you're you're you're doing a pretty good job with that have you seen the ophthalmologist recently for your eye exam for your diabetes checkup or no"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I am due for one of those in the next couple of weeks"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright so we'll so you do you already have an appointment or do you need to make an appointment for that"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I have an appointment"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Perfect excellent okay and how is your blood pressure been I know we watching it your blood pressure today looks pretty good it's about one seventy over I'm sorry one twenty over seventy you're taking norvasc any issues with that any do you need any refills or anything"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I need a refill on that yes"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright well let me examine you here for a second so I'm gon na go ahead and do my match exam and I'm just gon na verbalize some of my findings so I can put that into my record okay so your neck exam is fine there is no bruits your lungs are clear your heart exam is normal you do have a two over six systolic ejection murmur you had that in the past unchanged from before so that's not really worried about that your belly exam is good on your ankle exam on your left ankle you do have some tenderness over the lateral malleolus and you do also have some tenderness over this bone here which is the fifth metatarsal so I don't see any there is some swelling there some redness but there is some pain with valgus stressing of your ankle as well and let me turn off my phone here and also you do have otherwise normal sensation normal pulses so on your so my diagnosis for your ankle is I think you probably have an ankle sprain but I would like to order an x-ray of your ankle because you do have some tenderness over this bone and I'm sometimes worried about a fracture so I'm gon na go ahead and get an x-ray I'm gon na put you in a splint we're gon na put you in a in an air splint and I'll give you some crutches until I get the x-ray back I want you to do just avoid weightbearing just to make sure there is no fracture there I will give you some naprosyn five hundred milligrams twice a day for pain control keep it elevated put some ice on it I think those are all good things and if the x-ray shows a fracture I'm gon na go ahead and give you a call back and we'll send you to orthopedics but right now let's try this air splint if there is no fracture I will probably have you take off the air splint and do some partial weightbearing and see how it goes does that sound like a reasonable plan for you"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That's a great plan I need to get back to exercising so"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Thank you"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Perfect and for the diabetes keep the eye appointment that you already have you know continue with the metformin I'm gon na order another hemoglobin a1c today we'll check some baseline labs as well since it's been a while since we checked them and then once if you have any issues or you know give me a call we can get you into the office and for the high blood pressure I'll go ahead and refill the norvasc today you're doing a great job with that it sounds like continue to monitor that if something changes certainly call me we can get you in sooner okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Thank you"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Sounds good sounds good good great seeing you thanks Stephanie"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Thank you"
+    }
+  ]
+}

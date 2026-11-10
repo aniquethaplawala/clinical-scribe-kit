@@ -1,0 +1,53 @@
+Clinician: Hi Evelyn, how are you?
+Patient: I'm good, how are you?
+Clinician: I'm good. It's good to see you.
+Patient: Good to see you too.
+Clinician: So I know the nurse told you a little bit about Dax. I'm gon na tell Dax about you, okay?
+Patient: Okay.
+Clinician: So Evelyn is a 56-year-old female with a past medical history significant for coronary artery disease, prior carpal tunnel release, and a herniated disc who presents for her annual exam. So Evelyn it's been a little while since I've seen you, how have you been doing over the last year?
+Patient: I've been doing okay, um, everything, um, with my herniated disc in my back has been doing really well. I haven't had any, um, back pain, or any, um, limitations in movement, so that's been doing well.
+Clinician: Okay, yeah, I know that we have done a steroid injection for that, uh, a couple of month-, uh, several months ago, so that's- that's doing well?
+Patient: Yeah, it is.
+Clinician: Okay, I'm glad to hear that. And then, how about your carpal tunnel issues, you had that fixed a couple of years ago, so are you having any recurrent issues, or you good, you back to work?
+Patient: I am back to work. I haven't had any issues, and I've had full range of motion, and it's- it feels really good.
+Clinician: All right, so no numbing and tingling in your hands?
+Patient: No.
+Clinician: Okay, that's good. And then, you know, I know that you've had, uh, prior stenting in the past for your- for your heart, and your heart vessels.
+Patient: Mm-hmm.
+Clinician: How are you doing from that standpoint? Have you had any chest pain, shortness of breath, nausea or vomiting?
+Patient: Over the last month I've been having a bit of chest pain, but I haven't had any of the other symptoms you mentioned.
+Clinician: Okay, does the chest pain happen when you walk?
+Patient: Yeah, it does.
+Clinician: Okay, and does it- does it go away if you- if you rest?
+Patient: Yeah, it does actually.
+Clinician: Okay, all right. Do you ever get it just sitting there at rest?
+Patient: No I don't.
+Clinician: Okay, all right. Okay, and- and can you describe it?
+Patient: It's like a burn.
+Clinician: Okay.
+Patient: It it just feels like it's burning, um, nothing terribly concerning, not enough to send me to the er, but I do notice it.
+Clinician: Okay, and where exactly is it located in your chest?
+Patient: Just, um, right in the middle...
+Clinician: Okay.
+Patient: Right here.
+Clinician: Okay. And how often are you getting it?
+Patient: Um, probably about three- three times a week.
+Clinician: Okay, all right. Well I'm glad that you talked about that with me today, um, I know the nurse did a review of systems sheet with you, and, you know, you're obviously endorsing this- this chest pressure. Um, have you had any other symptoms, I know the- the other ones that you haven't had, but any lower extremity edema, or muscle aches, or fever chills?
+Patient: No, nothing like that, but I have had a little bit of congestion, um, just from allergies, because of the pollen.
+Clinician: Okay, so you're endorsing some nasal congestion?
+Patient: Yeah.
+Clinician: All right, well let's go ahead and we'll do a physical exam, okay?
+Patient: Okay.
+Clinician: Hey dragon? Show me the vital signs. So here your vital signs look really good, I'm- I'm happy to see that your blood pressure is under- under good control, and your oxygenation is fine, so I'm just gon na take a listen to your heart and lungs, and I'll let you know if I find anything, okay?
+Patient: Okay.
+Clinician: Okay, so in physical exam your heart has a slight three out of six systolic ejection murmur, which we've heard before. Your lungs are nice and clear, uh, I don't appreciate any carotid bruits, and- and you have no lower extremity edema, you have healed, uh, surgical scars on your- on your, uh, right wrist. Um, so let's go ahead, I wan na look at some of your results, okay?
+Patient: Okay.
+Clinician: Hey dragon, show me the echocardiogram? So this is the echocardiogram from last year, you know, you did have a slightly low pumping function of your heart at 45%, but, uh, I-, you know, I suspected that will improve over time, and you did have some slight, what we call, mitral regurgitation, that's just a leaky heart valve, and that's that murmur that I heard. Hey dragon, show me the ecg? And here, you know, in reviewing your results of your e- ecg, you know, it looks stable, it just kinda reflects your prior coronary artery disease. There's no new changes, which is good, so let's talk a little bit about my assessment and plan for you. So, from your first problem, you know, your carpal tunnel release, I don't think that we need to anything further about that, 'cause you seem to be doing really well, you're back at work, if you have any recurring symptoms, just let me know, and we can take it from there. For your next problem, your herniated disc, that also sounds like your doing really well, I don't think that we need to refer you for any further steroid injection, or physical therapy at this time. So, if you have recurrent symptoms, I want you to let me know. And finally, your last problem, the most concerning problem to me is your known coronary artery disease, and this recurrent chest pain you have. So, I wan na go ahead and continue you on your asprin, and your toprol, okay? I wan na go ahead and order a stress test for you to see if you have more blockages that could be causing this chest discomfort, okay?
+Patient: Okay.
+Clinician: And I'm gon na go ahead and get a lipid panel and, uh, start you on crestor 20 mg, once a day, okay?
+Patient: Okay.
+Clinician: Hey dragon, order a cardiac stress test. Do you have any questions?
+Patient: No, that's it.
+Clinician: Okay, all right. Hey dragon, finalize the note. So, it was good to see you, the nurse will come in, she'll help you get your scheduled for all of those things, and I'll be in touch, okay?
+Patient: Okay.
+Clinician: Take care.

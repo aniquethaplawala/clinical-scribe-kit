@@ -1,0 +1,35 @@
+Clinician: Hi, Joseph. How are you?
+Patient: Hey, I'm okay. Good to see you.
+Clinician: Good to see you. Are you ready to get started?
+Patient: Yes, I am.
+Clinician: Okay. Joseph is a 59 year old male here for routine follow-up of his chronic problems. So, Joseph, how have you been doing?
+Patient: Yeah, I've been kind of managing through my depression, and, uh, my asthma's been acting up 'cause we had a really bad pollen season, and I am at least keeping my diabetes under control, but just, uh, it's just persistent issues all around.
+Clinician: Okay. All right. Well, let's start with your diabetes. So, your diet's been good?
+Patient: Um, for the most part, but we have been traveling all over to different sports tournaments for the kids, so it was, uh, a weekend of, uh, eating on the go, crumby junk food, pizza, and didn't really stick to the diet, so that was a bit of an adjustment.
+Clinician: Okay. All right. Um, but, ha- ha- have you... Let's just talk about your review of systems. Have you had any dizziness, lightheadedness, fever, chills?
+Patient: Running up and down the stairs, it was pretty warm, so I did feel a little bit lightheaded, and I did get a little dizzy, but I thought it was just the heat and the fatigue.
+Clinician: Okay. Any chest pain, shortness of breath, or belly pain?
+Patient: Shortness of breath. No belly pain though.
+Clinician: Okay. All right. And, how about any joint pain or muscle aches?
+Patient: Uh, my knees hurt a little bit from running up and down, and maybe picking up the boxes, but nothing out of the ordinary.
+Clinician: Okay. All right. Um, and, in terms of your asthma, you just said that you were short of breath running up and down the stairs, so, um, do, how often have you been using your inhaler over the past year?
+Patient: Only when it seems to go over about 85 degrees out. That's when I really feel it, so that's when I've been using it. If it's a nice, cool, dry day, I really don't use the inhaler.
+Clinician: Okay. And, um- And, in terms of your activities of daily living, are you able to exercise or anything like-
+Patient: Yes, I do exercise in the morning. I, I ride, uh, our bike for probably about 45 minutes or so.
+Clinician: Okay. All right. And then, your depression, you said it's... How's that going? I know we have you on the, on the prozac 20mg a day. Are you taking that? Are you having a lot of side effects from that?
+Patient: I was taking it regularly, but I've kind of weened myself off of it. I thought I felt a little bit better, but I think, uh, I, I kinda go through battles with depression every so often.
+Clinician: Okay. All right. Are you interested in resuming the medication, or would you like to try a different one?
+Patient: I, maybe adjusting what I'm currently taking, maybe l- less of a dose so I don't feel the side effects as much, but I, I'm willing to try something different.
+Clinician: Okay. All right. Okay, well, let's, let's go ahead and we'll do a quick physical exam. So, looking at you, you're in, in no apparent distress. I'm feeling your neck. There's no cervical lymphadenopathy. Your thyroid seems not enlarged. And, listening to your lungs, you do have some bilateral expiratory wheezing that's very faint, and your heart is a regular rate and rhythm. Your abdomen is soft, and uh, your lower extremities have no edema. So, let's go ahead and look at some of your results. Hey, dragon, show me the pfts. Okay, so your, your pfts, that, those are your breathing studies, and those look quite good, so I know that you're wheezing right now, but, um, you know, I think that we can add, add, um, a regimen to that to help, to help you with your, um, exacerbations during the, the summer months, okay?
+Patient: Okay.
+Clinician: And then, let's look at your... Hey, dragon? Show me the hemoglobin a1c. Okay, so your a1c, you're right, you know, over the past couple months is, you know, your blood sugar's probably been running a little high, so, you know, I know that you're gon na get back on your diet regimen, but, um, for right now, let's go ahead and we'll increase your metformin, okay?
+Patient: Okay.
+Clinician: Um, and then, hey, dragon? Show me the chest x-ray. Okay, good, and your chest x-ray looks fine, so we know that there's no pneumonia there.
+Patient: Mm-hmm.
+Clinician: And, it's just is all just from your asthma. So, you know, my impression of you at this time, you know, from a diabetes standpoint, let's, let's increase the metformin to 1,000 mg twice a day. Um, and, we will get a repeat hemoglobin a1c in three months, and I want you to continue to monitor your blood sugars at home. From an asthma standpoint, let's continue you on the albuterol, two puffs, uh, every four to six hours as needed, and we'll add symbicort, two puffs twice a day during the summer, to kind of help prevent those exacerbations. And then, from a depression standpoint, we'll go ahead and start you on a different medication, zoloft, um, 25 mg once a day and see how you tolerate that. Does that sound okay?
+Patient: Perfect.
+Clinician: All right. So, the nurse will be in soon, and she'll get you situated with all of that, okay?
+Patient: Great.
+Clinician: It was good to see you.
+Patient: Same here.
+Clinician: Hey, dragon? Finalize the note.

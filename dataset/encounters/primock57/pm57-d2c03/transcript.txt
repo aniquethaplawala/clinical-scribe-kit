@@ -1,0 +1,82 @@
+Patient: Hello?
+Clinician: Hi there. Good morning!
+Patient: Hi. [inaudible] . Nice to meet you. Hello.
+Clinician: Hello. I, I'm Doctor [inaudible] . Nice to see you. Hi. Um, so, before we start your appointment, could I confirm your full name and date of birth, if that's OK?
+Patient: Uh, yeah. Uh, Mary Richards. Uh, and my, I'm forty years old. So.
+Clinician: You're [inaudible] OK, fine. So, you're [inaudible] you're forty years old, you said, yeah? Perfect, OK. Um, are you in a private place where you're OK to speak at the moment?
+Patient: Yep.
+Clinician: OK, great. Um, so how can I help you today?
+Patient: Um, so, just been having some, um, problems with my hearing, I can't really hear very well, and my , noticed that my face has been feeling a bit numb recently.
+Clinician: Right, OK. OK. And how long has this been going on for?
+Patient: Um, it's been, it's been a few weeks now. Um, been about three weeks or something.
+Clinician: Right, OK. And, is this just on one side, or both sides?
+Patient: Just one side, just on my left side, I've noticed that the hearing's kind of gone down a bit.
+Clinician: Right, OK. And [inaudible] your face feeling numb, where exactly is that? Which part of your face? Can you, can you show me with your finger?
+Patient: Yeah, so again it's the left side, it's kind of like around my left ear, and kind of, along here. So like, my jawline's just all feeling a bit numb round here.
+Clinician: Right, OK. OK. Um, has anything else happened, um, in this time? Any other symptoms you have at all?
+Patient: Not that I, not that I've noticed, [inaudible] . I think, occasionally noticed a, ringing in my ear. Um.
+Clinician: Some, some ringing in your ear. OK.
+Patient: [inaudible] , yeah it's [inaudible] .
+Clinician: Sure, OK. Um, and um, have you had any weakness or numbness, down the, in the rest of the body at all?
+Patient: No, no, no, no, nothing like that.
+Clinician: OK. Have you had any difficulty swallowing?
+Patient: No.
+Clinician: And, have you had any difficulty speaking?
+Patient: No, no.
+Clinician: Have you noticed any problems with your vision, at all?
+Patient: No, that's all good.
+Clinician: OK. Uh, and do you have the numbness present right now?
+Patient: Uh, yeah. It kind of, kind of, there quite often, so, all the time. So yeah, right now it feels very, doesn't feel like when I touch this side of my face.
+Clinician: Sure. Sure, OK. Alright, um, just going back to the kind of [inaudible] feeling in, in the ear, um, do you have any discharge coming from that ear at all?
+Patient: No, nothing, nothing coming out.
+Clinician: K. Any pain in the ear, or from the ear?
+Patient: Uh, no, don't think so.
+Clinician: Right, OK. And um, have you had any fever at all?
+Patient: No, nothing like that.
+Clinician: And, do you, um, have any itchiness in the ear? Do you use cotton [inaudible] buds to kind of clean your ears out?
+Patient: Pardon? Ohh, no, no, no, don't use cottons buds, [inaudible] like that.
+Clinician: No. Alright. OK. Alright. Um, [inaudible] need to, need to ask a few other general questions. Um, do you have any other illnesses at all?
+Patient: Um, I've, well I've got kind of, been told I have polyps in my nose in the past and, occasionally get them kind of [inaudible] . Um, that, that's all fine and, you know I take a Rennie's if I need to, and if my nose polyps are playing up I've got a spray. Um. Other than that I think they said, ages ago, I had something called, can't quite remember but, labyrinthitis, something like that, but again, nothing, nothing ongoing.
+Clinician: Sure. Sure, OK. So, are you on any regular medication? You mentioned the spray for your nose.
+Patient: Yeah, so, no, uh, I only take the, spray for my nose when I need it for, and um, sometimes take [inaudible] like Rennies, but I just get that from the chemist.
+Clinician: Sure. [inaudible] and, and the spray for your nose, where do you get that from? Is that from a doctor?
+Patient: Uh, yeah, they gave me a prescription ages ago.
+Clinician: Yeah. Do you remember the name of the spray, at all?
+Patient: Unfortunately I don't, sorry.
+Clinician: [inaudible] that's alright. That's alright. Uh, and you're not on any other medication at all?
+Patient: No.
+Clinician: No, OK. Do you have any [inaudible] , any allergies to any medication?
+Patient: Uh, no just Latex.
+Clinician: Latex, OK. Alright, that's good to know. Um, and um, in terms of your family, are there any kind of illnesses within your family at all?
+Patient: My brother had, Neurofibromatosis, I think it is. Um, other than that everyone else is OK.
+Clinician: Right, OK. OK, good. That's good. Um, and in, in terms of your own kind of background now, are you, are you working at the moment?
+Patient: Yeah, so I'm a, I'm a jockey, um, but, because of all the kind of, these symptoms I've been getting, especially sometimes when I get a ringing, I can feel a bit dizzy. Ohh, I've just had to do far less training. So, kind of beginning to, yeah, impacting work, um, a little bit now.
+Clinician: OK. So you have to excuse my ignorance, you mean, jockey like with horses? Is that what you're talking about? Yeah. Alright, OK. Fine. Um, great. Um, uh, and, uh, do you live alone?
+Patient: Yeah, yeah. Um, I, uh, live with my partner.
+Clinician: Uh, OK. Right, um, do you have any pets at all at home?
+Patient: No, no pets.
+Clinician: OK, fine. OK so, alright. Um, Is there anything else that you wanted to tell me about what's been [inaudible] going on, recently?
+Patient: Uh, no, just like, like I said, like the ringing um, occasionally and, when I get that I can sometimes feel a bit dizzy but, the main thing is really the, lack of hearing, and the numbness that's got me [inaudible] like, yeah, no idea what's going on there.
+Clinician: OK, fine. Alright. Um, So, [inaudible] , what I think [inaudible] , go on.
+Patient: I mean, there was just like, there was one thing I think just, 'cause I can panic and you can look online, [inaudible] get a bit, frantic. [inaudible] , I guess what I'm trying to think is, you know, is there something particularly serious that, you know, will need to be sorted and. Obviously, really, anything can just make you really frantic [inaudible] . Hopefully nothing [inaudible] , so serious I will die from it, I don't know I just, I think got myself in a pickle.
+Clinician: OK. [inaudible] so um, uh, obviously we're limited in terms of assessment via the video, uh, portal.
+Patient: Mmm.
+Clinician: [inaudible] um, from what you've told me, this doesn't seem to be you know, anything um, that you're gonna die from. However, I would like you to be assessed in a clinic today.
+Patient: OK.
+Clinician: OK? I [inaudible] ,would like you to come to one of my clinics. I would like a GP to assess you. [inaudible] what you're, what you're describing might be something called Bell's Palsy. OK? Um,
+Patient: OK. Yeah.
+Clinician: We can go into that, explaining what that is, if um, if that's confirmed on, on physical examination. But um, that's not usually a [inaudible] life-threatening problem.
+Patient: OK.
+Clinician: But, um, part of the reason why I'd like you to come in, it's just that we can do a, a what we call a, a neurological examination just to make sure there's nothing else going on, and confirm [inaudible] that might be the diagnosis. Have a look, have a look inside the ear, see if there's any, [inaudible] , anything to see within the ear.
+Patient: OK.
+Clinician: So, um, um, so, in answer to your question. No, I don't think that you need to worry about that, I [inaudible] , think you know [inaudible] , preliminarily I can, I can reassure you.
+Patient: OK.
+Clinician: However, [inaudible] , in order to definitively reassure you, I, I think you need a physical examination today, OK. [inaudible] , so what I wanna do, is I'm gonna send a message to our admin team, I'll ask them, to book you in for a face-to-face appointment in one of our clinics.
+Patient: Mm-hmm. Yeah, that's fine. OK.
+Clinician: Um, within Central London. OK, and then you can ring the [inaudible] , the support team number, I'll leave that number in your notes. And you can ring them after five minutes, and then they'll slot you in to a place that's convenient for you, OK.
+Patient: OK. Yeah. [inaudible] , that's fine.
+Clinician: All right. So, someone [inaudible] will see you, and hopefully you will be able to reassure further but, please make sure the appointment gets done today.
+Patient: OK, yep, I will do, that's fine. Thank you very much.
+Clinician: All right then. OK. Nice to see you. Take care.
+Patient: Bye bye.
+Clinician: Bye.

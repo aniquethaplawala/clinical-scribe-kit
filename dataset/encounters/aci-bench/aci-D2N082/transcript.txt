@@ -1,0 +1,53 @@
+Clinician: Alright
+Patient: You're ready just
+Clinician: Ready
+Patient: Hi Kyle how are you today
+Clinician: I'm doing well I'm just anxious about my pcp told me that I had some abnormal lab work and why she wanted me to be seen by you today
+Patient: Yeah I bet that did make you nervous I I see that she referred you for a low immunoglobulin a level is that your understanding
+Clinician: Yeah I mean I don't even really understand what that means but yeah that's what she told me
+Patient: Yeah that's a mouthful
+Clinician: Yeah
+Patient: It it's the the one of the antibodies in your body and that that really makes that your body makes to fight infections it's a little bit low I'm happy to explain it a little bit more to you I just have a few more questions okay so let's start again here
+Clinician: I'll do this
+Patient: I I think I would break that
+Clinician: Yeah I just saw that
+Patient: If you can do that
+Clinician: Okay
+Patient: Yeah so we'll we'll just
+Clinician: Okay
+Patient: You can leave it the way it is for now I just I think break that up
+Clinician: Okay alright so yeah that sounds fine for me
+Patient: Yeah I do you know why she checked these levels in the first place that you've been having problems getting frequent infections
+Clinician: Yeah yeah I had a recent physical and she did this as part of her my physical I do tend to get infections but I don't know I I'm so used to it so I don't know if this is more than usual in the wintertime I get a lot of colds and they do seem to I always say that my colds kind of linger for a long time but I don't know if it's more than usual
+Patient: Okay how about any abdominal infections
+Clinician: Diarrhea no
+Patient: Frequently
+Clinician: No not that I can not that I say can think of
+Patient: Okay what about your family are are anyone in your family that you know have immune deficiencies
+Clinician: No my family is actually pretty healthy
+Patient: Okay and how about do you have any other medical conditions
+Clinician: Yeah my pcp just started me on metformin I just got diagnosed with type two diabetes
+Patient: Okay okay yeah diabetes your family your family owns that donut shop right I mean down at the end of the street
+Clinician: Yes and that's probably part of the cause of my diabetes yes
+Patient: Yeah well I guess you're gon na have to watch that
+Clinician: I know I know
+Patient: But you know everything in moderation I mean just you know you just need to be careful you can't doesn't have to go away
+Clinician: Right
+Patient: But have you ever needed to receive a blood transfusion or blood products
+Clinician: No I actually tried to give blood but they I didn't qualify because I had recently traveled internationally
+Patient: Okay where did you go
+Clinician: I was in zambia
+Patient: Hmmm I heard that's beautiful
+Clinician: It's so beautiful it's so beautiful I had a great time
+Patient: Okay well let me let me go ahead and do a physical examination here I reviewed your vitals you know that the the assistants collected when you first came in including your weight and everything looks good there there is no fever there there is nothing that I'm concerned about there now on your heart exam you have a nice regular rate and rhythm and I don't appreciate any murmurs that's kind of those extra sounds that I would hear and that that all sounds good on lungs lung exam your lungs are clear there's no wheezes rales or rhonchi now on your neck exam I don't appreciate any lymph lymphadenopathy swollen lymph glands and then let me just go ahead and I wan na press on your belly a little bit is that tender anywhere that I press it doesn't seem like you making any facial
+Clinician: No
+Patient: No okay so your you know your abdominal exam is your belly is soft there is no tenderness as I I push around there now I did review the results of your recent lab work and it is consistent as as your pcp noted with an iga deficiency that's that immunoglobulin a that we talked about so let me tell you a little bit about the assessment and plan so for your first problem the that a iga deficiency is it very common immunodeficiency your your body makes many different types of antibodies in one of your z iga is just a little bit lower than normal now most of the time people live their entire life without even knowing they have that deficiency and function perfectly normal now some people may find that they get tend to get frequent respiratory tract or sinus or abdominal infections but this doesn't necessarily seem to be the case for you now it can go along with other immunodeficiencies but I think there is a low likelihood hood in your case but we're gon na order some additional blood work that includes checking those other antibodies now do you have any questions on what I just told you
+Clinician: Yeah so is there anything I need to do or should be watching for or should I be worried
+Patient: No I I really don't think you need to be worried now we're gon na check these additional studies and that will give us some more guidance but really I think this is just a finding that's common to you and you know it it's many people have have have these type of you know immunodeficiency what I want you to watch for is those infections that don't stop you have trouble getting it under control or you know any changes to your abdominal tract you know severe diarrhea
+Clinician: Anything like that then you know we may want to look at it a little bit further but for now I don't think there is anything significant we want to do now go ahead and get your lab work and
+Patient: Bring you in for that now the only other thing that I would say is if you eat end up needing any blood products between now and when I see you next make sure you tell them that you have that iga deficiency
+Clinician: Why is that
+Patient: Well there is a risk that your body can strongly react to some blood products and they just need to know that so they're prepared so anytime you get blood just make sure you say that you have a history of a an an iga deficiency
+Clinician: Okay okay thank you
+Patient: You're welcome
+Clinician: Okay

@@ -1,0 +1,26 @@
+{
+  "encounterId": "aci-D2N001",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N001",
+  "split": "train",
+  "collectionMode": "virtassist",
+  "chiefComplaint": "annual exam",
+  "secondaryComplaints": [
+    "congestive heart failure",
+    "depression",
+    "hypertension"
+  ],
+  "patient": {
+    "age": 50,
+    "gender": "female"
+  },
+  "turns": 55,
+  "wordCount": 1291,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

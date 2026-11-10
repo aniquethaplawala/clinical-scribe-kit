@@ -1,0 +1,72 @@
+Clinician: Hi miss Russell.
+Patient: Hi-
+Clinician: Nice to meet you-
+Patient: Doctor gutierrez. How are you?
+Clinician: I'm well.
+Patient: Good.
+Clinician: Hey dragon. I'm seeing miss Russell. She's a 39-year-old female here for, what are you here for?
+Patient: It's my right upper arm. It hurts really, really bad.
+Clinician: So severe right upper arm pain.
+Patient: Yeah, uh yes.
+Clinician: And how did this happen?
+Patient: I was playing volleyball yesterday, uh last night. Um and I went to spike the ball, and the team we were playing, they're dirty. So um, somebody right across from me kinda kicked my legs from under me as I was going up, and I fell and landed on my arm.
+Clinician: Mm-hmm, like right on your shoulder.
+Patient: Yeah.
+Clinician: Ow.
+Patient: Yes.
+Clinician: That sounds like it hurt.
+Patient: It was nasty.
+Clinician: Um, so this happened, what? Like 12 hours ago now?
+Patient: Uh, seven o'clock last night, so a little more than that.
+Clinician: Okay.
+Patient: Eighteen hours.
+Clinician: So less than a day.
+Patient: Yeah.
+Clinician: In severe pain.
+Patient: Yes.
+Clinician: Have you taken anything for the pain?
+Patient: I've been taking ibuprofen every six hours I think, but it's really not helping at all.
+Clinician: Okay, what would you rate your pain?
+Patient: It's like a nine.
+Clinician: Nine out of 10?
+Patient: Yeah.
+Clinician: So like really severe?
+Patient: Yes.
+Clinician: Have you used any ice?
+Patient: No, I haven't.
+Clinician: Okay. And do you have any medical problems?
+Patient: I have gallstones.
+Clinician: Okay. Do you take any medicine for it?
+Patient: Pepcid.
+Clinician: Okay. And any surgeries in the past?
+Patient: Yes, I had a lumbar fusion about six years ago.
+Clinician: Okay.
+Patient: Um, yeah.
+Clinician: All right. Let's uh, let's look at your x-ray. Hey dragon. Show me the last radiograph. So this is looking at your right arm, and what I see is a proximal humerus fracture. So you kinda think of your humerus as a snow cone, and you knocked the-
+Patient: The top of the snow cone?
+Clinician: The top off the snow cone. Um, so I'll be gentle but I want to examine your arm.
+Patient: All right.
+Clinician: Okay.
+Patient: All right. All right.
+Clinician: All right. Are you able to straighten your arm?
+Patient: Yeah, I can just straighten the elbow as long as I don't move up here.
+Clinician: As long as you don't move your shoulder.
+Patient: Yeah.
+Clinician: Go ahead and bend. Okay. So your exam is generally normal, meaning that the rest of your body is normal
+Clinician: But you've got some swelling and erythema-
+Patient: Yeah.
+Clinician: . On that right shoulder. You've got uh, tenderness over your right shoulder. You've got normal pulses, and everything else is normal. Any numbness or tingling in that right arm?
+Patient: No.
+Clinician: Okay. Um, so what we're going to have to do- the good thing about um, these kinds of fractures is generally, they will heal up without surgery. Um, but we have to put you in a sling that weighs your arm down and pulls it down. So we're going to put you in a long arm cast and a sling, and then we're gon na check you in two weeks to see if those bones have realigned and if they haven't, then we're gon na have to talk about doing surgery at that time.
+Patient: Okay.
+Clinician: I'm going to prescribe you some pain medicine. We'll do lortab 500- lortab 5 milligram. Um, you can take one to two tablets every uh, six hours as needed for pain. I'll give you 20 of those.
+Patient: All right.
+Clinician: And um, do you have any allergies to medicines? I didn't ask.
+Patient: No, I don't have no allergies.
+Clinician: Okay. Um, hey dragon, go ahead and order any medications or procedures discussed. Um, do you have any questions for me?
+Patient: No, I don't.
+Clinician: Okay, great. Why don't you come with me, we'll get the tech to put the cast on.
+Patient: Okay.
+Clinician: And we'll get you checked out.
+Patient: Thank you.
+Clinician: Hey dragon, finalize the report.

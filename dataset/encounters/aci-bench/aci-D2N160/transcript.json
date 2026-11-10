@@ -1,0 +1,235 @@
+{
+  "encounterId": "aci-D2N160",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey good to see you philip so I see here you're coming in you had some right elbow pain also you have a past medical history of hypertension diabetes we are gon na check up on those as well so can you tell me what happened to your elbow"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure I hurt it about a week ago playing lacrosse with my kids just suddenly started hurting me when I was throwing the ball"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay okay so how old are your kids"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "My oldest is thirteen and the other one is ten I was playing with a thirteen -year-old"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay yeah I know I I play with my kids sometimes and I think I'm getting too old to do all that so I just I've hurt myself before as well alright so with your your elbow what part of your elbow would you say hurts"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's really like right at the point of the elbow right at right at like the tip of it"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And it just it hurt hurts anytime I move it"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Anytime I move it do you remember falling"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No I don't think so but my kid got pretty rough with me and was checking me several times with a sick"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So I could have got hit there"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright yeah that that that definitely makes sense so how would you describe the pain is it like a dull pain is it stabbing what what would you say"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It it's a pretty sharp pain"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Anytime I move"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and does it radiate down your arm or does it stay in that one spot"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It radiates down the forearm"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Radiates down the forearm alright so have you taken any medications for it to make it better"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I tried taking advil couple of days but I usually just forget about it"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay when you took it did it did it help at all did it change your your pain score"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I I think it helped some"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay that's good alright so we'll we'll do a physical exam on that elbow we'll take a look at it in a second but I do wan na talk to you about your your hypertension you came in today I know you have past medical history of hypertension came in today your blood pressure's a little bit high it was a one fifty over seven over ninety which is pretty high today I see you're on twenty of lisinopril have you been taking that daily"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay so maybe you just have a little little white coat syndrome I know I have that myself and even though I'm a physician I I still don't like to go to the doctor so I definitely understand how about your diet I know we talked a little bit about that before and you said kinda during the pandemic you fell off a little bit how you been doing that have you been lowering your salt intake"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah but I only eat low salt items avoid adding salt to food kind of the whole whole family follows like a you know like a mediterranean diet"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "We try to be pretty good about it"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay yeah that's good that that's that's definitely good yeah I know a lot of people during the pandemic it was you know sitting at home and and eating more than we should but that's I'm very happy that you've been compliant and you have that low salt diet so let's talk about your diabetes I think you see here on on five hundred of metformin are you taking that as well daily"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and your blood sugars how have they been"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Since I don't take insulin I don't check it everyday when I have checked it it's usually running somewhere between eighty to a hundred"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay yeah that's that's really good yeah so I that's that's pretty good so what we're gon na do we're gon na get a a1c just to see you know that range and it's possibility we can we can you know lower that metformin dosage but we will do that after your visit then we will take a look at that so lem me go ahead and will do that quick exam of your elbow but first I want to make sure you're not having any chest pain or anything like that"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No belly pain"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright so listen to your lungs so your lungs are clear bilaterally listen to your heart so your heart exam you do still have that grade two out of six systolic ejection murmur but we know it about that before so let me take a look at your elbow so when I press right here on the back of your elbow is that painful"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright so when I have you you you flex and extend it it's painful does that does that hurt"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes it does"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright so your right elbow exam shows you have pain to palpation of the olecranon area of the posterior elbow you do have mild pain with flexion and extension but you do have also normal range of motion at that elbow so we we did do an x-ray before you came in and luckily nothing's broken no fracture no bony abnormality so it's a normal x-ray which is really good so let me just talk to you a little bit about my assessment and plan for you so you have a elbow contusion I believe your son did hit you with the lacrosse stick and it caused that that pain I see some swelling little inflammation there as well you have a little bit of a bruise I think that's that's what happened so for that I know you're having some pain I'm gon na prescribe you eight hundred milligrams of ibuprofen you can take that twice a day and that should help with some of that swelling and pain I also want you to ice it three times a day for twenty minutes at a time that should also help with the swelling and pain and just for the time being for the next couple of weeks just you know maybe you know not play lacrosse with your son just to help that heal then you can get back on on the field so for your your high blood pressure we're just gon na keep you on the hypertension we'll just keep you on that twenty milligrams of lisinopril looks like you're doing great with that and your diet and then for your diabetes we will keep you on the five hundred milligrams of metformin and we will also get a a1c just to check your levels and see if we do need to adjust the medication in the future alright so do you have any questions for me"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No sounds good"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright so we will see you next time and my nurse will be in with those prescriptions"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Alright thank you"
+    }
+  ]
+}

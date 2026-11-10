@@ -1,0 +1,89 @@
+Clinician: What brings you in here today?
+Patient: Hey, I just, um, I just kind of came in to talk about my stuffy nose. It's yeah, it's been a problem for, I don't even know how many years it's always been there. And now that school is a little less busy and things are virtual and have more time, I decided I'll get something done, um, to get it fixed.
+Clinician: OK, and how long has this been going on for?
+Patient: Since I was young, um like maybe years, couple years.
+Clinician: OK, and then do you like how often are you getting the stuffiness? Is it like every day? Is it during the day at night? When do you usually get it?
+Patient: It's kind of uhm, it's kind of all the time, to the point that I've somewhat gotten used to it. And it's just my, it's only on the left side and it's just always kind of stuffy. Initially I would have trouble falling asleep 'cause it would, I would just find it a little bit bothersome, but now I'm kind of just used to it.
+Clinician: OK, and so it's just on the left side. It never moves to the right side.
+Patient: Well, like sometimes when I get ill its on both sides, but usually it's on the left side.
+Clinician: OK, and so you have stuffiness. But do you ever get any kind of discharge or drainage from your nose?
+Patient: Sometimes I get a little bit bleeding.
+Clinician: Are you, OK. Um, bleeding? Is it blood mixed into the discharge or drainage? Or is it like you get nosebleeds?
+Patient: I get nosebleeds like maybe yeah. Like maybe when I'm exercising or something I'm like at the gym. Uhm, fom doing the gym class. Yeah, yeah when playing with my friends.
+Clinician: OK, and how often do you get these nose bleeds?
+Patient: Uhm? Maybe once a month or once in two months.
+Clinician: OK. And umm, and is there any, do you have any other symptoms? So like, do you have any pressure, sensation in your face around your jaw, cheeks, forehead?
+Patient: No.
+Clinician: No, so OK. And do you find yourself having more congestion when you wake up?
+Patient: Uhm? Not really, maybe a little bit.
+Clinician: OK, so it's not worse when you're lying flat or anything like that?
+Patient: No.
+Clinician: OK, um, and do you find that you have to constantly clear your throat at all throughout the day?
+Patient: Uhm, no.
+Clinician: OK, and do you at all feel that some stuffiness drains back into your throat at all anytime during the day?
+Patient: I don't think so, no.
+Clinician: So it's just the congestion that's been going on for quite some time and does it change with the seasons at all?
+Patient: No, it's just there all the time. Like I can't even tell. This is like my normal now, but my mom said I should get it checked out.
+Clinician: OK, uhm. Have you tried anything for it like either medications or the neti pot or steaming and has anything helped you at all?
+Patient: I tried steaming but it didn't do much. It kind of got better. Maybe for an hour maybe, but then yeah, it didn't do much.
+Clinician: OK, and otherwise, are you having any other symptoms like fever, chills, cough, sore throat, anything like that?
+Patient: No.
+Clinician: Are you having any loss of sense of taste or smell?
+Patient: Uhm, no.
+Clinician: Any shortness of breath at all?
+Patient: No.
+Clinician: OK, uh. And otherwise, any recent travel or in contact with anyone who's been sick?
+Patient: Uhm, no.
+Clinician: Have you previously been diagnosed with any medical conditions?
+Patient: No, I'm pretty healthy.
+Clinician: And do you know if you have any allergies to any medication?
+Patient: Uhm, no, no allergies to medications.
+Clinician: OK, and any allergies to any environmental issues like factors that cause more stuffiness, sneezing, itching, red eyes, runny nose anything like.
+Patient: I'm allergic to cats.
+Clinician: Cats? OK.
+Patient: But I haven't been around one for awhile.
+Clinician: OK, uh, anything else like in your house or environment like carpets, dust, like anything that might irritate, give me more irritation?
+Patient: No, not really.
+Clinician: OK. So it's just a cat that you know, but you haven't been around. Do you have any other animals at home?
+Patient: Uh no, I don't.
+Clinician: No OK. Do you have any headaches at all?
+Patient: No.
+Clinician: Any changes in your bowel movements?
+Patient: No.
+Clinician: Any urinary problems?
+Patient: Nope.
+Clinician: Has this affected your sleep or appetite?
+Patient: I snore at night sometimes, but that's, that's about it.
+Clinician: OK, and do you snore, would you say most nights or is that something like has someone told you that?
+Patient: My mom told me and sometimes I, I sleep with my mouth open.
+Clinician: I see, OK. And do you know how long you've been doing this for?
+Patient: Uhm, again, it's been like months or years.
+Clinician: OK. And do you ever get, do you ever wake up at night trying to take a breath like just gasping for air?
+Patient: No.
+Clinician: OK. Have you ever had any surgeries or hospitalizations before?
+Patient: No.
+Clinician: Yeah, OK. On any family history of any heart or lung conditions.
+Patient: Uhm, just heart disease.
+Clinician: OK, then who has it? Or who had it?
+Patient: My my dad. My dad has, had a heart attack and my mom has high blood pressure.
+Clinician: OK. And how old was your dad when he had a heart attack?
+Patient: He was 50 years old.
+Clinician: 50 years old? Ok.  And I'm currently right now, uh, are you a student? Do you work?
+Patient: I'm a student.
+Clinician: And what's your living situation like?
+Patient: I live with my parents.
+Clinician: Ok. And do you smoke at all?
+Patient: No.
+Clinician: OK, have you ever smoked?
+Patient: No no no.
+Clinician: Uh, any, any recreational drugs like marijuana?
+Patient: Oh God no, never.
+Clinician: No? Ok. And do you drink alcohol?
+Patient: No.
+Clinician: OK, and how, how's your home environment? Do you generally feel safe in your home environment as well as outside of your home?
+Patient: Oh yeah, it's great.
+Clinician: Ok. So yeah, so mainly yeah. So there's all the questions I had for you. Do you have any questions or concern?
+Patient: Nope.
+Clinician: Ok so there can be many different reasons for this chronic congestion and we'll do a full physical examination for you today. Uh and some of the possible things that can be happening is you might be having a sinus issue like a chronic sinusitis. You can be having an allergic rhinitis or with the snoring and just the chronic congestion. You may be also having something called obstruct, obstructive sleep apnea. And there can be structures in your mouth, throats that can cause you to kind of obstruct and snore at night as well, and that even the congestion might cause that as well. So yeah, we'll do a couple test first and then if required, we might need to do some imaging and even perhaps send you to an EMT specialist if we think it's obstructive sleep apnea there. For now, we'll just do the physical examination to go from there.
+Patient: Great, thank you.
+Clinician: Welcome, take care.

@@ -1,0 +1,127 @@
+Clinician: Patrick Allen. Date of birth: 7/7/1977. New patient visit. Past medical history includes gerd, anxiety, depression. Here for chronic abdominal pain. He had an abdominal ct on 1/23/2020. Impression is a normal ct of the ab- abdomen. Hello, are you mr. Allen?
+Patient: Yes, I am.
+Clinician: Hi. My name is dr. Edwards. Nice to meet you.
+Patient: Nice to meet you.
+Clinician: Welcome to the gi specialty clinic.
+Patient: Thank you.
+Clinician: Did you have any problems finding us?
+Patient: No, I've been here with my sister once before.
+Clinician: Good. So how can I help you today? Uh, the referral I have is for abdominal pain and diarrhea.
+Patient: Right. So I've had... I've been having this pain right here in my stomach, like right around here.
+Clinician: So in the area of your mid abdomen, just below the belly button?
+Patient: Correct. I've had the pain on and off for about two years. I finally went to the er and a... A few months ago and they did a ct scan.
+Clinician: I saw that.
+Patient: Yeah. They said they didn't really see anything on the scan.
+Clinician: Yes, I agree. It looked normal.
+Patient: The problem is I'm either constipated or have explosive diarrhea.
+Clinician: Is the pain there all the time?
+Patient: It's a nagging feeling and it just depends. Sometimes it bothers me, sometimes it doesn't.
+Clinician: Has this been the case over the past two years as well?
+Patient: More recently in the past couple months, at least with the constipation and diarrhea.
+Clinician: And before that, how are your bowel movements?
+Patient: They were normal.
+Clinician: Uh, okay. So any blood in your stool?
+Patient: Nope.
+Clinician: Do you feel like you have more constipation or diarrhea?
+Patient: Probably more constipation.
+Clinician: Okay, so when you're constipated, do you not have a bowel movement or is the stool hard?
+Patient: I usually don't go, but when I do, it's hard.
+Clinician: And how often do you have a bowel movement when you are constipated?
+Patient: About three to four times a week. It's like when I need to go to the bathroom, if I can massage it, it feels like it's moving some and I can eventually go.
+Clinician: Okay. And when you have a bowel movement, does the pain change?
+Patient: Yeah, it gets a little better.
+Clinician: And are you eating and drinking okay? Any nausea or vomiting, heartburn or indigestion?
+Patient: None of that.
+Clinician: Okay. So tell me about the diarrhea, how often do you get it?
+Patient: It kinda just depends on what I eat. I think I have a very sensitive stomach. If I eat pasta with a creamy sauce, I'm probably gon na have diarrhea.
+Clinician: Okay. And it doesn't happen for multiple days in a row or is it just one time?
+Patient: It's usually just one time and then it's over.
+Clinician: And how's your weight been? Any fluctuation?
+Patient: Nice and pretty stable, although I could stand to lose about 25 pounds.
+Clinician: Okay. And is there any family history of gi issues that you know of?
+Patient: Not that I can think of. Well, actually my sister does have problems with her stomach too. She has irritable bowel syndrome and that is kind of what I always thought I had even thought I've never been diagnosed with it.
+Clinician: Okay. And is there any family history of gi cancer or liver disease?
+Patient: Nope.
+Clinician: Have you ever had any surgeries on your abdomen?
+Patient: I've never had any surgery.
+Clinician: Okay, so your gallbladder, appendix, all those are still intact?
+Patient: Yup.
+Clinician: And have you ever had a colonoscopy?
+Patient: No. I thought that happen when you turn 50.
+Clinician: Well, that's for colon cancer screening, but there are other reasons to have a colonoscopy, like unexplained abdominal pain and changes in bowel habits.
+Patient: Okay.
+Clinician: Well, come have a seat here and lay back so I can examine you.
+Patient: Okay.
+Clinician: I'm gon na start by listening to your belly with my steth- stethoscope. And I hear bowel sounds in all four quadrants.
+Patient: What does that mean? Is everything okay?
+Clinician: It just means that I can hear little noises in all areas of your belly, which means your bowels are active and working.
+Patient: Okay, good.
+Clinician: So now, I'm going to push on your upper and lower abdomen. Let me know if you have any pain.
+Patient: It hurts a little when you push right there on the left side, near my belly button.
+Clinician: Okay. I do feel stool in your lower colon, which would coincide with constipation, but I also feel a slight enlargement of your liver here on the upper right side. Have you had any lab work done recently?
+Patient: Yes, I have a physical about four months ago and they... I had blood drawn then.
+Clinician: Okay. And did your primary care physician say anything about the lab results?
+Patient: He said I had some very slightly elevated liver enzymes, but we would recheck them in about six months.
+Clinician: And you remember what enzymes were elevated, alt, ast, alp?
+Patient: He said the alt and the ast were elevated.
+Clinician: And do you take any medications, either prescription or over-the-counter?
+Patient: I take crestor and olmesartan daily and then tylenol for occasion- occasional pain.
+Clinician: And how frequently do you take the tylenol?
+Patient: Hardly ever. Maybe once a month.
+Clinician: And do you consume alcohol?
+Patient: Uh, yes, but only a couple of beers after working in the yard on saturdays.
+Clinician: Okay. And no previous history of heavy alcohol or drug use?
+Patient: Nope.
+Clinician: And have you had any recent issues with excessive bruising or bleeding?
+Patient: Nope.
+Clinician: And how about any issues with your ankles or feet swelling?
+Patient: No.
+Clinician: Okay. I'm gon na take a look at your eyes and skin. I don't see any jaundice.
+Patient: What would cause that?
+Clinician: Issues with your liver. Let me take a quick listen to your heart and lungs.
+Patient: Okay.
+Clinician: Lungs are clear, bilateral heart sounds are normal, no murmurs, gallops, or rubs noted.
+Patient: That's good.
+Clinician: Yes. The rest of your physical exam is normal other than what seems to be an increased stool burden in your colon and a slight hepatomegaly.
+Patient: What's that?
+Clinician: Increase stool burden means that there's a lot of stool sitting in your colon.
+Patient: And that's the constipation, right? But what about the other thing?
+Clinician: The hepatomegaly means the liver is enlarged.
+Patient: But you said mine was slightly enlarged?
+Clinician: Correct.
+Patient: So what does that mean?
+Clinician: Well, let's talk about what we found and then some possible next steps if you're in agreement.
+Patient: Okay.
+Clinician: So as I said, the hepatomegaly means your liver is enlarged.
+Patient: Could that be why my stomach is hurting and I'm having issues with the constipation and diarrhea?
+Clinician: No, I think you're constipated and have occasional bouts of diarrhea because of certain foods you eat. And we can get you started right away on a fiber supplement that should help with that.
+Patient: So what about my liver? Why is it enlarged?
+Clinician: Well, there are many reasons why people can have an elevated liver enzymes and also enlarged liver. Some possible causes are certain medications that can be toxic to liver, alcohol abuse, fatty liver disease, hepatitis, cirrhosis, and other liver diseases like wilson's disease.
+Patient: So what do I need to do?
+Clinician: Well, I think since it's been about four months since your blood work was done, we should check your liver enzymes in addition to a few other labs.
+Patient: Okay. And then what?
+Clinician: We will get those drawn today and then depending upon the results you may need an ultrasound of your liver. I think we need to talk about your medications too.
+Patient: Which medications?
+Clinician: Crestor, how long have you been taking that?
+Patient: About 18 months.
+Clinician: Okay. Well, crestor is one of the medications that can cause liver toxicity so it may be a good idea to discuss other alternatives.
+Patient: Should I talk to my primary care or can you change it?
+Clinician: I would recommend calling your primary care and discuss that with him since he follows you for your blood pressure and cholesterol.
+Patient: Okay. I'll call him this afternoon.
+Clinician: Great. I also think we should go ahead and get you scheduled for a liver ultrasound. If your blood work looks good, then we can always cancel that.
+Patient: Okay. When do you think I'll be able to get the ultrasound done?
+Clinician: Hopefully, within the next two weeks. You will receive a call from the radiology scheduling this afternoon to get it set up.
+Patient: Okay. And then what happens?
+Clinician: When I get the results from the test, I will contact you. And depending upon what we find, we'll come up with our next steps.
+Patient: And when should I see you again?
+Clinician: Uh, let's schedule an appointment when you check out to return in four weeks. We'll discuss how you're doing with the fiber supplement and your constipation and review test results to determine if we need to do further testing on your liver.
+Patient: Okay. Is there anything else I can do to help with these issues?
+Clinician: Definitely refrain from drinking any alcohol, increase your water intake to at least 48 ounces a day in addition to taking the fiber supplement to help with your constipation. And be mindful of eating foods that you were sensitive to so you can avoid the bouts of diarrhea.
+Patient: Okay. And I'll talk to my primary care about my crestor.
+Clinician: Excellent. And do you have any other questions for me?
+Patient: I don't think so.
+Clinician: Great. So remember when you check out the front desk, schedule follow-up appointment with me for four weeks and then go to the lab to get your blood work drawn.
+Patient: Okay. Sounds good.
+Clinician: And expect a call from radiology scheduling about setting up your ultrasound.
+Patient: All right. Thanks, dr. Edwards.
+Clinician: Thank you, mr. Allen.

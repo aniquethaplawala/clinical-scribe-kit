@@ -1,0 +1,25 @@
+{
+  "encounterId": "aci-D2N160",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N160",
+  "split": "clinicalnlp_taskC_test2",
+  "collectionMode": "aci",
+  "chiefComplaint": "right elbow pain ",
+  "secondaryComplaints": [
+    "hypertension",
+    "diabetes"
+  ],
+  "patient": {
+    "age": null,
+    "gender": "male"
+  },
+  "turns": 44,
+  "wordCount": 1164,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

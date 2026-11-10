@@ -1,0 +1,215 @@
+{
+  "encounterId": "aci-D2N092",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hello, mrs. Martinez. Good to see you today."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hey, dr. Gomez."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey, dragon, I'm here seeing mrs. Martinez. She's a 43-year-old female. Why are we seeing you today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, my arm hurts right here. Kind of toward my wrist. This part of my arm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So you have pain in your distal radius?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How did that happen?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, I was playing tennis, and when I went to hit, um, I was given a, a backhand, and when I did, I m- totally missed the ball, hit the top of the net but the pole part. And, and it just jarred my arm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And did it swell up at all? Or-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It did. It got a... It had a little bit of swelling. Not a lot."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And, um, did, uh, do you have any numbness in your hand at all? Or any pain when you move your wrist?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "A little bit when I move my wrist. Um, no numbness in my hand."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Do you have any past medical history of anything?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, yes. Allergic, um, l- I have allergies. And so I take flonase."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And any surgeries in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes. I actually had a trauma of, um, a stabbing of, um... I actually fell doing lawn work-"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "On my rake."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I was wondering where you were going to go with that."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Great. So, let's take a look at, uh, the x-ray of your arm. Hey dragon, let's see the x-ray. Okay, looking at your x-ray, I don't see any fractures, uh, don't really see any abnormalities at all. It looks essentially normal. Great. Let me examine you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Does it hurt when I press on your arm here?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. How about when I bend your arm?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. That's pretty tender,?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How about when I go backwards like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not as much."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And how about when I flex like this?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "A little."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "But mostly when I do that type of motion?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, great. So, um, you have pain following hitting your arm on the net. On your exam, you definitely have some tenderness over your distal radius, um, on your arm. You have pain when I stress especially your thumb, and, and flex your thumb. So, I think what you have is basically just a strain and maybe a contusion to that muscle, from hitting it. Um, you certainly don't have a fracture. I think at this point, we're really going to treat it actually conservatively. We'll have you use ice, um, uh, for the, the pain and swelling. And some anti inflammatory. Um, what we'll do is give you some motrin, 800 milligrams three times a day, with food. Um, if it doesn't get any better in the next week or so, let me know, and we'll take a look at you again."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, great. Hey dragon, go ahead and order the procedures, and the medications as discussed. Why don't you come with me. Dragon you can finalize the note."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Thank you."
+    }
+  ]
+}

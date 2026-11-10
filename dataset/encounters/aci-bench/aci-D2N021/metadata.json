@@ -1,0 +1,25 @@
+{
+  "encounterId": "aci-D2N021",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N021",
+  "split": "train",
+  "collectionMode": "virtscribe",
+  "chiefComplaint": "hypothyroidism ",
+  "secondaryComplaints": [
+    "weight loss",
+    " acne"
+  ],
+  "patient": {
+    "age": 39,
+    "gender": "female "
+  },
+  "turns": 129,
+  "wordCount": 2317,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

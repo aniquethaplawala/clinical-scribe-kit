@@ -1,0 +1,44 @@
+Clinician: Morning Roy, how are you doing?
+Patient: Hey, good to see you.
+Clinician: So, my nurse told you a little bit about Dax? So, if you don't mind, I'm going to tell Dax a little bit about you today.
+Patient: Perfect.
+Clinician: Great, great. So, Roy is a 50-year-old male patient who comes in with a history of depression, you had some, um, high blood pressure and some hypertension. So, tell me how have you been doing?
+Patient: Sure. So it's been a, a pretty stressful winter and spring. And, uh, we've been onboarding a couple new employees and we have been pretty short-staffed in the meantime.
+Clinician: Um, any changes in, um, weight gain or anything like that?
+Patient: Probably for the last month or so, we've been hosting some friends over vacation, and on... You know, at the beach in the summer, so the diet is off the charts.
+Clinician: Okay. Okay. Gotcha, gotcha.
+Patient: Out the window.
+Clinician: Out the window. Okay. And, um, now I know you've had a history of depression. You're on zoloft, uh, 50 milligrams a day. Have you been doing okay with that?
+Patient: Uh, for the most part. Again, it's been kind of a challenging year-and-a-half or so.
+Clinician: Sure.
+Patient: So I have my bouts. But I- it- it's under control.
+Clinician: Okay. Uh, sleeping okay at night?
+Patient: Mm-
+Clinician: Occasionally?
+Patient: I, I could use more sleep like everybody.
+Clinician: Okay.
+Patient: But, uh, I'll, I'll usually wake up at about 5:00 in the morning.
+Clinician: Okay.
+Patient: Which is a little early.
+Clinician: Uh, no feelings of, uh, you want to hurt yourself or anybody?
+Patient: No, no.
+Clinician: Okay, good, good. And, um, your high blood pressure, um, that's been under relatively good control recently. Have you found that? Your blood pressures have been okay?
+Patient: Yes. That's why this is a little concerning to me, because of the, uh, recent, the recent readings.
+Clinician: Okay, gotcha. Gotcha. Okay. So, um, if you don't mind, I'm going to do a quick exam. Okay?
+Patient: Sure.
+Clinician: Okay. So, um, on my physical exam, your lungs are clear. Your heart is, is regular. You do have a grade two systolic ejection murmur. We've had that before, so nothing new-
+Patient: Mm-hmm.
+Clinician: . There. Um, and not clinically relevant at all. Um, your extremities are normal, no edema. Um, you have put on a c- a, a little bit of weight.
+Patient: Okay.
+Clinician: I want you to get back on that diet.
+Patient: Okay.
+Clinician: Because that's the key. Right?
+Patient: Okay.
+Clinician: As far as your high blood pressure, not going to change anything there. Okay? We'll just leave you on your lisinopril 5 milligrams a day, that's good.
+Patient: Okay.
+Clinician: That's also good for your kidneys, so everything, everything good... Is good there. Your third problem is your depression. Been a rough year. Some of that's just normal reactive stuff. So I think we'll just keep you where you are at. Not going to change the zoloft. Do you need a refill on your zoloft?
+Patient: Uh, actually I do.
+Clinician: Okay. Hey dragon, order a zoloft 50 milligrams daily. We'll get that refilled for you. Okay? So, um, I'd like to see you back in about a month, an- and then in about, uh, three months Okay.
+Patient: A1c, if everything's getting back on track. Okay? Anything else I can do for you today?
+Clinician: No. That should do it.
+Patient: Okay. Come with me, we'll get you checked out. Hey dragon, finalize the note.

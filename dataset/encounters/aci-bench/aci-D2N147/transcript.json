@@ -1,0 +1,305 @@
+{
+  "encounterId": "aci-D2N147",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hi Matthew how are you the medical assistant told me that you injured your shoulder"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hey yeah I'm I'm hanging in there"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "What happened"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah so well when I was younger I used to be a little bit more active with my friends with the playing"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Pick up football and so you know me being a little bit older now I thought I'll take back up with no problem well I did I tried and all the other guys were a little bit bigger than me so I got I got tackled a couple of times and it just"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I kinda landed on my shoulder a little bit weird one time and so like I got back into the game I was okay but yeah ever since then the past couple of days it's just been it's been really bothering me"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright and so when exactly did this happen"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I'd say maybe it was probably about last weekends so I'd say about like four days ago"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay well I'm happy at age 67 you're out there playing tackle football so good good for you and was it your right shoulder or your left shoulder that you injured"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It was my right"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and are you right or left handed"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm right handed"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and have you had any numbing or tingling in your fingers at all"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No fingers have been okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and any problems with the strength of the arm at all are you able to grab a cup of coffee"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I hand's doing okay I can grab yeah I'm just trying to avoid lifting anything yeah anything anything anything a little bit too heavy like I had a chipment command so I had a box in the driveway the other day and reaching down and picking up the box was a little tough"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and where exactly on your shoulder does it hurt"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah it's kinda on the on the back side right right around here"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mm-hmm okay alright and are you able to lift up your shoulder so that your shoulder touches your ear at all"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah no that's that's that's hurting a little bit"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright and what have you taken for the pain"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Just a little bit of tylenol trying to take it easy"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Did that help at all"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It it kinda like kept it at the same spot that has been but it really didn't make it go down"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay so are your symptoms any better since it happened or they about the same"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No they are about the same"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and any neck problems did you injure your neck when this happened"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No neck has been okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and any other joint problems like does your elbow hurt on that side or your wrist or is it just your shoulder"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nope the the rest of it's doing okay it's just the just the shoulder"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and any other orthopedic injuries in the past have you ever injured that shoulder before as far as you know"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nope nope that one that one's been fine"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and any any other surgeries or any other medical problems"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I mean I had a appendicitis so I had an appendectomy"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Maybe like three four years ago but that's about it"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright well I'm just gon na go ahead and do a quick physical exam I'm gon na be calling out my exam findings I'll let you know what that means so and last thing have you had any fever or chills since this happened at all"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "A slight headache but no no no fever"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay did you hit your head when you when this happened"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "A little bit"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright did you pass out"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nope nope stayed conscious throughout"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright well looking at your vital signs here in the office you don't have any fever your blood pressure looks quite good it's about one twenty two over seventy six your heart rate is appropriate at eighty two beats per minute and your oxygenation is ninety five percent on room air on your cervical spine exam there is no tenderness to palpation of the cervical spine there is full range of motion on head exam there does not appear to be any trauma there is no ecchymosis or bruising on the right shoulder exam on your musculoskeletal exam there is pain to palpation of the posterior shoulder at the acromioclavicular joint there is decreased abduction and adduction to about ninety degrees only there is there is a he has pain with supination and pronation of the right arm and there is a palpable radial radial artery pulse okay so what does that mean that just means that you have some you know evidence of the injury there and we'll we're gon na talk about that so I had the nurse do a shoulder x-ray on you before I came in the room and the results of your right shoulder x-ray showed that you have an acute acromioclavicular joint fracture so you just have a a a small fracture of the acromion I don't think that it it's gon na be anything that we need to do surgery for so let's just talk a little bit about my assessment and plan so for your right shoulder injury for your acute acromioclavicular joint fracture I wan na go ahead and just put you in a sling for now I wan na go ahead and prescribe meloxicam fifteen milligrams once a day I wan na go ahead and just order a cat scan of your right shoulder just to kinda get a better look of how the joint looks and we're gon na go ahead and refer you to physical therapy to strengthen your shoulder in hopes of avoiding surgery in the future how does that sound"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah that that sounds great just being able to take a little bit of something for the pain would would would be really appreciated"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay do you think you need something stronger than meloxicam"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No I'll give that a shot"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And see how that goes"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay any questions"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "When can I get back out on the field"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Well you can't play taggle football for a while you have to have this fracture healed"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And I would avoid doing it you know as we get older you know our bones get a little bit weaker so I would avoid the tackle football maybe flag football in the future okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah yeah that sounds good"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay anything else"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No I think that's that's been great thank you so much"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay you're welcome have a good day bye"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Thanks"
+    }
+  ]
+}

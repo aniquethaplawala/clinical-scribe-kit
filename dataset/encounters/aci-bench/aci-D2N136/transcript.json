@@ -1,0 +1,240 @@
+{
+  "encounterId": "aci-D2N136",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hi Janet, how are you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Good, how are you?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I'm good. Uh, are you ready to get started?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. So, Janet is a 33-year-old female, here for some, some joint paint. What, what joint's been bothering you, Janet?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's been mostly, um, my knees, actually. I've been doing more stair type workouts, which I thought was, you know, building muscle, uh, on my knees and supposed to help."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "But in turn it, it really hasn't, so my knees have been really bothering me."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. And is it one knee versus the other? Or both equally?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's both equally."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And have you been having any other joint pain like, elbows or shoulder, or anything like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, but I, I should mention that like, I had a rotator cuff repair about two years ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, but I haven't had any problems since that point."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and what shoulder was that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That was my right shoulder."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, all right. And, um, any pins and needles in your feet at all? Any swelling in your legs?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, but it would be something though I look out for often, just because I have diabetes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and your blood sugars have been under control?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, they have been."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And have you had any fever or chills?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Any nausea or vomiting, chest pains, shortness of breath?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, but I do have high blood pressure, um, but I, I monitor that and I've been taking medication for that, and that hasn't elevated, um, in any way since the joint pain."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. So, yeah, I see on here that you do take norvasc, five mg a day and you've been taking that every day-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Um, and, um, so let's go ahead and do a quick physical exam on you. So, hey dragon, show me the blood pressure. Your blood pressure's actually pretty high today, so you might be a little nervous here, which is not uncommon."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, so, looking at you, your, your neck is nice and soft, there's no enlarged thyroid. Your heart has a regular rate and rhythm. Your lungs are clear. Your abdomen is nice and soft, but looking at your knees, on your left knee you do have a slight erythema and edema. There is a small efusion present over your left knee. Um, you have some decrease flexion and extension of your knee, but your strength in your lower extremities is good. Uh, so let's go ahead and look at some of your results. I know that we did some x-rays when you came in."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey dragon, show me the left knee x-ray. Okay, so looking at this, this is an, this is a normal x-ray of your left knee, so you may just have a little bit of a strain going on in your, in your knees there."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Uh, let's look at some of your labs, 'cause I know that you have the diabetes. Hey dragon, show me the labs. So, here your white blood cell count is not elevated, so I'm not concerned about an infection or anything like that. Um, hey dragon, show me the diabetes' labs. Okay and, and your a1c is a little elevated, but it's not, it's not terrible, so I think for right now we'll just continue you on the current regimen. Um, so my plan from you, for you in terms of the joint pain, um, I'd like to go ahead and, you know, we'll just send some autoimmune labs to work, work up your left knee pain and, uh, we'll work for you to do some physical therapy and I'd like to go ahead and give you anti-inflammatory medication to help with the pain. Does that sound okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That sounds great."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Hey dragon, order meloxicam 15 mg once a day. Hey dragon, order a physical therapy referral. Hey dragon, order an autoimmune profile. And then from a hypertension standpoint you, because your blood pressure is a little elevated today, I'd like you to continue to monitor it at home and, you know, send me a report in the next couple of weeks sh-, you know, giving me the, the blood pressure reportings. Do you have a blood pressure cuff at home?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, I do."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And then, um, we'll go ahead and order a lipid profile for you. Hey dragon, order a lipid profile. And then for, from a diabetes standpoint let's go ahead and, uh, continue you on your metformin 500 mg twice a day. Okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you have any questions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, that's it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. The nurse will be in soon. It was good to see you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nice seeing you too."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey dragon, finalize the note."
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "encounterId": "aci-D2N169",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hi Alan, how are you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hi, good to see you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Good to see you as well. Are you ready to get started?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes I am."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So, Alan is a 61-year-old male, here with complaints of shortness of breath. So Alan, what's going on?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So over the weekend, uh, I took a very long bike ride, about three hours or so and I got back, I was very light headed, I was short of breath and it really surprised me because I pretty much bike ride every morning and it was never an issue before so I'm a little concerned about that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and have you had any other symptoms? Have you had any fever-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "N-"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": ". Chest pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, but I felt very light headed and, uh, I- it was hard to catch my breath afterwards, so maybe I did have a little chest pain but, uh, it, it eventually went away after about an hour."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, um, and anyone else sick in your, in your family?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and any cough?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, I had a little bit of a cough with my first cold in the last year and a half, but that went away after about a week or so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, all right. Um, and any other symptoms? I know you went through the review of symptoms-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": ". With the nurse but any nausea or vomiting or abdominal pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "N- no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. Well, I know that I've treated you for migraines in the past. How are you doing with those?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That's been under control. I've, uh, taken medication, I've, uh, avoided bright lights and it's so far so good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. And I think we had you on imitrex for that. Have you-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, I'm still taking that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. And then your reflux, how are you doing with that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Managing that as well."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and everything's working out well with the protonix?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And then I know you had the cataract surgery about three months ago, your vision is okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That was about four and a half months ago and it's been actually great ever since."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, great. All right, well, we're gon na go ahead and do a quick physical exam. I wan na see your vital signs first."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey dragon, show me the vital signs. Okay, so looking here, everything looks quite good. Your oxygenation is perfect, which is wonderful. Let me just take a listen. Deep breath. Another one. Good. So, on your physical exam, your neck is nice and supple. I don't appreciate any jugular venous distension. Your heart is in a regular rhythm, I don't hear any murmur. Your lungs do have a slight wheeze, expiratory wheeze, bilaterally. I can hear it every time you breathe and I see trace lower extremity edema in your lower extremities. So what does all that mean? You know, you, uh, I'm not quite sure yet but we're gon na review some of your results. Hey dragon, show me the chest x-ray. So looking here, this is a very normal chest x-ray. Um, I don't see any pulmonary edema, there's no pneumonia, so we're viewing your chest x-ray as, it's a norm- it's normal."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So, let's look at your pulmonary function test. Hey dragon, show me your, the pfts. And looking here again, these look quite good, I'm, I'm quite encouraged by that. That's, that's normal pulmonary function tests. Hey dragon, show me the labs. And all of your labs here look quite good here as well so, I- I- I'm very pleased. So, right now my impression of you is that you may have had an asthma exacerbation from exercising and with the allergies, so at this point in time I'd like to go ahead and prescribe you some albuterol inhaler."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Two puffs every four hours as needed for wheezing or for shortness of breath. And, I'd like to go ahead and order a pulmonary referral for you, okay. Do you have any questions about that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No questions, thanks."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey dragon, order a pulmonary referral. Hey dragon, order albuterol inhaler, two puffs every four hours, as needed for shortness of breath. And then I think from your reflux standpoint, everything seems stable and your migraines, I think that we should just continue on with the imitrex, as needed. Does that sound good to you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That sounds fine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I wan na see you in a couple weeks and if you have this shortness of breath again, I want you to call me right away, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You got it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. Good to see you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Same here."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey dragon, finalize the note."
+    }
+  ]
+}

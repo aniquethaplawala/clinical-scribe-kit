@@ -1,0 +1,24 @@
+{
+  "encounterId": "aci-D2N020",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N020",
+  "split": "train",
+  "collectionMode": "virtassist",
+  "chiefComplaint": "abnormal labs for anemia",
+  "secondaryComplaints": [
+    "hx lobectomy and knee arthroplasty"
+  ],
+  "patient": {
+    "age": 56,
+    "gender": "male"
+  },
+  "turns": 45,
+  "wordCount": 692,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

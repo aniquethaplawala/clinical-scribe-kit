@@ -1,0 +1,24 @@
+{
+  "encounterId": "aci-D2N031",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N031",
+  "split": "train",
+  "collectionMode": "virtscribe",
+  "chiefComplaint": "right ductal carcinoma in situ",
+  "secondaryComplaints": [
+    "none"
+  ],
+  "patient": {
+    "age": 75,
+    "gender": "female "
+  },
+  "turns": 68,
+  "wordCount": 1182,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

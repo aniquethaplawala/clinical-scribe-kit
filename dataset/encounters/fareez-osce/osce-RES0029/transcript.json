@@ -1,0 +1,360 @@
+{
+  "encounterId": "osce-RES0029",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I was wondering if you could start by telling me what brought you into the emergency Department."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So I came to the emergency Department because I've been having pain in my chest."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, where is the pain located?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I would say it's like the whole pretty much the left side of my chest."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and when did this pain start?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So I think it started just around 2 hours ago. I actually was riding my bicycle and just fell off on, kind of just slipped and I think I fell on that side like when I the impact was right on my chest and since then it's been really painful."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK I am how would you describe the pain, sometimes people will use words like burning dull, achy."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I think it's more like someone is just stabbing me and then whole left side area."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and um. Anything that you've been doing that's that's made the pain worse?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "If I. Think I have to take really really slow and shallow breaths. If I try to take a deep breath it just really hurts like taking those small, smaller breaths helps."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and do you feel the pain anywhere else, or is it just on the left side of your chest?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I would say just on the left side."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and has the pain been getting worse, staying the same or getting better?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'd say over the last two hours it's been getting worse."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and do you have any other associated symptoms?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, like I think I I'm having. Also maybe it's just because I'm trying to breathe slowly, but I feel like I can't catch my breath."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, um has anything like this ever happened to you before?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no. I mean, I've never had any pain in my chest before."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK are you, did you have a loss of consciousness when you fell off your bike?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I got right back up. I just just had the pain."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so any injuries to the head?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That's fine. I was wearing a helmet."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, excellent and any headache right now?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, how about any fever chills?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I feel I'm fine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any nausea or vomiting?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nope."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you feel as though your heart's racing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I would say like in the last hour a little bit more so than usual."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Any skin changes or or rashes you've noticed?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Besides, just I got some scrapes here and there on my hands, but nothing else."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and do you have a cough?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nope."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and any recent infections?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I've been pretty pretty healthy recently. No, no cough or no infections."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and uh, any dizziness?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, and I know you mentioned the few scratches on your hands, but any other injuries?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Oh no, I I think I got a pretty lucky."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Oh, OK. And any alcohol or drug intake prior to falling off your bike?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Oh no, no, I was completely sober. No no drugs or alcohol."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and any weakness or numbness or tingling that you noticed?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um no nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, and, when was the last time you had anything to eat or drink?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I just had some cereal and, um, just some chocolate milk around breakfast time but nothing else."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and how many hours ago was that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I would say around 3 hours ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Um, and have you been diagnosed with any medical conditions in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, not other than just a hay fever, but nothing nothing else. I have like a lot of allergies."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any allergies to medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Oh, just sometimes when I take like a nasal spray I think I might have an allergy to the steroids that they give me and sometimes also some of the antihistamines I think I get some allergies from them."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Uh, and any hospitalizations?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, never."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any surgeries?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nope."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Anybody in the family who have any illnesses?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Just my father. He has type 2 diabetes but nothing else."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and how do you support yourself currently financially?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Oh so I work just as like a mechanic just in the city and currently I just have myself to support. I live alone in an apartment, so I'm doing fairly well."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and do you smoke?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I smoke around like I'd say 2 and a half to 3 packs per day. I know it's. Yeah, I have tried quitting before, but I would say I've been smoking since I was 18."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and do you smoke marijuana?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no, no marijuana, no other drugs."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and do you drink alcohol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, it's just like sometimes on the weekend. I'll just have a beer or two while watching the game, but not nothing regular."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, thank you."
+    }
+  ]
+}

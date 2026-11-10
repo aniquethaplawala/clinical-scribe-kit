@@ -1,0 +1,400 @@
+{
+  "encounterId": "aci-D2N070",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hi Logan. How are you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hey, good to see you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "It's good to see you as well. So I know the nurse told you about Dax."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I'd like to tell Dax a little bit about you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So Logan is a 58 year old male, with a past medical history significant for diabetes type 2, hypertension, osteoarthritis, who presents today with some back pain."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So Logan, what happened to your back?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, we were helping my daughter with some heavy equipment and lifted some boxes a little too quickly, and they were a little too heavy."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay... And did you strain your back, did something-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I thought I heard a pop when I moved and I had to lie down for about an hour before it actually relieved the pain. And then it's been a little stiff ever since. And this was- what, so today's tuesday. This was saturday morning."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, all right. And is it your lower back, your upper back?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "My lower back."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Your lower back, okay. And what- what have you taken for the pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I took some tylenol, I took some ibuprofen, I used a little bit of icy heat on the spot but it really didn't seem to help."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And um... Do you have any numbing or tingling in your legs?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh... I felt some tingling in my toes on my right foot until about sunday afternoon. And then that seemed to go away."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and is there a position that you feel better in?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh... It's really tough to find a comfortable spot sleeping at night. I would- I tend to lie on my right side and that seemed to help a little bit?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, all right. Well, um... So how are you doing otherwise? I know that, you know, we have some issues to talk-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": ". About today. Were you able to take any vacations over the summer?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um... Some long weekends, which was great. Just kind of- trying to mix it up through the summer. So lots of three day weekends."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, well I'm glad to hear that. Um... So let's talk a little bit about your diabetes. How are you doing with that? I know that- you know, I remember you have a sweet tooth. So..."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah... I-I love peanut butter cups. Um... And I have to say that when we were helping my daughter, we were on the fly and on the go and haven't had a home cooked meal in weeks, our diets were less than stellar. And uh... I-I think I need to go clean for a couple of weeks. But other than that, it was been- it's been pretty good eating."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, all right. And how about your high blood pressure? Are you monitoring your blood pressure readings at home, like I recommended?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm good about it during the week while I am at home working, but on the weekends when I'm out of the house I tend to forget. Uh, and so it's not as regimented, but it's been pretty good and-and under control for the most part."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and you're you're taking your medication?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, I am."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And then lastly, I know that you had had some early arthritis in your knee. How- how are you doing with that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh... It gets aggravated every once in a while. If I- maybe if I run too much or if I've lift boxes that are a little too heavy, I start to feel the strain. But it's been okay. Not great, but it's been okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right, well... Let me go ahead and- you know, I know that the nurse did a review of systems sheet with you when you- when you checked in. I know that you were endorsing the back pain. Have you had any other symptoms, chest pain, nausea or vomiting-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": ". Fever, chills?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No. No none whatsoever."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No. Okay. All right, well let me go ahead, I want to do a quick physical exam."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey dragon? Show me the blood pressure. So it's a little elevated. Your blood pressure's a little elevated here in the office, but you know you could be in some pain, which could make your-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": ". Blood pressure go up. Let's look at the readings. Hey dragon? Show me the blood pressure readings. Yeah... Yeah you know they do run a little bit on the high side, so we'll have to address that as well."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, well. Let me- I'm just going to be listening your heart and your lungs and I'll check out your back and I'll let you know what I find, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And kick against my hands. Okay, good. All right. Okay, so... On physical examination, you know, I-I do hear a slight 2 out of 6 s- s- systolic heart murmur."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "On your heart exam. Which you've had in the past."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So that sounds stable to me. On your back exam, you know, you do have some pain to palpation of the lumbar spine. And you have pain with flexion and extension of the back. And you have a negative straight leg raise, which is which is good. So, let's- let's just look at some of your results, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey dragon? Show me the diabetes labs. Okay, so... In reviewing the results of your diabetes labs, your hemoglobin a1c is a little elevated at eight. I'd like to see it a little bit better, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey dragon? Show me the back x-ray. So in reviewing the results of your back x-ray, this looks like a normal x-ray. There's good bony alignment, there's normal uh- there's no fracture present. Uh, so this is a normal x-ray of your back, which is not surprising based on-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": ". The history, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So let's just go ahead and we'll- we're going to go over, you know, my assessment and my plan for you. So for your first problem, your back pain. You know, I think you have a lumbar strain from the lifting. So, let's go ahead. We can prescribe you some meloxicam 15 mg once a day."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I want you to continue to ice it, okay. I want you to try to avoid any strenuous activity and we can go ahead and- and refer you to physical therapy-"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": ". And see how you do, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You got it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "For your next problem, your diabetes. Y-you know, I think it's a little under- out of control. So I want to increase the metformin to 1000 mg twice a day. And I'm going to um... Um... I'm going to repeat a hemoglobin a1c in about 6 months, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey dragon? Order a hemoglobin a1c. So, for your third problem, your hypertension. Uh... I-I'd like to go ahead increase the lisinopril from 10 mg to 20 mg a day."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Does that sound okay? I think we need to get it under better control."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No that's fine. I agree."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey dragon? Order lisinopril 20 mg daily. And for your last problem, your osteoarthritis, I-I think that you were doing a really good job, in terms of you know what, monitoring your knee and uh..."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I don't think we need to do any- any further, you know, work up of that at this time, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you have any questions Logan?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not at this point."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. All right. So the nurse will come in to help you get checked out, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You got it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey dragon? Finalize the note."
+    }
+  ]
+}

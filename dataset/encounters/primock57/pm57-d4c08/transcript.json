@@ -1,0 +1,778 @@
+{
+  "encounterId": "pm57-d4c08",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 3.16,
+      "end": 4.04,
+      "text": "Hello."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 5.75,
+      "end": 6.41,
+      "text": "Hi there."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 6.86,
+      "end": 14.37,
+      "text": "Hi! Hi there. Uh, my name's Joe. I'm one of the doctors at Babylon. I, just, can I confirm your name please?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 14.54,
+      "end": 17.38,
+      "text": "[inaudible] , yeah. Uh, my name's [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 15.69,
+      "end": 21.62,
+      "text": "Makes sense. Yeah. So, [inaudible] . Sorry, your name is?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 22.04,
+      "end": 23.32,
+      "text": "Name was Brian."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 23.24,
+      "end": 25.56,
+      "text": "Brian. Hi Brian. Nice to [inaudible]"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 24.89,
+      "end": 25.56,
+      "text": "Hi."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 25.83,
+      "end": 29.58,
+      "text": "Um, uh, and your date of birth."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 30.38,
+      "end": 34.49,
+      "text": "Yeah, my date of birth is the eighth of August, nineteen eighty two."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 35.92,
+      "end": 42.77,
+      "text": "Great. And uh, are you in a sort of, uh, confidential place where you can speak freely?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 43.04,
+      "end": 44.7,
+      "text": "Yeah. No, no one else can hear me."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 44.86,
+      "end": 47.37,
+      "text": "Great. And you're happy to continue with the consultation."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 47.43,
+      "end": 48.17,
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 48.37,
+      "end": 51.71,
+      "text": "Marvelous. OK. So, um, how can i help today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 52.2,
+      "end": 75.32,
+      "text": "Yeah, um. So basically it's, just been happening over the last few weeks or so. But I don't really feel like um, like, getting up in the morning's really difficult, and I don't have much energy at all, during the day, um. Often. Yeah just like, doing most things that I would normally find, easy [inaudible] , is become quite difficult."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 78.06,
+      "end": 81.0,
+      "text": "[inaudible] OK. So, things have become quite difficult for you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 81.18,
+      "end": 81.88,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 81.73,
+      "end": 82.97,
+      "text": "Is there anything else?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 84.98,
+      "end": 94.01,
+      "text": "Um, [inaudible] no it's quite hard to say like. Things like, I'm not, I'm not eating very much at the moment. I just don't feel like I have a lot of energy."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 95.23,
+      "end": 112.55,
+      "text": "OK. I'm sorry to hear that. Um, so you had difficulty waking up. No energy, not eating. And that's been going on for a few weeks. When you say a few weeks, do you mean two or three or five? [inaudible] how many hours of sleep? [inaudible]"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 110.08,
+      "end": 129.14,
+      "text": "Actually, well, now I kind of think about it maybe, maybe even longer, um. I guess uh, [inaudible] , might be related to, so I also started a new job, um, slightly recently. Um. It might of even coincided, coincided with uh, with that, job, a couple of months ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 129.23,
+      "end": 131.55,
+      "text": "When did you start your new job? Two months ago, did you say?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 131.92,
+      "end": 132.48,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 133.94,
+      "end": 141.22,
+      "text": "OK. And, um, so this has been going on perhaps for um, sort of, six weeks or so?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 142.75,
+      "end": 145.07,
+      "text": "More like, [inaudible] , two months, I would say, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 147.66,
+      "end": 161.04,
+      "text": "OK. Alright. So, um, Is there anything that you're particularly, sort of concerned about, um, or hoping to get out of this consultation?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 161.81,
+      "end": 192.15,
+      "text": "Well, um, I, I know that it's not really normal for me, so, before this phase. So I'd have thing, you know I wouldn't have, uh, any problems sort of. [inaudible] , eating, what I want to eat, or you know, doing standard things in life, and, and, what I want, to do is just like, kind of return to that previous state. Uh, somehow. Um, I'm not sure how that is. Uh, what, what the best ways of doing that are, but, yeah. Do you have some advice or? Whatever, that'd be really useful."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 192.04,
+      "end": 208.37,
+      "text": "OK. Sure. OK. Um, well what would I like to do is just ask you a few more, sort of questions around what's been going on, um, and also around your background health and um, and things like that. And then we can go on to sort of [inaudible] what can be done from there. Is that alright?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 209.1,
+      "end": 209.68,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 209.87,
+      "end": 222.08,
+      "text": "OK, great. [inaudible] so you say you've been, um, feeling unwell with not a lot of energy, difficult waking up in the mornings. Do you tend to just on that [inaudible] , do you tend to wake up early, and then stay in bed in the morning?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 222.58,
+      "end": 235.42,
+      "text": "Um, actually I'm, just uh, not, not really waking up early. It's more like I'm just having trouble sleeping at all, really. I think that's probably closer."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 234.78,
+      "end": 237.18,
+      "text": "[inaudible] , difficulty sleeping as well."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 238.36,
+      "end": 239.07,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 238.39,
+      "end": 249.73,
+      "text": "Um, and have you, and, how, how has your mood been over this period? Have you been feeling your usual self?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 246.42,
+      "end": 267.8,
+      "text": "Um. Distracted, [inaudible] , I'd say. Uh, I, I kind of, um. Yeah, uh, finding it really hard to, quite, difficult to keep focusing, I would say. Um, not unhappy or, happy, but just uh, quite, just [inaudible] , not focused."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 269.93,
+      "end": 277.41,
+      "text": "OK. So difficulty focusing, quite distracted. And, would you say you've [inaudible] been in good spirits? Or is your mood low?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 278.64,
+      "end": 295.86,
+      "text": "Um. Actually uh, now you, you, you mention it like, my, mood is a bit lower recently. Um, and so I've noticed like, uh, my sex drive has kind of decreased, um, a bit over the, the past few months as well, so, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 293.95,
+      "end": 323.25,
+      "text": "Right. K. And uh, so lower mood, decreased sex drive recently as well. And, just on that note, just a few questions around that. Are you able to, uh, it may be slightly personal questions, but if you're O. O. K. to answer this, Do you tend to, to have morning erections like you, is that something that you've noticed, [inaudible] ?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 315.98,
+      "end": 326.03,
+      "text": "Yeah. Um, I haven't noticed anything like that, specifically, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 326.22,
+      "end": 339.36,
+      "text": "So, you've not, so you're saying you have not noticed morning erections, and usually you would. So, [inaudible] normal thing to have, uh, waking up in the morning with something. But you have not noticed those recently."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 336.03,
+      "end": 341.66,
+      "text": "Yes. I have not noticed those recently."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 342.06,
+      "end": 344.34,
+      "text": "OK. So, and that's been a change, has it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 345.14,
+      "end": 353.96,
+      "text": "Um. Important one I don't think, um, yeah. Not, I don't think it's important to change, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 350.22,
+      "end": 358.0,
+      "text": "Sorry? Uh, so you, you, you, you don't think there's been a change there. You"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 357.85,
+      "end": 359.59,
+      "text": "No, there hasn't been a change there."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 359.77,
+      "end": 375.17,
+      "text": "Ohh OK, sorry. Right, so OK. So, um, Just going back to the mood symptoms as well. Uh, you [inaudible] have had uh, difficulty focusing, easily distracted. Your mood has been uh, slightly lower, with lower sex drive."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 367.11,
+      "end": 375.95,
+      "text": "Yeah. Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 375.91,
+      "end": 382.52,
+      "text": "Um, and in what way has your sex drive been lower? [inaudible] are you in a relationship at the moment?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 382.43,
+      "end": 386.4,
+      "text": "Yeah, I, I'm married, um, have been for, many years."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 386.38,
+      "end": 387.07,
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 386.4,
+      "end": 393.87,
+      "text": "And, uh, yeah just, um. Over the last few months, just uh, been disinterested."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 394.45,
+      "end": 405.88,
+      "text": "Disinterested. OK. OK. Sorry, you froze there for a moment. Um, [inaudible] . So less interested as well, OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 405.86,
+      "end": 406.62,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 405.88,
+      "end": 423.64,
+      "text": "And, just to ask you a few questions before we [inaudible] uh, wrap up is, uh, any significant past medical history? Um, so do you suffer from any, uh, mental health problems in the past, or any, uh, physical health problems? [inaudible]"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 422.98,
+      "end": 431.28,
+      "text": "Um, so, in the past, um, I have a, a history of, hypothyroidism, um."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 431.08,
+      "end": 432.07,
+      "text": "Hypo?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 432.86,
+      "end": 434.28,
+      "text": "Hypothyroidism."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 434.69,
+      "end": 436.17,
+      "text": "Hyperthyroid."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 437.64,
+      "end": 438.35,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 438.89,
+      "end": 442.06,
+      "text": "K, so that's high thyroid, just to sort of confirm that."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 439.15,
+      "end": 444.36,
+      "text": "Um. Sorry, can you say that again please?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 443.3,
+      "end": 447.27,
+      "text": "[inaudible] hyper, as in high, hyperthyroid."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 447.78,
+      "end": 448.71,
+      "text": "Hypo."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 448.86,
+      "end": 451.73,
+      "text": "Hypo, OK. Hypothyroid. Thank you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 452.37,
+      "end": 465.12,
+      "text": "Thank you. Um. Yeah, and uh, also in the past, I mean, I haven't had any kind of specific, uh, medical diagnoses, along these lines."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 455.87,
+      "end": 456.54,
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 465.12,
+      "end": 475.81,
+      "text": "Um, but the suspicion, that it may have uh, had an impact on me, but my father has commited suicide, um, about fifteen years ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 476.41,
+      "end": 485.5,
+      "text": "OK. OK. And um, Uh, do you take any medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 488.07,
+      "end": 491.68,
+      "text": "I had a, a, drug history of Thyroxine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 492.03,
+      "end": 493.06,
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 493.28,
+      "end": 495.71,
+      "text": "So, maybe, yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 495.69,
+      "end": 498.95,
+      "text": "Do you, do you continue to take Thyrocsin now?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 501.33,
+      "end": 502.27,
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 502.41,
+      "end": 505.49,
+      "text": "You do. You're, so you're taking Thyrocsin at the moment?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 506.7,
+      "end": 511.56,
+      "text": "Um. Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 511.83,
+      "end": 515.64,
+      "text": "Cool. And any drug allergies? Are you allergic to any medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 515.44,
+      "end": 519.13,
+      "text": "No, I have no uh, medication allergies, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 517.52,
+      "end": 533.35,
+      "text": "No. No allergies. And you mentioned the [inaudible] , the suicide of your father fifteen years ago. I'm very sorry to hear that. Is there any other, um, uh, [inaudible] significant family history of medical conditions, or psychiatric conditions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 533.69,
+      "end": 534.4,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 534.69,
+      "end": 538.68,
+      "text": "No depression or anything like that running in your family, or uh, [inaudible]"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 537.63,
+      "end": 539.78,
+      "text": "Uh, nothing, nothing, that sort."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 539.88,
+      "end": 543.64,
+      "text": "OK. And your mother is, is well? Any brothers or sisters?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 543.93,
+      "end": 547.05,
+      "text": "Yeah she's fine, um, and no, I'm an only child. Um."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 550.93,
+      "end": 563.69,
+      "text": "Um, OK. So, I just uh, uh, sorry it might seem like a slightly random question, but any uh, change in vision? No [inaudible]"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 563.07,
+      "end": 564.55,
+      "text": "No, no, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 564.38,
+      "end": 578.3,
+      "text": "[inaudible] . OK. And, just to go back to your, you were saying you had low mood. Some people who [inaudible] , who do have low mood, uh, and low sex drive can sometimes feel uh, suicidal as well. Have you had any thoughts of harming yourself or harming anyone else?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 577.76,
+      "end": 578.52,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 578.64,
+      "end": 579.2,
+      "text": "No."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 579.59,
+      "end": 581.41,
+      "text": "No, not [inaudible] , not really, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 581.14,
+      "end": 587.19,
+      "text": "[inaudible] and are you able to get the usual enjoyment out of your daily activities, that you have done in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 588.04,
+      "end": 606.79,
+      "text": "Sometimes, I mean, I guess, um, most of the activites, but, when I've been doing sports as well, [inaudible] , I find sometimes it's quite difficult to breathe, um. So, I have some kind of like, shortness of breath um, when doing, sports, compared to maybe a couple of months ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 606.96,
+      "end": 610.96,
+      "text": "OK. So you, you've become more short of breath over the last few months."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 610.93,
+      "end": 611.69,
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 611.5,
+      "end": 623.65,
+      "text": "Um, and you've had a OK. So uh, any other things around that? So, more fatigue, more shortness of breath, um, over the last few months?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 623.73,
+      "end": 624.41,
+      "text": "Mmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 624.34,
+      "end": 632.78,
+      "text": "Um, with a [inaudible] low, lower mood, decreased sex drive. Um, is there, just before we wrap up, is there anything else that you would like to talk about?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 634.06,
+      "end": 637.27,
+      "text": "Um, no, nothing specific, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 637.49,
+      "end": 677.96,
+      "text": "So, um, We're getting a little bit towards the end now, but I would quite like to make a bit more of a plan for you. Um, I would like to, probably see you in person, and do an examination. And, and also, we would probably like to do some blood tests um, as well. So, do you think it would be possible to see uh, to to book an appointment in the next few days uh, with your GP? Or, or um, that would be ideal, I think here. Um, and then we can, we can probably do some more uh, we'll do an examination and uh, do some investigations really, to see what's going on here a little bit more."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 670.11,
+      "end": 679.71,
+      "text": "[inaudible] , yes. That makes sense, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 679.76,
+      "end": 680.86,
+      "text": "Is that alright?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 680.95,
+      "end": 683.06,
+      "text": "Yeah, that's very useful, thank you, um."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 683.3,
+      "end": 684.09,
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 683.4,
+      "end": 686.92,
+      "text": "Yeah, it feels, better to have some kind of plan, uh."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 686.21,
+      "end": 705.27,
+      "text": "Yeah. Yeah, yeah. I think [inaudible] , I definitely think we need a plan here. Um, it's been nice talking to you. I'm sorry, we've run out of time now. Uh, but we've at least started the ball rolling with um, some further investigations and tests. I'm glad you're, you know, you're, you're [inaudible] , you're, although you have a low mood, um, you're, you're, um, you're not [inaudible] feeling suicidal, just to confirm that."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 705.01,
+      "end": 706.61,
+      "text": "Mm-hmm, yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 705.27,
+      "end": 714.97,
+      "text": "And, and you're, uh, and uh, we'll hopefully get to the bottom of some your tiredness, and your other symptoms, when we see you. OK?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 715.19,
+      "end": 717.26,
+      "text": "Thank you very much, for taking the time. Thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 716.54,
+      "end": 718.28,
+      "text": "OK. Thank you. Thanks."
+    }
+  ]
+}

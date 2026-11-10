@@ -1,0 +1,96 @@
+Clinician: What brings you in?
+Patient: I've I I've had a, ah really runny nose and kind of feeling like like my nose has been obstructed. And I've kind of had this like sore throat as well over the last several days.
+Clinician: OK, so did the rhino start first or the nasal obstruction?
+Patient: Yeah, they they kind of started it around the same time.
+Clinician: OK, and when was that?
+Patient: About four days ago.
+Clinician: Four days ago. And then when did the sore throat start?
+Patient: Uh, yeah, that started about two days ago.
+Clinician: Two days ago, OK. And and the, uh discharge is it is it clear? Or are you seeing colors?
+Patient: It's pretty clear and watery.
+Clinician: So you're not seeing anything yellow, green or bloody?
+Patient: No, not nothing like that. I haven't seen any yellow, green or or bloody.
+Clinician: OK and then your sore throat. Is it making it hard for you to swallow solids and fluids?
+Patient: No pain with swallowing, just can kind of feel it there.
+Clinician: Yeah, any coughing?
+Patient: Yeah, actually I started to have a bit of a cough. Uh, just this past day it's it's just started.
+Clinician: Is it a dry cough or is it a wet cough?
+Patient: It's dry.
+Clinician: It's dry, OK. So you're not bringing up any sputum or blood?
+Patient: No sputum or or blood.
+Clinician: OK good. And and then any shortness of breath?
+Patient: No.
+Clinician: No, any wheezing?
+Patient: No.
+Clinician: No wheezing, OK. Any chest pain?
+Patient: No.
+Clinician: No, um, any fainting spells or dizziness?
+Patient: No.
+Clinician: No, OK. And then any changes in your vision or hearing?
+Patient: No.
+Clinician: Any changes to your smaller taste?
+Patient: No.
+Clinician: OK. And any weight loss?
+Patient: No, it's been stable.
+Clinician: OK, how about fevers?
+Patient: No, I don't think I've had a fever.
+Clinician: No, OK. Uh, chills or night sweats?
+Patient: No.
+Clinician: No, OK. Uhm, any rashes?
+Patient: No.
+Clinician: No, OK. Uhm, and then any changes in your bowel movements?
+Patient: No, I haven't had any diarrhea or, or constipation. Nothing like that.
+Clinician: OK and nausea or vomiting?
+Patient: No.
+Clinician: No, OK. And then how about abdominal pain?
+Patient: No abdominal pain.
+Clinician: OK, any changes in your urine?
+Patient: No, no pain with urination.
+Clinician: OK, how about uhm gassiness or bloating?
+Patient: No, I haven't felt anything like that.
+Clinician: OK, headaches?
+Patient: Yeah, I have had a bit of a headache. I felt kind of like a a pressure of, well, I felt kind of like a pressure in my face and a headache.
+Clinician: OK. Uhm pressure in your face and a headache, OK. And do you normally get these?
+Patient: Wait, no, I think I get headaches when I'm sick or I don't don't sleep well. And I mean I, I have been feeling pretty fatigued the last few days and, uh, yeah.
+Clinician: Yeah. Is it the worst headache you've ever had?
+Patient: No, there, it's pretty mild, it's just kind of annoying 'cause it's still there.
+Clinician: Yeah, for sure. Uhm, alright. And then any muscle aches or joint pains?
+Patient: No, nothing like that.
+Clinician: No, OK, good. And are you otherwise healthy or do you have any longstanding medical conditions?
+Patient: I'm healthy, I haven't had any any conditions.
+Clinician: OK, that's good. Have you been hospitalized for anything? Have you ever needed surgeries?
+Patient: No, I haven't.
+Clinician: OK, that's good. And are you on any medications?
+Patient: No medications.
+Clinician: Alright, that's good, and then I'm are your immunizations up to date?
+Patient: They are, yes.
+Clinician: OK, any allergies?
+Patient: No allergies.
+Clinician: OK. Any of your family, history of lung or heart conditions?
+Patient: No. No. Everyone in the family is healthy.
+Clinician: OK, do you smoke?
+Patient: Nope, I don't.
+Clinician: How about recreational drugs?
+Patient: No. Well, I I use like I'll have a joint every once in awhile, like socially with friends, but uh, that's I mean, maybe a couple of times per month.
+Clinician: OK, OK, how about alcohol? Do you drink?
+Patient: Yeah, I'll have uhm, like I don't know, a few beers on the weekend maybe so I don't know, maybe like four or five drinks per week.
+Clinician: OK. And then have you been in contact with anyone sick recently?
+Patient: No, I am. I don't, I don't think so. I live, uh, in a student house, though, with that like four other people.
+Clinician: Oh, I see.
+Patient: Yeah, just finishing up some school here in town.
+Clinician: OK, and had they been sick at all or had similar symptoms?
+Patient: I think one of the guys last week had I had a little bit of a cough. And I don't know that yeah, said he wasn't wasn't feeling well.
+Clinician: OK, OK, and have you traveled anywhere recently?
+Patient: No, been been just at home.
+Clinician: OK, Alright, no travel. And where do you live right now?
+Patient: So I, I just live in a student house with a.
+Clinician: Oh yeah, sorry, you said that.
+Patient: Oh, no problem.
+Clinician: I guess I'm trying to get at. Uh, are there any old carpets you know reasons for you to believe that there may be a lot of mold or asbestos or anything like that in the house that may be making your symptoms worse?
+Patient: It's mostly like hardwood or like kind of ceramic flooring so there aren't many carpets and things like that, so I guess no.
+Clinician: No. OK, alright and those were kind of all the questions that I had. Did you have anything to add or anything you wanted to discuss today?
+Patient: No, I was just I. wondering what might be going on. It's been a few days.
+Clinician: Yeah, for sure uhm so it sounds like you may have a viral infection, and because your symptoms overlap with those of Covid, we will do a Covid swab on you just to rule that out. Uhm, but from the sounds of what your symptoms are, it, it is most likely to be a common cold, in which case you can just manage it with a lot of hydration, nutrition, good sleep. But if your symptoms get worse or they're not going away after a couple of weeks, or you're having neurological deficits like weakness or seizures, you should get help from the ER. Does that sound OK?
+Patient: Yeah, for sure I haven't had any any symptoms like that, so so far, so that's good.
+Clinician: Yeah for sure. Alright, take care.
+Patient: Take care, thank you.

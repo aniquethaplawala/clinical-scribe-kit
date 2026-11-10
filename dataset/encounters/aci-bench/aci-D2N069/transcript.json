@@ -1,0 +1,260 @@
+{
+  "encounterId": "aci-D2N069",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hi, ms. Thompson. I'm dr. Moore. How are you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hi, dr. Moore."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hi."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm doing okay except for my knee."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right, hey, dragon, ms. Thompson is a 43 year old female here for right knee pain. So tell me what happened with your knee?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well, I was, um, trying to change a light bulb, and I was up on a ladder and I kinda had a little bit of a stumble and kinda twisted my knee as I was trying to catch my fall."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And did you injure yourself any place else?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no. It just seems to be the knee."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. And when did this happen?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It was yesterday."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. And, uh, where does it hurt mostly?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It hurts like in, in, in the inside of my knee."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Right here."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. And anything make it better or worse?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I have been putting ice on it, uh, and I've been taking ibuprofen, but it doesn't seem to help much."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. So it sounds like you fell a couple days ago, and you've hurt something inside of your right knee."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mm-hmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And you've been taking a little bit of ice, uh, putting some ice on it, and hasn't really helped and some ibuprofen. Is that right?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That's right. Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, let's review your past history for a second. It looks like, uh, do you have any other past medical history?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, afib."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, and are you taking any medications for that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I am. Um, begins with a d."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Uh, digoxin?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That's it. Yeah, that's it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, all right. How about any surgeries in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I have had a nose job."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. Um, let's do your exam, okay? So is it tender... Where is it mostly tender right now?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Right on the inside of my knee. Right here."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right, so if I bend your knee forward, does that seem to hurt?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, that hurts."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right, how about if I twist it a little bit that way."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That hurts a lot."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, okay. And how about down here? Do you feel me touch you down here?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. Any other pain down here in your calves?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, okay. So on exam you do have some tenderness over the medial portion of your knee over the medial meniscus area. Uh, there is no, uh, there is a little bit of tenderness when I flex your, uh, when I, uh, uh, do some valgus stressing on your, on your leg. Um, you have normal sensation. So let's take a look at your x-rays."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Hey dragon, show me the x-rays. So looking at the x-ray, um, of your left knee, uh, it appears to be there's no fractures there right now. I don't see any, uh, there's a little bit of, uh, fluid, uh, but there is no, uh, there's no, um, fracture or there's no dislocation. Everything else seems to be lined up properly, okay?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So in summary after my exam, uh, looking at your knee, uh, on the x-ray and your exam, you have some tenderness over the medial meniscus, so I think you have probably an acute medial meniscus sprain right now or strain. Uh, at this point, my recommendation would be to put you in a knee brace, uh, and we'll go ahead and have you use some crutches temporarily for the next couple days. We'll have you come back in about a week and see how you're doing, and if it's not better, we'll get an mri at that time."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I'm going to recommend we give you some motrin, 800 milligrams. Uh, you can take it about every six hours, uh, with food. Uh, and we'll give you about a two week supply."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Uh, do you have any questions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I think I'm good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. Hey, dragon, order the medications and procedures discussed, and finalize the report. Okay, come with me and we'll get you checked out."
+    }
+  ]
+}

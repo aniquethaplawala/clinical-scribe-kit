@@ -1,0 +1,295 @@
+{
+  "encounterId": "aci-D2N117",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mister Jackson is a 45 -year-old male who has a history of diabetes type two and mild intermittent asthma and he is here today with right elbow pain so hey there Mark nice to see you again listen sorry you're having some elbow pain let's talk about it but I would like to record this conversation with this cool app that I'm using that's gon na help me focus on you a bit more would that be alright with you"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah that sounds great"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay great so Mark tell me about your right elbow pain what's been happening"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So yeah I've been playing a lot of tennis recently buddy of mine you know you're always telling me to get off the couch and be more active so a buddy of mine asked me if I wanted to go play tennis he just joined a country club I've been hitting hitting the cord a lot more and it's just been killing me for the last three weeks or so"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright and where in your elbow is it hurting"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Outside part"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hmmm okay does the pain radiate anywhere like down to your arm up to your shoulder or anywhere else"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No it doesn't"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and what would you say the pain is you know on a scale of zero to ten"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's probably an eight when I'm just when I'm using it even if it's to get something out of the cupboard and it's a three when I'm just kinda resting"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hmmm okay and do you would you say it's a sharp pain stabbing pain aching throbbing how would you describe it"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "All of the above shooting stabbing very sharp"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright and you let's see other than the the tennis you know increase in tennis activity you haven't had any trauma recently falling on it or you know felt a pop anywhere or anything like that have you"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not that I can recall"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and and you said it's it's worse with movement better with rest is there anything else that makes it makes it worse or makes it better"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I've taken some tylenol and ibuprofen but as soon as those wear off it it comes right back so they don't really help"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And I did try a little ice I probably should ice it more but I didn't notice it helping much"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay okay alright yeah well I definitely I'm glad you're getting some exercise now that's good for your diabetes and all that and out there playing tennis kinda back back to the back to the old days for you right did do I recall that weren't you a big tennis player back in the day like state champ in high school or something"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah yeah that was a hundred years ago I can't I I try to play like that and I can't I can't do that anymore but yeah a good memory that's a that's a good memory"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Now"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Kind of a tennis guy too right did you see the the australia open"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I did I did yeah that was that was crazy that was a great tournament what a what a finish unbelievable"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah hey did you see the masters I know you're a golfer"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah yeah yeah I don't get out as often as I as as I like to but but the masters yeah that was that was amazing that was lot of fun to lot of fun did you catch it too"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I did"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "But that's it was I I couldn't believe tiger went out there of course he did"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Right"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It was cool to see nothing"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yep yep agreed agreed and so well listen we'll we'll hopefully get you feeling better here and get you back out on the court and out on the course and we'll talk about that but let's let me ask you about your diabetes a little bit a little bit here so how have your blood sugars been running Mark have they been what in the low one hundreds two hundreds where are they"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "They are like one fifty one sixty you know we just had easter and my kids got a whole bunch of candies so I keep eating that"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hmmm okay yeah yeah understood so those cadboy eggs they'll get you every time too right"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Boy my gosh yeah those are the best so those are those are deadly don't tell my cardiologist so okay so listen you know I see that we have you on metformin five hundred milligrams once a day no actually last visit we increased it so I've got you on metformin five hundred milligrams twice a day correct you're still taking that"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes twice a day"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and but your blood sugars are a bit off you know maybe those the cadberry eggs so how about your asthma how has that been doing you know have you had any asthma attacks you're still taking flovent twice a day and the albuterol as needed"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah knock on wood I my asthma is pretty much under control"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay excellent excellent alright and I recall you know just kinda review a few things I I think you've got an allergy to penicillin is that correct"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That's correct yes"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and then you you know your surgical history you had your your gallbladder out what about ten years ago I think by doctor nelson correct"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes that's right"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and then let's go ahead and examine you alright so Mark your exam is pretty much you know for the most part normal with a few exceptions on your heart exam you still have a grade three out of six systolic ejection murmur and that's unchanged from prior exam we're watching that and so that just means I hear some some heart sounds as your heart is beating there I'm not too concerned about it as as that's not changed otherwise normal cardiovascular exam and your physical exam otherwise on your musculoskeletal exam on your right elbow you do have moderate lateral epicondylar tenderness of the right elbow and how about when I move this when I move your elbow like this does that hurt you"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Kills"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay sorry about that so you've got moderate pain with passive range of motion of the right elbow there is no palpable joint effusion and now what if I press against your wrist like so does that hurt you"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah it hurts a little bit"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright sorry so that's you have mild pain with resisted extension of the right wrist as well okay otherwise normal unremarkable exam and let's talk about your results now so your right elbow x-ray today shows no acute fracture or other bony abnormality so that's good there's no malalignment or sign of joint effusion and otherwise it's a normal right elbow x-ray so that's reassuring okay and hey you know I meant to ask you you know and do you have any history of fever recently you know along with the elbow pain you had noticed a fever"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No I don't think so"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay great excellent alright so tell you what let's let's talk about my assessment and your plan here so for your first problem my assessment is is that you have acute lateral epicondylitis of your right elbow and this is also known as tennis elbow go figure right so this is due to overuse likely the increase in your your tennis activity which normally would be good but maybe we're overdoing it a little bit so I have a few recommendations I'd like you to rest your right arm as much as you can I want you to stop tennis for the next four to six weeks and please avoid repetitive stress in that right arm as well I want you to ice that right elbow for twenty minutes at least three times per day and this should reduce the pain and inflammation and then I'm also going to give you a brace for your right forearm and my nurse will give this to you before you leave that should help with the discomfort okay in that right elbow I will also write you a prescription for ultram and this should help with the pain I'll write you a prescription ultram fifty milligrams once per day that should help with your elbow pain so then I wan na see you in follow-up in four weeks and so we'll reevaluate your elbow at that time and if you we'll consider some additional imaging if needed possibly a physical therapy referral depending on how you're doing mkay now for your second problem of diabetes type two my assessment is is that your blood sugar is a little bit out of control mkay so we need to make some adjustments I'm going to increase your metformin to one thousand milligrams twice per day and I want you to check your blood sugar twice daily for the next two weeks and then let me know how your blood sugar is running and we can make some additional adjustments if needed but I will increase your metformin to one thousand milligrams twice a day now I'm going to also order a hemoglobin a1c level and and a cbc blood test today and and so we'll check those results the hemoglobin a1c and the cbc and then I'm going to also check a chem-12 blood test as well and now for your third problem of the mild acute intermittent asthma you my assessment is that it really remains under good control so let's keep you on that flovent and the albuterol no changes there and you can use those as tolerated it does look like you need a refill on your albuterol so I'm gon na write you a prescription for a refill of the albuterol and you can pick that up at your pharmacy as well so how does that all sound any questions for me"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It sounds pretty good I can't believe it's just tennis elbow feel like a looser coming in here but it's okay I get it"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah yeah well"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm not I'm not young anymore"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah well let's let's keep you active but take a break for a bit and let's ease back into it okay so it's great to see you and I'll see you back in four weeks let me know if you have other problems in the meantime"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    }
+  ]
+}

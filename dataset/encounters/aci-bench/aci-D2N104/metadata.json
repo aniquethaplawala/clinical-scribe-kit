@@ -1,0 +1,24 @@
+{
+  "encounterId": "aci-D2N104",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N104",
+  "split": "clinicalnlp_taskB_test1",
+  "collectionMode": "virtscribe",
+  "chiefComplaint": "Psoriatic arthritis",
+  "secondaryComplaints": [
+    "none"
+  ],
+  "patient": {
+    "age": 61,
+    "gender": "female "
+  },
+  "turns": 33,
+  "wordCount": 609,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

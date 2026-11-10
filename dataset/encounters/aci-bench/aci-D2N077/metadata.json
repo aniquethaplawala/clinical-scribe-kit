@@ -1,0 +1,22 @@
+{
+  "encounterId": "aci-D2N077",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N077",
+  "split": "valid",
+  "collectionMode": "aci",
+  "chiefComplaint": "Right wrist injury",
+  "secondaryComplaints": [],
+  "patient": {
+    "age": null,
+    "gender": "female"
+  },
+  "turns": 81,
+  "wordCount": 1620,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

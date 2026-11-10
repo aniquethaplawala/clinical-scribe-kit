@@ -1,0 +1,590 @@
+{
+  "encounterId": "osce-RES0061",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How are you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm not so good, these last few days I haven't benn able to reallykeep anything down and not feeling so good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, I'm sorry to hear that. Um, when you say last few days, did you mean the past two days? 3 days?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well, I feel like maybe the last five days I just haven't been feeling so good and I haven't really felt like eating. But these last two days I've been really nauseous and I've thrown up a few times."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, when you say you haven't been feeling good for the past five days, is it that you feel achy? Do you feel hot like you have a fever, or do you feel weak?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I do feel hot and um, yeah, maybe a bit tired."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Tired? OK. And nausea and vomiting. Are you throwing up or just feeling nauseous?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Mostly nauseous, but yeah, yesterday I threw up like three or four times and then again today I threw up like two or three times."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, are you throwing up any blood?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I didn't see any red. It was mostly like yellow and umm, liquidy beacuse I haven't been eating much solids or like just like food. I've been mostly just having drinks."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, um, and so mostly fluid you said?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and what color is it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhh, yeah, usually usually kind of like yellowish clear."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Are you having any abdominal pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Maybe like after I vomit it kind of feels like squeezing a little bit. But I think, yeah, I think yeah that's just really just with when I'm heaving."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Right, um, are you, do you have any changes in your bowel movements?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Umm, no, I haven't noticed anything there."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And so no diarrhea, no constipation?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, no blood in your stool?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No blood, I haven't seen any red."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and how about issues swallowing food?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Oh yeah, no problem swallowing. Just haven't felt hungry."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, so you don't have much of an appetite then."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, not not really."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, alright, so um, any changes in in taste?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, maybe I mean, yeah, I think I might not be really tasting things the same."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, how about smell?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Now that you say it, I might, uh, yeah I think my smell has been impacted as well. I can't really smell anything."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I thought that was kind of weird, but didn't think anything of it actually until you just asked me."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah for sure. And how about any changes in your vision or hearing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No changes to vision or hearing."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any discharge?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, nothing like that that, but I mean my eyes were a bit, they've been a bit red these last two days."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have they been in any pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nope, no pain and I've been able to see everything OK. It's just I just noticed they were a little bit more red. I just thought maybe I don't know I was, I've just been tired."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah for sure. Any coughing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uhh, yeah I haven't had a cough but um, I've had a cough for a few years now, so yeah, that's not really a change for me."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, so no change in your cough. Is it a dry cough or a wet cough?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's uh, oh, a dry cough usually."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Dry cough, OK. Any blood that you produce?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No blood, no blood."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any shortness of breath?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm not really able to exercise and stuff like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, have any wheeziness?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": ": Um, no, I haven't had a a wheeze."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, how about any fatigue or tiredness?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I've definitely felt a little bit more kind of groggy and tired this last week, really."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and muscle aches to go along with that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, bit in my like kind of upper arms and legs a little bit."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, you said you've been feeling groggy. Do you feel dizzy at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not dizzy, just maybe that I'm like moving in slow motion."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK yeah, any confusion or memory loss?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I think I've been OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, any rashes?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I haven't noticed any rashes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, how about headaches?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, these last few days I've had a bit of a headache as well.It hasn't been very intense, so, um, I'm not worried about it too much."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Right, OK. It hasn't been intense you said? So have you had headaches like this in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I had similar headaches before I think. They come like this. Like if I didn't get a good sleep or from not drinking enough water or something, I'll kind of get a headache like this. Kind of feels like it's squeezing."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, that's understandable. But it's not like the worst headache you've ever had?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no, it's pretty similar to headaches that I've had before."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, OK, good, and are you otherwise healthy?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, well I have high blood pressure and also, high cholesterol, so I do take medications for both of those. So yeah, I take a statin and Amlodipine I think."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, OK, good. It's good that you're on both of those. Do you take any other medications like over the counter medications or herbal supplements?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I've been taking vitamin D and also a multivitamin. I heard that that we don't get enough vitamin D throughout the winter."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, it's a great idea to take that, especially as we get older and if we live in a country where we don't get a lot of sun exposure like Canada, so that's good. And sorry before I move on, I forgot to ask you earlier if you have experienced any weight loss or night sweats recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, my weight's been, uh, about the same unfortunately and I haven't had any night sweats. But I mean now that you asked if I felt more hot than than usual, maybe."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and did you take your temperature?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, I did and the last time I checked it was a few days ago and at that time I didn't have a fever, but I mean, I'm still feeling hot so I'm not sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, OK. Alright, so I'll go back to your past medical history. Have you been hospitalized or have you ever needed surgeries in the past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, no. Like the last time I was in the hospital with, it was for a colonoscopy a few years ago which came back normal."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, that's good. Um, are you up to date with all your immunizations?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, yeah, actually got the shingles vaccine a few months ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Probably closer to a year ago now, actually."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Oh great, OK, that's awesome and are you allergic to anything?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Just peanuts."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Peanuts, OK. Do you know if you have a family history of any lung or heart conditions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, my son has asthma. But nobody in my family's had a heart problem, though."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, how about any stomach problems or liver problems? Colon problems?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, my dad actually had colon cancer. He was 70 and so that's why we went and decided to get a colonoscopy instead of just doing the immunohistochemistry test."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, yeah, that's a good idea. Um, so it sounds like you're, you know, preemptive with your health, which is good. Any other cancers that run in the family?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, just my dad had colon cancer."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. And do you smoke at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I don't."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, how about marijuana?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, no, I don't smoke marijuana."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, how about other recreational drugs?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I mean, I briefly like dabbled in the past at parties and stuff like that but that was when I was way younger, like in in my college years."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, what kind of drugs?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I think maybe we used cocaine a few times and MDMA, uh, but that was like a long time, probably like 30 years ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, were any of these drugs injected IV?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, no, I've never done that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, OK, that's good. Do you drink alcohol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I have like maybe I don't know a couple of drinks a week."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, that's good. What kind of drinks do you have and how much of it do you have?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Usually, it'll just be one or two glasses of wine at a time and maybe two nights a week."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And I usually stick with red wine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, great, and who do you live with?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So um, it's just me and my son."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "How old is your son?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, he's 18."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, and do you live in a house or an apartment?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, yeah, we live in an apartment. Yeah, on the 8th floor."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "On the 8th floor, OK, any issues in terms of like old carpet or mold or asbestos in the apartment?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's a newish building so there isn't really any carpet actually in the unit, so yeah, it's pretty clean that way."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK good. That's good. So those were all the questions that I had for you. Did you have any questions or concerns that you wanted to bring up before we ended the interview?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well, I'm just hoping to to get this sorted out and feel better."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah for sure. So you know, right now we're thinking it could be a viral GI viral infection because of your complaints of nausea, vomiting, loss of appetite and fever. But it could also be COVID and we are going to have to do a swab for you and run that test because you have a lot of symptoms that overlap with those symptoms. Um, and then, so just going off of that, we'll wait for the swabs to come back. If they come back positive, we will notify public health and they'll do a trace to see where you could have gotten this infection from. And then meanwhile, we do suggest that you isolate for two weeks so that you don't spread the illness, and even if the swab comes back negative, there is still a chance that you may have COVID and it's a false negative test. So we'll start there. If it turns out you don't have any of those viral illnesses and you have more of a, you know, bacterial picture, we can work you up for that and prescribe antibiotics. So that's where we will start. How does that sound?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, that sounds like a great start. Thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, great."
+    }
+  ]
+}

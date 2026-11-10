@@ -1,0 +1,335 @@
+{
+  "encounterId": "osce-RES0094",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Uh, how may I help you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I've, uh, had a runny nose over the last few days and I've started to have a sore throat as well."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hmm, Uhm, when did this start?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I would, so the runny nose started, uh, about five days ago and, and the sore throat, uhm, about the same."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Have you, uh, with the, the runny nose, do you have any, what's the discharge like?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, it's been kind of watery, it's clear."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Alright and has your sore throat gotten better or worse over the past five days?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, it did get a little bit worse initially and since then it's been kind of stable."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you, uhm, had any difficulties swallowing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, it, it is a bit sore, uhm, to swallow so it takes me a little bit longer to eat, but I've been able to still, still eat."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you changed, noticed any changes in your voice? Any hoarseness in your voice?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No, OK. And do you have any nasal congestion? Does your nose feel stuffy?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah it does, yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, uhm, any fevers or chills?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I don't think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK. Any difficulties breathing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any cough?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, uhm any, uh, pain in your chest?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any other symptoms, anything related to your belly,  say, diarrhea or Constipation or any changes in your urinary, any urinary symptoms?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, OK, are you feeling fatigued, tired? Have any muscle aches?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I, I have felt a little bit more drowsy these last few days and, uhm, yeah my, uhm, I have had some muscle aches as well."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you taken anything to help yourself, anything over the counter or any pills?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I did use, uh, some uhm, like cold medication to help because I was having a headache as well and a lot of I guess just like pressure from the nose stuffiness."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Did the cold meds help?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, it did help a little bit, it did help my nose clear up but it came right back after a few hours."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And how's your headache now?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's not too bad. It's pretty mild, but it's there."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Uhm, do you usually get headaches of this sort, or is this very different from what you generally experience, if you usually have headaches."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I don't usually get headaches, but I have felt uhm, a headache like this before though."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Oh OK, when was that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Maybe the last time I was, I was sick."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Sure."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Or if I don't get a good night's sleep. School's pretty early in the morning, so sometimes if I'm not sleeping well."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I see. OK alright, any other symptoms that you've experienced over the past five days that I didn't ask you about?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, it's been, yeah mostly the runny nose and sore throat and headache."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I see. OK, alright, and do you have any medical conditions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I've been healthy."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right, good, any medications that you take on a regular basis?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, I'll use like Reactine or Claritin sometimes for allergies, but that's it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "What allergies do you have?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I have allergies to dust and some environmental things, like pollen or ragweed I think maybe."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I see. Alright, and, uhm, do you have any family history of any medical conditions?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, I think my dad has high blood pressure. He takes a medication for that, uhm nothing serious though that I know of."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK, alright, and who do you currently live with?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So I live with both my parents and I have an older sister as well."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Good, OK, and do you smoke?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I did try a vape once or twice, but, didn't really like it so, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright, what about marijuana?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, no, I haven't tried that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Any recreational drugs?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you drink alcohol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And have you recently traveled anywhere?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, we've been doing classes virtually."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And any contact with anyone who you think might be sick."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "OK alright, well sounds like you have a sore throat and runny nose. You've been a little bit drowsy, had some headaches in the past five days, things were getting a little bit worse early on, but it's been a little bit, it's been more stable now. We'll do a physical exam, see, just listen to your chest, have a look inside your mouth and check your temperature and go from there. It sounds like you probably have a viral infection of some sort that should get, hopefully get better over time. We will also get a covid swab done just in case and if things seem to get worse, we can, you can definitely come back."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "OK, great, thank you."
+    }
+  ]
+}

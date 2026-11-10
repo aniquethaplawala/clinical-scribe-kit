@@ -1,0 +1,21 @@
+{
+  "encounterId": "pm57-d1c09",
+  "source": "PriMock57",
+  "sourceUrl": "https://github.com/babylonhealth/primock57",
+  "license": "CC-BY-4.0",
+  "citation": "korfiatis2022primock57",
+  "originalId": "day1_consultation09",
+  "setting": "primary care (UK, remote consultation)",
+  "chiefComplaint": "It hurts when I pee",
+  "durationSeconds": 534.2,
+  "audio": {
+    "doctor": "https://media.githubusercontent.com/media/babylonhealth/primock57/main/audio/day1_consultation09_doctor.wav",
+    "patient": "https://media.githubusercontent.com/media/babylonhealth/primock57/main/audio/day1_consultation09_patient.wav"
+  },
+  "turns": 85,
+  "wordCount": 1644,
+  "hasReferenceNote": true,
+  "audioInRepo": true,
+  "hasAudio": true,
+  "simulated": true
+}

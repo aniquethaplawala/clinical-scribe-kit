@@ -1,0 +1,17 @@
+{
+  "encounterId": "osce-GAS0005",
+  "source": "Simulated patient-physician medical interviews (Fareez et al.)",
+  "sourceUrl": "https://doi.org/10.6084/m9.figshare.c.5545842.v1",
+  "license": "CC0-1.0",
+  "citation": "fareez2022dataset",
+  "originalId": "GAS0005",
+  "setting": "simulated OSCE interview (Canada)",
+  "category": "Gastrointestinal",
+  "audioSource": "figshare Data.zip: Audio Recordings/GAS0005.mp3",
+  "turns": 92,
+  "wordCount": 1574,
+  "hasReferenceNote": false,
+  "audioInRepo": false,
+  "hasAudio": true,
+  "simulated": true
+}

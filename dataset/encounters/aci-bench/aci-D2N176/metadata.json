@@ -1,0 +1,24 @@
+{
+  "encounterId": "aci-D2N176",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N176",
+  "split": "clef_taskC_test3",
+  "collectionMode": "virtassist",
+  "chiefComplaint": "chronic problems",
+  "secondaryComplaints": [
+    "reflux"
+  ],
+  "patient": {
+    "age": 62,
+    "gender": "male"
+  },
+  "turns": 47,
+  "wordCount": 668,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

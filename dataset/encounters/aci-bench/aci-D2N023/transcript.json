@@ -1,0 +1,435 @@
+{
+  "encounterId": "aci-D2N023",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Next patient is Paul Edwards, date of birth is january 15th 1962. So he's a 59 year old hiv positive gentleman here for hypogonadism. Patient was last seen on november 24th 2020. His notable things are number one, he is on 1 milliliter every 10 days, uh, his levels were less than 300 to begin with. He's on finasteride currently. He also takes cialis daily so he takes all his pills just from me. Um, patient's other area of concern is gynecomastia which is... Which we will discuss with him today. His last psa was 0.66 and his last testosterone was greater than 1,500. Hey, how are you today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "All right, how have you been?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I'm good."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Good, good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you lost some weight or are you at least putting on some muscle? You look trim."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I think I'm pretty much the same as I've always been."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Really? Okay, maybe it's just your black shirt. Makes you look thin."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I guess that's it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So health wise, how is everything going?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Good, the testosterone's going well."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "That's great."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Uh, it helped me out. I feel good, more vigorous, sleeping well and I think it's having some positive effects. Not so much physically because like I said I've- I've been this way my whole life, but I'm seeing some good improvements in my bloodwork."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, well that's good."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So the finasteride I'm only taking half a pill, it's the 5 milligram one."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, I remember you telling me that."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And cialis, on the days I work out I take 5 milligrams otherwise I take two and a half milligram pills, but, uh, I have been out of it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "But overall I'm doing well, I'm actually taking the correct steps to get my life together."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Good. It's always great to hear. Well let's take a look. Uhm, I'm gon na listen to your heart and lungs."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Please use my general exam template, all right. Just take a few breaths."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "In and out."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right, everything sounds good, no concerns there."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Great. So I wanted to show you something."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Sure."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Look at this."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, this is your cholesterol?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, my cholesterol and triglycerides. Uh, I used to have high triglycerides, you see they were 265 milligrams per deciliter, and I took my first dose of the testosterone on the 28th."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Right."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Now 5 months later look at my numbers."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Wow, that's remarkable."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Is it the test? It's the only change."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I don't know, I haven't honestly seen many guys over the years that have cholesterol problems and this. I mean there's a big correlation between diabetic control and testosterone replacement, meaning those who get good levels of their test see their diabetic control improve."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "But I haven't seen a lot of data on the impact on cholesterol. Regardless, we will take it."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I agree. I was very impressed with my triglycerides and was just wondering if the test may be what's helping."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, that's an unbelievable difference."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "145 milligrams per deciliter from 265 milligrams per deciliter is awesome. I also read that it- it's cardioprotective."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Absolutely."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "My red blood cell count has increased."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, I saw that. It's fine though."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Stable."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Your psa today is also, uh, is good also. It's, uh,.6 I think."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah., is it?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, it was.5 last year and anything under 4 is good."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nice, that's good news."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So it just needs to be checked every year or so."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So in terms of, uh, estrogen control I've been hearing that indole-3-carbinol, or broccoli extract, supposedly can improve my estrogen levels. Have you ever heard of it?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, I've heard of it but I haven't had anybody consistently use it. I mean, your levels are fine and we checked your estra- estradiol and it was not elevated, so."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I would argue that we could test that in the fall if you want, but we don't need to do, uh, do any more tests... Any more than test once a year, excuse me."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, what about increasing my testosterone to 175 milligrams? I'm at 140 now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Well, your levels are high."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Are they right now?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Well, I mean they were last time."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah but I just- just injected though, or I had right before that was taken."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I know. I know you had then, uh, when did you inject this time?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I figure I'm on my eighth day today."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So I'm due to dose on thursday or friday."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I have a little med calendar and I put checks and ts on it. That helps me."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "That's a great idea. So look, the biggest issue I've seen, even if your levels today are around 700, is that your peaks are getting greater than 1,500, putting you at a higher chance of needing to come off due to blood thickness. And your risk will only astronomically go up the higher the dose that we go on."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You look well, your levels are good and you're feeling well."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, I'm feeling good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I'm going to be blunt. Unfortunately this happens often where you're feeling good but you want to feel really good. I mean, I get it and this is why people get into problems with this stuff, right? It's like, back in the day when it wasn't prescribed by doctors and people would get it at gyms and stuff and they would take huge doses. And then they would have a heart attack at 50."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, they have to be taking a lot."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Likely they are taking more than testosterone, but still."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And they are taking stuff for a long time."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "True. But right now I would not change your dose."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Make sense?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It does, I appreciate the discussion."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No problem. What pharmacy are you using? Have you changed it or anything?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No changes, I use walmart pharmacy. I do need more cialis and finasteride."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I would prefer the paper prescription."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "For all of them?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right, will do. I'm gon na get your prescriptions."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, thank you."
+    }
+  ]
+}

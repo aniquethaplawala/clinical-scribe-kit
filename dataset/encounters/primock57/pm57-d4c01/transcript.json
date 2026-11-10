@@ -1,0 +1,729 @@
+{
+  "encounterId": "pm57-d4c01",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 4.81,
+      "end": 5.69,
+      "text": "Hello."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 5.88,
+      "end": 7.04,
+      "text": "Hello. Can you hear me?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 7.3,
+      "end": 24.95,
+      "text": "Yeah, I can. Can you hear me? Hi, my name is Doctor Gohill. I'm one of, Hi, I'm one of the physicians that works at Babylon. Are you in a quiet and private space to talk?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 25.43,
+      "end": 26.44,
+      "text": "I am, yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 26.69,
+      "end": 29.87,
+      "text": "Good, and can I confirm your name and date of birth please?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 30.16,
+      "end": 37.57,
+      "text": "Uh, it's Joe Bloggs. It's the seventh, of June, nineteen seventy four."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 38.03,
+      "end": 40.58,
+      "text": "Seventy four, and how old does that make you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 40.75,
+      "end": 45.13,
+      "text": "Sorry, fifty four [inaudible] . I'm, suppose I'd be fifty three, well, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 42.05,
+      "end": 50.99,
+      "text": "Perfect. Great, and it says here, um, it says you're having chest discomfort. Is that correct?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 50.26,
+      "end": 55.29,
+      "text": "That, that is correct, yes. I'm experiencing discomfort in my chest."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 55.22,
+      "end": 60.4,
+      "text": "OK, can you tell me a little bit more about your chest discomfort? When it started, and how you're feeling at the moment?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 61.48,
+      "end": 94.55,
+      "text": "Sure, um, it's been ongoing for, a couple of hours now. Um, I'd say that it's come on, quite suddenly. I was, digging in the garden. And it, if I had to describe where it is, it's somewhere in the middle of my chest. And it's more, it feels like it's pressure, [inaudible] discomfort, than more, than a pain. Um, if I, had to [inaudible] . If I, if I had to describe what [inaudible] discomfort feeling, it's, it's like someone's sitting on my chest. [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 93.67,
+      "end": 94.65,
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 96.0,
+      "end": 99.68,
+      "text": "And. Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 99.55,
+      "end": 104.39,
+      "text": "Great. So, you've talked about your chest. Are you still in, discomfort at the moment?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 104.52,
+      "end": 106.11,
+      "text": "Uh, yes I do smoke, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 106.06,
+      "end": 109.76,
+      "text": "OK, and when it started, how would you rate it out, out of ten?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 111.76,
+      "end": 116.33,
+      "text": "Say about, say, seven out of ten."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 116.11,
+      "end": 117.25,
+      "text": "OK, [inaudible] ."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 116.74,
+      "end": 124.03,
+      "text": "Ten being, very sort of, unbearable and severe pain. Seven is. Quite manageable, well, it's quite [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 124.4,
+      "end": 125.95,
+      "text": "OK, and how about now?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 126.5,
+      "end": 127.94,
+      "text": "Um, it's still the same."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 129.16,
+      "end": 133.69,
+      "text": "OK, and tell me before this happened, what were you doing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 133.2,
+      "end": 143.46,
+      "text": "Yeah. Um, I was, [inaudible] relaxing. My wife, and, we're watching Jeremy Kyle."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 143.53,
+      "end": 144.5,
+      "text": "OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 144.09,
+      "end": 145.96,
+      "text": "[inaudible] still go out into the garden."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 146.23,
+      "end": 148.66,
+      "text": "OK, and how often do you do gardening?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 149.24,
+      "end": 152.35,
+      "text": "Um, every other week. So, fortnightly."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 152.27,
+      "end": 157.26,
+      "text": "OK, and are you normally fit and well? So, are you [inaudible] normally OK to garden as you would?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 157.73,
+      "end": 158.52,
+      "text": "Uh, yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 159.42,
+      "end": 163.88,
+      "text": "Great, and apart from this, do you have any other medical problems?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 167.2,
+      "end": 173.13,
+      "text": "Um, high cholesterol, and, I've had hypertension, [inaudible] hypertension."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 173.62,
+      "end": 178.66,
+      "text": "OK, so that's high blood pressure, and high cholesterol. Do you take any medicines for that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 183.09,
+      "end": 184.8,
+      "text": "No, I don't take any medicine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 185.05,
+      "end": 187.13,
+      "text": "OK, and are you allergic to anything?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 187.53,
+      "end": 189.08,
+      "text": "Uh, [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 190.62,
+      "end": 205.75,
+      "text": "OK. So, let me summarise what you've told me already. You were gardening a few hours ago, and you experienced chest discomfort, which was roughly seven out of ten. And it feels more like someone's sitting on your chest, as opposed to pain."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 201.73,
+      "end": 207.78,
+      "text": "Yeah. Yes, that's great."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 208.24,
+      "end": 213.47,
+      "text": "And apart from this, have you noticed anything else unusual, specifically with your breathing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 216.83,
+      "end": 224.57,
+      "text": "Uh, yes I have. Um, I've got shortness of breath. And I feel slightly, light-headed."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 226.62,
+      "end": 228.77,
+      "text": "OK, and is that getting worse or better?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 231.73,
+      "end": 245.99,
+      "text": "Um, it's remained the same. Although, I would say recently I've noticed, in terms of sort of breathing, I've had, some difficulty climbing the stairs. And, if I have to sort of walk uphill, there's that sort of challenge as well."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 246.37,
+      "end": 252.13,
+      "text": "And when you get short of breath, when you're walking up the stairs, have you noticed any pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 255.18,
+      "end": 262.03,
+      "text": "Um, no pain as such, but there's often calf pain and, leg swellings."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 262.82,
+      "end": 268.69,
+      "text": "OK. So, let me confirm. You have the pressure at the moment, and you have shortness of breath, is that correct?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 268.68,
+      "end": 269.69,
+      "text": "That is correct, yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 269.28,
+      "end": 276.44,
+      "text": "[inaudible] . So, given what you've told me about your past medical history. I think it might be worth, you calling an ambulance."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 276.84,
+      "end": 277.58,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 277.27,
+      "end": 291.82,
+      "text": "[inaudible] get you to the hospital as soon as possible. Because, my concern is, it might be something to do with your heart. So, While [inaudible] to you, I will ring an ambulance. Who, should come to your address."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 285.3,
+      "end": 292.75,
+      "text": "Ohh, OK. Ohh right."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 292.58,
+      "end": 299.98,
+      "text": "But in the meantime, I think we should stay on the phone. So I can gather some more information, that we can give to the paramedics. Is that OK?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 297.21,
+      "end": 303.54,
+      "text": "OK. Um, should I, be concerned about anything?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 304.07,
+      "end": 314.65,
+      "text": "It's nothing to worry about at the moment, but, given that you've got high blood pressure and high cholesterol, and you've got some chest pain. I'm always worried about the heart first, before anything else."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 314.02,
+      "end": 316.3,
+      "text": "[inaudible] , OK, [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 315.32,
+      "end": 327.33,
+      "text": "[inaudible] , and we, and we need to look after your heart before anything else. So, apart from this [inaudible] light-headedness, and this chest discomfort, have you [inaudible] noticed anything else unusual?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 331.39,
+      "end": 340.39,
+      "text": "Um, nothing, else unusual. Um, I'm not sure if I spoke to you about nausea? I've noticed nausea, but no vomiting, yet."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 340.05,
+      "end": 342.33,
+      "text": "Did you have anything to eat or drink this morning?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 342.44,
+      "end": 343.36,
+      "text": "Um, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 344.68,
+      "end": 347.31,
+      "text": "And you feel, still feel nauseous at the moment?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 347.93,
+      "end": 349.65,
+      "text": "I have, yeah. I am, yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 350.34,
+      "end": 356.49,
+      "text": "So, I have a couple of other questions to ask you, and I'm gonna reel them off. So, apologies for not letting you talk very much."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 354.58,
+      "end": 357.8,
+      "text": "OK. No, that's fine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 357.51,
+      "end": 360.87,
+      "text": "Have you noticed this pressure, radiating to your head?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 361.71,
+      "end": 363.44,
+      "text": "Uh, not to my head, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 363.43,
+      "end": 365.85,
+      "text": "And how about to your left, or right arm?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 366.63,
+      "end": 371.32,
+      "text": "Uh, yes. There is some pain in my left shoulder and arm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 372.02,
+      "end": 375.65,
+      "text": "And does that pain go anywhere else? To your left arm, or to your back?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 376.27,
+      "end": 377.32,
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 378.24,
+      "end": 381.77,
+      "text": "And, have you noticed any problems swallowing, or drinking water?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 384.87,
+      "end": 385.73,
+      "text": "Uh, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 386.6,
+      "end": 390.51,
+      "text": "Good. And have you noticed any problems going to the loo?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 391.19,
+      "end": 392.85,
+      "text": "Uh, no problems going to the loo."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 394.32,
+      "end": 398.12,
+      "text": "And you're normally fit and well, apart from the two things you told me about?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 398.68,
+      "end": 415.52,
+      "text": "Um. Yes, however, there's some problems just, performing daily activities. Um, like I said, with the difficulties climbing up the stairs and going uphill. Um, I try to limit my daily activity to just moving around the house, nothing too strenuous."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 417.48,
+      "end": 419.89,
+      "text": "And, do you live at home with your wife at the moment?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 420.02,
+      "end": 421.04,
+      "text": "Uh, yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 420.6,
+      "end": 429.88,
+      "text": "OK. I would suggest, if she's there, you let her know that, you'll both be having an adventure to the hospital today. So, she might need to get your things together."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 428.33,
+      "end": 431.48,
+      "text": "OK. Got it, OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 431.71,
+      "end": 439.2,
+      "text": "The ambulance should be there very soon. In the meantime, I would suggest that you stay calm, and have some water if you need to."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 434.73,
+      "end": 435.39,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 439.2,
+      "end": 441.71,
+      "text": "Don't take any of those medications."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 439.58,
+      "end": 440.13,
+      "text": "Right."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 442.38,
+      "end": 445.71,
+      "text": "And the paramedics should be with you, very shortly."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 442.38,
+      "end": 446.94,
+      "text": "OK. All right."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 446.88,
+      "end": 450.56,
+      "text": "So, when they do come, there are two things they will be worried about."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 450.72,
+      "end": 451.32,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 451.07,
+      "end": 456.31,
+      "text": "The one is your chest, so, your heart. And the second is your breathing, which is your lungs."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 453.87,
+      "end": 457.13,
+      "text": "Yes. OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 456.97,
+      "end": 466.51,
+      "text": "So, they will give you lots of things to breathe through, and attach things to your arms. Just to check, things like your blood pressure, and your heart rate. So, don't be worried."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 466.75,
+      "end": 467.24,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 467.13,
+      "end": 472.66,
+      "text": "And, when you get to the hospital, you'll be seen by a consultant, pretty, pretty much immediately."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 474.5,
+      "end": 478.97,
+      "text": "Yeah, [inaudible] . Reassuring, I'm getting [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 479.91,
+      "end": 489.8,
+      "text": "Sure. So, I will let the paramedics do their job. And when, you're at the hospital, the consultant would normally call me within a couple of minutes, to let me know how everything's going."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 489.95,
+      "end": 490.81,
+      "text": "Ohh, that's great."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 491.22,
+      "end": 496.22,
+      "text": "Great. I'll um, book another appointment, to see you soon. Uh, [inaudible] , once you've had your adventure."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 494.27,
+      "end": 498.89,
+      "text": "OK. That is perfect. Thank you so much."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 498.57,
+      "end": 500.6,
+      "text": "No problems. Do you have any questions for me?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 500.38,
+      "end": 504.0,
+      "text": "Uh, no questions. I'll just await the ambulance."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 504.7,
+      "end": 506.14,
+      "text": "Great, thank you very much."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 506.24,
+      "end": 507.88,
+      "text": "No problems. I'll speak to you soon."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 507.14,
+      "end": 508.45,
+      "text": "Bye bye."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 508.2,
+      "end": 510.44,
+      "text": "Thank you so much. Bye."
+    }
+  ]
+}

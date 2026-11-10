@@ -1,0 +1,77 @@
+Clinician: Hi, what brings you to clinic today?
+Patient: Hi, so I feel like I might have a bladder infection. I see a urologist because I've had some issues with like an overactive bladder for awhile. I've had a few bladder infections in the past and this is usually how how they feel. I feel like a little bit of burning when I go to the bathroom and I have to go like a lot right now. But then also sometimes it means that like it gets like this when I have my period and I don't have my period right now, but I you know I I could be getting it, but I also just don't wanna let it go keep going if I do have an infection. I just like rather get it like treated if I do.
+Clinician: OK understood. When was your last period?
+Patient: Um, like 2 weeks ago.
+Clinician: About two weeks ago, are you fairly regular?
+Patient: Like yes and no, it's. I'm I'm not super irregular, but I I sometimes have like basically it's like I alternate sometimes. I my cycles like 4 weeks and sometimes it's more like 5.
+Clinician: Sorry, just clarify again, you're 30 years old?
+Patient: Yeah I'm 30.
+Clinician: Ok are you on any contraception right now?
+Patient: Uh, no, I'm not.
+Clinician: Ok. Are you sexually active at all?
+Patient: No.
+Clinician: No? Ok. So just in terms of your urinary tract infections, when was your last one?
+Patient: I had one like 3 months ago maybe.
+Clinician: 3 months ago ok, and they prescribed you antibiotics and it went away fairly quickly?
+Patient: Yeah yeah it went away like I always I always have an overactive bladder and I always have to go pretty frequently, like every hour, sometimes half hour. But so that's still there, but like it hasn't ever since then, I haven't had any like pain with it.
+Clinician: Ok, so you still have quite a, you have a, quite a bit of urgency to go?
+Patient: Yeah.
+Clinician: Kind of going more frequently, but I suppose the new thing you're a little bit concerned about is that it, it burns a little bit, it stings a little bit when you do urinate. Am I understanding correctly?
+Patient: Exactly like for the past couple days, it's felt like that.
+Clinician: Ok, has it been getting progressively worse at all?
+Patient: Um, maybe a little bit I I feel like now I can recognize it pretty early when it's not too bad to kind of get ahead of it.
+Clinician: OK understood. And do you have any pain kind of behind your ribs at all? On your back?
+Patient: Sorry, can you repeat that?
+Clinician: You haven't had any pain on your back, middle back kind of close to your ribs, have you?
+Patient: Not that I can think of.
+Clinician: Ok, and have you noticed any changes to the quality of the urine? For example has it looked frothy or smelled bad?
+Patient: It maybe looked like a little cloudy. But nothing, nothing else out of the ordinary like I've never had blood in it or anything.
+Clinician: Understood. Have you noticed any visual changes in the area near the vagina?
+Patient: No, not that I can think of.
+Clinician: Like any lesions, anything like that? Anything concerned for an STI that you're worried about?
+Patient: No, and like I haven't had like had a sexual partner in a few years.
+Clinician: Understood, understood. These are kind of questions that we ask when someone's having a little bit of maybe an issue holding in their urine. Have you ever felt any numbness or inability to feel kind of around your buttocks region? For example, when you wipe with tissue paper, can you feel that well?
+Patient: Oh yeah, I can feel everything.
+Clinician: Ok and no changes to your poops, to your bowel movements?
+Patient: No, nothing, pretty normal.
+Clinician: Ok, and how do you feel otherwise?
+Patient: I, I mean, I feel I feel a little tired, felt like a little hot yesterday. I don't have a thermometer so like I didn't take my temperature but, you know, sometimes I feel a little hot like when I've had the infections before.
+Clinician: OK, you don't have any swelling on your anywhere in your body on your ankles, do you?
+Patient: No.
+Clinician: No? Ok, and then, so no puffiness around your eyes that you've noticed?
+Patient: No, nothing like that.
+Clinician: Any rashes or any changes on your face?
+Patient: Like my mom said, I, I I saw my mom earlier and she said I looked like a little flushed but it's not not like a rash or anything.
+Clinician: No? No markings across the bridge of your nose and your cheeks?
+Patient: No.
+Clinician: Ok, and then in regards otherwise you feel a little flushed, a little tired? Any other medical issues that you have?
+Patient: No, just this like overactive bladder thing.
+Clinician: OK, and have they given you any medications for it?
+Patient: We tried a few different ones before, now I get I get Botox injections into the bladder like maybe twice a year.
+Clinician: Anything else they've used recently? Like any medications you're on right now, I suppose?
+Patient: No, nothing no nothing else. Yeah, I guess I have like I have an inhaler but I don't use it all the time like I haven't had to.
+Clinician: Oh, so you have asthma?
+Patient: Yeah, like I honestly don't feel like I have it very much now, but I still have like I still have the inhaler.
+Clinician: Understood, understood. Anything else, you've taken medications for in the past?
+Patient: Oh, I used to take birth control, like the the pill but like I just I don't have a boyfriend right now and I just didn't really feel like I needed it otherwise.
+Clinician: Understood, understood. And have you had any past surgeries?
+Patient: Um, I had my appendix out when I was 24. That's it though.
+Clinician: Ok got it. And then just in terms of you yourself, do you live in London?
+Patient: Yeah yeah I do.
+Clinician: Ok. What do you do for work?
+Patient: I work at a bank.
+Clinician: Ok, do you have any children?
+Patient: No.
+Clinician: Ok, and in regards to anything so any sick contacts?
+Patient: Uh no.
+Clinician: Any recent travel?
+Patient: No.
+Clinician: Any allergies?
+Patient: Like sometimes in the spring I'll get like a little stuffy but...
+Clinician: Ok, sounds great.
+Patient: No like, yeah...
+Clinician: Nothing to concerning? No drug allergies?
+Patient: No, nothing like that.
+Clinician: Got it, got it. OK, I think what now do next, I'll move to a physical exam. I think we might just do some investigations just in order to get some more information. And then the physician will come in to see you, ok?
+Patient: Cool, thank you.
+Clinician: No problem.

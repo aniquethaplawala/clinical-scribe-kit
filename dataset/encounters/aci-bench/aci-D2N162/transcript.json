@@ -1,0 +1,260 @@
+{
+  "encounterId": "aci-D2N162",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hi Gregory hi how are you doing today"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Good how are you"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I'm alright so I understand that you were having some you know right ankle pain and some swelling after you fell can you can you tell me a little bit about what happened"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah so I was going out to take off the trash and I you know I was icy and I I was being very careful and then I noticed that there must have been a little patch of ice or something because all I know is that I slipped and I was on the ground and I was being really really careful"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay yeah I know especially this this winter has been rough so you got ta watch for those little ice patches sometimes well okay so this occurred yesterday after falling on the ice so have you been able to walk on it at all"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "When it first happened I couldn't and I actually had a friend who was with me he was she was actually coming to visit and so she had to help me up and so last night I was you know keeping it elevated I was resting it icing it so today it feels a little better like I could put a little bit more weight on it but I'm definitely still limping it it's not my normal"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright and tell me what have you been doing for that foot pain since then"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You know other than the icing I have taken some ibuprofen and I do feel like it's it it is helping"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay okay very good alright and tell me have you ever injured this ankle before"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You know considering I do a lot of sports my favorite right now is soccer or my favorite always is soccer and I've had a lot of injury but I can't remember if I actually injured this ankle I don't think I ever have"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright well good I mean considering how long you've been playing soccer I know you're actually playing for the community league now so that is really great representing the community"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes it's so much fun"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah and and do your kids come and watch you play"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah they come and watch and then now the oldest one is old enough to play himself so they have a leak for four and five -year-olds so he should be starting that soon too so I know he's really gon na enjoy that"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "That's gon na be exciting for him"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So much fun"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "That's a great you had a great soccer league of your own here in your family"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah my husband's really into soccer too"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Play a lot so"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Oh"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Well you I guess you'll be watching it for a while instead of playing it though"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I well I hope not not for too long"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah we'll we'll see what we can do just to get you back out there again okay so tell me have you experienced any kind of numbness in your foot at all"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No not that no I haven't had any numbness"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright very good well let me go ahead and do a physical exam on you real quick here let me take a look at your vital signs good good everything here looks good lem me go ahead and take a look at your right ankle real quick I'm just gon na pull your pant leg up here and then look look at it now on the skin here there is ecchymosis and that's bruising this bruising Gregory and over the lateral malleolus associated swelling now lem me go ahead and just feel around here how does that feel"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That hurts"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I'm sorry so you definitely there is some tenderness to palpation and anterolaterally in the soft tissue there is no laxity on anterior drawer and inversion stress and there is no bony tenderness on palpation of the foot now I'm just gon na take a look at your right foot here just to make sure it's still intact here so okay good on the neurovascular exam of your right foot your capillary refill is less than three seconds with strong dorsalis pedis pulse and your sensation is intact to light touch so that's good sign now so Gregory I did review the results of your right ankle x-ray and it showed no fracture so that's good so let's go ahead and talk about my assessment and plan so for your problem of right ankle pain what I'm seeing is that your symptoms are consistent with right ankle sprain so what I would like to do is I would like you to keep your leg elevated and especially when you're seated and to continue to ice it okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright and then you're going to also be given an aircast which is really gon na help stabilize the ankle and then you also be given some crutches for the next one to two days and then you may start walking on it as tolerated"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you have any questions any other questions for me"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So when will I will I be able to play"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Well let's see now your symptoms should significantly improve in the next two weeks and what I'll do is I'm gon na follow up with you then and then see how you're doing okay and then just please continue to take the nsaids as needed to help with any of that pain that you may have okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And then we will see in in a few weeks how how if you're ready to go play soccer again okay alright"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Alrighty"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Well do you have any other questions for me or is there anything else I can do for you"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No I think that's it thank you"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay well I will have the nurse check you out and then if you experience any kind of symptoms in the next you know before your next visit with me go ahead and feel free to call the clinic okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright alright take care Gregory"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Alright thank you"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Bye"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Bye"
+    }
+  ]
+}

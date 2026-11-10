@@ -1,0 +1,21 @@
+{
+  "encounterId": "pm57-d3c01",
+  "source": "PriMock57",
+  "sourceUrl": "https://github.com/babylonhealth/primock57",
+  "license": "CC-BY-4.0",
+  "citation": "korfiatis2022primock57",
+  "originalId": "day3_consultation01",
+  "setting": "primary care (UK, remote consultation)",
+  "chiefComplaint": "lips swelling after eating a sandwich",
+  "durationSeconds": 507.7,
+  "audio": {
+    "doctor": "https://media.githubusercontent.com/media/babylonhealth/primock57/main/audio/day3_consultation01_doctor.wav",
+    "patient": "https://media.githubusercontent.com/media/babylonhealth/primock57/main/audio/day3_consultation01_patient.wav"
+  },
+  "turns": 73,
+  "wordCount": 1289,
+  "hasReferenceNote": true,
+  "audioInRepo": true,
+  "hasAudio": true,
+  "simulated": true
+}

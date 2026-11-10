@@ -1,0 +1,190 @@
+{
+  "encounterId": "aci-D2N017",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hello, mrs. Peterson."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Hi, doctor taylor. Good to see you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You're here for your hip today, or your- your leg today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes. I hurt my- the- my- top part of my right leg here."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey, dragon. I'm seeing mrs. Peterson, here, she's a 43-year-old patient. She's here for left leg pain. Right leg pain, right leg pain?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um so, what happened to you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I was bowling and as I was running up to the lane, I had my bowling ball all the way back, and when I slung it forward, I hit it right into my leg instead of the lane and so then I fell but- yeah-"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Did you get a strike?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No. In fact, I actually dropped the ball and it jumped two lanes over and landed in the other people's gutter."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Terrific, terrific. So, did it swell up on you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It- not- didn't seem like it swelled that much."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "What about bruising?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, a little bit on the back- back end, that side."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have- have you been able to walk on it?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Just a little bit. Very carefully."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Sore to walk on?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes. It's very sore."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, and going upstairs or downstairs, does that bother you at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah, well, I don't have stairs, but um, I would avoid that at all costs."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Um, it looks like you had a history of atopic eczema in your past?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes. Yes, I have eczema."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And you take uh- uh, fluocinonide for that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, when it gets really itchy, I'll- I'll use that and it usually takes care of it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. And, it looks like you have a pre- previous surgical history of a colectomy? What happened there?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, I had a- um, some diverticulosis and then um, I actually went into diverticulitis and they ended up going in and having to remove a little bit of my colon."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, let me examine you. Does it hurt when I push on your leg like that?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, it does."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. If I lift your leg up like this, does that hurt?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So, on my exam, you have some significant tenderness to the lateral aspect of your um right upper leg. You don't seem to have any pain or tenderness with flexion or extension of your um your lower leg. Um, are you taking anything for it right now?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I've been going back and forth between taking ibuprofen and tylenol."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Well, my impression is that you- you probably have a contusion, but let's take a look at your x-ray first. Hey, dragon. Show me the x-ray. Yeah, so if you look at this, this is a normal femur. Um, really don't see any evidence of a fracture or any swelling, so it's essentially, a normal x-ray. So, what we're going to do is, I'm going to start you on um an anti-inflammatory. It's going to be mobic 15 milligrams uh, once a day. I want you to use some ice for the pain, um, and it should, honestly, just being a contusion, get better in the next week or so. If it's not getting better, of course, come on back and- and see me."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, sounds good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hey, dragon. Go ahead and um, pres- do the orders and um, procedures uh, as described. Come with me, and uh, I'll get you checked out. Dragon, go ahead and finish off the note."
+    }
+  ]
+}

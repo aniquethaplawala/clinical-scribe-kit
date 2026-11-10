@@ -1,0 +1,41 @@
+Clinician: Stephanie Morales, medical record number 113322. 44-year-old female that presents today six weeks status post right medial unicompartmental arthroplasty. Hello!
+Patient: Hi, how are you doing?
+Clinician: Good, how are you?
+Patient: I'm all right.
+Clinician: How's the knee treating you?
+Patient: It's good.
+Clinician: Good. Any problems?
+Patient: No, no problems, uh, just still the numbness on this side.
+Clinician: Okay. That area of numbness will get smaller as the nerves that innervate the skin across the knee heal.
+Patient: Right. Okay.
+Clinician: So lem me take a look at your right knee.
+Patient: Sure.
+Clinician: All right, and relax for me. Good. All right, and bend. Good. That looks good. Um, the incision looks nice.
+Patient: Mm-hmm.
+Clinician: Let's look at your x-rays. Uh, they look good. So here's what you got going on in there. Uh, it looks good. Everything's lined up nicely. Um, that's looking at it from the front. And this is looking at it from the side. And then this was underneath your kneecap, but we didn't do anything there. But things looks great.
+Patient: Okay. I'm so happy with how the surgery went. I have no pain.
+Clinician: Yeah, you know, you're still early in your recovery, so I expect you to get even better than what you are now. Um, so keep doing your pt to work on your strength, range of motion, and endurance.
+Patient: Okay, will do.
+Clinician: You're probably still gon na have aches and pains occasionally. I usually tell people it's two or three months before you feel like you're back to yourself again, so you're doing really well.
+Patient: Okay. That's really good to know. Thank you.
+Clinician: Yeah, let's plan to talk again in six weeks. So if you stop at the desk on your way out today, they're going to get you set up for a telemedicine visit. And that visit'll just be to check in and see how you're doing and make sure things are progressing okay.
+Patient: Sure, okay. And can I ask you about work before I go?
+Clinician: Sure.
+Patient: Well, as you know, I work for ups, and I'm not able to go back yet because of going up and down steps with the position I have. However, they're asking me to come back to work where I can sit for the shift with breaks.
+Clinician: Okay. I, I don't want you lifting greater than five or 10 pounds, and no standing or sitting longer than a half an hour. Uh, usually that means you can't do a ups job.
+Patient: All right. So would you write a note to excuse me for another six weeks?
+Clinician: Sure. I'll have my nurse anna give it to you.
+Patient: That's great. Thank you.
+Clinician: Okay, so we'll talk again in six weeks, and we can discuss your job again at that time.
+Patient: Sounds good.
+Clinician: Yeah, those, um, are the types of, of jobs that take a good three months until you're kind of ready to get back to doing that kind of labor-intensive work.
+Patient: Okay, and driving now?
+Clinician: Uh, we have plenty of data that says normal reflex time is returned at six weeks, and then your return to driving is determined by when you're ready and feel safe to be driving.
+Patient: Okay.
+Clinician: Yeah. So hang tight. Anna will bring that note back in to you, and we'll talk in six weeks.
+Patient: All right, that sounds good.
+Clinician: Uh, but keep working hard on, on pt in the meantime though.
+Patient: I definitely will. Thank you.
+Clinician: All right, have a good rest of your day.
+Patient: You as well.
+Clinician: Okay, this is a six-week post-op meeting exam for her. Her gait was antalgic with a slight limp and decreased velocity. She's not using an assistive device. Right knee focused exam has a healed surgical scar, mild swelling, tenderness- tenderness. . On the area of the incision. Range of motion is zero to 120 degrees. Everything else normal. Radiographs were three views of the right knee taken today and show implants in stable position. No evidence of loosening or early complications. Thanks.

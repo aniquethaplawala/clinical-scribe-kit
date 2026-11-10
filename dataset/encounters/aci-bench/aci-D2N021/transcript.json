@@ -1,0 +1,660 @@
+{
+  "encounterId": "aci-D2N021",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Next patient is Christine Hernandez, uh, date of birth is january 13th, 1982. Hey, miss Christine, how are you doing today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm good, thanks. How are you?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I'm pretty good. So it looks like you've completed the covid vaccine, that's great."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, I did."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Anything new since your last visit?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I did all the tests that you had recommended me to take. I haven't been able to take the thyroid medicine, the one that you prescribed, as I'm still taking my old one. Um, the price was a little high on the new one."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, so did... Did you try the coupon that I gave you?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I did not try the coupon, uh, there was a charge of $75."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, well, next time that... That coupon should help, and it should only be about $3."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, um... I don't have it, do you happen to have another one you can give me?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yep, right here."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Wonderful, thank you so much, and... And then the gel, they are charging me $100 for it. So, I don't know if this is because it's a... It's wal-mart, or if I should try somewhere else, or... Maybe you know how or where I can get it cheaper."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, let's try something else, um... Sometimes it can be cheaper if we just prescribe you the individual ingredients of a medication, rather than the, the combined medication itself."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That would be great."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So, that's clindamycin gel and benzoyl peroxide, uh, maybe by doing them separately, they could be a lot cheaper. So, that we can do. The unithroid, with the discount code, should only be about $9 for 90 days."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, that would be great. Yeah, they were charging me $75, and I just couldn't pay that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Maybe we'll try different pharmacy, as well."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay. So, do you think that my weight gain could have been the birth control that I was taking before that caused it?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Maybe. I don't really see an endocrine cause for it, at least, so I would need to see the, the hyperandrogynism or high testosterone. Or, a high dhea, to cause acne, or hair growth, or any of that stuff. But, the numbers aren't showing up out of range."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I really don't see any endocrine cause for it, like I said. Your growth hormone was fine, but we definitely want to and need to treat it. Um, I don't know if we talked about maybe a little weight loss study."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You mentioned the weight loss study, and you mentioned that I have some meal plans, um, that you had given me. I still have those, too."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Have you tried to make any changes in the diet since the last time we spoke?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I've been trying to get better. I will start back at the gym in july, because of my contract, I had to put a hold on it until then."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "So, I do want to start doing that. I will be a little freer since, um, I'll be on vacation after july 8th."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, good."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And then my cousin was telling me to ask you about cla, because it's supposed to help your metabolism. Is that okay to take?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, I'm not sure. What is c, cla?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm not sure what it is, either."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, well, I'm unfamiliar with it, so..."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay. I also have a coworker who has a thyroid issue too, and she suggested to try chromium for weight loss."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So, that likely will not help too much. You can try either, if you really want to, but then... It will not accept you into the weight loss study if you try those two."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Chromium is just a supplement and it won't help that much."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It won't, okay, thank you."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "It won't hurt... Okay, I shouldn't say that it won't hurt, but, it also won't help that much. So, it's up to you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay. And so, my cousin also suggested amino acids, and that I might find them in certain foods, I guess, for my workout."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah. Amino acids are fine, they won't, won't really help with weight loss either, but it might help, uh, you replenish, and just kind of, feel hydrated."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay. Are they proteins? Um, my cousin said she had lost some weight, and has been working out every day, but she doesn't work, so... I don't know."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yes, amino acids are what make up the protein, which is in any food you eat, with any protein. So, meats, dairy, nuts, any of that sort of thing."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, thank you. Got it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. Um, are you allergic to any medications?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, not that I know of."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. Is your s- skin pretty sensitive?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Um, yeah, my size, I will start getting rashes, with different products."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And have you ever tried clindamycin topical, as an antibiotic for your acne?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No, I've never tried anything for it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. We might give you some of that."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay. And I also want to mention that my feet do swell up a lot."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. I'm... Let me take a look at that for just a moment. Um, any constipation?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, I also do have that problem."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right. Mira- miralax will definitely help with that."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, yes, my doctor did also recommend that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Great. All right, let's do an exam real quick. Please have a seat on this table and I'll listen to your lungs and heart."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right, deep breath. All right, again."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right, sounds good."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Great."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Let me take a look at your feet and ankles."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right, they look okay right now, certainly let your doctor know about this if it gets any worse or reoccurs."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, I will do that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Now, let's go over your lab work. So, when you took that pill, the dexamethasone test, you passed, which means you don't have cushing's syndrome. On that test, at least. The salivary cortisol, though, unless you did one wrong... Two of them were completely normal and one was abnormal, so, we might need to repeat that in the future."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, that's okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right, so, your cholesterol was quite high. The total cholesterol was 222. The good cholesterol was about 44. The bad was 153, and it should be less than 100. The non-hdl was about 178, and it should be less than 130. The good cholesterol should be over 50, and it was 44. So, your screen for diabetes is... Was fine. You do have a vitamin d deficiency, and, I don't know if we started the vitamin d yet, or not."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, we did. I- I do need to take one today, though."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay. So, I also checked a lot of other pituitary hormones, iron levels... Everything else seemed to be pretty good, and in decent range."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, that sounds great. So, I wanted to also show you my liver enzymes, um, because I haven't come back since then... But I was also happy, because one of them was back to normal."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, great. Let's see them."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay. So, the one that's 30, that was almost 200 not so long ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, your alt was about 128."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, and, and back in october was 254."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, this is much better."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, great. And then it dropped in january, and then it dropped a little more in march, since I stopped taking the medicine in december."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, that's good. So... I'm proud of you with the course of your labs, so before I forget, I'm going to, uh, just put your labs into the computer today, and I won't be checking your vitamin d level for some time."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay. So, with the thyroid, and the low vitamin d, does that always happen together?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, I do have a lot of people that have thyroid, thyroid issues and they have vitamin d deficiency."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "This is what I'm, um, I'm going to do. I'm going to put, print out your prescriptions, so you can shop around at the pharmacies and see if you can find better prices."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, that way I can go ask them and try cvs."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah, that sounds like a plan."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, good. So, the weight loss study that you mentioned, when does that start? Or, how does that work?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So, we are about to start, as we just got approval last week, and we are just waiting on our paperwork so we can get started."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, and what's involved with that?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So, it'll involve you receiving a medication which has been used for diabetes treatment, and it works mostly in the gut on satiety, or satiety hormones. Um, the most common side effects are going to be nausea, vomiting, diarrhea and constipation. They are s- uh, six arms, to the study. One is a placebo, the other ones are a, various as... Various dosages of the medication, excuse me. Um, you would receive an injection once a week. Also, keep in mind that most of the weight loss medications are not covered by insurance."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So, it's a way of getting them, but, the odds of getting one of the arms with the medication that are in your favor, right, might be only one out of five of our hundred patients that we have on the list for the study that will receive the placebo."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Does that make sense?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, it does."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So, we do expect pretty big weight loss, because of what we learn in diabetes study. So, it's a year long, uh, process, and it's an injection once a week. You come in weekly for the first four, five weeks, I believe. And then, after that, it's once a month. You do get a stipend for partici- for participating in the study, and parking is validated, and whatever else that you need for the study."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, do you know how much the stipend is?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, I will have to double check for you, and, you don't have to be my patient, you just have to meet the criteria. So the criteria is a bmi greater than 30, if you don't have any other medical condition. Or, a bmi greater than 27, if you do have another medical condition, like your cholesterol. Um, a bmi greater than 27 would quali- uh, qualify you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I have a friend who might be interested, and she does have diabetes."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "If she has d- diabetes, then she won't qualify."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, you can't if you... If you have diabetes, got it."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Correct. Yeah, the only thing that, um, they can not have, really, is diabetes. So, either a psychiatric disease, or schizophrenia, bipolar, things like that."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "But, if they have hypertension, high cholesterol, things like that... They can definitely sign up."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And they can, okay. Thank you for explaining that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Of course. So, do you want me to try to get you into that study? Or, would you just like to try, me to prescribe something? It's kind of up to you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I think I'll just wait for a little bit now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "All right, sounds good. I'll give you the information for the research, it's just in my office. Um, it is a different phone number, though. So then, if you're interested, just call us within a month, because I don't know how long, uh, the, the wait will be."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, will do."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Perfect. So, let me go grab your discount card for the unithroid. Um, when you go in to activate it, the instructions are on this card, and then you use your insurance... Then, show them this, and ask how much it'll cost. If it's too expensive, just let me know."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I will. Thank you so much for your help on that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You're welcome. Then, what I did is, I gave you a topical antibiotic, plus I gave you the benzoyl peroxide. So, the peroxide may bleach your sheets, but, you want to make sure to take it and apply it at night, so you don't have a reaction from the sun during the day."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, I can do that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "But, you do also want to make sure that you don't mess up your sheets."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, sounds good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Um, so, that's that. And then, let's see how you do on the other medications. I think this will, this will get better. In the meantime, a low-carb diet, avoid alcohol and fatty foods, and low chole- cholesterol foods."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And again, once you finish your dose of vitamin d, for the vitamin d deficiency, you're gon na start with the 2000iu daily, so that you're able to maintain those levels. Sound good?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yes, that sounds great."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I really think your liver enzymes are going to get better once you lose the weight, though."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, that would be great."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Since we stopped your birth control, we can try once called phexxi, which is kind of like a spermicide, basically."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "And you just apply it before intercourse."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "If you need some, uh, just let me know."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, I will. I'll let you know."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay, perfect. So, stay put for me now. I'm going to go see if they have discount samples, and bring you that prescription. And then, I'm going to order the labs for next time."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay, great, thank you so much."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You're welcome. So, under the plan, under abnormal liver enzymes, they have improved since discontinuation of her birth control. Under abnormal weight gain, her dexamethasone suppression test was normal. Two out of three salivary cortisol tests were normal, not consistent with cushing's, and therefore we're ruling out cushing's. Under her hirsutism, her androgen levels were normal. For the acne vulgaris, the epiduo was not covered, so we'll try benzoyl peroxide with clindamycin, and remove the previous information. On the hyperthyroidism, we'll print out her prescriptions. Unithroid should be better priced with the discount card, and we'll repeat levels of everything before next visit. Thanks."
+    }
+  ]
+}

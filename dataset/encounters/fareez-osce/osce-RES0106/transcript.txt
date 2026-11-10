@@ -1,0 +1,119 @@
+Clinician: What brings you in?
+Patient: I've had, I've had this cough for the past two weeks. I was just worried about it.
+Clinician: OK, past two weeks? Have, is it a dry cough or is it? Are you bringing up phlegm?
+Patient: I'm it's mostly dry, but just sometimes there's like a little bit, I guess, yeah, the flat little bit of phlegm.
+Clinician: OK, what colour is the phlegm?
+Patient: It's like whitish, sometimes it's clear.
+Clinician: OK, is it ever green or bloody?
+Patient: No.
+Clinician: No, OK. Do you have any shortness of breath?
+Patient: No.
+Clinician: Any wheezing?
+Patient: Sometimes, yeah.
+Clinician: Sometimes, OK. With the cough or outside the cough as well?
+Patient: With the cough.
+Clinician: Any chest pain?
+Patient: Um, no not initially, but like since the past few days, especially after I've like coughed a lot, it just kind of hurts me a little bit.
+Clinician: OK, OK, any, do you ever feel so it just hurts after coughing.
+Patient: Yeah.
+Clinician: So is it kind of like a sharp pain or like a dull achy pain?
+Patient: I don't know, it just feels like like my muscles are hurting like I'm just like coughing so much it's just..
+Clinician: OK.
+Patient: Dull pain. In the middle of my chest then it goes away.
+Clinician: OK, OK, and do you ever feel like your heart's racing?
+Patient: No, no.
+Clinician: OK. And have you noticed any swelling in your legs, arms, or abdomen?
+Patient: No.
+Clinician: Any dizziness or fainting spells?
+Patient: No.
+Clinician: No, OK. Any headaches?
+Patient: No.
+Clinician: Confusion or memory loss?
+Patient: No.
+Clinician: Have you noticed any fevers?
+Patient: No.
+Clinician: Any weight loss?
+Patient: No.
+Clinician: No. Excessive fatigue or tiredness?
+Patient: Uh, no, not really. I've haven't been fatigued. I think I'm I'm fine and feel normal. Other than the cough of course.
+Clinician: OK, sure. Any rashes?
+Patient: No.
+Clinician: How about changes in your vision or hearing?
+Patient: No, no concerns there.
+Clinician: Have you had a stuffy nose or runny nose?
+Patient: No.
+Clinician: No, a sore throat?
+Patient: Uhm, no.
+Clinician: OK, changes to your smell or taste?
+Patient: No.
+Clinician: No. Have your bowel movements been normal?
+Patient: Yeah.
+Clinician: Yeah. How about urine?
+Patient: Yep, they've been, no concerns.
+Clinician: Any nausea or vomiting?
+Patient: Uhm, no.
+Clinician: No. OK. Have you ever experienced anything like this in the past?
+Patient: I kind of had this about, I don't know three or four years ago. I just had this cough, but then it kind of went away on its own in about a week. But now it's been like 2 weeks so I don't know what's happening. If it's something I just want to make sure it's nothing serious.
+Clinician: Yeah, for sure. When you had this in the past, were you ever done given a diagnosis?
+Patient: No, I didn't go to see a doctor. I just kind of stay at home.
+Clinician: OK.
+Patient: I thought it was just like a mild infection or something.
+Clinician: Mhmm. Have you tried anything for the cough this time around?
+Patient: I had some like lozenges and I haven't, and those have been helping me.
+Clinician: OK.
+Patient: Yeah. OK, good. If you were to describe your cough, is it barky, harsh, muffled, like what what would you say the sound of it is? Uhm, I don't know. It's kind of like, like a normal cough, you know, like when you're clearing your throat or something, or when you're like when something gets stuck in your throat, just like like a normal cough. I don't think it's barky.
+Clinician: OK OK, are you otherwise healthy? Do you have any longstanding medical conditions?
+Patient: No, I don't. I don't.
+Clinician: No, OK. Have you had any hospitalizations or surgeries in the past?
+Patient: I have my wisdom teeth removed.
+Clinician: OK, when was that?
+Patient: About 8-9 years ago, when I was 17 years of 16 years old, ah, 17 years old.
+Clinician: OK, OK, and are you on any medications?
+Patient: I'm just taking this birth control pill.
+Clinician: OK, which one?
+Patient: Uhm, yeah, it's called, uhm, I forget the name.
+Clinician: Ah, no worries. And when did you start it?
+Patient: I started three years ago.
+Clinician: Three years ago, OK. And no side effects, no issues with it?
+Patient: No, no, it's all good.
+Clinician: And are you up to date with all your immunizations?
+Patient: Uh, yeah, I think so.
+Clinician: OK. Did you get the flu shot this year?
+Patient: No I didn't.
+Clinician: No. OK yeah, we recommend getting it out once a year. Just yeah, for your safety and for everyone else's and even if you get the flu, maybe your symptoms won't be as severe and then, do you have any allergies?
+Patient: Uh, I don't, no.
+Clinician: No, OK. Any family history of lung conditions or heart conditions?
+Patient: Uhm, My mom has diabetes.
+Clinician: OK.
+Patient: And my dad has high blood pressure.
+Clinician: OK. Uhm, and then any cancers in the family?
+Patient: No.
+Clinician: No, OK. And have you been in contact with any any sick people recently?
+Patient: No, I've just been staying at home.
+Clinician: OK. Uhm, any travel recently?
+Patient: No.
+Clinician: No, OK. How about umm smoking, do you smoke?
+Patient: Uhm, once in awhile.
+Clinician: OK, what's once in awhile?
+Patient: Maybe when I'm out with my friends I might sometimes, have a cigarette or two. I used to smoke a lot more, but I'm trying to cut it down.
+Clinician: OK. How long have you been smoking for?
+Patient: I started smoking in high school, so when I was 18 years old.
+Clinician: Mhmm.
+Patient: And at that time I would have about 6 cigarettes a day, but then I like I, I knew that smoking wasn't good for me, so I'm trying to cut it down, but my friends still smoke, so sometimes when I go out with them, I'll just have a cigarette or two, maybe like once a month, I would say.
+Clinician: Once a month, OK. OK. And then any other recreational drugs like marijuana or cocaine or anything like that?
+Patient: I tried a few in high school but not since then. I had, yeah, I had cocaine once.
+Clinician: OK, and do you drink alcohol?
+Patient: Yeah I have a glass at night.
+Clinician: OK. Glass of wine or beer?
+Patient: Glass of wine.
+Clinician: And, and where do you live right now?
+Patient: Uh, I live, I live in an apartment with my boyfriend, about 20 minutes from here.
+Clinician: OK. Any old carpets at home? Dust, mold, asbestos, anything that would be triggering your cough?
+Patient: I don't know. I have not really had a problem but been here at this place for about a year and a half.
+Clinician: OK.
+Patient: It is an old building but it's been OK so far. No recent changes.
+Clinician: OK, OK, good. So those were all the questions that I had for you today. Did you have any questions of your own?
+Patient: No, I was just worried this cough isn't, isn't serious, right? You don't think I have Covid?
+Clinician: So because your symptoms do overlap with that of Covid, we're going to get a swab on you done and you should get those results in about 24 to 48 hours. And if it's positive, public health will be in touch umm, to do some contact tracing. In the meantime, because you have a cough, it is recommended that you isolate for 14 days. And if it's not Covid, but it's probably something like acute bronchitis or some other viral infection that's going around at this time of year, so for that we can, you can just treat it with like supportive treatments. You know, like staying hydrated, uhm, good nutrition, good sleep and just keep an eye on your symptoms. If they become worse or really severe like you're having neurological symptoms and just seek help from the ER.
+Patient: For sure. Thank you.
+Clinician: Yeah, take care.

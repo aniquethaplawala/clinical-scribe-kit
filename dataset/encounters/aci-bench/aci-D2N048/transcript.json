@@ -1,0 +1,305 @@
+{
+  "encounterId": "aci-D2N048",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright Brittany so I see that you are experiencing some right foot pain could you tell me what happened"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah well I was playing tennis and I was trying to you know volley the ball"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It was like a double game and I was trying to volley the ball and I got in front of another player and actually ended up falling on top of my foot"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "And then yeah it kinda hurt I quickly then twisted my myself around her because I was trying to catch myself but then I started to feel some pain in my foot"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mm-hmm okay have you ever injured that foot before"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah no sorry I injured my other foot before not this foot"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay so right now you're experiencing right leg pain but you have injured your your left leg before is that what I'm hearing"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah that's fine"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright were you able to continue playing"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No I had to stop I actually it was like I had to be held from the field because I couldn't put weight on my foot"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I'm sorry okay so what have you been doing for the pain since then"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I wrapped it after a the game they had some ace wraps in their clubhouse and so I wrapped it up and then I iced it last night and I just kept it up on a pillow and then I took some ibuprofen"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay could you one more time when did this injury happen"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "This happened about couple days ago"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay so did you say whether does the ibuprofen help at all"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah it helps a little bit but then you know it it you know after a while it wears out"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and then have you experienced any numb numbness or tingling"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No no numbness"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright any loss in sensation"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No I mean I I can still feel like I can still feel my foot"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright that's good to hear so you were playing tennis is that what you normally do to work out"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I do I'm trying to learn but I can not afford tennis less lessons so me and my friends just hit the balls back and forth I do sleep"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I love it absolutely yeah my dad one time took me to play racquet ball and I learned the very bruisy way that that wasn't for me yeah"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That scares me"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "It's it they they move pretty fast I'm not gon na lie alright so if you don't mind I'm gon na go ahead and do my my physical exam I'm gon na be calling out some of my findings but if you have any questions go ahead stop me let me know but I will be explaining along the way okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright so I've looked at your vitals and honestly they look great you know your blood pressure I see is one twenty five over seventy that's almost textbook respiratory rate we are seeing you at a smooth eighteen excuse me your temperature you're running normal ninety seven. One you're you're satting at a hundred percent so and then your pulse so that's interesting like you're you're going at like about sixty beats a minute so I think they're I think we're doing pretty well I'm gon na go ahead and listen to your heart on your heart exam I don't appreciate any like murmur rub or gallop we have a nice regular rate and rhythm for your lung exam I do appreciate a little bit of stridor that's really interesting but I don't hear any wheezes or rales so that's great for your I know this sounds weird but for your abdominal exam I don't appreciate any rebound no guarding on your skin exam I don't sorry like on your your head everything looks symmetrical your your mucosal membranes are normal you don't feel hot to touch so that's great but I'm gon na do my foot exam okay so on the right foot there is some bruising of the plantar and dorsal aspects of the foot there is associated swelling when I touch on your midfoot here does it hurt"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No uh uh"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright tenderness to palpation of the midfoot and positive piano key test of the first and second metatarsals alright it's also warm to touch alright so on your neurovascular exam of your right foot your capillary refill is less than three seconds strong dorsalis pedis pulse and your sensation is intact to light touch your left foot exam is normal capillary refill is appropriate pedal pulses are strong and sensation is intact so I know that before here we before I came in that we got an x-ray so I've reviewed the results of your x-ray of your right foot and it showed subtle dorsal displacement of the base of the second metatarsal with a three millimeter separation of the first and second metatarsal bases and the presence of a bony fragment in the lisfranc joint space alright I know those were a bunch of fancy words so now I'm gon na explain to you what that all means for my impression and plan your first problem is right foot pain consistent with a lisfranc fracture which is a fracture to one of your second metatarsal bones near the top of your foot right so the big part of your toe is the first metatarsal the second part where you can kinda like bend it right that's the that's the metatarsal that we're talking about based on your exam and what I'm seeing on your x-ray I am gon na recommend surgery for your foot the surgery will help place the bones in their proper positions using plates and screws to help prevent further complications there are also many ligaments at the top of your foot so I will be ordering an mri to further assess the fracture and any injury to the ligaments I know this is a lot do you have any questions"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah do I have to do the surgery"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So I'm recommending it as there can be significant complications to your foot if you don't it can lead to poor bone alignment or poor ligament healing which can lead to you losing the arch of your foot and becoming flat-footed you can also develop arthritis in that foot so yes I I I highly recommend it if you want to be able to walk and move about in a way that you are familiar with"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I just hate that word surgery doc"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I know"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You know it scares me every time I mean especially with my foot I want to be able to walk again and so I just get really worried I mean how long is the procedure usually too"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So it's actually"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Have to be in the hospital"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No no no no no it's actually a day surgery and you'll be able to go home the same day and then you will follow up with me here in the clinic in about a week you'll be in a cast and you will use crutches as you will not be able to use that foot for six to eight weeks after that you'll start gradually walking on your foot based on how you do so the procedure itself is not very long you will and so like since you will be able to go home that's great but you won't be able to drive especially since you're saying are you left handed or right handed"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I'm right handed"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah so your your right foot is probably your dominant one and the also the one you're supposed to drive with so no you're gon na you're gon na need somebody to take you home but what"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I mean"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Uh uh"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Does that mean I'm out for the rest of the season I mean I wan na be able to get back and play again I really am I'm getting a little better so I"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Mm-hmm"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I really wan na keep on playing my tennis with my friends but"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah so unfortunately yes it does mean that you're out for the rest of the season but hopefully we can get you a great get you to a set up well for next season and in the meantime I think I'm gon na recommend after surgery that we get you to physical therapy I think that that's gon na be a really great way to like kinda strengthen the muscles and make sure that you're at peak performance before we put you back out there"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I suppose so"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Thank you"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No problem so I do wan na let you know that there are some risks associated with any kind of surgical procedure I'm gon na bring you some paperwork and that my ma is gon na go over with you such as like risks of bleeding loss of sensation nerve damage all those things will be discussed with you and if you have any questions leading up to and even after your procedure go ahead and ask them and we'll be more than happy to help with that okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Alright"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Good"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Thank you"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Thank you"
+    }
+  ]
+}

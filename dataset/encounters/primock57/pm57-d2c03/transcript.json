@@ -1,0 +1,589 @@
+{
+  "encounterId": "pm57-d2c03",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 0.62,
+      "end": 1.49,
+      "text": "Hello?"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 1.44,
+      "end": 2.97,
+      "text": "Hi there. Good morning!"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 3.13,
+      "end": 9.51,
+      "text": "Hi. [inaudible] . Nice to meet you. Hello."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 3.62,
+      "end": 14.68,
+      "text": "Hello. I, I'm Doctor [inaudible] . Nice to see you. Hi. Um, so, before we start your appointment, could I confirm your full name and date of birth, if that's OK?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 14.79,
+      "end": 22.58,
+      "text": "Uh, yeah. Uh, Mary Richards. Uh, and my, I'm forty years old. So."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 23.19,
+      "end": 30.99,
+      "text": "You're [inaudible] OK, fine. So, you're [inaudible] you're forty years old, you said, yeah? Perfect, OK. Um, are you in a private place where you're OK to speak at the moment?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 31.04,
+      "end": 31.87,
+      "text": "Yep."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 31.66,
+      "end": 35.02,
+      "text": "OK, great. Um, so how can I help you today?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 35.32,
+      "end": 44.72,
+      "text": "Um, so, just been having some, um, problems with my hearing, I can't really hear very well, and my , noticed that my face has been feeling a bit numb recently."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 44.91,
+      "end": 48.86,
+      "text": "Right, OK. OK. And how long has this been going on for?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 49.14,
+      "end": 54.81,
+      "text": "Um, it's been, it's been a few weeks now. Um, been about three weeks or something."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 54.91,
+      "end": 59.01,
+      "text": "Right, OK. And, is this just on one side, or both sides?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 59.52,
+      "end": 64.13,
+      "text": "Just one side, just on my left side, I've noticed that the hearing's kind of gone down a bit."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 64.59,
+      "end": 72.38,
+      "text": "Right, OK. And [inaudible] your face feeling numb, where exactly is that? Which part of your face? Can you, can you show me with your finger?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 72.32,
+      "end": 81.59,
+      "text": "Yeah, so again it's the left side, it's kind of like around my left ear, and kind of, along here. So like, my jawline's just all feeling a bit numb round here."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 81.2,
+      "end": 88.56,
+      "text": "Right, OK. OK. Um, has anything else happened, um, in this time? Any other symptoms you have at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 88.94,
+      "end": 97.62,
+      "text": "Not that I, not that I've noticed, [inaudible] . I think, occasionally noticed a, ringing in my ear. Um."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 96.94,
+      "end": 99.11,
+      "text": "Some, some ringing in your ear. OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 98.92,
+      "end": 100.75,
+      "text": "[inaudible] , yeah it's [inaudible] ."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 101.26,
+      "end": 109.56,
+      "text": "Sure, OK. Um, and um, have you had any weakness or numbness, down the, in the rest of the body at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 109.52,
+      "end": 111.51,
+      "text": "No, no, no, no, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 111.45,
+      "end": 114.0,
+      "text": "OK. Have you had any difficulty swallowing?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 114.41,
+      "end": 115.13,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 115.68,
+      "end": 117.66,
+      "text": "And, have you had any difficulty speaking?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 118.19,
+      "end": 119.03,
+      "text": "No, no."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 119.21,
+      "end": 121.78,
+      "text": "Have you noticed any problems with your vision, at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 122.37,
+      "end": 123.65,
+      "text": "No, that's all good."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 123.65,
+      "end": 127.04,
+      "text": "OK. Uh, and do you have the numbness present right now?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 127.77,
+      "end": 137.23,
+      "text": "Uh, yeah. It kind of, kind of, there quite often, so, all the time. So yeah, right now it feels very, doesn't feel like when I touch this side of my face."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 136.9,
+      "end": 146.64,
+      "text": "Sure. Sure, OK. Alright, um, just going back to the kind of [inaudible] feeling in, in the ear, um, do you have any discharge coming from that ear at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 146.93,
+      "end": 149.07,
+      "text": "No, nothing, nothing coming out."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 147.9,
+      "end": 151.29,
+      "text": "K. Any pain in the ear, or from the ear?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 151.92,
+      "end": 154.61,
+      "text": "Uh, no, don't think so."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 154.55,
+      "end": 158.65,
+      "text": "Right, OK. And um, have you had any fever at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 159.14,
+      "end": 160.45,
+      "text": "No, nothing like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 160.89,
+      "end": 169.91,
+      "text": "And, do you, um, have any itchiness in the ear? Do you use cotton [inaudible] buds to kind of clean your ears out?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 170.57,
+      "end": 173.8,
+      "text": "Pardon? Ohh, no, no, no, don't use cottons buds, [inaudible] like that."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 172.05,
+      "end": 180.99,
+      "text": "No. Alright. OK. Alright. Um, [inaudible] need to, need to ask a few other general questions. Um, do you have any other illnesses at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 181.88,
+      "end": 208.19,
+      "text": "Um, I've, well I've got kind of, been told I have polyps in my nose in the past and, occasionally get them kind of [inaudible] . Um, that, that's all fine and, you know I take a Rennie's if I need to, and if my nose polyps are playing up I've got a spray. Um. Other than that I think they said, ages ago, I had something called, can't quite remember but, labyrinthitis, something like that, but again, nothing, nothing ongoing."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 207.08,
+      "end": 212.32,
+      "text": "Sure. Sure, OK. So, are you on any regular medication? You mentioned the spray for your nose."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 211.87,
+      "end": 220.56,
+      "text": "Yeah, so, no, uh, I only take the, spray for my nose when I need it for, and um, sometimes take [inaudible] like Rennies, but I just get that from the chemist."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 220.26,
+      "end": 223.91,
+      "text": "Sure. [inaudible] and, and the spray for your nose, where do you get that from? Is that from a doctor?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 224.09,
+      "end": 226.43,
+      "text": "Uh, yeah, they gave me a prescription ages ago."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 226.36,
+      "end": 229.2,
+      "text": "Yeah. Do you remember the name of the spray, at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 229.3,
+      "end": 231.19,
+      "text": "Unfortunately I don't, sorry."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 230.3,
+      "end": 233.98,
+      "text": "[inaudible] that's alright. That's alright. Uh, and you're not on any other medication at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 233.9,
+      "end": 234.66,
+      "text": "No."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 234.7,
+      "end": 237.88,
+      "text": "No, OK. Do you have any [inaudible] , any allergies to any medication?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 238.17,
+      "end": 239.87,
+      "text": "Uh, no just Latex."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 240.07,
+      "end": 248.04,
+      "text": "Latex, OK. Alright, that's good to know. Um, and um, in terms of your family, are there any kind of illnesses within your family at all?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 248.3,
+      "end": 254.91,
+      "text": "My brother had, Neurofibromatosis, I think it is. Um, other than that everyone else is OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 252.07,
+      "end": 261.93,
+      "text": "Right, OK. OK, good. That's good. Um, and in, in terms of your own kind of background now, are you, are you working at the moment?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 262.19,
+      "end": 280.36,
+      "text": "Yeah, so I'm a, I'm a jockey, um, but, because of all the kind of, these symptoms I've been getting, especially sometimes when I get a ringing, I can feel a bit dizzy. Ohh, I've just had to do far less training. So, kind of beginning to, yeah, impacting work, um, a little bit now."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 281.04,
+      "end": 290.84,
+      "text": "OK. So you have to excuse my ignorance, you mean, jockey like with horses? Is that what you're talking about? Yeah. Alright, OK. Fine. Um, great. Um, uh, and, uh, do you live alone?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 284.72,
+      "end": 294.83,
+      "text": "Yeah, yeah. Um, I, uh, live with my partner."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 294.73,
+      "end": 298.23,
+      "text": "Uh, OK. Right, um, do you have any pets at all at home?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 298.2,
+      "end": 299.59,
+      "text": "No, no pets."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 299.61,
+      "end": 306.46,
+      "text": "OK, fine. OK so, alright. Um, Is there anything else that you wanted to tell me about what's been [inaudible] going on, recently?"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 306.96,
+      "end": 321.96,
+      "text": "Uh, no, just like, like I said, like the ringing um, occasionally and, when I get that I can sometimes feel a bit dizzy but, the main thing is really the, lack of hearing, and the numbness that's got me [inaudible] like, yeah, no idea what's going on there."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 321.96,
+      "end": 328.26,
+      "text": "OK, fine. Alright. Um, So, [inaudible] , what I think [inaudible] , go on."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 326.67,
+      "end": 350.96,
+      "text": "I mean, there was just like, there was one thing I think just, 'cause I can panic and you can look online, [inaudible] get a bit, frantic. [inaudible] , I guess what I'm trying to think is, you know, is there something particularly serious that, you know, will need to be sorted and. Obviously, really, anything can just make you really frantic [inaudible] . Hopefully nothing [inaudible] , so serious I will die from it, I don't know I just, I think got myself in a pickle."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 348.78,
+      "end": 357.29,
+      "text": "OK. [inaudible] so um, uh, obviously we're limited in terms of assessment via the video, uh, portal."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 357.19,
+      "end": 358.01,
+      "text": "Mmm."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 357.29,
+      "end": 367.75,
+      "text": "[inaudible] um, from what you've told me, this doesn't seem to be you know, anything um, that you're gonna die from. However, I would like you to be assessed in a clinic today."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 363.3,
+      "end": 364.23,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 367.75,
+      "end": 377.36,
+      "text": "OK? I [inaudible] ,would like you to come to one of my clinics. I would like a GP to assess you. [inaudible] what you're, what you're describing might be something called Bell's Palsy. OK? Um,"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 372.27,
+      "end": 376.72,
+      "text": "OK. Yeah."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 378.22,
+      "end": 387.88,
+      "text": "We can go into that, explaining what that is, if um, if that's confirmed on, on physical examination. But um, that's not usually a [inaudible] life-threatening problem."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 384.03,
+      "end": 385.03,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 387.88,
+      "end": 402.14,
+      "text": "But, um, part of the reason why I'd like you to come in, it's just that we can do a, a what we call a, a neurological examination just to make sure there's nothing else going on, and confirm [inaudible] that might be the diagnosis. Have a look, have a look inside the ear, see if there's any, [inaudible] , anything to see within the ear."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 388.07,
+      "end": 388.83,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 402.14,
+      "end": 411.31,
+      "text": "So, um, um, so, in answer to your question. No, I don't think that you need to worry about that, I [inaudible] , think you know [inaudible] , preliminarily I can, I can reassure you."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 402.23,
+      "end": 402.91,
+      "text": "OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 411.31,
+      "end": 423.83,
+      "text": "However, [inaudible] , in order to definitively reassure you, I, I think you need a physical examination today, OK. [inaudible] , so what I wanna do, is I'm gonna send a message to our admin team, I'll ask them, to book you in for a face-to-face appointment in one of our clinics."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 411.42,
+      "end": 424.56,
+      "text": "Mm-hmm. Yeah, that's fine. OK."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 423.83,
+      "end": 434.69,
+      "text": "Um, within Central London. OK, and then you can ring the [inaudible] , the support team number, I'll leave that number in your notes. And you can ring them after five minutes, and then they'll slot you in to a place that's convenient for you, OK."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 429.29,
+      "end": 435.7,
+      "text": "OK. Yeah. [inaudible] , that's fine."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 435.69,
+      "end": 442.44,
+      "text": "All right. So, someone [inaudible] will see you, and hopefully you will be able to reassure further but, please make sure the appointment gets done today."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 442.52,
+      "end": 445.14,
+      "text": "OK, yep, I will do, that's fine. Thank you very much."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 444.98,
+      "end": 447.25,
+      "text": "All right then. OK. Nice to see you. Take care."
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "start": 447.41,
+      "end": 448.41,
+      "text": "Bye bye."
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "start": 448.1,
+      "end": 448.82,
+      "text": "Bye."
+    }
+  ]
+}

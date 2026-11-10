@@ -1,0 +1,25 @@
+{
+  "encounterId": "aci-D2N068",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N068",
+  "split": "valid",
+  "collectionMode": "virtassist",
+  "chiefComplaint": "follow-up of chronic problems",
+  "secondaryComplaints": [
+    "congestive heart failure",
+    "hypertension"
+  ],
+  "patient": {
+    "age": 58,
+    "gender": "male"
+  },
+  "turns": 73,
+  "wordCount": 1113,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

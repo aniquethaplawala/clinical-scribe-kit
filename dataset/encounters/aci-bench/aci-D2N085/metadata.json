@@ -1,0 +1,22 @@
+{
+  "encounterId": "aci-D2N085",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N085",
+  "split": "valid",
+  "collectionMode": "aci",
+  "chiefComplaint": "right-sided abdominal pain",
+  "secondaryComplaints": [],
+  "patient": {
+    "age": null,
+    "gender": "male"
+  },
+  "turns": 7,
+  "wordCount": 684,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

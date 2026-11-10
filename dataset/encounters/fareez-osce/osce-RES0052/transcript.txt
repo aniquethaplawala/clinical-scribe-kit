@@ -1,0 +1,98 @@
+Clinician: Would you mind by starting to tell me what brought you in?
+Patient: Sure, my 5 year old daughter, I noticed that she's been coughing a lot over the past two days. She sounds like she has a stuffy nose and now she's got this pink eye so I just wanted to get it checked out by you.
+Clinician: Yeah, for sure. So the cough started 5 days ago?
+Patient: Two days ago.
+Clinician: OK and is the cough barky or harsh sounding?
+Patient: Yes, it sounds harsh.
+Clinician: OK, alright was there anything that changed two days ago that might have triggered the cough?
+Patient: I don't think so, although she does go to daycare.
+Clinician: OK, uh and so has she been bringing up any sputum with the cough?
+Patient: No, no sputum that I've noticed.
+Clinician: OK, notice any blood?
+Patient: No.
+Clinician: Alright, and is the cough worse at any particular time of day?
+Patient: No.
+Clinician: OK, and has there been any wheezing?
+Patient: No, not that I noticed.
+Clinician: OK. And you mentioned the red eyes. When did you notice that?
+Patient: That was just yesterday.
+Clinician: OK, any discharge from the eyes?
+Patient: No.
+Clinician: OK, nothing like that? No tearing or anything like that?
+Patient: No.
+Clinician: OK. Umm and has she complained about any like changes to vision? P No, not really, just the pain. No. OK, uh, and how about any itchiness in the eyes?
+Patient: She's been rubbing it and so it's possibly itchy.
+Clinician: OK. And have you noticed any mucus coming out?
+Patient: Umm, no, it's actually stuffy.
+Clinician: OK
+Patient: Yeah, not so much mucous.
+Clinician: OK, has she mentioned anything about losing smell?
+Patient: No.
+Clinician: OK, umm and has she mentioned anything about being congested?
+Patient: She just sounds like she's congested.
+Clinician: OK. Umm any sore throat?
+Patient: Umm, possibly.
+Clinician: OK, how has she been eating?
+Patient: Um, she's been eating OK. I guess she's been eating alittle less than usual.
+Clinician: OK umm, would you say that she's been going to the bathroom as often as normal?
+Patient: Yep, I would say so.
+Clinician: No changes there, OK. Um and has she had any loss of taste?
+Patient: Umm, possibly since she's not eating as much.
+Clinician: OK. Any fevers or chills?
+Patient: Um, she did feel a little bit hot, but I didn't take her temperature.
+Clinician: OK, so hot. We will definitely check for fever today. Any night sweats?
+Patient: Umm, no.
+Clinician: OK. And has she been gaining weight OK?
+Patient: Yep, Yep, no change, nothing abnormal there.
+Clinician: OK, and has she been complaining about having any stomach pains?
+Patient: Umm, no.
+Clinician: OK, has she had any nausea or vomiting?
+Patient: Um no no.
+Clinician: OK, and how about any painful urination?
+Patient: No.
+Clinician: OK, and any diarrhea?\
+Patient: Umm, no.
+Clinician: OK, and has she mentioned anything about headaches?
+Patient: No.
+Clinician: OK. And how about any aches or pains anywhere?
+Patient: Uh, no, I don't think so.
+Clinician: Have you noticed any rashes?
+Patient: No.
+Clinician: OK, and has she been diagnosed with any conditions before?
+Patient: No.
+Clinician: OK. And any reason for her to be hospitalized?
+Patient: Uh, no.
+Clinician: OK, um does she take any medications regularly?
+Patient: Um, no.
+Clinician: OK, does she have any allergies to medications?
+Patient: Umm, no.
+Clinician: Alright, any surgeries before?
+Patient: Umm, no.
+Clinician: Any concerns with her growth or development?
+Patient: Umm, no, everything's been pretty normal.
+Clinician: OK, and any concerns about her vision or hearing?
+Patient: No.
+Clinician: OK. And can tell you tell me a little bit about the living situation currently? Are you the primary caregiver?
+Patient: I am.
+Clinician: OK, and who else is in the home?
+Patient: Her father.
+Clinician: OK, are there any pets around?
+Patient: No.
+Clinician: Alright. And does anybody in the house smoke?
+Patient: No, no one smokes.
+Clinician: OK, any exposures in the house to like carpets or dust or inhalants that might bring on a cough?
+Patient: No.
+Clinician: OK. Ummm and uhh anybody in the family been sick?
+Patient: No.
+Clinician: OK, and how about anybody you mentioned at the daycare? Was anybody been sick there?
+Patient: No, I don't think so. I contacted them and checked, but it seems like no one's been sick.
+Clinician: OK, and you say you haven't traveled anywhere?
+Patient: Oh no, no, not recently.
+Clinician: OK. And any lung conditions or heart conditions that run in the family?
+Patient: No.
+Clinician: OK, and how about any genetic conditions or congenital conditions in the family?
+Patient: No, none, none that I know of.
+Clinician: OK, so the main symptoms are the cough that started two days ago and also you've noticed she's been congested. And sorry, what was the last symptom?
+Patient: She has this pink eye and she has a cough.
+Clinician: Yeah, right, that could be conjunctivitis. OK, so at this point we will certainly run some investigations to look into what this could be. It sounds like a viral infectious type of process, especially if it's involving the eyes, nose, and and with a cough. And so we will test with a swab for covid for sure. But it could be something more common, like the common cold. We just need to make sure that we're comprehensive in that with the testing.
+Patient: That sounds great, thank you.

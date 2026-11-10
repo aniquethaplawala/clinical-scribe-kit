@@ -1,0 +1,26 @@
+{
+  "encounterId": "aci-D2N168",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N168",
+  "split": "clef_taskC_test3",
+  "collectionMode": "virtassist",
+  "chiefComplaint": "ER follow-up",
+  "secondaryComplaints": [
+    "type 2 diabetes",
+    "depression",
+    "hypertension"
+  ],
+  "patient": {
+    "age": 28,
+    "gender": "female"
+  },
+  "turns": 49,
+  "wordCount": 885,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

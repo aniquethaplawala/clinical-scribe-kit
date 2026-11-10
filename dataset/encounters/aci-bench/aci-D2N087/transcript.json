@@ -1,0 +1,430 @@
+{
+  "encounterId": "aci-D2N087",
+  "speakers": [
+    {
+      "role": "clinician",
+      "label": "Clinician"
+    },
+    {
+      "role": "patient",
+      "label": "Patient"
+    }
+  ],
+  "turns": [
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Hi Richard how are you the medical assistant told me that you have a tick bite is that what happened"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I really don't know where I got it but I I had I do get out in the woods and I do spend a lot of time out in the yard but yeah I've got a tick bite around my knee and and it's been it's been over a week and and just it just burns and just quite annoying"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and have you had any fever or chills"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I have not at this point it just feels warm on that spot"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright and have you noticed any other joint pain like in your elbows or shoulders or anything like that that since this started"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Nothing other than my typical arthritic pain"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright now you say that you like to go outside and and you're working in the yard now I I heard that you were a a hunter when was the last time you went hunting has hunting season started yet I don't even know"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well I I did go hunting not long ago couple of weeks ago"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay did you did you"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Windle season is open well it it's actually on a on a a got the right word for it but it it's where they train dogs and things like that"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Type thing"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay did you I did did did were you able to shoot anything did you bring anything home"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well actually I yeah I shut several I had some grandchildren with me so I let them have what they wanted"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Nice nice you know I I did hear I don't know much about hunting but I did hear a hunting software joke the other day do you want to hear it"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Sure"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So what software do hunters use for designing and hunting their pray"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Man I have no idea"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "The adobee illustrator get it"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Don't be"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Anyway I die grass let's just get back to our visit here so about your line or about your tick bite so do you notice that it's hard for you to move your knee at all"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not at this time no"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No and do you have any problems walking"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No okay and have you ever had a tick bite before"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I have when I was younger I used to get a lot of them because I spent a lot of time out of the woods never get into anesthesia takes you can get several bites out of that but this was just one"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright and have you ever been diagnosed with what we call lyme disease before"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I have not"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "You have not"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I wouldn't know so I wouldn't know what symptoms are"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "What you just asked me I guess maybe"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah so some of those symptoms like any flu like symptoms have you had like any body aches or chills or anything like that"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No just really just kind of a a headache just generally don't feel well"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Generally don't feel well okay and has that been since the tick bite"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It has"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "It has okay alright and any other symptoms like a cough or shortness of breath or dizziness or anything like that"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay now since you are here let me just ask you a little bit about your high blood pressure did you buy the blood pressure cuff I asked you to have you been checking your blood pressure at home"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Periodically yes"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and do you think that they are running okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah blood pressure seems to be doing okay the lisinopril works well"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Good I was just gon na ask you if you were taking your lisinopril so that's good okay and any side effects from the lisinopril since we started it I think we started it about a year ago two years ago"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No no no side effects that I'm aware of"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "No side effects okay and then in terms of your diabetes are you watching your sugar intake"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I usually watch it the form of high what I'm eating but"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I am a big pie fan as well I know what's your favorite type of pie"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Well you know it's favorite boy I just like pie you know apples cherry chocolate you know bicon"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I try to try to avoid the bicon because I think it's just all sugar but I do like it"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Less"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "I like it too alright are you taking the metformin twice a day"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not everyday but most of the time"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay alright and are you checking your blood sugars pretty regularly"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "I try to"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay and do you do you know on average how they're running are they running below like one fifty or"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah it's definitely running below that"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay your blood sugars are running below"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's it's probably with with with the metformin it seems to be you know one twenty"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Good"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Pretty regular"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Good your blood sugars are running in the one twenties that's really good okay alright well I wan na just go ahead and do a quick physical exam okay so I'm looking here at your vital signs and your vital signs look really good I do think you're doing a good job with taking your lisinopril your blood pressure's about one twenty two over seventy right now which is right where we want it your heart rate is nice and slow at sixty seven again which is right where we want it and I don't appreciate any fever today you you have a normal temperature at ninety eight. Four which is really good so I'm just gon na be going ahead and calling out some physical exam findings and I'm gon na let you know what that means when I'm done okay so on your heart exam your heart is in a nice regular rate and rhythm I don't appreciate any murmur rub or gallop on your lung exam your lungs are nice and clear to auscultation bilaterally on your right knee exam I do appreciate some erythema and edema as well as an area of fluctuance over your right patella now does it hurt when I press"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "It's a little bit sore"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay there is pain to palpation of the right anterior knee and I'm just gon na bend your knee up and down does that hurt at all"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "No no it's just more of the typical grinding that I would feel"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay there is full range of motion of the right knee and on skin examination there is evidence of a bull's-eye rash over the right knee okay so what does that mean Richard so that means that you know you do have some area of some inflammation over the over the right knee where you where you have that tick bite and you do have what we call that bull's eye rash which is what we get concerned about with with lyme disease so let's just talk a little bit about you know my assessment and my plan for you okay so for this first problem of your of your tick bite my concern is that you might have lyme disease based on the presentation of your right knee so I'm gon na go ahead and start you on doxycycline one hundred milligrams twice a day"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "We're gon na continue that for about three weeks I'm also gon na go ahead and send a lyme titer as well as a western blot to see if you do in fact have lyme lyme disease and we'll have to go ahead and just see how you do with this we you know I'd like to avoid intravenous antibiotics which I think we can avoid but I wanted to see how you do so"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Do you have any questions about that"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Yeah I didn't know what those last two things or just"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Yeah so so we are gon na start you on some antibiotics to help help you with this"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "You know possible lyme disease and I'm gon na just order some blood tests just to see exactly what's going on and then you know sometimes people need intravenous antibiotics because lyme disease can cause problems on other organs like your heart that type of thing"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "If not treated appropriately and sometimes we need to give antibiotics through the iv which I'd like to avoid I think that we got this early enough that we can just treat you with some oral antibiotics okay for your second problem of your hypertension you know I think you're doing a really good job let's go ahead and continue you on the lisinopril twenty milligrams once a day and I wan na just go ahead and order a lipid panel just to make sure that everything is okay with your cholesterol how does that sound"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "That's fine"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Great and then for your third problem of your diabetes I wan na just go ahead and order a hemoglobin a1c and continue you on the metformin one thousand milligrams twice a day it sounds like you're doing a good job since your blood sugars are running in the one twenties I don't think we need to make any adjustments but we'll see what the hemoglobin a1c shows that gives us a an idea of what your blood sugars are doing on a long-term basis how does that sound"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay at what point time do you start kinda checking kidney function I've been told that metformin can possibly cause some kidney issues"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "So it can you know your kidney function we've you know I think you've been really lucky it's been normal I checked it about two months ago and it looks pretty good it looks pretty normal but since we're doing blood work on you I can go ahead and order a a basic metabolic panel just to make sure that your kidney function is stable"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Okay that'd be good"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Okay anything else"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Not that I can think of at this time as soon as I leave"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Well you know where to find me okay"
+    },
+    {
+      "role": "patient",
+      "label": "Patient",
+      "text": "Alright"
+    },
+    {
+      "role": "clinician",
+      "label": "Clinician",
+      "text": "Take care bye"
+    }
+  ]
+}

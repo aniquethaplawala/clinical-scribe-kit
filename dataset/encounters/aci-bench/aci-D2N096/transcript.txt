@@ -1,0 +1,85 @@
+Clinician: Um, hi mrs. Anderson. Right?
+Patient: Yeah. Yes, doctor.
+Clinician: What brings you here today?
+Patient: Hi, doctor. Um, I'm having this left shoulder pain lately, uh, and it's paining a lot.
+Clinician: Okay. All right. Hey, dragon. I am seeing mrs. Anderson, a 44-years-old female, uh, complaining to check the left shoulder pain. Um, so how long how has this lasted?
+Patient: It's been a week, doctor. Yeah.
+Clinician: A week.
+Patient: Yeah.
+Clinician: Um, did you take any medication yourself?
+Patient: No, I did not take any pain medications. Actually, I did. I did take a tylenol for two or three days, but then that didn't help at all. So, uh, the reason why it started or when it started to happen is-
+Clinician: Yeah.
+Patient: . I was actually in gymnastics class.
+Clinician: Yeah, okay.
+Patient: And, uh, I don't know. Maybe I must have toppled over into some weird position, so it started to pain since then, uh, because of a certain move.
+Clinician: Okay, uh-
+Patient: I went overboard, I think. Yeah.
+Clinician: All right, lem me, uh, take a quick look. Uh, can you move up a little bit? Yeah.
+Patient: Uh, yeah. In fact, that's hurts.
+Clinician: Does that- does it hurt?
+Patient: Yeah, it does.
+Clinician: What if you move back a little bit?
+Patient: Uh, that also hurts, doctor.
+Clinician: Yeah, okay.
+Patient: Any kind of movement on my left shoulder actually hurts.
+Clinician: Okay. All right, um, so let's... Hey, dragon. Show me the last x-ray. All right, from the x-ray, it doesn't look like there is any, uh, broken bone or fracture. My guess is you probably, um, hurt your joint, uh-
+Patient: Uh-.
+Clinician: . A little bit.
+Patient: Mm-hmm.
+Clinician: So I would, uh, suggest you continue using the pain reliever, maybe just like 600 milligram of ibuprofen three times a day and use it for a week.
+Patient: And for how long? Yes.
+Clinician: For a week.
+Patient: A week, okay.
+Clinician: And then if you... If it's still painful, you can use, uh, ice or, um, heat pad-
+Patient: Okay.
+Clinician: . 'cause that might help relieve your pain.
+Patient: Okay.
+Clinician: Um...
+Patient: But I wanted you to know that I did have past surgery on my, um, left arm-
+Clinician: Mm-hmm.
+Patient: . So, um, I hope that shouldn't matter, right?
+Clinician: Um, that doesn't seem related to your pain.
+Patient: Okay.
+Clinician: So... But I would try to rest my, your left arm-
+Patient: Okay.
+Clinician: . While it's healing.
+Patient: Okay.
+Clinician: So, um-
+Patient: Can I, uh, carry any heavy weights or-
+Clinician: No, no. Definitely not.
+Patient: . Anything like that?
+Clinician: Definitely not.
+Patient: Okay. Okay.
+Clinician: Yeah, use, um, right hand-
+Patient: Okay.
+Clinician: . Instead-
+Patient: Mm-hmm.
+Clinician: . For the next, uh, at least just three to four weeks.
+Patient: Mm-hmm.
+Clinician: Uh, come back to see me if the pain, you know, still there after maybe three weeks-
+Patient: Sure.
+Clinician: . So we can take a further look.
+Patient: Okay. Sure.
+Clinician: But you should be fine-
+Patient: Yeah.
+Clinician: . After just resting and regular pain reliever.
+Patient: Okay. All right.
+Clinician: Um-
+Patient: Should we take another x-ray when I come back, if the pain doesn't improve?
+Clinician: Um, maybe. Let's see how you're doing in the next three weeks.
+Patient: Uh.
+Clinician: Hey, dragon. Um, order medications and procedures as discussed. All right.
+Patient: Okay.
+Clinician: Um, I think that's good for today. Hope you feel better soon.
+Patient: Okay. Thank you, doctor.
+Clinician: Yeah.
+Patient: Hopefully, the pain reliever, uh, ibuprofen actually helps.
+Clinician: Yeah.
+Patient: Yeah, and if I have more pain, can I call you? Can I fix up another appointment earlier than three weeks?
+Clinician: Um, you can also try advil.
+Patient: Okay.
+Clinician: Yeah, so, um...
+Patient: Yeah.
+Clinician: Ale-, aleve. I mean, aleve.
+Patient: I see. Okay, thank you, doctor.
+Clinician: Thank you.

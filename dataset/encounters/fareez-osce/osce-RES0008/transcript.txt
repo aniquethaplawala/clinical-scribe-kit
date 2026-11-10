@@ -1,0 +1,66 @@
+Clinician: I heard that you've been having, uh, some difficulty breathing and you've been coughing. Can you tell a little, tell me a little bit more about that.
+Patient: Yeah, so uh a couple of days ago. I just started to not feel so well and I've been having this cough and trouble breathing.
+Clinician: OK, um, have you ever had anything like this before?
+Patient: I do have a, uh, cough regularly, but I mean, I, I think that's related to maybe smoking. It's something that was going on for a few years. This coughs a little bit different.
+Clinician: OK, in what way is this different?
+Patient: It's been happening more often throughout the day and. And bringing up more more mucus, it seems like.
+Clinician: OK, and then you said it start started a couple days ago, is that correct?
+Patient: Yeah, I think like Monday, so, uh, yeah I guess like 3 days ago then.
+Clinician: OK, and since you noticed it has it gotten worse over those three days.
+Patient: Yeah, I would say uh today's the worst day I've continually felt um sick.
+Clinician: OK. And how frequently are you coughing?
+Patient: Uh I would say maybe a couple of times per hour. I'm I'm filling up a some tissues with sputum.
+Clinician: And what does that? What does that sputum look like?
+Patient: It's like a dark greenish yellow colour.
+Clinician: OK. OK, um and. Is there anything that you've changed recently in your life or any kind of things that have provoked your cough that you know of?
+Patient: Ugh, no, I can't think of anything. I've been kind of sticking to my regular routines.
+Clinician: OK, and is there anything that makes, uh, makes it worse, say any position or anything that you do in your day to day routine you find makes you cough more?
+Patient: Um And not really I can't. I can't think of anything.
+Clinician: OK. And, have you taken any any medicine or anything to try to help with us?
+Patient: Um. No, I I've I I do have a little bit of pain so I was. I did take some Tylenol and some Advil over the last few days, but that's about it.
+Clinician: OK, Ok. Did you find that they helped at all?
+Patient: A little bit yeah, but it would just kind of take the edge off of the pain for a little bit and it came back.
+Clinician: And what kind of pain is it that you're experiencing?
+Patient: Um, it's kind of a a sharp pain over on the like the right side of my chest like maybe belly area.
+Clinician: OK, OK um the right side of your chest and belly area. Yeah OK, so is that pain, is it, did it start around the same time as the cough?
+Patient: Yeah, I think it, it might have started a little bit after.
+Clinician: OK, and is this a pain that you've ever had before?
+Patient: No, I haven't had anything like this happen before.
+Clinician: OK. Is the pain primarily there when you cough or is it present at all times?
+Patient: I would say more so when I cough or if I'm like taking a big breath. Um yeah, kind of after after I have a coughing episode I take a deep breath and I really will feel the pain then.
+Clinician: OK, and and um, you said that it's a sharp pain?
+Patient: Yeah, yeah, more of a sharp pain.
+Clinician: OK, OK, and is it any worse when you're doing activity, like when you're up and walking around?
+Patient: No, don't notice it with any any activity.
+Clinician: OK. OK, um an since uh, since this coughing and this this right sided pain that you're talking about began, have you noticed any fevers?
+Patient: I think, yeah, I've been hot the last few days and I I checked my temperature earlier today and it was like 38.6 so that was one of the reasons why I wanted to come in actually.
+Clinician: OK. OK, well I'm glad that I'm really glad that you came in because yeah, we really want to get this looked into. Have you been around anyone that's been sick recently?
+Patient: No, but I I do some volunteer work at one of the homeless shelters at a few times a week, so I am around a lot of people.
+Clinician: OK. And have you traveled anywhere recently?
+Patient: No, I've been at home. And and doing the volunteer work.
+Clinician: OK um. OK, and can you just give me an idea of any? Do you have any chronic conditions that you see your family doctor for regularly or anything you take medication for?
+Patient: Um yeah, I have type 2 diabetes. And I I take Metformin. Um I think an SGLT 2 inhibitor and then I use insulin for that as well. And I have some, it has affected my kidneys as well. The diabetes I mean.
+Clinician: OK, do you have a history of high blood pressure?
+Patient: I do yes.
+Clinician: OK, do you take medication for that?
+Patient: Oh yeah, I do. It starts with an "a" I think, amlodipine.
+Clinician: OK OK and do you have any history of heart problems?
+Patient: No, not that I know. No, I haven't really had any chest pain. On the left side anyway.
+Clinician: Um, So you said that you have had a cough for a really long time, a dryer cough then you're having sputum now. But is that something you've seen the doctor for?
+Patient: Oh yeah, I think I was called like bronchitis in the past or something. Something like that. One of the doctors, my family doctor told me it was because I was a smoker.
+Clinician: OK. So just to make sure I have your list of medications, you take amlodipine, insulin metformin, and an SG LT2 inhibitor? You think anything else?
+Patient: Um, and then yeah, amlodipine, uh, yeah, I think that that that's everything. Oh a multivitamin too.
+Clinician: OK cool. I just wanted to ask you a few questions questions about your lifestyle in general. Do you live here in town?
+Patient: I do. Yeah, I live with my wife and at a house nearby.
+Clinician: OK, cool and you mentioned that you're a smoker?
+Patient: Yeah, so I've smoked for the last 30 years or so. About a pack per day.
+Clinician: OK, do you drink alcohol?
+Patient: No, I don't.
+Clinician: Do you use any other substance?
+Patient: I don't, no.
+Clinician: Ok. And do you have any family history of respiratory or heart problems?
+Patient: Yeah, my dad actually had a heart attack. He was in his 70s. I think my mom had high blood pressure, but other than that, no.
+Clinician: OK, um and do you have any allergies?
+Patient: I think just environmental stuff, no medications. I am aware of.
+Clinician: OK, OK. Well thank you for sharing all of that with me. I'm going to go over it with the physician that I'm working with and will kind of come back and let you know about the next steps.
+Patient: OK, thank you, that sounds good.

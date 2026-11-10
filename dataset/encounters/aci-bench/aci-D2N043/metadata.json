@@ -1,0 +1,22 @@
+{
+  "encounterId": "aci-D2N043",
+  "source": "ACI-Bench",
+  "sourceUrl": "https://github.com/wyim/aci-bench",
+  "license": "CC-BY-4.0",
+  "citation": "yim2023acibench",
+  "originalId": "D2N043",
+  "split": "train",
+  "collectionMode": "aci",
+  "chiefComplaint": "smoking cessation",
+  "secondaryComplaints": [],
+  "patient": {
+    "age": null,
+    "gender": "male"
+  },
+  "turns": 34,
+  "wordCount": 1498,
+  "hasReferenceNote": true,
+  "audioInRepo": false,
+  "hasAudio": false,
+  "simulated": true
+}

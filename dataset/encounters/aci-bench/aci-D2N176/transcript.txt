@@ -1,0 +1,47 @@
+Clinician: Hi, Alexander. How are you?
+Patient: I'm doing really well. Thank you.
+Clinician: So, I know the nurse told you a little bit about Dax. I'd like to tell Dax about you. Okay?
+Patient: Sure.
+Clinician: So, Alexander is a 62-year-old male, with a past medical history significant for reflux, who presents for follow-up of his chronic problems. So, Alexander, what's being going on?
+Patient: Well, I am so thankful you put me on that medicine for my, my reflux.
+Clinician: The protonix?
+Patient: The protonix. That, I had, w- made an amazing change in my life.
+Clinician: Yeah.
+Patient: I'm really comfortable now. I eat whatever I want, and I feel so much better.
+Clinician: Okay, great. I'm glad to hear that. I know you were having a lot of discomfort there before, so that's good. Okay. And how are you doing, kind of, managing your diet? I know, you know, you have to do some lifestyle modifications, like cutting back on caffeine and spicy foods and alcohol. How are you doing with that?
+Patient: I'm doing really well. I moved over from caffeine, over to green tea.
+Clinician: Okay.
+Patient: And it, it is so, m- it doesn't cause as much problem as it did with, when I was drinking so many energy drinks a day.
+Clinician: All right. Good. I'm glad to hear that. Great. All right.
+Patient: Uh, I think getting that, rid of that reflux, really helped my attitude improve.
+Clinician: Okay.
+Patient: Uh, my job's going great. Everything's phenomenal right now.
+Clinician: Okay. Okay. And you have a, a good support system at home? I know you have a big-
+Patient: Yeah.
+Clinician: . Family.
+Patient: Yes. Yes. All my kids-
+Clinician: Okay.
+Patient: . Call and check on me every day.
+Clinician: Okay. Great. I'm glad to hear that. Now, I know you did a review of systems sheet when you checked in.
+Patient: Yes.
+Clinician: I, are you having any symptoms? Any chest pain, shortness of breath, belly pain, of, nausea or vomiting? Anything like that?
+Patient: No. No symptoms at all.
+Clinician: Okay, great. Um, well, let me go ahead. I wan na do a quick physical exam. Hey, dragon. Show me the vital signs. So, your vital signs here in the office look really good. So, you're doing a great job managing your, your blood pressure. Your heart rate's nice and low. I'm gon na go ahead and take a listen to your heart and lungs.
+Patient: Okay.
+Clinician: And I'll let you know what I find. Okay?
+Patient: Okay.
+Clinician: Okay. Good. All right. So, on physical examination, I, I don't hear any carotid bruits in your neck, which is really good. You know, your heart exam, I do hear a slight 2/6 systolic ejection murmur, which I've heard in the past, so that's stable. Uh, your lungs are nice and clear, and you do have, you know, 1+ pitting edema bilaterally in your lower extremities.
+Patient: Okay.
+Clinician: So, what does that mean? You know, I, I think, you know, you're doing a... It sounds like a doing a good job watching your diet. You could... You just are retaining a little bit of fluid, maybe just from standing all day.
+Patient: Okay.
+Clinician: Okay? Let's take a look at some of your results. Okay?
+Patient: Okay.
+Clinician: Hey, dragon. Show me the endoscope results. So, this was the endoscopy that you had last year when you were having all that pain. It just showed that you had had some mild gastritis. So, it's good to hear that that, you know, protonix is helping you a lot. Okay?
+Patient: Okay. I'll do a little more exercise too.
+Clinician: That sounds great. All right. So, let's talk just a little bit about, you know, my assessment and my plan for you. For your reflux, I want you to continue on the protonix 40 mg a day, and continue with those lifestyle modifications with the dietary stuff-
+Patient: Okay.
+Clinician: . Okay? Do you have any questions?
+Patient: No questions.
+Clinician: Okay. All right. Well, the nurse is gon na come in soon, and she's gon na check you, get you checked out. Okay?
+Patient: Okay. Thank you.
+Clinician: Hey, dragon. Finalize the note.
