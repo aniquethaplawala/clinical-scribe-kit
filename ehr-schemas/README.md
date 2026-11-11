@@ -66,3 +66,7 @@ python3 scripts/to_fhir.py --note note.md --extracted extracted.json \
 - **Discrete data goes to a holding area in some EHRs.** Epic sends new problems and allergies to a reconciliation queue. That is expected behavior.
 - **Codes.** The schemas only return an ICD-10 code if the note states one. EHRs that need SNOMED (athenahealth problems) or local note-type codes (Oracle Health) need a mapping step of your own.
 - **This changes often.** Everything here was checked on 10 November 2026 against public vendor docs, with sources in each folder and the full research notes in [`_research/`](_research/). Where a fact couldn't be confirmed publicly, it says so.
+
+---
+
+Part of the [Clinical Scribe Kit](../README.md) by [Sully.ai](https://sully.ai). Build with the [Sully API](https://sully.ai/api).

@@ -108,3 +108,7 @@ Rebuild from the original downloads at any time with `python3 scripts/build_data
 Each encounter keeps its source's license, recorded in its `metadata.json`. See [ATTRIBUTION.md](ATTRIBUTION.md). If you use this data in a paper, cite the original authors with [CITATIONS.bib](CITATIONS.bib).
 
 These are simulated conversations for building and testing software. They are not medical advice and are not a substitute for validation on your own clinical data.
+
+---
+
+Part of the [Clinical Scribe Kit](../README.md) by [Sully.ai](https://sully.ai). Build with the [Sully API](https://sully.ai/api).

@@ -88,3 +88,7 @@ Prefer an interactive setup? Sully's [template-builder skill](https://docs.sully
 ## License
 
 MIT, like the rest of the repo's code and templates. `outpatient-soap.json` is reproduced from Sully's public documentation.
+
+---
+
+Part of the [Clinical Scribe Kit](../README.md) by [Sully.ai](https://sully.ai). Build with the [Sully API](https://sully.ai/api).

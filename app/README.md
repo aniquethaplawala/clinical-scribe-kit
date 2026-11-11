@@ -131,3 +131,7 @@ In demo mode no request is sent. Each request is still built exactly as it would
 - **Local only.** Login is simple and local, meant for a demo or a small team on a trusted machine. Do not put real patient data in it.
 
 The sample conversations are simulated and openly licensed. See [`../dataset/ATTRIBUTION.md`](../dataset/ATTRIBUTION.md).
+
+---
+
+Part of the [Clinical Scribe Kit](../README.md) by [Sully.ai](https://sully.ai). Build with the [Sully API](https://sully.ai/api).

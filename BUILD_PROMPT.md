@@ -1,6 +1,6 @@
 # Build your own AI medical scribe with one prompt
 
-Copy the prompt below into an AI coding agent (Claude Code, Cursor, Codex, Windsurf or similar), started in an empty folder. It builds the same app that lives in [`app/`](app/): provider logins, an admin backoffice, audio upload, pasted transcripts, live recording, note templates, suggested codes and EHR-ready JSON, all on the [Sully API](https://docs.sully.ai/).
+Copy the prompt below into an AI coding agent (Claude Code, Cursor, Codex, Windsurf or similar), started in an empty folder. It builds the same app that lives in [`app/`](app/): provider logins, an admin backoffice, audio upload, pasted transcripts, live recording, note templates, suggested codes and EHR-ready JSON, all on the [Sully API](https://sully.ai/api).
 
 **Before you start**
 
@@ -123,4 +123,4 @@ This app is a working starting point, not a finished medical product. Before any
 | **EHR connection** | The EHR JSON is ready to send, but sending needs your own app registration with each EHR. See [`ehr-schemas/`](ehr-schemas/) for which EHRs accept notes from outside apps and how. |
 | **Limits and monitoring** | Add rate limits per user, alerts on Sully errors (especially `402 insufficient_credits`), uptime monitoring, and a status page for providers. |
 
-Questions about the Sully API: [docs.sully.ai](https://docs.sully.ai/).
+Learn more about the [Sully API](https://sully.ai/api). Questions: [docs.sully.ai](https://docs.sully.ai/).

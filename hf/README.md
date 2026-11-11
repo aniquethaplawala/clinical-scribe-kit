@@ -33,7 +33,7 @@ configs:
 
 Nothing here is real patient data. Every visit was role-played: clinicians with actors, trained patients or staff using case cards, recorded and transcribed by hand. It still sounds like a real visit, with filler words, interruptions, lay terms and people correcting themselves.
 
-Maintained by [Sully.ai](https://sully.ai) as part of the open [Clinical Scribe Kit](https://github.com/aniquethaplawala/clinical-scribe-kit), which also includes 19 note templates and EHR write-back schemas for the top 10 US EHRs.
+Maintained by [Sully.ai](https://sully.ai) ([Sully API](https://sully.ai/api)) as part of the open [Clinical Scribe Kit](https://github.com/aniquethaplawala/clinical-scribe-kit), which also includes 19 note templates and EHR write-back schemas for the top 10 US EHRs.
 
 ## Configs
 

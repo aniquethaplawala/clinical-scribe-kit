@@ -1,6 +1,6 @@
 # Clinical Scribe Kit
 
-Open resources for building an AI medical scribe with the [Sully API](https://docs.sully.ai/): a working scribe app, a one-prompt recipe to build your own, real-sounding test conversations, clinical note templates, and schemas for getting notes into the top 10 US EHRs.
+Open resources for building an AI medical scribe with the [Sully API](https://sully.ai/api): a working scribe app, a one-prompt recipe to build your own, real-sounding test conversations, clinical note templates, and schemas for getting notes into the top 10 US EHRs.
 
 **Build your own in one prompt:** paste [BUILD_PROMPT.md](BUILD_PROMPT.md) into Claude Code, Cursor or any coding agent.
 
@@ -15,7 +15,7 @@ Open resources for building an AI medical scribe with the [Sully API](https://do
 
 ## Quick start
 
-1. Sign up at [Sully](https://sully.ai) and create an API key. You'll get an account ID and an API key.
+1. Sign up for the [Sully API](https://sully.ai/api) and create an API key. You'll get an account ID and an API key.
 2. Set them in your shell:
 
 ```bash
@@ -78,4 +78,4 @@ scripts/        build_dataset.py, download_audio.py, validate_templates.py, to_f
 
 Code, templates and EHR schemas: [MIT](LICENSE). Dataset: each source keeps its own license (CC BY 4.0 or CC0); see [dataset/ATTRIBUTION.md](dataset/ATTRIBUTION.md). The conversations are simulated and are for building and testing software, not for clinical decisions.
 
-Built by [Sully.ai](https://sully.ai). Issues and pull requests welcome.
+Built by [Sully.ai](https://sully.ai). Learn more about the [Sully API](https://sully.ai/api), or read the [API docs](https://docs.sully.ai/). Issues and pull requests welcome.
